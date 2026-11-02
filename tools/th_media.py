@@ -534,12 +534,12 @@ def route_reel(sh, city, stops, out_dir, sub='Swipe the places you want. Travelh
     bar = (f'<line x1="70" y1="{MY + MH + 6}" x2="{70 + ppk * bar_km:.1f}" y2="{MY + MH + 6}" stroke="{MIST}" stroke-width="4"/>'
            f'<text x="70" y="{MY + MH - 10}" font-family="Inter" font-weight="600" font-size="24" fill="{MIST}">{bar_km} km</text>')
     css = f"""
-#hook{{position:absolute;left:80px;right:80px;top:1090px}}
+#hook{{position:absolute;left:80px;right:80px;top:1150px}}
 .he{{font:700 34px 'Inter';letter-spacing:.2em;color:{OCHRE}}}
 .hc{{font:600 {170 if len(city) > 8 else 210}px/.94 'Fraunces';color:{CREAM};letter-spacing:-.02em;margin-top:18px}}
 .hs{{font:italic 500 80px/1.02 'Fraunces';color:{CREAM};margin-top:6px}}
 .hm{{font:600 36px 'Inter';color:{CREAM};margin-top:22px;letter-spacing:.03em}}
-#panel,#sum{{position:absolute;left:80px;right:120px;top:1130px;opacity:0}}
+#panel,#sum{{position:absolute;left:80px;right:120px;top:1160px;opacity:0}}
 .pe{{font:700 32px 'Inter';letter-spacing:.2em;color:{OCHRE}}}
 .pn{{font:600 84px/1.04 'Fraunces';color:{CREAM};margin-top:14px;letter-spacing:-.01em}}
 .pk{{font:600 36px 'Inter';color:#B9AD9C;margin-top:18px}}
