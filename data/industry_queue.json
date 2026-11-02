@@ -1,0 +1,365 @@
+{
+ "_note": "Copy from the public /for pages. Titles and pains are raw: the weekly run writes the advice line itself. used = date of first post.",
+ "industries": [
+  {
+   "slug": "hair-salons",
+   "plural": "Hair salons",
+   "singular": "hair salon",
+   "template": "sage-and-bloom",
+   "pains": [
+    "Your Instagram is your portfolio, but it's not searchable on Google.",
+    "Clients keep asking 'how much is balayage?' because the prices aren't on the site.",
+    "Your stylists each have a following, but the site doesn't credit them."
+   ],
+   "titles": [
+    "Service menu with honest prices",
+    "WhatsApp button, not a contact form",
+    "Stylist credits + before/after gallery",
+    "Local SEO ready"
+   ],
+   "used": null
+  },
+  {
+   "slug": "dental-clinics",
+   "plural": "Dental clinics and practices",
+   "singular": "dental clinic",
+   "template": "bayside-dental",
+   "pains": [
+    "Your old site looks like it's from 2009 — patients judge clinical quality from web design.",
+    "Insurance information is hidden — patients call to ask basic questions you've answered 100 times.",
+    "There's no way to book an appointment without picking up the phone."
+   ],
+   "titles": [
+    "Prices in TL or USD, not 'contact us'",
+    "Doctor credentials, not stock photos",
+    "Insurance and emergency slots",
+    "Click-to-call + maps"
+   ],
+   "used": null
+  },
+  {
+   "slug": "restaurants",
+   "plural": "Restaurants",
+   "singular": "restaurant",
+   "template": null,
+   "pains": [
+    "The website is a PDF menu from 2021 and a stock photo of a salad.",
+    "Diners can't find your hours without scrolling through Google Maps reviews.",
+    "Reservations go through a third-party site that gets the SEO credit, not you."
+   ],
+   "titles": [
+    "Hours + phone in the header",
+    "Menu as a real section",
+    "Reservation CTA — your way",
+    "Local SEO that ranks the restaurant, not the platform"
+   ],
+   "used": null
+  },
+  {
+   "slug": "lawyers",
+   "plural": "Lawyers and legal practices",
+   "singular": "lawyer",
+   "template": null,
+   "pains": [
+    "Your firm's site looks like 2012, and the partner who 'owns' the website hasn't logged in since.",
+    "Practice area pages are missing or thin — and that's where prospects search.",
+    "The intake form is a contact form with no calendar option."
+   ],
+   "titles": [
+    "Practice area pages, not just a list",
+    "Attorney bios with credentials front-loaded",
+    "Results section without specific claims",
+    "Consultation CTA + intake form"
+   ],
+   "used": null
+  },
+  {
+   "slug": "real-estate-agents",
+   "plural": "Real estate agents",
+   "singular": "real estate agent",
+   "template": null,
+   "pains": [
+    "Your brokerage gives you a templated page that 200 other agents share.",
+    "Buyers find listings on Zillow / Redfin and never see your face.",
+    "Neighborhood guides are how agents win locally — but you don't have time to write them."
+   ],
+   "titles": [
+    "Your face, your story, your CTA",
+    "Free home-valuation CTA",
+    "Neighborhood guides as sections",
+    "IDX feed link"
+   ],
+   "used": null
+  },
+  {
+   "slug": "accountants",
+   "plural": "Accountants and bookkeepers",
+   "singular": "accountant",
+   "template": null,
+   "pains": [
+    "Your site says 'contact for pricing' on services that have well-known going rates.",
+    "Intake calls waste hours because prospects don't know what they need.",
+    "You support QuickBooks / Xero specifically, but the site doesn't say."
+   ],
+   "titles": [
+    "Service tiers with starting prices",
+    "Software badges (QuickBooks, Xero, Wave)",
+    "Intake CTA, not contact form",
+    "Compliance footer included"
+   ],
+   "used": null
+  },
+  {
+   "slug": "personal-trainers",
+   "plural": "Personal trainers",
+   "singular": "personal trainer",
+   "template": null,
+   "pains": [
+    "Your clients find you through Instagram referrals, but there's nowhere to formally book.",
+    "Online coaching and in-person training have different prices — your site doesn't separate them.",
+    "You sell custom programs but they live in a Trainerize portal nobody finds from Google."
+   ],
+   "titles": [
+    "Service tier separation",
+    "Transformation gallery (with consent)",
+    "Intake form via your tool of choice",
+    "Present training packs clearly"
+   ],
+   "used": null
+  },
+  {
+   "slug": "florists",
+   "plural": "Florists and flower shops",
+   "singular": "florist",
+   "template": "petal-and-stem",
+   "pains": [
+    "Instagram DMs are your sales channel — but they aren't searchable, can't take payment, and disappear at 5pm.",
+    "Customers don't know if you deliver to their neighborhood without messaging you.",
+    "You make beautiful subscription boxes but no one can sign up without a phone call."
+   ],
+   "titles": [
+    "Today's bouquets, with prices",
+    "Subscriptions in two clicks",
+    "Same-day cutoff messaging",
+    "WhatsApp 'pick me something' button"
+   ],
+   "used": null
+  },
+  {
+   "slug": "pizzerias",
+   "plural": "Pizzerias",
+   "singular": "pizzeria",
+   "template": "wood-fired-pizzeria",
+   "pains": [
+    "Your reservation system has a public site, but it's not yours — Google ranks the booking provider, not your restaurant.",
+    "Phone numbers are everywhere except where they need to be — at the top, tap-to-call on mobile.",
+    "The menu is a PDF from 2019. Updating it means asking a friend."
+   ],
+   "titles": [
+    "Click-to-call number, top of page",
+    "Reservation CTA, your way",
+    "Menu as a real section",
+    "Gallery that loads fast"
+   ],
+   "used": null
+  },
+  {
+   "slug": "coaches",
+   "plural": "Coaches",
+   "singular": "coach",
+   "template": null,
+   "pains": [
+    "Your prospects find you on LinkedIn or Instagram — but there's nowhere for them to actually book.",
+    "Discovery calls eat your week because nothing on your site qualifies the lead.",
+    "You charge $1,500 per engagement but your site reads like $200 freelance."
+   ],
+   "titles": [
+    "Packages priced honestly",
+    "Calendar CTA, not contact form",
+    "Approach block above the credentials",
+    "Testimonials with first names + city"
+   ],
+   "used": null
+  },
+  {
+   "slug": "wedding-photographers",
+   "plural": "Wedding photographers",
+   "singular": "wedding photographer",
+   "template": "felix-carter-photo",
+   "pains": [
+    "Your Instagram fills weddings but doesn't qualify them — couples ping you for $2,000 packages when you charge $6,000.",
+    "Squarespace template photographer sites all look the same; couples can't tell who shoots what.",
+    "Your inquiry form is buried; couples DM you on Instagram instead."
+   ],
+   "titles": [
+    "Pricing band, not 'contact for quote'",
+    "Selected weddings, not Lightroom dump",
+    "Style note above the fold",
+    "Availability calendar block"
+   ],
+   "used": null
+  },
+  {
+   "slug": "yoga-studios",
+   "plural": "Yoga studios",
+   "singular": "yoga studio",
+   "template": "serenity-yoga-studio",
+   "pains": [
+    "Most yoga studios are still on Squarespace templates that look like every other studio.",
+    "Booking links live on a separate Mindbody page — Google can't index your classes.",
+    "Updating teacher bios or class times means waiting for a friend who knows HTML."
+   ],
+   "titles": [
+    "Schedule on the homepage",
+    "Drop-in pricing is honest",
+    "Teacher bios that feel human",
+    "First-class CTA, free"
+   ],
+   "used": null
+  },
+  {
+   "slug": "gyms-and-fitness-studios",
+   "plural": "Gyms and fitness studios",
+   "singular": "gym",
+   "template": null,
+   "pains": [
+    "Your membership funnel runs through Mindbody / Glofox — Google indexes the SaaS, not your gym.",
+    "Trainers each have their own following, but they're invisible on your site.",
+    "The intro offer that converts 40% of visitors is buried below three scrolls."
+   ],
+   "titles": [
+    "Intro-offer CTA, top of page",
+    "Class schedule on-site, not hosted elsewhere",
+    "Trainer bios that drive following",
+    "Membership tiers as a section"
+   ],
+   "used": null
+  },
+  {
+   "slug": "consultancies",
+   "plural": "Consultants and agencies",
+   "singular": "consultant",
+   "template": "north-star-strategy",
+   "pains": [
+    "Your work is bespoke but your site sells like a freelancer — no engagement packages, no pricing signals.",
+    "Inbound leads aren't qualified; you spend half your discovery calls finding out budget.",
+    "Updating case studies means a Notion doc, a designer, and three rounds of feedback."
+   ],
+   "titles": [
+    "Productized engagements",
+    "Case studies that load fast",
+    "Calendar booking CTA",
+    "No client logo wall fakery"
+   ],
+   "used": null
+  },
+  {
+   "slug": "event-planners",
+   "plural": "Event planners",
+   "singular": "event planner",
+   "template": null,
+   "pains": [
+    "Your portfolio lives on Instagram — beautiful but unsearchable on Google.",
+    "Inquiries say 'how much for a wedding?' because nothing on the site answers it.",
+    "Your style (rustic-elegant, minimal-modern, maximalist) is invisible until couples meet you."
+   ],
+   "titles": [
+    "Portfolio that ranks on Google",
+    "Package starting prices",
+    "Style block above credentials",
+    "Inquiry form via your tool of choice"
+   ],
+   "used": null
+  },
+  {
+   "slug": "online-tutors",
+   "plural": "Online tutors and educators",
+   "singular": "online tutor",
+   "template": null,
+   "pains": [
+    "Your bookings come through Wyzant / Preply — they keep 30% and your direct-booking website doesn't exist.",
+    "Parents need to email you to find out the hourly rate.",
+    "You teach SAT, AP, and Olympiad — but the site treats them all the same."
+   ],
+   "titles": [
+    "Subject-specific sections",
+    "Hourly rate + lesson pack pricing",
+    "Free intro lesson CTA",
+    "Direct booking, no marketplace cut"
+   ],
+   "used": null
+  },
+  {
+   "slug": "marketing-agencies",
+   "plural": "Marketing agencies",
+   "singular": "marketing agency",
+   "template": null,
+   "pains": [
+    "Your site says 'we help brands grow' — so does everyone's. No differentiation.",
+    "Inbound leads aren't qualified; discovery calls eat your team.",
+    "Case studies live in Notion / Pitch / DocSend, not linked from the site."
+   ],
+   "titles": [
+    "Productized service tiers",
+    "Case studies as cards, deep links to gated decks",
+    "Team grid that pulls weight",
+    "Intake CTA, not contact form"
+   ],
+   "used": null
+  },
+  {
+   "slug": "designers",
+   "plural": "Designers and portfolios",
+   "singular": "designer",
+   "template": "lena-kraft-portfolio",
+   "pains": [
+    "Behance/Dribbble profiles aren't real websites — you can't direct prospects there to close a deal.",
+    "Squarespace and Wix templates have a 'tell' — clients spot them in three seconds.",
+    "You spent the weekend redesigning your portfolio instead of doing client work. Again."
+   ],
+   "titles": [
+    "Typography that doesn't fight your work",
+    "Selected-work gallery, not Lightroom dump",
+    "Availability + rate band",
+    "Real contact, not a contact form"
+   ],
+   "used": null
+  },
+  {
+   "slug": "bookstores",
+   "plural": "Independent bookstores",
+   "singular": "independent bookstore",
+   "template": "leaf-and-spine",
+   "pains": [
+    "Your Instagram is full of staff picks, but Google indexes none of them.",
+    "Events get word-of-mouth attendance because your event calendar isn't on the site.",
+    "Customers can't tell if you have a book in stock without calling."
+   ],
+   "titles": [
+    "Staff picks, with a voice",
+    "Events calendar, not Eventbrite",
+    "Newsletter capture above the fold",
+    "Mobile-first for in-store search"
+   ],
+   "used": null
+  },
+  {
+   "slug": "ceramics-shops",
+   "plural": "Ceramic artists and makers",
+   "singular": "ceramic artist",
+   "template": "ceramics-shop",
+   "pains": [
+    "Etsy takes ~13% of every sale and sends customers home to look at competitors.",
+    "Shopify costs $29/mo before any apps and looks the same as every other Shopify store.",
+    "You sell in small drops — the inventory model doesn't fit a generic e-commerce site."
+   ],
+   "titles": [
+    "Drop-based, not endless catalog",
+    "Story above the products",
+    "No Etsy cut on the site",
+    "Mobile-perfect product grid"
+   ],
+   "used": null
+  }
+ ]
+}
