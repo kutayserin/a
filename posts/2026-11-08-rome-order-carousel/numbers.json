@@ -1,0 +1,16 @@
+{
+ "order": [
+  "St. Peter's Basilica",
+  "Castel Sant'Angelo",
+  "Pantheon",
+  "Roman Forum",
+  "Circus Maximus",
+  "Colosseum",
+  "Santa Maria Maggiore",
+  "St. John Lateran"
+ ],
+ "best_km": 8.997990895961559,
+ "rand_km": 18.457680570490158,
+ "diff": 9.4596896745286,
+ "walk_h": 1.999553532435902
+}
