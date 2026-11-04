@@ -12,7 +12,13 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import cu_media as m
-from cu_media import esc, page, brand_bg, ICON, INK, SLATE, BLUE, ROYAL, SKY, LINE
+from cu_media import page, brand_bg, ICON, INK, SLATE, BLUE, ROYAL, SKY, LINE
+
+
+def esc(s):
+    """Keep a price together: a currency sign alone on the next line reads as a mistake on a frame."""
+    return re.sub(r'(\d) ([€£$₺])', '\\1\u00a0\\2', m.esc(s))
+
 
 ROOT = m.ROOT
 COPY = Path(os.environ.get('CU_COPY', ROOT / 'data/library_copy.json'))
@@ -29,6 +35,8 @@ CTAS = ['Başvuru sürecini birebir danışmanla yürütmek istersen: compassuni
         '5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com',
         'Yön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.']
 SAVES = ['📌 Kaydet, başvuru döneminde lazım olacak.', '📌 Yurt dışı planı yapan birine gönder.', '📌 Kaydet, sonra lazım olur.']
+# Dated copy: these name a window that closes in November, so they go out first.
+EARLY = ['university-of-pavia', 'uw', 'berkeley']
 PART = {'Almanya': 'almanya', 'İtalya': 'italya', 'Hollanda': 'hollanda', 'Birleşik Krallık': 'ingiltere', 'ABD': 'abd'}
 
 
@@ -87,6 +95,8 @@ def plan():
     items = posts()
     kinds = ('uni', 'list', 'myth', 'guide', 'deadline', 'how')
     pools = {k: [i for i, p in enumerate(items) if p['type'] == k] for k in kinds}
+    first = [i for s in EARLY for i, p in enumerate(items) if p.get('slug') == s]
+    pools['uni'] = first + [i for i in pools['uni'] if i not in first]
     seq = {}
     jobs, recent, d, audio, late = [], [], START, 0, 0
     while any(pools.values()):
