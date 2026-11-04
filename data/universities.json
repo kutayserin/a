@@ -1,0 +1,902 @@
+[
+{
+"slug": "jacobs-bremen",
+"name": "Constructor University",
+"city": "Bremen",
+"country": "Almanya"
+},
+{
+"slug": "fu-berlin",
+"name": "Free University of Berlin",
+"city": "Berlin",
+"country": "Almanya"
+},
+{
+"slug": "uni-jena",
+"name": "Friedrich Schiller University Jena",
+"city": "Jena",
+"country": "Almanya"
+},
+{
+"slug": "uni-frankfurt",
+"name": "Goethe University Frankfurt",
+"city": "Frankfurt",
+"country": "Almanya"
+},
+{
+"slug": "hpi",
+"name": "Hasso Plattner Institute",
+"city": "Potsdam",
+"country": "Almanya"
+},
+{
+"slug": "heidelberg",
+"name": "Heidelberg University",
+"city": "Heidelberg",
+"country": "Almanya"
+},
+{
+"slug": "uni-duesseldorf",
+"name": "Heinrich Heine University Düsseldorf",
+"city": "Düsseldorf",
+"country": "Almanya"
+},
+{
+"slug": "humboldt-berlin",
+"name": "Humboldt University of Berlin",
+"city": "Berlin",
+"country": "Almanya"
+},
+{
+"slug": "kit",
+"name": "Karlsruhe Institute of Technology",
+"city": "Karlsruhe",
+"country": "Almanya"
+},
+{
+"slug": "lmu-munich",
+"name": "Ludwig Maximilian University of Munich",
+"city": "Munich",
+"country": "Almanya"
+},
+{
+"slug": "rwth-aachen",
+"name": "RWTH Aachen University",
+"city": "Aachen",
+"country": "Almanya"
+},
+{
+"slug": "uni-bochum",
+"name": "Ruhr University Bochum",
+"city": "Bochum",
+"country": "Almanya"
+},
+{
+"slug": "tu-berlin",
+"name": "Technical University of Berlin",
+"city": "Berlin",
+"country": "Almanya"
+},
+{
+"slug": "tu-darmstadt",
+"name": "Technical University of Darmstadt",
+"city": "Darmstadt",
+"country": "Almanya"
+},
+{
+"slug": "tu-dresden",
+"name": "Technical University of Dresden",
+"city": "Dresden",
+"country": "Almanya"
+},
+{
+"slug": "tum-munich",
+"name": "Technical University of Munich",
+"city": "Munich",
+"country": "Almanya"
+},
+{
+"slug": "uni-ulm",
+"name": "Ulm University",
+"city": "Ulm",
+"country": "Almanya"
+},
+{
+"slug": "uni-bonn",
+"name": "University of Bonn",
+"city": "Bonn",
+"country": "Almanya"
+},
+{
+"slug": "uni-koeln",
+"name": "University of Cologne",
+"city": "Cologne",
+"country": "Almanya"
+},
+{
+"slug": "uni-erlangen",
+"name": "University of Erlangen-Nuremberg",
+"city": "Erlangen",
+"country": "Almanya"
+},
+{
+"slug": "uni-freiburg",
+"name": "University of Freiburg",
+"city": "Freiburg",
+"country": "Almanya"
+},
+{
+"slug": "uni-goettingen",
+"name": "University of Göttingen",
+"city": "Göttingen",
+"country": "Almanya"
+},
+{
+"slug": "uni-hamburg",
+"name": "University of Hamburg",
+"city": "Hamburg",
+"country": "Almanya"
+},
+{
+"slug": "uni-konstanz",
+"name": "University of Konstanz",
+"city": "Konstanz",
+"country": "Almanya"
+},
+{
+"slug": "uni-leipzig",
+"name": "University of Leipzig",
+"city": "Leipzig",
+"country": "Almanya"
+},
+{
+"slug": "uni-mannheim",
+"name": "University of Mannheim",
+"city": "Mannheim",
+"country": "Almanya"
+},
+{
+"slug": "uni-muenster",
+"name": "University of Münster",
+"city": "Münster",
+"country": "Almanya"
+},
+{
+"slug": "uni-stuttgart",
+"name": "University of Stuttgart",
+"city": "Stuttgart",
+"country": "Almanya"
+},
+{
+"slug": "uni-tuebingen",
+"name": "University of Tübingen",
+"city": "Tübingen",
+"country": "Almanya"
+},
+{
+"slug": "uni-wuerzburg",
+"name": "University of Würzburg",
+"city": "Würzburg",
+"country": "Almanya"
+},
+{
+"slug": "bocconi-university",
+"name": "Bocconi University",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "ca-foscari",
+"name": "Ca' Foscari University of Venice",
+"city": "Venice",
+"country": "İtalya"
+},
+{
+"slug": "domus-academy",
+"name": "Domus Academy",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "unibz",
+"name": "Free University of Bozen-Bolzano",
+"city": "Bolzano",
+"country": "İtalya"
+},
+{
+"slug": "iuav-venice",
+"name": "IUAV University of Venice",
+"city": "Venice",
+"country": "İtalya"
+},
+{
+"slug": "luiss",
+"name": "LUISS Guido Carli",
+"city": "Rome",
+"country": "İtalya"
+},
+{
+"slug": "naba",
+"name": "NABA — Nuova Accademia di Belle Arti",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "politecnico-bari",
+"name": "Politecnico di Bari",
+"city": "Bari",
+"country": "İtalya"
+},
+{
+"slug": "politecnico-di-milano",
+"name": "Politecnico di Milano",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "politecnico-di-torino",
+"name": "Politecnico di Torino",
+"city": "Turin",
+"country": "İtalya"
+},
+{
+"slug": "roma-tre",
+"name": "Roma Tre University",
+"city": "Rome",
+"country": "İtalya"
+},
+{
+"slug": "sant-anna-pisa",
+"name": "Sant'Anna School of Advanced Studies",
+"city": "Pisa",
+"country": "İtalya"
+},
+{
+"slug": "sapienza-university-rome",
+"name": "Sapienza University of Rome",
+"city": "Rome",
+"country": "İtalya"
+},
+{
+"slug": "scuola-normale-superiore",
+"name": "Scuola Normale Superiore",
+"city": "Pisa",
+"country": "İtalya"
+},
+{
+"slug": "university-of-bologna",
+"name": "University of Bologna",
+"city": "Bologna",
+"country": "İtalya"
+},
+{
+"slug": "university-of-florence",
+"name": "University of Florence",
+"city": "Florence",
+"country": "İtalya"
+},
+{
+"slug": "university-of-genoa",
+"name": "University of Genoa",
+"city": "Genoa",
+"country": "İtalya"
+},
+{
+"slug": "university-of-milan",
+"name": "University of Milan",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "milano-bicocca",
+"name": "University of Milano-Bicocca",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "unimore",
+"name": "University of Modena and Reggio Emilia",
+"city": "Modena",
+"country": "İtalya"
+},
+{
+"slug": "federico-ii-naples",
+"name": "University of Naples Federico II",
+"city": "Naples",
+"country": "İtalya"
+},
+{
+"slug": "university-of-padua",
+"name": "University of Padua",
+"city": "Padua",
+"country": "İtalya"
+},
+{
+"slug": "university-of-parma",
+"name": "University of Parma",
+"city": "Parma",
+"country": "İtalya"
+},
+{
+"slug": "university-of-pavia",
+"name": "University of Pavia",
+"city": "Pavia",
+"country": "İtalya"
+},
+{
+"slug": "university-of-pisa",
+"name": "University of Pisa",
+"city": "Pisa",
+"country": "İtalya"
+},
+{
+"slug": "tor-vergata",
+"name": "University of Rome Tor Vergata",
+"city": "Rome",
+"country": "İtalya"
+},
+{
+"slug": "university-of-trento",
+"name": "University of Trento",
+"city": "Trento",
+"country": "İtalya"
+},
+{
+"slug": "university-of-turin",
+"name": "University of Turin",
+"city": "Turin",
+"country": "İtalya"
+},
+{
+"slug": "university-of-verona",
+"name": "University of Verona",
+"city": "Verona",
+"country": "İtalya"
+},
+{
+"slug": "cattolica-milan",
+"name": "Università Cattolica del Sacro Cuore",
+"city": "Milan",
+"country": "İtalya"
+},
+{
+"slug": "aeres-uas",
+"name": "Aeres University of Applied Sciences",
+"city": "Wageningen",
+"country": "Hollanda"
+},
+{
+"slug": "hva",
+"name": "Amsterdam University of Applied Sciences",
+"city": "Amsterdam",
+"country": "Hollanda"
+},
+{
+"slug": "avans",
+"name": "Avans University of Applied Sciences",
+"city": "Tilburg",
+"country": "Hollanda"
+},
+{
+"slug": "breda-uas",
+"name": "Breda University of Applied Sciences",
+"city": "Breda",
+"country": "Hollanda"
+},
+{
+"slug": "codarts",
+"name": "Codarts University of the Arts",
+"city": "Rotterdam",
+"country": "Hollanda"
+},
+{
+"slug": "tu-delft",
+"name": "Delft University of Technology",
+"city": "Delft",
+"country": "Hollanda"
+},
+{
+"slug": "design-academy",
+"name": "Design Academy Eindhoven",
+"city": "Eindhoven",
+"country": "Hollanda"
+},
+{
+"slug": "tue-eindhoven",
+"name": "Eindhoven University of Technology",
+"city": "Eindhoven",
+"country": "Hollanda"
+},
+{
+"slug": "eur-rotterdam",
+"name": "Erasmus University Rotterdam",
+"city": "Rotterdam",
+"country": "Hollanda"
+},
+{
+"slug": "fontys",
+"name": "Fontys University of Applied Sciences",
+"city": "Eindhoven",
+"country": "Hollanda"
+},
+{
+"slug": "rietveld",
+"name": "Gerrit Rietveld Academie",
+"city": "Amsterdam",
+"country": "Hollanda"
+},
+{
+"slug": "han",
+"name": "HAN University of Applied Sciences",
+"city": "Nijmegen",
+"country": "Hollanda"
+},
+{
+"slug": "hku",
+"name": "HKU University of the Arts Utrecht",
+"city": "Utrecht",
+"country": "Hollanda"
+},
+{
+"slug": "hanze",
+"name": "Hanze University of Applied Sciences",
+"city": "Groningen",
+"country": "Hollanda"
+},
+{
+"slug": "inholland",
+"name": "Inholland University of Applied Sciences",
+"city": "Amsterdam",
+"country": "Hollanda"
+},
+{
+"slug": "leiden",
+"name": "Leiden University",
+"city": "Leiden",
+"country": "Hollanda"
+},
+{
+"slug": "maastricht",
+"name": "Maastricht University",
+"city": "Maastricht",
+"country": "Hollanda"
+},
+{
+"slug": "nhl-stenden",
+"name": "NHL Stenden University of Applied Sciences",
+"city": "Leeuwarden",
+"country": "Hollanda"
+},
+{
+"slug": "radboud",
+"name": "Radboud University",
+"city": "Nijmegen",
+"country": "Hollanda"
+},
+{
+"slug": "hr-rotterdam",
+"name": "Rotterdam University of Applied Sciences",
+"city": "Rotterdam",
+"country": "Hollanda"
+},
+{
+"slug": "saxion",
+"name": "Saxion University of Applied Sciences",
+"city": "Enschede",
+"country": "Hollanda"
+},
+{
+"slug": "hhs-thuas",
+"name": "The Hague University of Applied Sciences",
+"city": "The Hague",
+"country": "Hollanda"
+},
+{
+"slug": "tilburg",
+"name": "Tilburg University",
+"city": "Tilburg",
+"country": "Hollanda"
+},
+{
+"slug": "uva-amsterdam",
+"name": "University of Amsterdam",
+"city": "Amsterdam",
+"country": "Hollanda"
+},
+{
+"slug": "rug-groningen",
+"name": "University of Groningen",
+"city": "Groningen",
+"country": "Hollanda"
+},
+{
+"slug": "twente",
+"name": "University of Twente",
+"city": "Enschede",
+"country": "Hollanda"
+},
+{
+"slug": "utrecht",
+"name": "Utrecht University",
+"city": "Utrecht",
+"country": "Hollanda"
+},
+{
+"slug": "vu-amsterdam",
+"name": "Vrije Universiteit Amsterdam",
+"city": "Amsterdam",
+"country": "Hollanda"
+},
+{
+"slug": "wur",
+"name": "Wageningen University & Research",
+"city": "Wageningen",
+"country": "Hollanda"
+},
+{
+"slug": "windesheim",
+"name": "Windesheim University of Applied Sciences",
+"city": "Zwolle",
+"country": "Hollanda"
+},
+{
+"slug": "cardiff",
+"name": "Cardiff University",
+"city": "Cardiff",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "durham",
+"name": "Durham University",
+"city": "Durham",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "imperial",
+"name": "Imperial College London",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "kings-college",
+"name": "King's College London",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "lancaster",
+"name": "Lancaster University",
+"city": "Lancaster",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "lse",
+"name": "London School of Economics",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "lboro",
+"name": "Loughborough University",
+"city": "Loughborough",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "newcastle",
+"name": "Newcastle University",
+"city": "Newcastle",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "queen-mary",
+"name": "Queen Mary University of London",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "queens-belfast",
+"name": "Queen's University Belfast",
+"city": "Belfast",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "rca",
+"name": "Royal College of Art",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "royal-holloway",
+"name": "Royal Holloway, University of London",
+"city": "Egham",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "soas",
+"name": "SOAS University of London",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "ucl",
+"name": "University College London",
+"city": "London",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "birmingham",
+"name": "University of Birmingham",
+"city": "Birmingham",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "bristol",
+"name": "University of Bristol",
+"city": "Bristol",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "cambridge",
+"name": "University of Cambridge",
+"city": "Cambridge",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "edinburgh",
+"name": "University of Edinburgh",
+"city": "Edinburgh",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "exeter",
+"name": "University of Exeter",
+"city": "Exeter",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "glasgow",
+"name": "University of Glasgow",
+"city": "Glasgow",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "leeds",
+"name": "University of Leeds",
+"city": "Leeds",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "manchester",
+"name": "University of Manchester",
+"city": "Manchester",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "nottingham",
+"name": "University of Nottingham",
+"city": "Nottingham",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "oxford",
+"name": "University of Oxford",
+"city": "Oxford",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "reading",
+"name": "University of Reading",
+"city": "Reading",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "sheffield",
+"name": "University of Sheffield",
+"city": "Sheffield",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "southampton",
+"name": "University of Southampton",
+"city": "Southampton",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "st-andrews",
+"name": "University of St Andrews",
+"city": "St Andrews",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "warwick",
+"name": "University of Warwick",
+"city": "Coventry",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "york",
+"name": "University of York",
+"city": "York",
+"country": "Birleşik Krallık"
+},
+{
+"slug": "boston-u",
+"name": "Boston University",
+"city": "Boston",
+"country": "ABD"
+},
+{
+"slug": "caltech",
+"name": "California Institute of Technology",
+"city": "Pasadena",
+"country": "ABD"
+},
+{
+"slug": "cmu",
+"name": "Carnegie Mellon University",
+"city": "Pittsburgh",
+"country": "ABD"
+},
+{
+"slug": "columbia",
+"name": "Columbia University",
+"city": "New York",
+"country": "ABD"
+},
+{
+"slug": "cornell",
+"name": "Cornell University",
+"city": "Ithaca",
+"country": "ABD"
+},
+{
+"slug": "duke",
+"name": "Duke University",
+"city": "Durham",
+"country": "ABD"
+},
+{
+"slug": "georgia-tech",
+"name": "Georgia Institute of Technology",
+"city": "Atlanta",
+"country": "ABD"
+},
+{
+"slug": "harvard",
+"name": "Harvard University",
+"city": "Cambridge",
+"country": "ABD"
+},
+{
+"slug": "johns-hopkins",
+"name": "Johns Hopkins University",
+"city": "Baltimore",
+"country": "ABD"
+},
+{
+"slug": "mit",
+"name": "Massachusetts Institute of Technology",
+"city": "Cambridge",
+"country": "ABD"
+},
+{
+"slug": "nyu",
+"name": "New York University",
+"city": "New York",
+"country": "ABD"
+},
+{
+"slug": "northeastern",
+"name": "Northeastern University",
+"city": "Boston",
+"country": "ABD"
+},
+{
+"slug": "northwestern",
+"name": "Northwestern University",
+"city": "Evanston",
+"country": "ABD"
+},
+{
+"slug": "princeton",
+"name": "Princeton University",
+"city": "Princeton",
+"country": "ABD"
+},
+{
+"slug": "purdue",
+"name": "Purdue University",
+"city": "West Lafayette",
+"country": "ABD"
+},
+{
+"slug": "rice",
+"name": "Rice University",
+"city": "Houston",
+"country": "ABD"
+},
+{
+"slug": "stanford",
+"name": "Stanford University",
+"city": "Stanford",
+"country": "ABD"
+},
+{
+"slug": "berkeley",
+"name": "University of California, Berkeley",
+"city": "Berkeley",
+"country": "ABD"
+},
+{
+"slug": "uci",
+"name": "University of California, Irvine",
+"city": "Irvine",
+"country": "ABD"
+},
+{
+"slug": "ucla",
+"name": "University of California, Los Angeles",
+"city": "Los Angeles",
+"country": "ABD"
+},
+{
+"slug": "uchicago",
+"name": "University of Chicago",
+"city": "Chicago",
+"country": "ABD"
+},
+{
+"slug": "uiuc",
+"name": "University of Illinois Urbana-Champaign",
+"city": "Champaign",
+"country": "ABD"
+},
+{
+"slug": "umd",
+"name": "University of Maryland, College Park",
+"city": "College Park",
+"country": "ABD"
+},
+{
+"slug": "umich",
+"name": "University of Michigan, Ann Arbor",
+"city": "Ann Arbor",
+"country": "ABD"
+},
+{
+"slug": "upenn",
+"name": "University of Pennsylvania",
+"city": "Philadelphia",
+"country": "ABD"
+},
+{
+"slug": "usc",
+"name": "University of Southern California",
+"city": "Los Angeles",
+"country": "ABD"
+},
+{
+"slug": "utexas",
+"name": "University of Texas at Austin",
+"city": "Austin",
+"country": "ABD"
+},
+{
+"slug": "uw",
+"name": "University of Washington",
+"city": "Seattle",
+"country": "ABD"
+},
+{
+"slug": "vanderbilt",
+"name": "Vanderbilt University",
+"city": "Nashville",
+"country": "ABD"
+},
+{
+"slug": "yale",
+"name": "Yale University",
+"city": "New Haven",
+"country": "ABD"
+}
+]

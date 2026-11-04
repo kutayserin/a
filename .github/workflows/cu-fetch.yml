@@ -1,0 +1,27 @@
+name: CompassUni photos and site check
+on:
+  push:
+    branches: [compassuni-social]
+    paths: [tools/fetch_unis.py, tools/site_check.py]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests playwright && playwright install --with-deps chromium
+      - run: python tools/site_check.py
+        continue-on-error: true
+      - run: python tools/fetch_unis.py
+      - run: |
+          git config user.name "compassuni-social"
+          git config user.email "noreply@compassuni.com"
+          git add data/unis.json assets/photos site
+          git commit -m "Fetch campus photos and check the live site" || exit 0
+          git pull --rebase -X theirs origin compassuni-social
+          git push origin HEAD:compassuni-social
