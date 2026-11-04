@@ -23,6 +23,7 @@ TAKEN = {'2026-11-05T19:30', '2026-11-07T19:30', '2026-11-08T19:30', '2026-11-10
          '2026-11-12T19:30', '2026-11-14T19:30', '2026-11-15T19:30'}
 # Already covered by the hand-built one-day carousels.
 NO_TOUR = {'Istanbul', 'Paris', 'Rome'}
+SKIP = set()
 AUDIO = ['1304451697253803', '473815599863496', '1369509361952542', '1941675846329817', '957044555314519']
 CTAS = [
     'Travelhour turns the landmarks you swipe into one walking day. Free on the App Store, link in bio.',
@@ -59,7 +60,7 @@ def credit_line(p):
 # ---------------------------------------------------------------- planning ---
 def plan():
     lm, copy, queue = data()
-    lm = [x for x in lm if x['slug'] in copy and x.get('photo')]
+    lm = [x for x in lm if x['slug'] in copy and x.get('photo') and x['slug'] not in SKIP]
     by_city = {}
     for x in lm:
         by_city.setdefault(x['city'], []).append(x)
@@ -124,38 +125,90 @@ SPOT_CSS = """
 """
 
 
+def still_cut(t, img, overlay, dur, out, zoom_in=True, darken=False, fade=False):
+    frames = int(round(dur * t.FPS))
+    z = f"1+0.07*on/{frames}" if zoom_in else f"1.07-0.07*on/{frames}"
+    crop = "crop=if(gt(iw/ih\\,9/16)\\,ih*9/16\\,iw):if(gt(iw/ih\\,9/16)\\,ih\\,iw*16/9)"
+    grade = ',eq=saturation=1.06:contrast=1.03' + (':brightness=-0.03' if darken else '')
+    ov = 'format=rgba' + (',fade=in:st=0.1:d=0.3:alpha=1' if fade else '')
+    fc = (f"[0:v]{crop},scale=2160:3840{grade},"
+          f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s=1080x1920:fps={t.FPS},"
+          f"setsar=1[bg];[1:v]{ov}[ov];[bg][ov]overlay=0:0:shortest=1,format=yuv420p[v]")
+    t.ff(['-i', img, '-loop', 1, '-t', dur, '-i', overlay, '-filter_complex', fc, '-map', '[v]', '-frames:v', frames,
+          '-r', t.FPS, '-c:v', 'libx264', '-preset', 'veryfast', '-crf', 18, out])
+
+
+def clip_cut(t, clip, overlay, dur, out, start=0.0, darken=False, fade=False):
+    frames = int(round(dur * t.FPS))
+    ov = 'format=rgba' + (',fade=in:st=0.1:d=0.3:alpha=1' if fade else '')
+    grade = 'eq=saturation=1.05:contrast=1.02' + (':brightness=-0.04' if darken else '')
+    fc = (f"[0:v]setsar=1,{grade}[bg];[1:v]{ov}[ov];[bg][ov]overlay=0:0:shortest=1,format=yuv420p[v]")
+    t.ff(['-stream_loop', -1, '-ss', start, '-i', clip, '-loop', 1, '-t', dur, '-i', overlay, '-filter_complex', fc, '-map', '[v]',
+          '-frames:v', frames, '-r', t.FPS, '-c:v', 'libx264', '-preset', 'veryfast', '-crf', 18, out])
+
+
+def visuals_of(x):
+    """Clips first because moving footage holds attention, then photos; rejected ones are skipped."""
+    rej = set(json.load(open(ROOT / 'data/visual_rejects.json'))) if (ROOT / 'data/visual_rejects.json').exists() else set()
+    clips = [c for c in (x.get('clips') or []) if c['path'] not in rej]
+    photos = [p for p in [x.get('photo')] + (x.get('more_photos') or []) if p and p['path'] not in rej]
+    return clips, photos
+
+
 def render_spotlight(sh, job, x, c, out):
     import th_media as t
     tmp = Path(tempfile.mkdtemp())
-    photo = str(ROOT / x['photo']['path'])
+    clips, photos = visuals_of(x)
     hook = c['hook']
     css = SPOT_CSS.replace('HOOKSIZE', '112' if len(hook) <= 34 else '96' if len(hook) <= 52 else '84') \
                   .replace('FNAME', '92' if len(x['name']) <= 18 else '74')
     a = f'<div class="top"></div><div class="where">{t.esc(x["city"])}</div><div class="hook">{t.esc(hook)}</div>'
     sh.shot(t.page(1080, 1920, a, css), tmp / 'a.png', 1080, 1920, transparent=True)
-    b = (f'<div class="fshade"></div><div class="fcredit">Photo: {t.esc(credit_short(x["photo"]))}</div>'
+    b = ('<div class="fshade"></div><div class="fcredit">Credits in caption</div>'
          f'<div class="fact"><div class="fcity">{t.esc(x["city"])}</div><div class="fname">{t.esc(x["name"])}</div>'
          f'<div class="ftext">{t.esc(c["fact"])}</div></div>')
     sh.shot(t.page(1080, 1920, b, css), tmp / 'b.png', 1080, 1920, transparent=True)
     end = tmp / 'end.png'
     t.end_card(sh, end, 1080, 1920, f'Plan your <i>{t.esc(x["city"])}</i> walk',
-               'Swipe the landmarks you love. Travelhour turns them into one walking route.',
-               'Photo: Wikimedia Commons · full credit in caption')
-    segs, durs = [tmp / 's1.mp4', tmp / 's2.mp4', tmp / 's3.mp4'], [2.8, 5.2, 2.2]
-    t.photo_segment(photo, tmp / 'a.png', durs[0], segs[0], zoom_in=False, darken=True)
-    t.photo_segment(photo, tmp / 'b.png', durs[1], segs[1], zoom_in=True)
-    t.still_segment(end, durs[2], segs[2])
+               'Swipe the landmarks you love. Travelhour turns them into one walking route.', '')
+    # Hook on the strongest visual, then quick cuts under the fact. 6 s is enough to read it.
+    visuals = [('clip', v) for v in clips] + [('photo', v) for v in photos]
+    segs, durs, used = [], [], []
+    v0 = visuals[0]
+    segs.append(tmp / 'hook.mp4'); durs.append(2.8); used.append(v0[1])
+    if v0[0] == 'clip':
+        clip_cut(t, str(ROOT / v0[1]['path']), tmp / 'a.png', 2.8, segs[0], darken=True, fade=True)
+    else:
+        still_cut(t, str(ROOT / v0[1]['path']), tmp / 'a.png', 2.8, segs[0], zoom_in=False, darken=True, fade=True)
+    rest = visuals[1:4] or [v0]
+    each = round(6.3 / len(rest) + 0.3 * (len(rest) - 1) / len(rest), 2)
+    for i, (kind, v) in enumerate(rest):
+        seg = tmp / f'cut{i}.mp4'
+        if kind == 'clip':
+            clip_cut(t, str(ROOT / v['path']), tmp / 'b.png', each, seg, start=3.0 if v is v0[1] else 0.0)
+        else:
+            still_cut(t, str(ROOT / v['path']), tmp / 'b.png', each, seg, zoom_in=i % 2 == 0)
+        segs.append(seg); durs.append(each)
+        if v not in used:
+            used.append(v)
+    segs.append(tmp / 'end.mp4'); durs.append(2.2)
+    t.still_segment(end, 2.2, segs[-1])
     silent = tmp / 'silent.mp4'
-    total = t.join(segs, durs, silent)
+    total = t.join(segs, durs, silent, xfade=0.3)
     bed = tmp / 'bed.m4a'
     t.ambient_bed(bed, total)
     out.mkdir(parents=True, exist_ok=True)
     t.mux_audio(silent, bed, out / 'reel.mp4')
     t.ff(['-ss', 0.9, '-i', out / 'reel.mp4', '-frames:v', 1, '-q:v', 2, out / 'cover.jpg'])
     n = sum(ord(ch) for ch in x['slug'])
+    cr = []
+    for v in used:
+        if v['license'] == 'Pexels License':
+            cr.append(f"🎥 Video: {v['artist']} via Pexels")
+        else:
+            cr.append(f"📷 {credit_line(v)} via Wikimedia Commons, cropped with text added")
     cap = (f"{hook}\n\n{c['fact']}\n\n📍 {x['name']}, {x['city']}\n{SAVES[n % len(SAVES)]}\n\n{CTAS[n % len(CTAS)]}\n\n"
-           f"#{tagify(x['city'])}travel #{tagify(x['city'])} #{c['tag']} #traveltips #citybreak\n\n"
-           f"📷 Photo: {credit_line(x['photo'])} via Wikimedia Commons, cropped with text added")
+           f"#{tagify(x['city'])}travel #{tagify(x['city'])} #{c['tag']} #traveltips #citybreak\n\n" + '\n'.join(cr))
     (out / 'caption.txt').write_text(cap, encoding='utf-8')
     (out / 'title.txt').write_text(c.get('title') or hook, encoding='utf-8')
 
