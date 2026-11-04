@@ -75,6 +75,60 @@
 "height": 2474,
 "source": "https://commons.wikimedia.org/wiki/File:FU_Berlin_Wirtschaftswissenschaften_w%C3%A4hrend_FCRC.JPG",
 "path": "assets/photos/fu-berlin-6.jpg"
+},
+{
+"file": "Henry-Ford-Bau-Freie-Universitaet-Berlin-Dahlem-10-2018b.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Gunnar Klack",
+"width": 2678,
+"height": 2200,
+"source": "https://commons.wikimedia.org/wiki/File:Henry-Ford-Bau-Freie-Universitaet-Berlin-Dahlem-10-2018b.jpg",
+"path": "assets/photos/fu-berlin-c1.jpg"
+},
+{
+"file": "Henry-Ford-Bau-Freie-Universitaet-Berlin-Dahlem-10-2018c.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Gunnar Klack",
+"width": 2977,
+"height": 2200,
+"source": "https://commons.wikimedia.org/wiki/File:Henry-Ford-Bau-Freie-Universitaet-Berlin-Dahlem-10-2018c.jpg",
+"path": "assets/photos/fu-berlin-c2.jpg"
+},
+{
+"file": "Henry-Ford-Bau-Freie-Universitaet-Berlin-Dahlem-10-2018a.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Gunnar Klack",
+"width": 3510,
+"height": 2000,
+"source": "https://commons.wikimedia.org/wiki/File:Henry-Ford-Bau-Freie-Universitaet-Berlin-Dahlem-10-2018a.jpg",
+"path": "assets/photos/fu-berlin-c3.jpg"
+},
+{
+"file": "Freie Universität - panoramio.jpg",
+"license": "CC BY 3.0",
+"artist": "Alex All",
+"width": 1834,
+"height": 1529,
+"source": "https://commons.wikimedia.org/wiki/File:Freie_Universit%C3%A4t_-_panoramio.jpg",
+"path": "assets/photos/fu-berlin-c4.jpg"
+},
+{
+"file": "Freie Universitaet Berlin Blick vom JuraGebaeude.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Idx knowledge",
+"width": 2447,
+"height": 2734,
+"source": "https://commons.wikimedia.org/wiki/File:Freie_Universitaet_Berlin_Blick_vom_JuraGebaeude.jpg",
+"path": "assets/photos/fu-berlin-c5.jpg"
+},
+{
+"file": "FU-Campus FU WiWi-u-JurFak.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Miriam Guterland",
+"width": 5152,
+"height": 3864,
+"source": "https://commons.wikimedia.org/wiki/File:FU-Campus_FU_WiWi-u-JurFak.jpg",
+"path": "assets/photos/fu-berlin-c6.jpg"
 }
 ]
 },
@@ -153,7 +207,62 @@
 "name": "Hasso Plattner Institute",
 "city": "Potsdam",
 "country": "Almanya",
-"photos": []
+"photos": [
+{
+"file": "Hasso Plattner Institute building in Potsdam.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Superraptor123",
+"width": 4032,
+"height": 3024,
+"source": "https://commons.wikimedia.org/wiki/File:Hasso_Plattner_Institute_building_in_Potsdam.jpg",
+"path": "assets/photos/hpi-c1.jpg"
+},
+{
+"file": "Hasso Plattner Institute (HPI) in Potsdam, October 2026.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Superraptor123",
+"width": 4032,
+"height": 3024,
+"source": "https://commons.wikimedia.org/wiki/File:Hasso_Plattner_Institute_(HPI)_in_Potsdam,_October_2026.jpg",
+"path": "assets/photos/hpi-c2.jpg"
+},
+{
+"file": "ScienceTweetup HPI 2014.jpg",
+"license": "CC BY 2.0",
+"artist": "HPI/Kay Herschelmann",
+"width": 2480,
+"height": 1654,
+"source": "https://commons.wikimedia.org/wiki/File:ScienceTweetup_HPI_2014.jpg",
+"path": "assets/photos/hpi-c3.jpg"
+},
+{
+"file": "Studentinnen-am-HPI.jpg",
+"license": "CC BY-SA 3.0 de",
+"artist": "Kay Herschelmann (Fotograph, Potsdam)",
+"width": 4992,
+"height": 3320,
+"source": "https://commons.wikimedia.org/wiki/File:Studentinnen-am-HPI.jpg",
+"path": "assets/photos/hpi-c4.jpg"
+},
+{
+"file": "Villa, HPI Campus II, Jan 2021.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "颜邯",
+"width": 3115,
+"height": 1654,
+"source": "https://commons.wikimedia.org/wiki/File:Villa,_HPI_Campus_II,_Jan_2021.jpg",
+"path": "assets/photos/hpi-c5.jpg"
+},
+{
+"file": "20250802 xl 1012-Digital Health Cluster (DHC) am Hasso-Plattner-Institut (HPI).jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Molgreen",
+"width": 4080,
+"height": 2414,
+"source": "https://commons.wikimedia.org/wiki/File:20250802_xl_1012-Digital_Health_Cluster_(DHC)_am_Hasso-Plattner-Institut_(HPI).jpg",
+"path": "assets/photos/hpi-c6.jpg"
+}
+]
 },
 {
 "slug": "heidelberg",
@@ -1115,6 +1224,60 @@
 "height": 1536,
 "source": "https://commons.wikimedia.org/wiki/File:UniHHHauptgebaeude.jpg",
 "path": "assets/photos/uni-hamburg-2.jpg"
+},
+{
+"file": "Universität Hamburg Hauptgebäude Edmund-Siemers-Allee 1 in Rotherbaum (3).jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Pauli-Pirat",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Hamburg_Hauptgeb%C3%A4ude_Edmund-Siemers-Allee_1_in_Rotherbaum_(3).jpg",
+"path": "assets/photos/uni-hamburg-c1.jpg"
+},
+{
+"file": "Universität Hamburg Hauptgebäude Edmund-Siemers-Allee 1 in Rotherbaum (1).jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Pauli-Pirat",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Hamburg_Hauptgeb%C3%A4ude_Edmund-Siemers-Allee_1_in_Rotherbaum_(1).jpg",
+"path": "assets/photos/uni-hamburg-c2.jpg"
+},
+{
+"file": "Universität Hamburg Hauptgebäude Edmund-Siemers-Allee 1 in Rotherbaum (2).jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Pauli-Pirat",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Hamburg_Hauptgeb%C3%A4ude_Edmund-Siemers-Allee_1_in_Rotherbaum_(2).jpg",
+"path": "assets/photos/uni-hamburg-c3.jpg"
+},
+{
+"file": "Universität Hamburg.jpg",
+"license": "CC BY-SA 3.0 de",
+"artist": "Jean11",
+"width": 5184,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Hamburg.jpg",
+"path": "assets/photos/uni-hamburg-c4.jpg"
+},
+{
+"file": "2013-06-08 Projekt Heißluftballon DSCF0778.jpg",
+"license": "CC BY-SA 3.0 de",
+"artist": "Martina Nolte",
+"width": 2500,
+"height": 1673,
+"source": "https://commons.wikimedia.org/wiki/File:2013-06-08_Projekt_Hei%C3%9Fluftballon_DSCF0778.jpg",
+"path": "assets/photos/uni-hamburg-c5.jpg"
+},
+{
+"file": "Hauptgebäude Uni Hamburg.jpg",
+"license": "CC BY 3.0",
+"artist": "Uwe Barghaan",
+"width": 1680,
+"height": 1050,
+"source": "https://commons.wikimedia.org/wiki/File:Hauptgeb%C3%A4ude_Uni_Hamburg.jpg",
+"path": "assets/photos/uni-hamburg-c6.jpg"
 }
 ]
 },
@@ -1494,7 +1657,62 @@
 "name": "Bocconi University",
 "city": "Milan",
 "country": "İtalya",
-"photos": []
+"photos": [
+{
+"file": "Rendering Stazione di Milano Tibaldi.jpg",
+"license": "CC BY 3.0 it",
+"artist": "Comune di Milano",
+"width": 1621,
+"height": 907,
+"source": "https://commons.wikimedia.org/wiki/File:Rendering_Stazione_di_Milano_Tibaldi.jpg",
+"path": "assets/photos/bocconi-university-c1.jpg"
+},
+{
+"file": "Università degli studi Luigi Bocconi - Milano.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Fcarbonara",
+"width": 3264,
+"height": 2448,
+"source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A0_degli_studi_Luigi_Bocconi_-_Milano.jpg",
+"path": "assets/photos/bocconi-university-c2.jpg"
+},
+{
+"file": "Posa Ceppo di Gré alleggerito Università Bocconi Milano.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Mm1897",
+"width": 1600,
+"height": 1200,
+"source": "https://commons.wikimedia.org/wiki/File:Posa_Ceppo_di_Gr%C3%A9_alleggerito_Universit%C3%A0_Bocconi_Milano.jpg",
+"path": "assets/photos/bocconi-university-c3.jpg"
+},
+{
+"file": "Paolo Monti – Milano. Università Bocconi, 1969 circa – BEIC IE9092313.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Paolo Monti",
+"width": 2000,
+"height": 1346,
+"source": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_%E2%80%93_Milano._Universit%C3%A0_Bocconi,_1969_circa_%E2%80%93_BEIC_IE9092313.jpg",
+"path": "assets/photos/bocconi-university-c4.jpg"
+},
+{
+"file": "Paolo Monti – Milano. Università Bocconi, 1969 circa – BEIC IE9092334.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Paolo Monti",
+"width": 2000,
+"height": 1346,
+"source": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_%E2%80%93_Milano._Universit%C3%A0_Bocconi,_1969_circa_%E2%80%93_BEIC_IE9092334.jpg",
+"path": "assets/photos/bocconi-university-c5.jpg"
+},
+{
+"file": "Paolo Monti – Milano. Università Bocconi, 1969 circa – BEIC IE9092298.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Paolo Monti",
+"width": 2000,
+"height": 1344,
+"source": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_%E2%80%93_Milano._Universit%C3%A0_Bocconi,_1969_circa_%E2%80%93_BEIC_IE9092298.jpg",
+"path": "assets/photos/bocconi-university-c6.jpg"
+}
+]
 },
 {
 "slug": "ca-foscari",
@@ -1552,6 +1770,60 @@
 "height": 2000,
 "source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Brixen_06.JPG",
 "path": "assets/photos/unibz-1.jpg"
+},
+{
+"file": "DSC01457 Main Building, Free University of Bozen-Bolzano, Sparkassenstraße, Bozen-Bolzano, Southwest View, 2023-06.jpg",
+"license": "CC BY 4.0",
+"artist": "Aciarium",
+"width": 5521,
+"height": 4141,
+"source": "https://commons.wikimedia.org/wiki/File:DSC01457_Main_Building,_Free_University_of_Bozen-Bolzano,_Sparkassenstra%C3%9Fe,_Bozen-Bolzano,_Southwest_View,_2023-06.jpg",
+"path": "assets/photos/unibz-c1.jpg"
+},
+{
+"file": "DSC01455 Administrative Building, Free University of Bozen-Bolzano, Franz-Innerhofer-Platz 8, Bozen-Bolzano, Southwest View, 2023-06.jpg",
+"license": "CC BY 4.0",
+"artist": "Aciarium",
+"width": 5773,
+"height": 4330,
+"source": "https://commons.wikimedia.org/wiki/File:DSC01455_Administrative_Building,_Free_University_of_Bozen-Bolzano,_Franz-Innerhofer-Platz_8,_Bozen-Bolzano,_Southwest_View,_2023-06.jpg",
+"path": "assets/photos/unibz-c2.jpg"
+},
+{
+"file": "DSC01461 Administrative Building, Free University of Bozen-Bolzano, Franz-Innerhofer-Platz 8, Bozen-Bolzano, Southeast View, 2023-06.jpg",
+"license": "CC BY 4.0",
+"artist": "Aciarium",
+"width": 5987,
+"height": 4490,
+"source": "https://commons.wikimedia.org/wiki/File:DSC01461_Administrative_Building,_Free_University_of_Bozen-Bolzano,_Franz-Innerhofer-Platz_8,_Bozen-Bolzano,_Southeast_View,_2023-06.jpg",
+"path": "assets/photos/unibz-c3.jpg"
+},
+{
+"file": "DSC01453 Administrative Building, Free University of Bozen-Bolzano, Franz-Innerhofer-Platz 8, Bozen-Bolzano, South View, 2023-06.jpg",
+"license": "CC BY 4.0",
+"artist": "Aciarium",
+"width": 6049,
+"height": 4537,
+"source": "https://commons.wikimedia.org/wiki/File:DSC01453_Administrative_Building,_Free_University_of_Bozen-Bolzano,_Franz-Innerhofer-Platz_8,_Bozen-Bolzano,_South_View,_2023-06.jpg",
+"path": "assets/photos/unibz-c4.jpg"
+},
+{
+"file": "Brixen univerzitní kampus 3.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "VitVit",
+"width": 2048,
+"height": 1543,
+"source": "https://commons.wikimedia.org/wiki/File:Brixen_univerzitn%C3%AD_kampus_3.jpg",
+"path": "assets/photos/unibz-c5.jpg"
+},
+{
+"file": "Universität Bozen - Universitätsplatz.JPG",
+"license": "CC BY-SA 4.0",
+"artist": "Vollmond11",
+"width": 4104,
+"height": 2736,
+"source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A4t_Bozen_-_Universit%C3%A4tsplatz.JPG",
+"path": "assets/photos/unibz-c6.jpg"
 }
 ]
 },
@@ -1631,6 +1903,60 @@
 "height": 2011,
 "source": "https://commons.wikimedia.org/wiki/File:LUISS_sede_centrale_Via_Pola.jpeg",
 "path": "assets/photos/luiss-1.jpg"
+},
+{
+"file": "LUISS sede centrale Via Pola.jpeg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 2824,
+"height": 2011,
+"source": "https://commons.wikimedia.org/wiki/File:LUISS_sede_centrale_Via_Pola.jpeg",
+"path": "assets/photos/luiss-c1.jpg"
+},
+{
+"file": "Biblioteca Luiss a Roma - Sala lettura esterna.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 6533,
+"height": 3673,
+"source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Luiss_a_Roma_-_Sala_lettura_esterna.jpg",
+"path": "assets/photos/luiss-c2.jpg"
+},
+{
+"file": "Biblioteca Luiss a Roma - Sala lettura testi storici.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 6549,
+"height": 3665,
+"source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Luiss_a_Roma_-_Sala_lettura_testi_storici.jpg",
+"path": "assets/photos/luiss-c3.jpg"
+},
+{
+"file": "Biblioteca Luiss - 1.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 6682,
+"height": 3591,
+"source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Luiss_-_1.jpg",
+"path": "assets/photos/luiss-c4.jpg"
+},
+{
+"file": "Villa Blanc ristrutturata.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 5312,
+"height": 2988,
+"source": "https://commons.wikimedia.org/wiki/File:Villa_Blanc_ristrutturata.jpg",
+"path": "assets/photos/luiss-c5.jpg"
+},
+{
+"file": "Giovanni Lo Storto DG Luiss 02.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Dom&Nick",
+"width": 2829,
+"height": 2829,
+"source": "https://commons.wikimedia.org/wiki/File:Giovanni_Lo_Storto_DG_Luiss_02.jpg",
+"path": "assets/photos/luiss-c6.jpg"
 }
 ]
 },
@@ -1857,6 +2183,60 @@
 "height": 3500,
 "source": "https://commons.wikimedia.org/wiki/File:Ignazio_Visco_at_the_Rebuilding_Europe%E2%80%99s_Competitiveness_Meeting,_Villa_Madama,_Rome_30th_October_2012.jpg",
 "path": "assets/photos/sapienza-university-rome-6.jpg"
+},
+{
+"file": "La Sapienza Università di Roma.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Góngora",
+"width": 4320,
+"height": 3240,
+"source": "https://commons.wikimedia.org/wiki/File:La_Sapienza_Universit%C3%A0_di_Roma.jpg",
+"path": "assets/photos/sapienza-university-rome-c1.jpg"
+},
+{
+"file": "Sapienza Università di Roma.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 3264,
+"height": 1836,
+"source": "https://commons.wikimedia.org/wiki/File:Sapienza_Universit%C3%A0_di_Roma.jpg",
+"path": "assets/photos/sapienza-university-rome-c2.jpg"
+},
+{
+"file": "Ulrike-draesner-sapienza-2024-03.jpg",
+"license": "CC BY 4.0",
+"artist": "Kaethe17 (Villa Massimo 24)",
+"width": 4284,
+"height": 3427,
+"source": "https://commons.wikimedia.org/wiki/File:Ulrike-draesner-sapienza-2024-03.jpg",
+"path": "assets/photos/sapienza-university-rome-c3.jpg"
+},
+{
+"file": "Ingresso UniSapienza Notte.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Andrea1926",
+"width": 4624,
+"height": 3468,
+"source": "https://commons.wikimedia.org/wiki/File:Ingresso_UniSapienza_Notte.jpg",
+"path": "assets/photos/sapienza-university-rome-c4.jpg"
+},
+{
+"file": "Wheelchair lift, Sapienza University of Rome.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Albarubescens",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Wheelchair_lift,_Sapienza_University_of_Rome.jpg",
+"path": "assets/photos/sapienza-university-rome-c5.jpg"
+},
+{
+"file": "Facoltà di Economia Università Sapienza Roma.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dani",
+"width": 5312,
+"height": 2988,
+"source": "https://commons.wikimedia.org/wiki/File:Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg",
+"path": "assets/photos/sapienza-university-rome-c6.jpg"
 }
 ]
 },
@@ -2006,6 +2386,60 @@
 "height": 3648,
 "source": "https://commons.wikimedia.org/wiki/File:Genova,_palazzo_dell%27universit%C3%A0,_cortile_04.JPG",
 "path": "assets/photos/university-of-genoa-1.jpg"
+},
+{
+"file": "Palazzo Balbi Senarega (Genova) 33.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Palazzo_Balbi_Senarega_(Genova)_33.jpg",
+"path": "assets/photos/university-of-genoa-c1.jpg"
+},
+{
+"file": "Palazzo Balbi Senarega (Genova) 01.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Palazzo_Balbi_Senarega_(Genova)_01.jpg",
+"path": "assets/photos/university-of-genoa-c2.jpg"
+},
+{
+"file": "Palazzo Balbi Senarega (Genova) 28.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Palazzo_Balbi_Senarega_(Genova)_28.jpg",
+"path": "assets/photos/university-of-genoa-c3.jpg"
+},
+{
+"file": "Palazzo Balbi Senarega (Genova) 19.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Palazzo_Balbi_Senarega_(Genova)_19.jpg",
+"path": "assets/photos/university-of-genoa-c4.jpg"
+},
+{
+"file": "Palazzo Balbi Senarega (Genova) 16.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Palazzo_Balbi_Senarega_(Genova)_16.jpg",
+"path": "assets/photos/university-of-genoa-c5.jpg"
+},
+{
+"file": "Palazzo Balbi Senarega (Genova) 08.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Palazzo_Balbi_Senarega_(Genova)_08.jpg",
+"path": "assets/photos/university-of-genoa-c6.jpg"
 }
 ]
 },
@@ -2103,6 +2537,60 @@
 "height": 787,
 "source": "https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CE%BB%CE%B9%CF%8C_%CE%A6%CF%81%CE%BF%CF%8D%CF%81%CE%B9%CE%BF_%CE%B1%CF%80%CF%8C_%CF%84%CE%BF%CE%BD_%CE%9A%CE%AE%CF%80%CE%BF_%CF%84%CE%BF%CF%85_%CE%9B%CE%B1%CE%BF%CF%8D_(%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CF%8C).JPG",
 "path": "assets/photos/milano-bicocca-3.jpg"
+},
+{
+"file": "Pietrarubbia Group, Arnaldo Pomodoro, Università Milano-Bicocca 04.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 2592,
+"source": "https://commons.wikimedia.org/wiki/File:Pietrarubbia_Group,_Arnaldo_Pomodoro,_Universit%C3%A0_Milano-Bicocca_04.jpg",
+"path": "assets/photos/milano-bicocca-c1.jpg"
+},
+{
+"file": "Pietrarubbia Group, Arnaldo Pomodoro, Università Milano-Bicocca 05.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Pietrarubbia_Group,_Arnaldo_Pomodoro,_Universit%C3%A0_Milano-Bicocca_05.jpg",
+"path": "assets/photos/milano-bicocca-c2.jpg"
+},
+{
+"file": "Pietrarubbia Group, Arnaldo Pomodoro, Università Milano-Bicocca 06.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 2592,
+"source": "https://commons.wikimedia.org/wiki/File:Pietrarubbia_Group,_Arnaldo_Pomodoro,_Universit%C3%A0_Milano-Bicocca_06.jpg",
+"path": "assets/photos/milano-bicocca-c3.jpg"
+},
+{
+"file": "Pietrarubbia Group, Arnaldo Pomodoro, Università Milano-Bicocca 10.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Pietrarubbia_Group,_Arnaldo_Pomodoro,_Universit%C3%A0_Milano-Bicocca_10.jpg",
+"path": "assets/photos/milano-bicocca-c4.jpg"
+},
+{
+"file": "Pietrarubbia Group, Arnaldo Pomodoro, Università Milano-Bicocca 09.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Pietrarubbia_Group,_Arnaldo_Pomodoro,_Universit%C3%A0_Milano-Bicocca_09.jpg",
+"path": "assets/photos/milano-bicocca-c5.jpg"
+},
+{
+"file": "Pietrarubbia Group, Arnaldo Pomodoro, Università Milano-Bicocca 11.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Carlo Dell'Orto",
+"width": 4608,
+"height": 3072,
+"source": "https://commons.wikimedia.org/wiki/File:Pietrarubbia_Group,_Arnaldo_Pomodoro,_Universit%C3%A0_Milano-Bicocca_11.jpg",
+"path": "assets/photos/milano-bicocca-c6.jpg"
 }
 ]
 },
@@ -2399,6 +2887,60 @@
 "height": 1126,
 "source": "https://commons.wikimedia.org/wiki/File:Palazzo_dell%27Universit%C3%A0_(Turin).jpg",
 "path": "assets/photos/university-of-turin-1.jpg"
+},
+{
+"file": "Particolare del corpo centrale del Palazzo dei Poveri Vecchi e Nuovo Polo.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "CosMochi",
+"width": 2970,
+"height": 2138,
+"source": "https://commons.wikimedia.org/wiki/File:Particolare_del_corpo_centrale_del_Palazzo_dei_Poveri_Vecchi_e_Nuovo_Polo.jpg",
+"path": "assets/photos/university-of-turin-c1.jpg"
+},
+{
+"file": "Facciata del palazzo detto \"dei Poveri Vecchi\".jpg",
+"license": "CC0",
+"artist": "BIBLIOTECA DI ECONOMIA E MANAGEMENT",
+"width": 3760,
+"height": 2271,
+"source": "https://commons.wikimedia.org/wiki/File:Facciata_del_palazzo_detto_%22dei_Poveri_Vecchi%22.jpg",
+"path": "assets/photos/university-of-turin-c2.jpg"
+},
+{
+"file": "Nuovo polo didattico (BEM 17).jpg",
+"license": "CC0",
+"artist": "BIBLIOTECA DI ECONOMIA E MANAGEMENT",
+"width": 3003,
+"height": 2251,
+"source": "https://commons.wikimedia.org/wiki/File:Nuovo_polo_didattico_(BEM_17).jpg",
+"path": "assets/photos/university-of-turin-c3.jpg"
+},
+{
+"file": "Nuovo polo didattico (BEM 19).jpg",
+"license": "CC0",
+"artist": "BIBLIOTECA DI ECONOMIA E MANAGEMENT",
+"width": 3072,
+"height": 2304,
+"source": "https://commons.wikimedia.org/wiki/File:Nuovo_polo_didattico_(BEM_19).jpg",
+"path": "assets/photos/university-of-turin-c4.jpg"
+},
+{
+"file": "Campus Luigi Einaudi, Torino - panoramio.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Uccio “Uccio2” D'Ago…",
+"width": 2086,
+"height": 1386,
+"source": "https://commons.wikimedia.org/wiki/File:Campus_Luigi_Einaudi,_Torino_-_panoramio.jpg",
+"path": "assets/photos/university-of-turin-c5.jpg"
+},
+{
+"file": "Campus Luigi Einaudi Torino - panoramio.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Uccio “Uccio2” D'Ago…",
+"width": 4288,
+"height": 2848,
+"source": "https://commons.wikimedia.org/wiki/File:Campus_Luigi_Einaudi_Torino_-_panoramio.jpg",
+"path": "assets/photos/university-of-turin-c6.jpg"
 }
 ]
 },
@@ -2407,7 +2949,62 @@
 "name": "University of Verona",
 "city": "Verona",
 "country": "İtalya",
-"photos": []
+"photos": [
+{
+"file": "Stemma università di Verona.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "The original uploader was Cadria at Italian Wikipedia.",
+"width": 2304,
+"height": 1728,
+"source": "https://commons.wikimedia.org/wiki/File:Stemma_universit%C3%A0_di_Verona.jpg",
+"path": "assets/photos/university-of-verona-c1.jpg"
+},
+{
+"file": "James Patrick Allison Onorificenza UNIVR.jpg",
+"license": "CC BY 4.0",
+"artist": "Marco Biasin",
+"width": 1848,
+"height": 1384,
+"source": "https://commons.wikimedia.org/wiki/File:James_Patrick_Allison_Onorificenza_UNIVR.jpg",
+"path": "assets/photos/university-of-verona-c2.jpg"
+},
+{
+"file": "Provianda di Santa Marta Verona 01.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Mauzzan",
+"width": 3024,
+"height": 3024,
+"source": "https://commons.wikimedia.org/wiki/File:Provianda_di_Santa_Marta_Verona_01.jpg",
+"path": "assets/photos/university-of-verona-c3.jpg"
+},
+{
+"file": "Colori autunnali, UniVR.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Pottercomuneo",
+"width": 2048,
+"height": 1536,
+"source": "https://commons.wikimedia.org/wiki/File:Colori_autunnali,_UniVR.jpg",
+"path": "assets/photos/university-of-verona-c4.jpg"
+},
+{
+"file": "Emeroteca Frinzi.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Alessia Parolotto",
+"width": 1642,
+"height": 1094,
+"source": "https://commons.wikimedia.org/wiki/File:Emeroteca_Frinzi.jpg",
+"path": "assets/photos/university-of-verona-c5.jpg"
+},
+{
+"file": "Arnulf conquering the city of Verona, 934.jpg",
+"license": "Public domain",
+"artist": "Wilhelm Sohn",
+"width": 1600,
+"height": 2072,
+"source": "https://commons.wikimedia.org/wiki/File:Arnulf_conquering_the_city_of_Verona,_934.jpg",
+"path": "assets/photos/university-of-verona-c6.jpg"
+}
+]
 },
 {
 "slug": "cattolica-milan",
@@ -2738,6 +3335,51 @@
 "height": 3000,
 "source": "https://commons.wikimedia.org/wiki/File:Erasmus_MC_2012.JPG",
 "path": "assets/photos/eur-rotterdam-6.jpg"
+},
+{
+"file": "DESIDERIUS MULTIPLEX Erasmus icoon van de universiteit.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "WikiGÉÈF",
+"width": 3730,
+"height": 5600,
+"source": "https://commons.wikimedia.org/wiki/File:DESIDERIUS_MULTIPLEX_Erasmus_icoon_van_de_universiteit.jpg",
+"path": "assets/photos/eur-rotterdam-c1.jpg"
+},
+{
+"file": "DESIDERIUS BREVIERT ®.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "WikiGÉÈF",
+"width": 3543,
+"height": 2363,
+"source": "https://commons.wikimedia.org/wiki/File:DESIDERIUS_BREVIERT_%C2%AE.jpg",
+"path": "assets/photos/eur-rotterdam-c2.jpg"
+},
+{
+"file": "FRAMES 2012.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "WikiGÉÈF",
+"width": 3543,
+"height": 2362,
+"source": "https://commons.wikimedia.org/wiki/File:FRAMES_2012.jpg",
+"path": "assets/photos/eur-rotterdam-c3.jpg"
+},
+{
+"file": "ZIJNSVERGETELHEID 2013.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "WikiGÉÈF",
+"width": 3307,
+"height": 2475,
+"source": "https://commons.wikimedia.org/wiki/File:ZIJNSVERGETELHEID_2013.jpg",
+"path": "assets/photos/eur-rotterdam-c4.jpg"
+},
+{
+"file": "BROCHE 2012.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "WikiGÉÈF",
+"width": 3543,
+"height": 2363,
+"source": "https://commons.wikimedia.org/wiki/File:BROCHE_2012.jpg",
+"path": "assets/photos/eur-rotterdam-c5.jpg"
 }
 ]
 },
@@ -2772,6 +3414,60 @@
 "height": 1333,
 "source": "https://commons.wikimedia.org/wiki/File:Exterior_Benthem_Crouwel_Building_circa_2005.jpg",
 "path": "assets/photos/rietveld-1.jpg"
+},
+{
+"file": "Interieur Gerrit Rietveld Academie. Metaalwerkplaats, 1998.jpg",
+"license": "CC0",
+"artist": "Vervaardiger: Doriann Kransberg (eigen fotodienst Stadsarchief Amsterd",
+"width": 3046,
+"height": 2382,
+"source": "https://commons.wikimedia.org/wiki/File:Interieur_Gerrit_Rietveld_Academie._Metaalwerkplaats,_1998.jpg",
+"path": "assets/photos/rietveld-c1.jpg"
+},
+{
+"file": "Interieur Gerrit Rietveld Academie. Basisjaar, 1998.jpg",
+"license": "CC0",
+"artist": "Vervaardiger: Doriann Kransberg (eigen fotodienst Stadsarchief Amsterd",
+"width": 3064,
+"height": 2208,
+"source": "https://commons.wikimedia.org/wiki/File:Interieur_Gerrit_Rietveld_Academie._Basisjaar,_1998.jpg",
+"path": "assets/photos/rietveld-c2.jpg"
+},
+{
+"file": "Interieur Gerrit Rietveld Academie. Kantine, 1998.jpg",
+"license": "CC0",
+"artist": "Vervaardiger: Doriann Kransberg (eigen fotodienst Stadsarchief Amsterd",
+"width": 3058,
+"height": 2232,
+"source": "https://commons.wikimedia.org/wiki/File:Interieur_Gerrit_Rietveld_Academie._Kantine,_1998.jpg",
+"path": "assets/photos/rietveld-c3.jpg"
+},
+{
+"file": "Interieur Gerrit Rietveld Academie. Afdeling Textielvormgeving. 1998.jpg",
+"license": "CC0",
+"artist": "Vervaardiger: Doriann Kransberg (eigen fotodienst Stadsarchief Amsterd",
+"width": 3040,
+"height": 2142,
+"source": "https://commons.wikimedia.org/wiki/File:Interieur_Gerrit_Rietveld_Academie._Afdeling_Textielvormgeving._1998.jpg",
+"path": "assets/photos/rietveld-c4.jpg"
+},
+{
+"file": "Interieur Gerrit Rietveld Academie. Basisjaar Modeltekenen, 1998.jpg",
+"license": "CC0",
+"artist": "Vervaardiger: Doriann Kransberg (eigen fotodienst Stadsarchief Amsterd",
+"width": 3076,
+"height": 2250,
+"source": "https://commons.wikimedia.org/wiki/File:Interieur_Gerrit_Rietveld_Academie._Basisjaar_Modeltekenen,_1998.jpg",
+"path": "assets/photos/rietveld-c5.jpg"
+},
+{
+"file": "Interieur Gerrit Rietveld Academie. Afdeling Grafiek, 1998.jpg",
+"license": "CC0",
+"artist": "Vervaardiger: Doriann Kransberg (eigen fotodienst Stadsarchief Amsterd",
+"width": 3058,
+"height": 2130,
+"source": "https://commons.wikimedia.org/wiki/File:Interieur_Gerrit_Rietveld_Academie._Afdeling_Grafiek,_1998.jpg",
+"path": "assets/photos/rietveld-c6.jpg"
 }
 ]
 },
@@ -2859,6 +3555,42 @@
 "height": 3156,
 "source": "https://commons.wikimedia.org/wiki/File:Oude_Groninger_Museum_(Praediniussingel).jpg",
 "path": "assets/photos/hanze-2.jpg"
+},
+{
+"file": "20140629 Zuiderkuipen 19 (Academie van Bouwkunst) Groningen NL.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Wutsje / Wikimedia Commons / CC-BY-SA 3.0",
+"width": 2900,
+"height": 2900,
+"source": "https://commons.wikimedia.org/wiki/File:20140629_Zuiderkuipen_19_(Academie_van_Bouwkunst)_Groningen_NL.jpg",
+"path": "assets/photos/hanze-c1.jpg"
+},
+{
+"file": "Oude Groninger Museum (Praediniussingel).jpg",
+"license": "CC BY-SA 3.0",
+"artist": "User:Hardscarf",
+"width": 4734,
+"height": 3156,
+"source": "https://commons.wikimedia.org/wiki/File:Oude_Groninger_Museum_(Praediniussingel).jpg",
+"path": "assets/photos/hanze-c2.jpg"
+},
+{
+"file": "Hanze University Groningen Tower.jpg",
+"license": "Public domain",
+"artist": "Theundutchable",
+"width": 1998,
+"height": 3024,
+"source": "https://commons.wikimedia.org/wiki/File:Hanze_University_Groningen_Tower.jpg",
+"path": "assets/photos/hanze-c3.jpg"
+},
+{
+"file": "Rens Muis and Pieter Vos of 75B, 2009.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "75B",
+"width": 3620,
+"height": 2552,
+"source": "https://commons.wikimedia.org/wiki/File:Rens_Muis_and_Pieter_Vos_of_75B,_2009.jpg",
+"path": "assets/photos/hanze-c4.jpg"
 }
 ]
 },
@@ -3209,6 +3941,33 @@
 "height": 3333,
 "source": "https://commons.wikimedia.org/wiki/File:TilburgUniversityCampus_2.jpg",
 "path": "assets/photos/tilburg-1.jpg"
+},
+{
+"file": "Tilburg University campus.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Choinowski",
+"width": 4160,
+"height": 2773,
+"source": "https://commons.wikimedia.org/wiki/File:Tilburg_University_campus.jpg",
+"path": "assets/photos/tilburg-c1.jpg"
+},
+{
+"file": "Marga Klompé building, Tilburg University.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Niels Hoogvliet",
+"width": 4032,
+"height": 3024,
+"source": "https://commons.wikimedia.org/wiki/File:Marga_Klomp%C3%A9_building,_Tilburg_University.jpg",
+"path": "assets/photos/tilburg-c2.jpg"
+},
+{
+"file": "Simon Building Tilburg.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Choinowski",
+"width": 5202,
+"height": 3467,
+"source": "https://commons.wikimedia.org/wiki/File:Simon_Building_Tilburg.jpg",
+"path": "assets/photos/tilburg-c3.jpg"
 }
 ]
 },
@@ -3934,6 +4693,60 @@
 "height": 1672,
 "source": "https://commons.wikimedia.org/wiki/File:Leonid_Hurwicz.jpg",
 "path": "assets/photos/lse-6.jpg"
+},
+{
+"file": "Centre Building, LSE from LSE Square.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Shadowssettle",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Centre_Building,_LSE_from_LSE_Square.jpg",
+"path": "assets/photos/lse-c1.jpg"
+},
+{
+"file": "LSE Old Building Entrance, Houghton Street.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Shadowssettle",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:LSE_Old_Building_Entrance,_Houghton_Street.jpg",
+"path": "assets/photos/lse-c2.jpg"
+},
+{
+"file": "LSE Old Building Entrance Arch, Houghton Street.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Shadowssettle",
+"width": 3456,
+"height": 4608,
+"source": "https://commons.wikimedia.org/wiki/File:LSE_Old_Building_Entrance_Arch,_Houghton_Street.jpg",
+"path": "assets/photos/lse-c3.jpg"
+},
+{
+"file": "Centre Building Entrance in front of the Old Building.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Shadowssettle",
+"width": 3456,
+"height": 4608,
+"source": "https://commons.wikimedia.org/wiki/File:Centre_Building_Entrance_in_front_of_the_Old_Building.jpg",
+"path": "assets/photos/lse-c4.jpg"
+},
+{
+"file": "Centre Building, LSE in the afternoon.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Shadowssettle",
+"width": 3456,
+"height": 4315,
+"source": "https://commons.wikimedia.org/wiki/File:Centre_Building,_LSE_in_the_afternoon.jpg",
+"path": "assets/photos/lse-c5.jpg"
+},
+{
+"file": "Holborn , interior, Marshall Building, London School of Economics - geograph.org.uk - 7551370.jpg",
+"license": "CC BY-SA 2.0",
+"artist": "Jim Osley",
+"width": 3318,
+"height": 2461,
+"source": "https://commons.wikimedia.org/wiki/File:Holborn_,_interior,_Marshall_Building,_London_School_of_Economics_-_geograph.org.uk_-_7551370.jpg",
+"path": "assets/photos/lse-c6.jpg"
 }
 ]
 },
@@ -5634,6 +6447,60 @@
 "height": 3671,
 "source": "https://commons.wikimedia.org/wiki/File:Isaac.Asimov01.jpg",
 "path": "assets/photos/columbia-6.jpg"
+},
+{
+"file": "Columbia University New York November 2016 002.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "King of Hearts",
+"width": 5800,
+"height": 3480,
+"source": "https://commons.wikimedia.org/wiki/File:Columbia_University_New_York_November_2016_002.jpg",
+"path": "assets/photos/columbia-c1.jpg"
+},
+{
+"file": "Low Memorial Library Columbia University College Walk Court Yard 05.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Ad Meskens",
+"width": 3648,
+"height": 2736,
+"source": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg",
+"path": "assets/photos/columbia-c2.jpg"
+},
+{
+"file": "Low Memorial Library at Columbia University 12-17-2025.jpg",
+"license": "CC BY 4.0",
+"artist": "Magpieturtle",
+"width": 3685,
+"height": 2764,
+"source": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_at_Columbia_University_12-17-2025.jpg",
+"path": "assets/photos/columbia-c3.jpg"
+},
+{
+"file": "Columbia University Low Memorial Library 1.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Ashley98lee",
+"width": 3470,
+"height": 2602,
+"source": "https://commons.wikimedia.org/wiki/File:Columbia_University_Low_Memorial_Library_1.jpg",
+"path": "assets/photos/columbia-c4.jpg"
+},
+{
+"file": "Low Library Columbia University 8-11-06.jpg",
+"license": "CC BY 2.5",
+"artist": "BrOnXbOmBr21 at English Wikipedia",
+"width": 2816,
+"height": 2112,
+"source": "https://commons.wikimedia.org/wiki/File:Low_Library_Columbia_University_8-11-06.jpg",
+"path": "assets/photos/columbia-c5.jpg"
+},
+{
+"file": "Columbia University - Low Memorial Library (48170370506).jpg",
+"license": "CC BY 2.0",
+"artist": "Ajay Suresh from New York, NY, USA",
+"width": 3916,
+"height": 2937,
+"source": "https://commons.wikimedia.org/wiki/File:Columbia_University_-_Low_Memorial_Library_(48170370506).jpg",
+"path": "assets/photos/columbia-c6.jpg"
 }
 ]
 },
@@ -5882,6 +6749,60 @@
 "height": 2612,
 "source": "https://commons.wikimedia.org/wiki/File:Harvard_Crimson_players_after_game.jpg",
 "path": "assets/photos/harvard-6.jpg"
+},
+{
+"file": "Harvard Yard im Sommer.jpg",
+"license": "Public domain",
+"artist": "Marco Almbauer",
+"width": 5374,
+"height": 3583,
+"source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard_im_Sommer.jpg",
+"path": "assets/photos/harvard-c1.jpg"
+},
+{
+"file": "Harvard Yard, February 2022 5.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Sdkb",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard,_February_2022_5.jpg",
+"path": "assets/photos/harvard-c2.jpg"
+},
+{
+"file": "Harvard Yard, February 2022 2.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Sdkb",
+"width": 4608,
+"height": 3456,
+"source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard,_February_2022_2.jpg",
+"path": "assets/photos/harvard-c3.jpg"
+},
+{
+"file": "Harvard Yard, February 2022 3.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Sdkb",
+"width": 8704,
+"height": 4352,
+"source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard,_February_2022_3.jpg",
+"path": "assets/photos/harvard-c4.jpg"
+},
+{
+"file": "Harvard Yard in autumn, Boston, Massachusetts, 2015.jpg",
+"license": "CC BY 2.0",
+"artist": "Nina R from Africa",
+"width": 3872,
+"height": 2581,
+"source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard_in_autumn,_Boston,_Massachusetts,_2015.jpg",
+"path": "assets/photos/harvard-c5.jpg"
+},
+{
+"file": "Harvard Yard, February 2022 4.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Sdkb",
+"width": 8704,
+"height": 4352,
+"source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard,_February_2022_4.jpg",
+"path": "assets/photos/harvard-c6.jpg"
 }
 ]
 },
