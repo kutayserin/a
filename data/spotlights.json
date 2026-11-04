@@ -1,0 +1,800 @@
+[
+  {
+    "slug": "london-buckingham-palace",
+    "hook": "One palace, two jobs: royal home and head office",
+    "fact": "Buckingham Palace is the monarch's official residence and also the administrative headquarters of the UK monarchy.",
+    "title": "Buckingham Palace: a London residence that is also a workplace",
+    "tag": "buckinghampalace"
+  },
+  {
+    "slug": "london-westminster-abbey",
+    "hook": "40 coronations in one church since 1066",
+    "fact": "Westminster Abbey has hosted the coronations of 40 English and British monarchs and is the burial site of 18.",
+    "title": "Westminster Abbey, London: coronations since 1066",
+    "tag": "westminsterabbey"
+  },
+  {
+    "slug": "london-big-ben",
+    "hook": "The name is for the bell, not the tower",
+    "fact": "Big Ben is the nickname of the Great Bell; the tower itself was renamed the Elizabeth Tower in 2012.",
+    "title": "Big Ben, London: the bell behind the nickname",
+    "tag": "bigben"
+  },
+  {
+    "slug": "london-trafalgar-square",
+    "hook": "Named for a naval battle fought on 21 October 1805",
+    "fact": "Trafalgar Square takes its name from the Battle of Trafalgar, a British naval victory over France and Spain.",
+    "title": "Trafalgar Square, London: a square named after a naval battle",
+    "tag": "trafalgarsquare"
+  },
+  {
+    "slug": "london-british-museum",
+    "hook": "Eight million objects under one roof",
+    "fact": "The British Museum was established in 1753 as the world's first public national museum; 6,440,120 visited in 2025.",
+    "title": "British Museum, London: eight million artefacts",
+    "tag": "britishmuseum"
+  },
+  {
+    "slug": "london-st-paul-s-cathedral",
+    "hook": "Rebuilt after the Great Fire, finished in 1710",
+    "fact": "Sir Christopher Wren designed the present St Paul's Cathedral in the English Baroque style; it was completed in 1710.",
+    "title": "St Paul's Cathedral, London: Wren's dome on Ludgate Hill",
+    "tag": "stpauls"
+  },
+  {
+    "slug": "london-tower-of-london",
+    "hook": "William the Conqueror's tower, built in 1078",
+    "fact": "The White Tower, which gives the Tower of London its name, was built by William the Conqueror in 1078.",
+    "title": "Tower of London: the White Tower of 1078",
+    "tag": "toweroflondon"
+  },
+  {
+    "slug": "london-tower-bridge",
+    "hook": "Owned by a charity founded in 1282",
+    "fact": "Tower Bridge was built from 1886 to 1894 but is maintained by the City Bridge Foundation, a trust founded in 1282.",
+    "title": "Tower Bridge, London: built 1886 to 1894, run by a trust from 1282",
+    "tag": "towerbridge"
+  },
+  {
+    "slug": "florence-accademia-gallery",
+    "hook": "Shares a name with the art school next door, nothing else",
+    "fact": "The Galleria dell'Accademia holds Michelangelo's David and adjoins the fine arts academy, yet the two are unconnected.",
+    "title": "Accademia Gallery, Florence: home of Michelangelo's David",
+    "tag": "accademia"
+  },
+  {
+    "slug": "florence-museum-of-san-marco",
+    "hook": "Fra Angelico and Savonarola lived under the same roof",
+    "fact": "In the 15th century the San Marco convent housed both the painter Fra Angelico and the preacher Girolamo Savonarola.",
+    "title": "San Marco, Florence: convent of Fra Angelico and Savonarola",
+    "tag": "sanmarco"
+  },
+  {
+    "slug": "florence-florence-cathedral",
+    "hook": "Started in 1296, domed by 1436",
+    "fact": "Florence Cathedral was begun in 1296 to Arnolfo di Cambio's design and completed by 1436 with Brunelleschi's dome.",
+    "title": "Florence Cathedral: Brunelleschi's dome, finished by 1436",
+    "tag": "florencecathedral"
+  },
+  {
+    "slug": "florence-palazzo-vecchio",
+    "hook": "The David outside is a copy",
+    "fact": "Palazzo Vecchio, Florence's town hall, overlooks Piazza della Signoria, where a copy of Michelangelo's David stands.",
+    "title": "Palazzo Vecchio: the town hall of Florence",
+    "tag": "palazzovecchio"
+  },
+  {
+    "slug": "florence-uffizi-gallery",
+    "hook": "One of Italy's most visited museums sits beside a piazza",
+    "fact": "The Uffizi Gallery, next to Piazza della Signoria, is known worldwide for its Italian Renaissance art collection.",
+    "title": "Uffizi Gallery, Florence: Renaissance art by Piazza della Signoria",
+    "tag": "uffizi"
+  },
+  {
+    "slug": "florence-ponte-vecchio",
+    "hook": "Butchers and tanners once ran these bridge shops",
+    "fact": "Jewellers now fill the shops on the Ponte Vecchio, the only bridge in Florence spared from destruction in World War II.",
+    "title": "Ponte Vecchio, Florence: a bridge lined with shops",
+    "tag": "pontevecchio"
+  },
+  {
+    "slug": "florence-palazzo-pitti",
+    "hook": "A banker's town house, dating from 1458",
+    "fact": "The core of Palazzo Pitti dates from 1458, when it was the town residence of Luca Pitti, a Florentine banker.",
+    "title": "Palazzo Pitti, Florence: from banker's house to palace museum",
+    "tag": "palazzopitti"
+  },
+  {
+    "slug": "florence-santa-croce",
+    "hook": "Michelangelo, Galileo and Machiavelli, buried in one church",
+    "fact": "Santa Croce in Florence is known as the Temple of the Italian Glories for the notable Italians buried there.",
+    "title": "Santa Croce, Florence: the Temple of the Italian Glories",
+    "tag": "santacroce"
+  },
+  {
+    "slug": "prague-prague-castle",
+    "hook": "The crown jewels are kept in a hidden room",
+    "fact": "Prague Castle, built in the 9th century, is the president's workplace and keeps the Bohemian Crown Jewels hidden inside.",
+    "title": "Prague Castle: seat of Bohemian kings and Czech presidents",
+    "tag": "praguecastle"
+  },
+  {
+    "slug": "prague-st-vitus-cathedral",
+    "hook": "Three saints in the name, but everyone says just one",
+    "fact": "Until 1997 the cathedral was dedicated only to Saint Vitus; it now also honours Wenceslaus and Adalbert.",
+    "title": "St. Vitus Cathedral, Prague: seat of the Archbishop of Prague",
+    "tag": "stvitus"
+  },
+  {
+    "slug": "prague-charles-bridge",
+    "hook": "Begun in 1357, called Charles Bridge only since 1870",
+    "fact": "Charles Bridge was begun in 1357 under King Charles IV and replaced the Judith Bridge, damaged by a flood in 1342.",
+    "title": "Charles Bridge, Prague: a stone bridge begun in 1357",
+    "tag": "charlesbridge"
+  },
+  {
+    "slug": "prague-old-town-square",
+    "hook": "Between Wenceslas Square and Charles Bridge",
+    "fact": "Old Town Square is the historic square of Prague's Old Town quarter, set between Wenceslas Square and Charles Bridge.",
+    "title": "Old Town Square, Prague: historic square of the Old Town quarter",
+    "tag": "oldtownsquare"
+  },
+  {
+    "slug": "prague-astronomical-clock",
+    "hook": "Medieval, astronomical, and attached to the town hall",
+    "fact": "The Prague Orloj is a medieval astronomical clock attached to the Old Town Hall in Prague.",
+    "title": "Prague Astronomical Clock: the Orloj on the Old Town Hall",
+    "tag": "orloj"
+  },
+  {
+    "slug": "prague-wenceslas-square",
+    "hook": "Busiest foot traffic in the whole country",
+    "fact": "Wenceslas Square, named after Bohemia's patron saint, has long been the setting for demonstrations and celebrations.",
+    "title": "Wenceslas Square, Prague: the New Town's gathering place",
+    "tag": "wenceslassquare"
+  },
+  {
+    "slug": "prague-dancing-house",
+    "hook": "Nicknamed Ginger and Fred, finished in 1996",
+    "fact": "The Dancing House was designed in 1992 by Vlado Milunić with Frank Gehry and completed four years later.",
+    "title": "Dancing House, Prague: Gehry and Milunić on the riverfront",
+    "tag": "dancinghouse"
+  },
+  {
+    "slug": "madrid-temple-of-debod",
+    "hook": "Taken apart in Egypt, rebuilt in Madrid from 1970",
+    "fact": "Egypt gave the Temple of Debod to Spain in 1968; it was rebuilt in Madrid's Parque de la Montaña in 1970 to 1972.",
+    "title": "Temple of Debod, Madrid: an ancient Nubian temple in Spain",
+    "tag": "templeofdebod"
+  },
+  {
+    "slug": "madrid-royal-palace",
+    "hook": "3,418 rooms, the largest palace in Western Europe",
+    "fact": "The Royal Palace of Madrid has over 135,000 m2 of floor space and is used mainly for state ceremonies.",
+    "title": "Royal Palace of Madrid: 3,418 rooms",
+    "tag": "royalpalacemadrid"
+  },
+  {
+    "slug": "madrid-almudena-cathedral",
+    "hook": "Begun in 1883, consecrated in 1993",
+    "fact": "Almudena Cathedral in Madrid took over a century to build and was consecrated by Pope John Paul II in 1993.",
+    "title": "Almudena Cathedral, Madrid: a century in the making",
+    "tag": "almudena"
+  },
+  {
+    "slug": "madrid-puerta-del-sol",
+    "hook": "The clock whose bells start the Twelve Grapes",
+    "fact": "Puerta del Sol's clock marks the eating of the Twelve Grapes at New Year, broadcast live since 31 December 1962.",
+    "title": "Puerta del Sol, Madrid: the clock that rings in the New Year",
+    "tag": "puertadelsol"
+  },
+  {
+    "slug": "madrid-plaza-de-cibeles",
+    "hook": "Renamed in 1900, then renamed again",
+    "fact": "Plaza de Cibeles began as Plaza de Madrid, became Plaza de Castelar in 1900 and later took its present name.",
+    "title": "Plaza de Cibeles, Madrid: marble fountains at a crossroads",
+    "tag": "cibeles"
+  },
+  {
+    "slug": "madrid-prado-museum",
+    "hook": "Goya has more works here than anyone else",
+    "fact": "The Prado, founded in 1819, holds Spain's former royal collection; Francisco Goya is its most represented artist.",
+    "title": "Museo del Prado, Madrid: Spain's national art museum",
+    "tag": "prado"
+  },
+  {
+    "slug": "madrid-el-retiro-park",
+    "hook": "Royal property until a revolution in 1868",
+    "fact": "El Retiro covers 1.4 km2 and became a public park in 1868; since 2021 it has been part of a UNESCO World Heritage Site.",
+    "title": "El Retiro Park, Madrid: from royal grounds to public park",
+    "tag": "elretiro"
+  },
+  {
+    "slug": "madrid-reina-sofia-museum",
+    "hook": "Named for a queen, opened on September 10, 1992",
+    "fact": "The Reina Sofía is Spain's national museum of 20th-century art, near Atocha station in Madrid.",
+    "title": "Reina Sofía Museum, Madrid: 20th-century art near Atocha",
+    "tag": "reinasofia"
+  },
+  {
+    "slug": "athens-acropolis",
+    "hook": "A name that means highest point of the city",
+    "fact": "In ancient times the Acropolis of Athens was also known as Cecropia, after Cecrops, the supposed first Athenian king.",
+    "title": "Acropolis of Athens: the citadel on the rock",
+    "tag": "acropolis"
+  },
+  {
+    "slug": "athens-acropolis-museum",
+    "hook": "Built on top of Roman and Byzantine ruins",
+    "fact": "The Acropolis Museum houses every artifact found on the rock and its slopes, from the Bronze Age to Byzantine Greece.",
+    "title": "Acropolis Museum, Athens: finds from the rock, above Roman ruins",
+    "tag": "acropolismuseum"
+  },
+  {
+    "slug": "athens-ancient-agora",
+    "hook": "Trade, assembly and homes, northwest of the Acropolis",
+    "fact": "The Ancient Agora of Athens is bounded by the Areopagus and by Agoraios Kolonos, also called Market Hill.",
+    "title": "Ancient Agora of Athens: the city's old gathering place",
+    "tag": "ancientagora"
+  },
+  {
+    "slug": "athens-plaka",
+    "hook": "Nicknamed the Neighborhood of the Gods",
+    "fact": "Plaka's winding streets sit on the slopes of the Acropolis, on top of the residential areas of ancient Athens.",
+    "title": "Plaka, Athens: the old neighborhood below the Acropolis",
+    "tag": "plaka"
+  },
+  {
+    "slug": "athens-temple-of-olympian-zeus",
+    "hook": "638 years from first stone to finish",
+    "fact": "Begun in the 6th century BC, the Temple of Olympian Zeus was finished under Hadrian with 104 colossal columns.",
+    "title": "Temple of Olympian Zeus, Athens: 104 columns, 638 years",
+    "tag": "olympieion"
+  },
+  {
+    "slug": "athens-panathenaic-stadium",
+    "hook": "Every part of this stadium is marble",
+    "fact": "The Panathenaic Stadium, also called Kallimarmaro, is the only stadium in the world built entirely of marble.",
+    "title": "Panathenaic Stadium, Athens: the all-marble stadium",
+    "tag": "kallimarmaro"
+  },
+  {
+    "slug": "athens-syntagma-square",
+    "hook": "Named after a constitution won by an uprising in 1843",
+    "fact": "Syntagma Square faces the Old Royal Palace, which has housed the Greek Parliament since 1934.",
+    "title": "Syntagma Square, Athens: named for the Constitution of 1843",
+    "tag": "syntagma"
+  },
+  {
+    "slug": "budapest-hungarian-parliament",
+    "hook": "The largest building in Hungary since 1902",
+    "fact": "Imre Steindl designed the Hungarian Parliament in neo-Gothic style, drawing on the Vienna City Hall.",
+    "title": "Hungarian Parliament Building, Budapest: neo-Gothic on the Danube",
+    "tag": "hungarianparliament"
+  },
+  {
+    "slug": "budapest-st-stephen-s-basilica",
+    "hook": "The right hand of Hungary's first king is kept here",
+    "fact": "St. Stephen's Basilica is named for Stephen, the first King of Hungary, whose right hand is housed in its reliquary.",
+    "title": "St. Stephen's Basilica, Budapest: relic of Hungary's first king",
+    "tag": "ststephensbasilica"
+  },
+  {
+    "slug": "budapest-dohany-street-synagogue",
+    "hook": "Europe's largest synagogue seats 3,000",
+    "fact": "The Dohány Street Synagogue in Budapest is a centre of Neolog Judaism and worships in the Ashkenazi rite.",
+    "title": "Dohány Street Synagogue, Budapest: the largest synagogue in Europe",
+    "tag": "dohanysynagogue"
+  },
+  {
+    "slug": "budapest-chain-bridge",
+    "hook": "Designed by one Clark, built by another",
+    "fact": "The Széchenyi Chain Bridge opened in 1849 as the first permanent bridge across the Danube in Hungary.",
+    "title": "Chain Bridge, Budapest: Hungary's first permanent Danube bridge",
+    "tag": "chainbridge"
+  },
+  {
+    "slug": "budapest-buda-castle",
+    "hook": "First completed in 1265, now home to three institutions",
+    "fact": "Buda Castle houses the Hungarian National Gallery, the Budapest Historical Museum and the National Széchényi Library.",
+    "title": "Buda Castle, Budapest: palace of the Hungarian kings",
+    "tag": "budacastle"
+  },
+  {
+    "slug": "budapest-matthias-church",
+    "hook": "Known by three names, one of them Coronation Church",
+    "fact": "Matthias Church stands in Holy Trinity Square, in front of the Fisherman's Bastion in Buda's Castle District.",
+    "title": "Matthias Church, Budapest: the Coronation Church of Buda",
+    "tag": "matthiaschurch"
+  },
+  {
+    "slug": "budapest-fisherman-s-bastion",
+    "hook": "UNESCO-listed since 1987, as part of a whole district",
+    "fact": "Fisherman's Bastion, or Halászbástya, stands near Buda Castle in the Várkerület district of Budapest.",
+    "title": "Fisherman's Bastion, Budapest: the Halászbástya near Buda Castle",
+    "tag": "fishermansbastion"
+  },
+  {
+    "slug": "amsterdam-rijksmuseum",
+    "hook": "Dutch art and history, on a square full of museums",
+    "fact": "The Rijksmuseum is the national museum of the Netherlands, close to the Van Gogh Museum and the Stedelijk.",
+    "title": "Rijksmuseum, Amsterdam: the Dutch national museum",
+    "tag": "rijksmuseum"
+  },
+  {
+    "slug": "amsterdam-van-gogh-museum",
+    "hook": "Opened on 2 June 1973, designed by two architects",
+    "fact": "The Van Gogh Museum's buildings were designed by Gerrit Rietveld and Kisho Kurokawa on Amsterdam's Museum Square.",
+    "title": "Van Gogh Museum, Amsterdam: Vincent and his contemporaries",
+    "tag": "vangoghmuseum"
+  },
+  {
+    "slug": "amsterdam-vondelpark",
+    "hook": "47 hectares, around 10 million visitors a year",
+    "fact": "The Vondelpark opened in 1865 as Nieuwe Park and was later renamed after the 17th-century poet Joost van den Vondel.",
+    "title": "Vondelpark, Amsterdam: a park named after a poet",
+    "tag": "vondelpark"
+  },
+  {
+    "slug": "amsterdam-begijnhof",
+    "hook": "Originally a béguinage, now home to two churches",
+    "fact": "The Begijnhof is one of Amsterdam's oldest hofjes and holds the Catholic Miracle Church and the English Reformed Church.",
+    "title": "Begijnhof, Amsterdam: one of the city's oldest inner courts",
+    "tag": "begijnhof"
+  },
+  {
+    "slug": "amsterdam-dam-square",
+    "hook": "Also known simply as the Dam",
+    "fact": "Dam Square's buildings and frequent events make it one of the best-known locations in the Netherlands.",
+    "title": "Dam Square, Amsterdam: the town square known as the Dam",
+    "tag": "damsquare"
+  },
+  {
+    "slug": "amsterdam-oude-kerk",
+    "hook": "Founded around 1213, showing contemporary art since 2012",
+    "fact": "The Oude Kerk is Amsterdam's oldest structure, consecrated in 1306 and a Reformed church since 1578.",
+    "title": "Oude Kerk, Amsterdam: the city's oldest building",
+    "tag": "oudekerk"
+  },
+  {
+    "slug": "amsterdam-anne-frank-house",
+    "hook": "A writer's house on the Prinsengracht",
+    "fact": "The Anne Frank House is a biographical museum dedicated to the Jewish wartime diarist Anne Frank.",
+    "title": "Anne Frank House, Amsterdam: museum of the wartime diarist",
+    "tag": "annefrankhouse"
+  },
+  {
+    "slug": "vienna-st-stephen-s-cathedral",
+    "hook": "The mother church of an archdiocese",
+    "fact": "St. Stephen's Cathedral is the seat of the Archbishop of Vienna, Josef Grünwidl.",
+    "title": "St. Stephen's Cathedral, Vienna: mother church of the archdiocese",
+    "tag": "stephansdom"
+  },
+  {
+    "slug": "vienna-hofburg",
+    "hook": "Habsburg winter palace, presidential office since 1946",
+    "fact": "The Hofburg was built in the 13th century by Ottokar II of Bohemia and expanded several times afterwards.",
+    "title": "Hofburg, Vienna: from Habsburg palace to presidential seat",
+    "tag": "hofburg"
+  },
+  {
+    "slug": "vienna-albertina",
+    "hook": "Around 1 million old master prints in one museum",
+    "fact": "The Albertina holds about 65,000 drawings and welcomed 1,037,347 visitors in 2025.",
+    "title": "Albertina, Vienna: one of the largest print rooms in the world",
+    "tag": "albertina"
+  },
+  {
+    "slug": "vienna-kunsthistorisches-museum",
+    "hook": "Austria's largest art museum, under an octagonal dome",
+    "fact": "The Kunsthistorisches Museum occupies a palatial building on the Vienna Ring Road, crowned with an octagonal dome.",
+    "title": "Kunsthistorisches Museum, Vienna: the largest art museum in Austria",
+    "tag": "kunsthistorisches"
+  },
+  {
+    "slug": "vienna-karlskirche",
+    "hook": "Dedicated to a leading figure of the Counter-Reformation",
+    "fact": "The Karlskirche on Karlsplatz is a Baroque church dedicated to Saint Charles Borromeo.",
+    "title": "Karlskirche, Vienna: Baroque church on the Karlsplatz",
+    "tag": "karlskirche"
+  },
+  {
+    "slug": "vienna-belvedere",
+    "hook": "Two Baroque palaces built as a prince's summer home",
+    "fact": "The Belvedere was built as the summer residence of Prince Eugene of Savoy and designed by Johann Lukas von Hildebrandt.",
+    "title": "Belvedere, Vienna: two Baroque palaces and a garden",
+    "tag": "belvedere"
+  },
+  {
+    "slug": "venice-st-mark-s-basilica",
+    "hook": "It only became the cathedral in 1807",
+    "fact": "St Mark's Basilica holds the relics of Saint Mark and replaced San Pietro di Castello as Venice's cathedral in 1807.",
+    "title": "St Mark's Basilica, Venice: cathedral since 1807",
+    "tag": "stmarksbasilica"
+  },
+  {
+    "slug": "venice-doge-s-palace",
+    "hook": "Government offices, a jail and a home, all in one palace",
+    "fact": "The Doge's Palace was first built in 810, rebuilt in 1340 and became a museum in 1923.",
+    "title": "Doge's Palace, Venice: offices, jail and residence of the Doge",
+    "tag": "dogespalace"
+  },
+  {
+    "slug": "venice-rialto-bridge",
+    "hook": "It started life as a pontoon bridge in 1173",
+    "fact": "The Rialto Bridge is the oldest of the four bridges over the Grand Canal and has been rebuilt several times.",
+    "title": "Rialto Bridge, Venice: oldest crossing of the Grand Canal",
+    "tag": "rialtobridge"
+  },
+  {
+    "slug": "venice-santa-maria-della-salute",
+    "hook": "Commonly known simply as La Salute",
+    "fact": "Santa Maria della Salute is a Roman Catholic minor basilica at the Punta della Dogana in Venice's Dorsoduro.",
+    "title": "Santa Maria della Salute, Venice: La Salute on the Punta della Dogana",
+    "tag": "lasalute"
+  },
+  {
+    "slug": "venice-peggy-guggenheim-collection",
+    "hook": "An heiress opened her home to the public in 1951",
+    "fact": "Peggy Guggenheim lived in the Palazzo Venier dei Leoni for three decades; it has opened year-round since 1980.",
+    "title": "Peggy Guggenheim Collection, Venice: modern art on the Grand Canal",
+    "tag": "peggyguggenheim"
+  },
+  {
+    "slug": "venice-gallerie-dell-accademia",
+    "hook": "A drawing shown only a few weeks every six years",
+    "fact": "The Gallerie dell'Accademia holds Leonardo's Vitruvian Man, displayed only briefly every six years for conservation.",
+    "title": "Gallerie dell'Accademia, Venice: home of the Vitruvian Man",
+    "tag": "gallerieaccademia"
+  },
+  {
+    "slug": "lisbon-belem-tower",
+    "hook": "Portuguese explorers set out from here",
+    "fact": "Belém Tower, built from local lioz limestone, has a bastion and a 30-metre four-storey tower in the Manueline style.",
+    "title": "Belém Tower, Lisbon: 16th-century fort and ceremonial gateway",
+    "tag": "belemtower"
+  },
+  {
+    "slug": "lisbon-jeronimos-monastery",
+    "hook": "Royal necropolis, secularized by decree in 1833",
+    "fact": "Jerónimos Monastery held the tombs of the Aviz dynasty from the 16th century and passed to the Casa Pia in 1833.",
+    "title": "Jerónimos Monastery, Lisbon: necropolis of the Aviz dynasty",
+    "tag": "jeronimos"
+  },
+  {
+    "slug": "lisbon-carmo-convent",
+    "hook": "Left in ruins since the 1755 earthquake",
+    "fact": "The Carmo Convent's ruined Gothic church is the main visible trace of the 1755 Lisbon earthquake in the old city.",
+    "title": "Carmo Convent, Lisbon: the ruin left by the 1755 earthquake",
+    "tag": "carmoconvent"
+  },
+  {
+    "slug": "lisbon-santa-justa-lift",
+    "hook": "Baixa below, Largo do Carmo above, one elevator between",
+    "fact": "The Santa Justa Lift, also called Carmo Lift, stands at the end of Rua de Santa Justa in central Lisbon.",
+    "title": "Santa Justa Lift, Lisbon: the elevator from the Baixa to the Carmo",
+    "tag": "santajusta"
+  },
+  {
+    "slug": "lisbon-rossio",
+    "hook": "Officially a king's square, popularly just Rossio",
+    "fact": "Rossio has been one of Lisbon's main squares since the Middle Ages, with the Column of Pedro IV at its centre.",
+    "title": "Rossio, Lisbon: King Pedro IV Square in the Pombaline Downtown",
+    "tag": "rossio"
+  },
+  {
+    "slug": "lisbon-lisbon-cathedral",
+    "hook": "Built in 1147 and a survivor of many earthquakes",
+    "fact": "Lisbon Cathedral, the Sé, is the oldest church in the city and has been a National Monument since 1910.",
+    "title": "Lisbon Cathedral: the Sé, oldest church in the city",
+    "tag": "lisboncathedral"
+  },
+  {
+    "slug": "lisbon-sao-jorge-castle",
+    "hook": "Occupied since at least the 8th century BC",
+    "fact": "São Jorge Castle has been a royal palace, military barracks and national archive, and is now a museum.",
+    "title": "São Jorge Castle, Lisbon: fortified since the 2nd century BC",
+    "tag": "saojorgecastle"
+  },
+  {
+    "slug": "new-york-empire-state-building",
+    "hook": "102 stories, world's tallest until 1970",
+    "fact": "The Empire State Building rises 1,454 feet with its antenna and was built between 1930 and 1931.",
+    "title": "Empire State Building, New York: Art Deco at 102 stories",
+    "tag": "empirestatebuilding"
+  },
+  {
+    "slug": "new-york-grand-central-terminal",
+    "hook": "A 16-acre station built underneath a station",
+    "fact": "Grand Central Terminal is the third-busiest train station in North America, after Penn Station and Toronto Union.",
+    "title": "Grand Central Terminal, New York: 42nd Street and Park Avenue",
+    "tag": "grandcentral"
+  },
+  {
+    "slug": "new-york-times-square",
+    "hook": "A bowtie-shaped plaza, five blocks long",
+    "fact": "Times Square runs between 42nd and 47th Streets, where Broadway, Seventh Avenue and 42nd Street meet.",
+    "title": "Times Square, New York: the bowtie of Midtown Manhattan",
+    "tag": "timessquare"
+  },
+  {
+    "slug": "new-york-rockefeller-center",
+    "hook": "19 buildings on 22 acres, with its own private street",
+    "fact": "The 14 original Art Deco buildings of Rockefeller Center are split by a private street called Rockefeller Plaza.",
+    "title": "Rockefeller Center, New York: 19 buildings between 48th and 51st",
+    "tag": "rockefellercenter"
+  },
+  {
+    "slug": "new-york-central-park",
+    "hook": "843 acres, about 42 million visitors a year",
+    "fact": "Central Park was the first landscaped park in the United States; a non-profit conservancy has run it since 1998.",
+    "title": "Central Park, New York: the first landscaped park in the US",
+    "tag": "centralpark"
+  },
+  {
+    "slug": "new-york-the-met",
+    "hook": "5,727,258 visitors in a single year",
+    "fact": "The Met is the largest art museum in the Americas and was the most-visited museum in the US in fiscal year 2025.",
+    "title": "The Metropolitan Museum of Art, New York: the Met",
+    "tag": "themet"
+  },
+  {
+    "slug": "berlin-reichstag",
+    "hook": "Where Germany's parliament sits and its president is chosen",
+    "fact": "The Reichstag on Platz der Republik is the seat of the Bundestag and the meeting place of the Federal Convention.",
+    "title": "Reichstag, Berlin: seat of the Bundestag",
+    "tag": "reichstag"
+  },
+  {
+    "slug": "berlin-brandenburg-gate",
+    "hook": "Built where the road to Brandenburg once began",
+    "fact": "The Brandenburg Gate was built from 1788 to 1791 for Frederick William II and is crowned by Schadow's bronze quadriga.",
+    "title": "Brandenburg Gate, Berlin: neoclassical gate from 1791",
+    "tag": "brandenburggate"
+  },
+  {
+    "slug": "berlin-checkpoint-charlie",
+    "hook": "The Western name for a Berlin Wall crossing",
+    "fact": "Checkpoint Charlie was the best-known crossing between East and West Berlin during the Cold War.",
+    "title": "Checkpoint Charlie, Berlin: a Cold War crossing point",
+    "tag": "checkpointcharlie"
+  },
+  {
+    "slug": "berlin-museum-island",
+    "hook": "Five museums, five architects, built 1830 to 1930",
+    "fact": "Museum Island in Berlin became a UNESCO World Heritage Site in 1999; the James Simon Gallery opened there in 2019.",
+    "title": "Museum Island, Berlin: five museums on the Spree",
+    "tag": "museumisland"
+  },
+  {
+    "slug": "berlin-berlin-cathedral",
+    "hook": "Germany's largest Protestant church, built 1894 to 1905",
+    "fact": "Berlin Cathedral began as a castle chapel for the Berlin Palace and is one of Europe's most important dynastic tombs.",
+    "title": "Berlin Cathedral: Protestant church and dynastic tomb on Museum Island",
+    "tag": "berlincathedral"
+  },
+  {
+    "slug": "istanbul-topkap-palace",
+    "hook": "The sultans' home from the 1460s to 1853",
+    "fact": "Topkapı Palace was the administrative centre of the Ottoman Empire until Dolmabahçe Palace was completed in 1853.",
+    "title": "Topkapı Palace, Istanbul: residence of the Ottoman sultans",
+    "tag": "topkapi"
+  },
+  {
+    "slug": "istanbul-hagia-sophia",
+    "hook": "Church, then mosque, then museum, then mosque again",
+    "fact": "Completed in AD 537, Hagia Sophia became the world's largest interior space, with an early fully pendentive dome.",
+    "title": "Hagia Sophia, Istanbul: church, museum and mosque",
+    "tag": "hagiasophia"
+  },
+  {
+    "slug": "istanbul-basilica-cistern",
+    "hook": "Several hundred cisterns lie under this city",
+    "fact": "The Basilica Cistern, built in the 6th century under Justinian I, is the largest of Istanbul's ancient cisterns.",
+    "title": "Basilica Cistern, Istanbul: the largest cistern beneath the city",
+    "tag": "basilicacistern"
+  },
+  {
+    "slug": "istanbul-blue-mosque",
+    "hook": "A name shared by more than one place",
+    "fact": "Blue Mosque is a name used for more than one site; this one stands in Istanbul.",
+    "title": "Blue Mosque, Istanbul",
+    "tag": "bluemosque"
+  },
+  {
+    "slug": "istanbul-little-hagia-sophia",
+    "hook": "Begun by 527, or built 532 to 536: scholars disagree",
+    "fact": "Little Hagia Sophia began as the Church of Saints Sergius and Bacchus and became a mosque under the Ottomans.",
+    "title": "Little Hagia Sophia, Istanbul: a Constantinople church, now a mosque",
+    "tag": "littlehagiasophia"
+  },
+  {
+    "slug": "istanbul-suleymaniye-mosque",
+    "hook": "Founded 1550, inaugurated 1557, according to an inscription",
+    "fact": "The Süleymaniye Mosque was commissioned by Suleiman the Magnificent and designed by the imperial architect Mimar Sinan.",
+    "title": "Süleymaniye Mosque, Istanbul: Sinan's mosque on the Third Hill",
+    "tag": "suleymaniye"
+  },
+  {
+    "slug": "paris-pantheon",
+    "hook": "Neither the king nor the architect lived to see it done",
+    "fact": "Louis XV intended the Panthéon as a church for Saint Genevieve; Soufflot's design was built between 1758 and 1790.",
+    "title": "Panthéon, Paris: Soufflot's monument in the Latin Quarter",
+    "tag": "pantheonparis"
+  },
+  {
+    "slug": "paris-notre-dame",
+    "hook": "Built from 1163 to 1345 on the Île de la Cité",
+    "fact": "Notre-Dame de Paris is a medieval Catholic cathedral and the cathedral church of the Archdiocese of Paris.",
+    "title": "Notre-Dame de Paris: the cathedral on the Île de la Cité",
+    "tag": "notredame"
+  },
+  {
+    "slug": "paris-louvre",
+    "hook": "Medieval fortress remains are visible in the basement",
+    "fact": "The Louvre began as a fortress under Philip II; in 1546 Francis I made it the main residence of French kings.",
+    "title": "Louvre, Paris: from fortress to the home of the Mona Lisa",
+    "tag": "louvre"
+  },
+  {
+    "slug": "paris-musee-d-orsay",
+    "hook": "Once a railway station, now full of Impressionists",
+    "fact": "The Musée d'Orsay opened in 1986 inside a station built from 1898 to 1900, with art dating from 1848 to 1914.",
+    "title": "Musée d'Orsay, Paris: Impressionists in a former railway station",
+    "tag": "museedorsay"
+  },
+  {
+    "slug": "paris-eiffel-tower",
+    "hook": "Named after the engineer whose company built it",
+    "fact": "Gustave Eiffel's company designed and built the Eiffel Tower on the Champ de Mars from 1887 to 1889.",
+    "title": "Eiffel Tower, Paris: a lattice tower built 1887 to 1889",
+    "tag": "eiffeltower"
+  },
+  {
+    "slug": "paris-arc-de-triomphe",
+    "hook": "Twelve avenues converge in a star around one monument",
+    "fact": "The Arc de Triomphe bears the names of French victories and generals; beneath it lies the Tomb of the Unknown Soldier.",
+    "title": "Arc de Triomphe, Paris: the arch at the centre of the Étoile",
+    "tag": "arcdetriomphe"
+  },
+  {
+    "slug": "istanbul-dolmabahce-palace",
+    "hook": "The Ottoman centre of government, in two stretches",
+    "fact": "Dolmabahçe Palace, on the Bosporus, was the Ottoman administrative centre from 1853 to 1887 and from 1909 to 1922.",
+    "title": "Dolmabahçe Palace, Istanbul: 19th-century palace on the Bosporus",
+    "tag": "dolmabahce"
+  },
+  {
+    "slug": "istanbul-galata-tower",
+    "hook": "Watchtower first, exhibition venue and museum since 2020",
+    "fact": "Galata Tower was built as a watchtower within the Walls of Galata and takes its name from the neighborhood around it.",
+    "title": "Galata Tower, Istanbul: watchtower turned museum",
+    "tag": "galatatower"
+  },
+  {
+    "slug": "istanbul-maiden-s-tower",
+    "hook": "On an islet, 200 m from the coast of Üsküdar",
+    "fact": "The Maiden's Tower, called Leander's Tower since Byzantine times, sits at the southern entrance of the Bosphorus.",
+    "title": "Maiden's Tower, Istanbul: a tower on an islet off Üsküdar",
+    "tag": "maidenstower"
+  },
+  {
+    "slug": "paris-sacre-cur",
+    "hook": "Dedicated to the Sacred Heart of Jesus, up in Montmartre",
+    "fact": "Sacré-Cœur is a Catholic church and minor basilica in Paris, formally the Basilica of the Sacred Heart of Montmartre.",
+    "title": "Sacré-Cœur, Paris: the basilica of Montmartre",
+    "tag": "sacrecoeur"
+  },
+  {
+    "slug": "paris-champs-elysees",
+    "hook": "1.9 kilometres long and 70 metres wide",
+    "fact": "The Champs-Élysées runs from Place de la Concorde to the Arc de Triomphe and hosts the Tour de France finish.",
+    "title": "Champs-Élysées, Paris: from the Concorde to the Arc de Triomphe",
+    "tag": "champselysees"
+  },
+  {
+    "slug": "rome-st-peter-s-basilica",
+    "hook": "Begun 18 April 1506, completed 18 November 1626",
+    "fact": "St. Peter's Basilica replaced the fourth-century Old St. Peter's, built under Roman emperor Constantine the Great.",
+    "title": "St. Peter's Basilica, Vatican City: Renaissance church in Rome",
+    "tag": "stpetersbasilica"
+  },
+  {
+    "slug": "rome-castel-sant-angelo",
+    "hook": "An emperor's tomb that became a papal fortress",
+    "fact": "Hadrian commissioned Castel Sant'Angelo as a family mausoleum; popes made it a fortress, and it is now a museum.",
+    "title": "Castel Sant'Angelo, Rome: Hadrian's mausoleum turned castle",
+    "tag": "castelsantangelo"
+  },
+  {
+    "slug": "rome-pantheon",
+    "hook": "Built under Augustus, rebuilt under Hadrian",
+    "fact": "The Pantheon in Rome is an ancient temple reconstructed under Hadrian between 117 and 138; it later became a church.",
+    "title": "Pantheon, Rome: a temple of Augustus rebuilt by Hadrian",
+    "tag": "pantheonrome"
+  },
+  {
+    "slug": "rome-roman-forum",
+    "hook": "Ancient Romans knew it simply as the Forum",
+    "fact": "The Roman Forum began as a marketplace and is ringed by the ruins of ancient government buildings.",
+    "title": "Roman Forum: the Forum Magnum at the centre of Rome",
+    "tag": "romanforum"
+  },
+  {
+    "slug": "rome-circus-maximus",
+    "hook": "Room for over 150,000 spectators, now a public park",
+    "fact": "The Circus Maximus, Rome's chariot-racing stadium, measured 621 m long and 118 m wide.",
+    "title": "Circus Maximus, Rome: the first and largest stadium of ancient Rome",
+    "tag": "circusmaximus"
+  },
+  {
+    "slug": "rome-colosseum",
+    "hook": "Three emperors, one amphitheatre, begun in 72",
+    "fact": "The Colosseum was begun under Vespasian in 72 and completed in AD 80 under Titus, with later changes by Domitian.",
+    "title": "Colosseum, Rome: the largest standing amphitheatre in the world",
+    "tag": "colosseum"
+  },
+  {
+    "slug": "rome-santa-maria-maggiore",
+    "hook": "Our Lady of the Snow, in the largest Marian church in Rome",
+    "fact": "Santa Maria Maggiore is one of the Seven Pilgrim Churches of Rome and is regarded as the first Marian sanctuary.",
+    "title": "Santa Maria Maggiore, Rome: papal basilica of Our Lady of the Snow",
+    "tag": "santamariamaggiore"
+  },
+  {
+    "slug": "rome-st-john-lateran",
+    "hook": "The pope's cathedral is not in the Vatican",
+    "fact": "St. John Lateran is the world's only archbasilica, about four kilometres from Vatican City, and the pope's cathedral.",
+    "title": "St. John Lateran, Rome: the cathedral of the Diocese of Rome",
+    "tag": "stjohnlateran"
+  },
+  {
+    "slug": "barcelona-park-guell",
+    "hook": "Gardens on the southern slope of a hill above the city",
+    "fact": "Park Güell is a complex of parks and gardens with architectural elements in Barcelona's Gràcia district.",
+    "title": "Park Güell, Barcelona: parks and gardens on the Turó del Carmel",
+    "tag": "parkguell"
+  },
+  {
+    "slug": "barcelona-sagrada-familia",
+    "hook": "Under construction since 1882",
+    "fact": "Gaudí's Sagrada Família is the tallest church in the world and was proclaimed a basilica by Pope Benedict XVI in 2010.",
+    "title": "Sagrada Família, Barcelona: the tallest church in the world",
+    "tag": "sagradafamilia"
+  },
+  {
+    "slug": "barcelona-casa-mila",
+    "hook": "Gaudí's last private house, built 1906 to 1912",
+    "fact": "Casa Milà is known as La Pedrera because of its unconventional rough-hewn appearance.",
+    "title": "Casa Milà, Barcelona: Gaudí's La Pedrera",
+    "tag": "casamila"
+  },
+  {
+    "slug": "barcelona-casa-batllo",
+    "hook": "Not a new build: a 1904 remodel of an existing house",
+    "fact": "Gaudí redesigned an existing house as Casa Batlló in 1904, helped by Sugrañes, Canaleta and Rubió.",
+    "title": "Casa Batlló, Barcelona: Gaudí's remodel of 1904",
+    "tag": "casabatllo"
+  },
+  {
+    "slug": "barcelona-palau-de-la-musica",
+    "hook": "Built for a choir, inaugurated on 9 February 1908",
+    "fact": "Lluís Domènech i Montaner designed the Palau de la Música Catalana for the Orfeó Català, founded in 1891.",
+    "title": "Palau de la Música Catalana, Barcelona: a modernista concert hall",
+    "tag": "palaudelamusica"
+  },
+  {
+    "slug": "barcelona-barcelona-cathedral",
+    "hook": "Its cloister encloses the Well of the Geese",
+    "fact": "Barcelona Cathedral dates from the thirteenth to fifteenth centuries; its neo-Gothic façade is late nineteenth-century.",
+    "title": "Barcelona Cathedral: seat of the archbishop of Barcelona",
+    "tag": "barcelonacathedral"
+  },
+  {
+    "slug": "barcelona-palau-guell",
+    "hook": "Built for an industrial tycoon between 1886 and 1888",
+    "fact": "Gaudí designed the Palau Güell for Eusebi Güell on Carrer Nou de la Rambla in the El Raval neighborhood.",
+    "title": "Palau Güell, Barcelona: Gaudí's mansion for Eusebi Güell",
+    "tag": "palauguell"
+  }
+]

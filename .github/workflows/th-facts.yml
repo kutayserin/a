@@ -1,0 +1,25 @@
+name: TravelHour long facts
+on:
+  push:
+    branches: [travelhour-social]
+    paths: [tools/fetch_facts.py]
+jobs:
+  facts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python tools/fetch_facts.py
+      - run: |
+          git config user.name "travelhour-social"
+          git config user.email "noreply@travelhour.app"
+          git add data/facts.json
+          git commit -m "Update long facts" || exit 0
+          git pull --rebase -X theirs origin travelhour-social
+          git push origin HEAD:travelhour-social

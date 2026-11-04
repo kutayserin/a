@@ -5,6 +5,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 L = {x['slug']: x for x in json.load(open(ROOT / 'data/landmarks.json'))}
 C = json.load(open(ROOT / 'data/spotlights.json'))
+F = json.load(open(ROOT / 'data/facts.json')) if (ROOT / 'data/facts.json').exists() else {}
 bad, seen = [], {}
 for c in C:
     s = c.get('slug')
@@ -14,7 +15,7 @@ for c in C:
         bad.append(f'{s}: duplicate')
     seen[s] = 1
     x = L[s]
-    src = (x['extract'] + ' ' + x['description'] + ' ' + x['name'] + ' ' + x['city'] + ' ' + x['title']).lower()
+    src = (x['extract'] + ' ' + F.get(s, '') + ' ' + x['description'] + ' ' + x['name'] + ' ' + x['city'] + ' ' + x['title']).lower()
     for k, lim in dict(hook=60, fact=120, title=70).items():
         v = c.get(k, '')
         if not v:
