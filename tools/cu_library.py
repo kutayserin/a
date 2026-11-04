@@ -76,7 +76,7 @@ def clean_artist(a):
 
 
 def tags(p):
-    return f"#{p['tag']} #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni"
+    return ' '.join(f'#{t}' for t in dict.fromkeys([p['tag'], 'yurtdisindaegitim', 'yurtdisindaokumak', 'universite', 'compassuni']))
 
 
 def source_line(p, sep=', '):
@@ -191,7 +191,7 @@ def render_uni(sh, job, p, U, out):
         ln = f"📷 {clean_artist(v['artist'])} ({v['license']}), Wikimedia Commons, kırpıldı ve metin eklendi"
         if ln not in lines:
             lines.append(ln)
-    core = f"{p['uni_name']}: {hook}\n\n{p['fact']}" + (f" {p['caveat']}" if p.get('caveat') else '')
+    core = f"{hook}\n\n{p['fact']}" + (f" {p['caveat']}" if p.get('caveat') else '')
     return core, '\n'.join(lines)
 
 
@@ -233,7 +233,7 @@ def render_deadline(sh, job, p, U, out):
     a = center(f'{head}<div class="mid2" style="font-size:76px;margin-top:40px">{esc(p["what"])}</div>')
     b = center(f'{head}<div class="txt" style="margin-top:44px">{esc(p["detail"])}</div>{src_el(p)}')
     text_reel(sh, job, [(a, 3.2), (b, 5.6)], out)
-    return f"{p['date_big']}: {p['what']}.\n\n{p['detail']}", ''
+    return f"{p['date_big']} · {p['what']}.\n\n{p['detail']}", ''
 
 
 def render_how(sh, job, p, U, out):
