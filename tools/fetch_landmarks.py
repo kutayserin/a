@@ -2,7 +2,7 @@
 """Fetch facts, coordinates and a freely licensed photo for every landmark in
 data/landmark_titles.json. Runs in GitHub Actions, where Wikimedia is reachable.
 Writes data/landmarks.json and assets/photos/<slug>.jpg."""
-import html, json, math, re, sys, time, unicodedata, urllib.parse
+import html, json, math, re, subprocess, sys, tempfile, time, unicodedata, urllib.parse
 from pathlib import Path
 import requests
 
@@ -83,6 +83,81 @@ def pick_photo(title, lead, forced=None):
     return None
 
 
+def extra_photos(title, used, limit=4):
+    """More freely licensed photos of the same landmark, for quick cuts in the reel."""
+    r = get('https://en.wikipedia.org/w/api.php', action='query', format='json', titles=title, prop='images',
+            imlimit=80, redirects=1)
+    names = []
+    for page in r.json().get('query', {}).get('pages', {}).values():
+        names += [i['title'].split(':', 1)[1] for i in page.get('images', [])]
+    found = []
+    for n in names:
+        if len(found) >= limit:
+            break
+        if n == used or SKIP_FILE.search(n) or not re.search(r'\.jpe?g$', n, re.I):
+            continue
+        info = commons_info(n)
+        if usable(info, 1600):
+            found.append(info)
+        time.sleep(0.15)
+    return found
+
+
+def find_clip(title, city, out_mp4):
+    """A short clip from the best freely licensed Commons video of this landmark."""
+    q = f'"{title.split(",")[0]}" {city} filetype:video'
+    r = get('https://commons.wikimedia.org/w/api.php', action='query', format='json', list='search', srnamespace=6,
+            srsearch=q, srlimit=8)
+    for hit in r.json().get('query', {}).get('search', []):
+        name = hit['title'].split(':', 1)[1]
+        v = get('https://commons.wikimedia.org/w/api.php', action='query', format='json', titles=f'File:{name}',
+                prop='videoinfo', viprop='url|size|extmetadata|derivatives|mediatype')
+        for page in v.json().get('query', {}).get('pages', {}).values():
+            if not page.get('videoinfo'):
+                continue
+            vi = page['videoinfo'][0]
+            meta = vi.get('extmetadata', {})
+            lic = meta.get('LicenseShortName', {}).get('value', '')
+            artist = html.unescape(re.sub(r'<[^>]+>', '', meta.get('Artist', {}).get('value', ''))).strip()
+            dur = float(vi.get('duration') or 0)
+            if not OK_LICENSE.match(lic or '') or not artist or vi.get('width', 0) < 1280 or not 8 <= dur <= 900:
+                continue
+            ders = [d for d in vi.get('derivatives', []) if d.get('type', '').startswith('video/')
+                    and 720 <= int(d.get('height') or 0) <= 1080]
+            ders.sort(key=lambda d: -int(d.get('height') or 0))
+            src = ders[0]['src'] if ders else vi.get('url')
+            if int(vi.get('size') or 0) > 900_000_000 and not ders:
+                continue
+            tmp = Path(tempfile.mkdtemp()) / 'v'
+            with get_stream(src) as resp:
+                if resp.status_code != 200:
+                    continue
+                with open(tmp, 'wb') as fh:
+                    got = 0
+                    for chunk in resp.iter_content(1 << 20):
+                        fh.write(chunk)
+                        got += len(chunk)
+                        if got > 400_000_000:
+                            break
+            start = max(2.0, dur * 0.2)
+            vf = 'crop=if(gt(iw/ih\\,9/16)\\,ih*9/16\\,iw):if(gt(iw/ih\\,9/16)\\,ih\\,iw*16/9),scale=1080:1920,fps=30,format=yuv420p'
+            cp = subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', f'{start:.1f}', '-t', '7', '-i', str(tmp), '-an', '-vf', vf,
+                                 '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', str(out_mp4)], capture_output=True)
+            tmp.unlink(missing_ok=True)
+            if cp.returncode or not out_mp4.exists() or out_mp4.stat().st_size < 100000:
+                out_mp4.unlink(missing_ok=True)
+                continue
+            subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', '3', '-i', str(out_mp4), '-frames:v', '1', '-q:v', '3',
+                            str(out_mp4.with_suffix('.jpg'))], capture_output=True)
+            return dict(path=str(out_mp4.relative_to(ROOT)), artist=re.sub(r'\s+', ' ', artist)[:70], license=lic,
+                        source=vi.get('descriptionurl', ''), file=name, frame=str(out_mp4.with_suffix('.jpg').relative_to(ROOT)))
+    return None
+
+
+def get_stream(url):
+    return s.get(url, stream=True, timeout=120)
+
+
 def main():
     titles = json.load(open(ROOT / 'data/landmark_titles.json'))
     queue = {c['city']: {a: (b, d) for a, b, d in c['stops']}
@@ -126,8 +201,23 @@ def main():
                                     source=info['page'], file=info['file'], width=info['width'], height=info['height'])
         if 'photo' not in rec:
             problems.append(f'{city}/{name}: no usable photo')
+        rec['more_photos'] = []
+        for j, more in enumerate(extra_photos(rec['title'], rec.get('photo', {}).get('file'))):
+            path = photos / f"{rec['slug']}-{j + 2}.jpg"
+            img = get(more['thumb'])
+            if img.status_code == 200 and img.headers.get('content-type', '').startswith('image'):
+                path.write_bytes(img.content)
+                rec['more_photos'].append(dict(path=f"assets/photos/{path.name}", artist=more['artist'], license=more['license'],
+                                               source=more['page'], file=more['file'], width=more['width'], height=more['height']))
+        clips = ROOT / 'assets/clips'
+        clips.mkdir(parents=True, exist_ok=True)
+        try:
+            rec['clip'] = find_clip(rec['title'], city, clips / f"{rec['slug']}.mp4")
+        except Exception as e:  # a clip is a bonus, never a reason to stop
+            problems.append(f'{city}/{name}: clip failed {e}')
+            rec['clip'] = None
         out.append(rec)
-        print(city, name, '->', rec['title'], '|', rec.get('photo', {}).get('license'), '|', dist, flush=True)
+        print(city, name, '->', rec['title'], '|', rec.get('photo', {}).get('license'), '|', dist, '| photos', 1 + len(rec['more_photos']), '| clip', bool(rec['clip']), flush=True)
         time.sleep(0.4)
     (ROOT / 'data/landmarks.json').write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding='utf-8')
     (ROOT / 'data/landmarks_problems.txt').write_text('\n'.join(problems) + '\n', encoding='utf-8')
