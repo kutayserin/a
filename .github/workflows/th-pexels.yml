@@ -1,0 +1,28 @@
+name: TravelHour Pexels clips
+on:
+  push:
+    branches: [travelhour-social]
+    paths: [tools/fetch_pexels.py]
+jobs:
+  pexels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install requests
+      - run: python tools/fetch_pexels.py
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY || secrets.PEXELSAPIKEY || secrets.PEXELS_KEY || secrets.PEXELS || vars.PEXELS_API_KEY || vars.PEXELSAPIKEY }}
+      - run: |
+          git config user.name "travelhour-social"
+          git config user.email "noreply@travelhour.app"
+          git add data/landmarks.json assets/clips
+          git commit -m "Add Pexels clips" || exit 0
+          git pull --rebase -X theirs origin travelhour-social
+          git push origin HEAD:travelhour-social
