@@ -1,0 +1,448 @@
+[
+{
+"slot": "2026-11-20T01:30",
+"date": "2026-11-20T01:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-20-coaches-pain-49",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T01:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "You charge executive-coach rates. Your site looks like a side project.\n\nThe fix: Look like the price you charge. Fewer words, bigger type, one photo of you, packages with prices. Remove the clip art.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#coachingbusiness #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-coaches-pain-49/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-coaches-pain-49/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1941675846329817",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Coaches: site looks cheap"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Coaches: site looks cheap",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-20T04:30",
+"date": "2026-11-20T04:30:00+03:00",
+"kind": "tip",
+"folder": "2026-11-20-tip-15",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T04:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "A beautiful gallery, completely invisible to a screen reader.\n\nGive each gallery photo alt text. Say what's in it: 'bakery counter at 7am, bread cooling.' Screen readers read it aloud.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-tip-15/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-tip-15/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "957044555314519",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Small business website tip: alt text"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Small business website tip: alt text",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-20T07:30",
+"date": "2026-11-20T07:30:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-20-online-tutors-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T07:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Parents compare tutors at 10pm once the kids are asleep. They want a rate, not an email.\n\nWhat an online tutor website needs:\n1. A section per subject and level\n2. Hourly rate and lesson packs\n3. A free intro lesson, explained\n4. A way to book you directly\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#onlinetutor #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/03.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/04.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/05.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/06.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Website checklist for online tutors",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-20T10:30",
+"date": "2026-11-20T10:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-20-wedding-photographers-pain-50",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T10:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "The inquiry form is four clicks deep, so couples DM you on Instagram.\n\nThe fix: Inquiry link on every screen. Date, venue, guest count, how they found you. Four fields, one button, every screen.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#weddingphotographer #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-wedding-photographers-pain-50/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-wedding-photographers-pain-50/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1304451697253803",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Wedding photographers: buried inquiry form"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Wedding photographers: buried inquiry form",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-20T13:30",
+"date": "2026-11-20T13:30:00+03:00",
+"kind": "prompt",
+"folder": "2026-11-20-marketing-agencies-prompt",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T13:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "A website prompt for a marketing agency. Copy it and change the details:\n\n\"Marketing agency in Manchester. Direct, bold, black and lime. Paid search only, for independent dental and vet clinics. Services with prices, case studies, team, intake questions.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#marketingagency #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-marketing-agencies-prompt/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-marketing-agencies-prompt/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "473815599863496",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Example prompt: Marketing agency in Manchester"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Example prompt: Marketing agency in Manchester",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-20T16:30",
+"date": "2026-11-20T16:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-20-yoga-studios-pain-51",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T16:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "A teacher moves her Tuesday class. The site shows it wrong for a month.\n\nThe fix: Edit it yourself, that afternoon. Class times and teacher bios should take minutes to change, with no coding.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#yogastudio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-yoga-studios-pain-51/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-yoga-studios-pain-51/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1369509361952542",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Yoga studios: slow updates"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Yoga studios: slow updates",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-20T19:30",
+"date": "2026-11-20T19:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-20-gyms-and-fitness-studios-pain-52",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T19:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "People came for your trial week. They can't find it without scrolling.\n\nThe fix: Intro offer on the first screen. What it is, what it costs, how to claim it. Above the gallery, above the mission.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#gymowner #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-gyms-and-fitness-studios-pain-52/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-gyms-and-fitness-studios-pain-52/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1941675846329817",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Gyms: buried intro offer"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Gyms: buried intro offer",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-20T22:30",
+"date": "2026-11-20T22:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-20-consultancies-pain-53",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Updating one case study takes a designer and three rounds of feedback.\n\nThe fix: Case studies as plain sections. Problem, approach, outcome in text you can edit yourself, with one image.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#consulting #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-consultancies-pain-53/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-consultancies-pain-53/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "957044555314519",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Consultancies: case study updates"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Consultancies: case study updates",
+"autoAddMusic": false
+}
+}
+}
+]

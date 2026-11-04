@@ -1,0 +1,443 @@
+[
+{
+"slot": "2026-11-12T01:30",
+"date": "2026-11-12T01:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-12-bookstores-pain-19",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T01:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Staff picks go on Instagram, then scroll away under the next post.\n\nThe fix: A staff picks page. The book, the staff member's name, and two sentences on why. Add one every week.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#indiebookstore #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-bookstores-pain-19/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-bookstores-pain-19/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1369509361952542",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Independent bookstores: staff picks on Instagram"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Independent bookstores: staff picks on Instagram",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-12T04:30",
+"date": "2026-11-12T04:30:00+03:00",
+"kind": "tip",
+"folder": "2026-11-12-tip-07",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T04:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "'Solutions for a changing world' fits a bank, a bakery, a funeral home.\n\nHeadline says what you do. 'Bike repair in Ghent, same day' beats any slogan. A stranger should get it at a glance.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-tip-07/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-tip-07/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1941675846329817",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Small business website tip: plain headlines"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Small business website tip: plain headlines",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-12T07:30",
+"date": "2026-11-12T07:30:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-12-florists-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T07:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Orders come by DM, which works until you lock up at 6. A website keeps answering at night.\n\nWhat a florist website needs:\n1. This week's bouquets, with prices\n2. Subscriptions explained simply\n3. Same-day cutoff, stated plainly\n4. A 'pick me something' WhatsApp link\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#floristlife #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-florists-checklist/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-florists-checklist/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-florists-checklist/03.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-florists-checklist/04.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-florists-checklist/05.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-florists-checklist/06.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Website checklist for florists",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-12T10:30",
+"date": "2026-11-12T10:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-12-ceramics-shops-pain-20",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T10:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "The marketplace takes a cut of every mug and shows buyers your rivals.\n\nThe fix: Your own shop page. Your pieces, your prices, your story, with no rival's mug shown next to yours.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#ceramics #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-ceramics-shops-pain-20/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-ceramics-shops-pain-20/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "957044555314519",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Ceramic artists: marketplace cut"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Ceramic artists: marketplace cut",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-12T13:30",
+"date": "2026-11-12T13:30:00+03:00",
+"kind": "prompt",
+"folder": "2026-11-12-pizzerias-prompt",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T13:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "A website prompt for a pizzeria. Copy it and change the details:\n\n\"Pizzeria in Williamsburg, Brooklyn. Warm, rustic, red brick and cream. Wood-fired oven built by the owner's uncle from Naples. Menu, hours, phone number, gallery, how to reserve.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#pizzeria #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-pizzerias-prompt/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-pizzerias-prompt/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1304451697253803",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Example prompt: Pizzeria in Williamsburg, Brooklyn"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Example prompt: Pizzeria in Williamsburg, Brooklyn",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-12T16:30",
+"date": "2026-11-12T16:30:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-12-rewrite-08",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T16:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Authentic Italian cuisine for the whole family.\"\nAfter: \"Wood-fired pizza in Vomero, open till midnight, takeout at the window.\"\n\n'Authentic' is on every pizzeria's site. A closing time is a fact worth knowing.\n\nExample for a pizzeria in Naples. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-rewrite-08/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-rewrite-08/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-rewrite-08/03.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Website copy rewrite: Pizzeria in Naples",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-12T19:30",
+"date": "2026-11-12T19:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-12-hair-salons-pain-21",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T19:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Each stylist has a following. Your website doesn't mention one name.\n\nThe fix: A page per stylist. Photo, specialties and how to book with them by name, so followers can find you.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#hairsalon #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-hair-salons-pain-21/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-hair-salons-pain-21/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "473815599863496",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Hair salons: stylists uncredited"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Hair salons: stylists uncredited",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-12T22:30",
+"date": "2026-11-12T22:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-12-dental-clinics-pain-22",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-12T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "You've answered 'do you take my insurance?' a hundred times by phone.\n\nThe fix: An insurance section, with a list. Name the insurers you work with and what to bring. Add 'ask us' for anything else.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#dentalmarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-dental-clinics-pain-22/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-dental-clinics-pain-22/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1369509361952542",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Dental clinics: insurance questions"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Dental clinics: insurance questions",
+"autoAddMusic": false
+}
+}
+}
+]

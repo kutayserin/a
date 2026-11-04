@@ -1,0 +1,277 @@
+[
+{
+"slot": "2026-11-05T10:30",
+"date": "2026-11-05T10:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-05-hair-salons-pain-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T10:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Your best cuts are on Instagram, away from your address and prices.\n\nThe fix: Twelve cuts on a page you own. Put twelve Instagram cuts on a gallery page, your salon's name and street next to them.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#hairsalon #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-hair-salons-pain-01/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-hair-salons-pain-01/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1304451697253803",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Hair salons: Instagram portfolio"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Hair salons: Instagram portfolio",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-05T13:30",
+"date": "2026-11-05T13:30:00+03:00",
+"kind": "prompt",
+"folder": "2026-11-05-dental-clinics-prompt",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T13:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "A website prompt for a dental clinic. Copy it and change the details:\n\n\"Dental clinic in Karşıyaka, Izmir. Calm, clean, pale blue. Family practice run by two sisters who both trained in Ankara. Treatments, dentist bios, insurance list, map and phone.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#dentalmarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-dental-clinics-prompt/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-dental-clinics-prompt/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "473815599863496",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Example prompt: Dental clinic in Karşıyaka, Izmir"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Example prompt: Dental clinic in Karşıyaka, Izmir",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-05T16:30",
+"date": "2026-11-05T16:30:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-05-rewrite-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T16:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Quality plumbing services for all your needs.\"\nAfter: \"Burst pipe in Leeds? We come out the same day, evenings included.\"\n\nIt names the problem, the place and a promise, so only use it if you can keep it.\n\nExample for a plumber in Leeds. Which line does your site sound like?\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-rewrite-01/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-rewrite-01/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-rewrite-01/03.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Website copy rewrite: Plumber in Leeds",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-05T19:30",
+"date": "2026-11-05T19:30:00+03:00",
+"kind": "pain",
+"folder": "2026-11-05-restaurants-pain-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T19:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Your website's main photo is a stock shot of someone else's salad.\n\nThe fix: Your dishes, photographed by you. Your phone, tonight's special, your light. It beats a studio shot of a stranger's food.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#restaurantmarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-restaurants-pain-02/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-restaurants-pain-02/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1369509361952542",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Restaurants: stock photo"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Restaurants: stock photo",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-05T22:30",
+"date": "2026-11-05T22:30:00+03:00",
+"kind": "tool",
+"folder": "2026-11-05-business-name-generator-tool",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "You have the lease, the oven and the plan. The name is still 'Untitled.'\n\nBusiness name generator: Describe the business and get 10 name ideas to start from. Free, no sign-up.\n\nFree, no sign-up: website-automation.com/tools/business-name-generator\n\n📌 Save this for later.\n\nWhen you're ready for the site itself: free preview, about 30 seconds, link in bio.\n\n#freetools #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-business-name-generator-tool/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-05-business-name-generator-tool/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1941675846329817",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Free tool: business name generator"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Free tool: business name generator",
+"autoAddMusic": false
+}
+}
+}
+]
