@@ -2,7 +2,7 @@
 """Fetch facts, coordinates and a freely licensed photo for every landmark in
 data/landmark_titles.json. Runs in GitHub Actions, where Wikimedia is reachable.
 Writes data/landmarks.json and assets/photos/<slug>.jpg."""
-import html, json, math, re, subprocess, sys, tempfile, time, unicodedata, urllib.parse
+import html, json, math, os, re, subprocess, sys, tempfile, time, unicodedata, urllib.parse
 from pathlib import Path
 import requests
 
@@ -103,6 +103,67 @@ def extra_photos(title, used, limit=4):
     return found
 
 
+GENERIC = {'the', 'of', 'and', 'st', 'saint', 'san', 'santa', 'museum', 'museo', 'palace', 'palazzo', 'church', 'cathedral',
+           'basilica', 'bridge', 'square', 'park', 'tower', 'gallery', 'gate', 'castle', 'temple', 'mosque', 'building',
+           'de', 'del', 'della', 'dell', 'di', 'du', 'la', 'le', 'el', 'plaza', 'house', 'center', 'centre'}
+
+
+def plain(text):
+    return re.sub(r'[^a-z0-9 ]+', ' ', unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode().lower())
+
+
+def cut_clip(src_path, out_mp4, start):
+    vf = ('crop=if(gt(iw/ih\\,9/16)\\,ih*9/16\\,iw):if(gt(iw/ih\\,9/16)\\,ih\\,iw*16/9),'
+          'scale=1080:1920,fps=30,format=yuv420p')
+    cp = subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', f'{start:.1f}', '-t', '7', '-i', str(src_path), '-an', '-vf', vf,
+                         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', str(out_mp4)], capture_output=True)
+    if cp.returncode or not out_mp4.exists() or out_mp4.stat().st_size < 100000:
+        out_mp4.unlink(missing_ok=True)
+        return False
+    subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', '3', '-i', str(out_mp4), '-frames:v', '1', '-q:v', '3',
+                    str(out_mp4.with_suffix('.jpg'))], capture_output=True)
+    return True
+
+
+def pexels_clips(name, city, slug_, clips_dir, limit=2):
+    """Pexels videos whose own page title names this landmark. City footage alone is not enough:
+    the reel says "Colosseum", so the shot has to be the Colosseum."""
+    key = os.environ.get('PEXELS_API_KEY')
+    if not key:
+        return []
+    words = [w for w in plain(name).split() if w not in GENERIC and len(w) > 2] or plain(name).split()
+    r = s.get('https://api.pexels.com/videos/search', params=dict(query=f'{name} {city}', per_page=15),
+              headers={'Authorization': key}, timeout=40)
+    if r.status_code != 200:
+        print('pexels', r.status_code, name, flush=True)
+        return []
+    found = []
+    for v in r.json().get('videos', []):
+        if len(found) >= limit:
+            break
+        page = v.get('url', '')
+        if not any(w in plain(page) for w in words) or not 5 <= v.get('duration', 0) <= 120:
+            continue
+        files = [f for f in v.get('video_files', []) if f.get('file_type') == 'video/mp4' and min(f.get('width') or 0, f.get('height') or 0) >= 1080]
+        files.sort(key=lambda f: (f.get('width') or 0) * (f.get('height') or 0))
+        if not files:
+            continue
+        tmp = Path(tempfile.mkdtemp()) / 'v.mp4'
+        with s.get(files[0]['link'], stream=True, timeout=120) as resp:
+            if resp.status_code != 200:
+                continue
+            with open(tmp, 'wb') as fh:
+                for chunk in resp.iter_content(1 << 20):
+                    fh.write(chunk)
+        out = clips_dir / f'{slug_}-{len(found) + 1}.mp4'
+        ok = cut_clip(tmp, out, 0.5)
+        tmp.unlink(missing_ok=True)
+        if ok:
+            found.append(dict(path=str(out.relative_to(ROOT)), frame=str(out.with_suffix('.jpg').relative_to(ROOT)),
+                              artist=(v.get('user') or {}).get('name', ''), license='Pexels License', source=page, file=str(v.get('id'))))
+    return found
+
+
 def find_clip(title, city, out_mp4):
     """A short clip from the best freely licensed Commons video of this landmark."""
     q = f'"{title.split(",")[0]}" {city} filetype:video'
@@ -140,15 +201,10 @@ def find_clip(title, city, out_mp4):
                         if got > 400_000_000:
                             break
             start = max(2.0, dur * 0.2)
-            vf = 'crop=if(gt(iw/ih\\,9/16)\\,ih*9/16\\,iw):if(gt(iw/ih\\,9/16)\\,ih\\,iw*16/9),scale=1080:1920,fps=30,format=yuv420p'
-            cp = subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', f'{start:.1f}', '-t', '7', '-i', str(tmp), '-an', '-vf', vf,
-                                 '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', str(out_mp4)], capture_output=True)
+            ok = cut_clip(tmp, out_mp4, start)
             tmp.unlink(missing_ok=True)
-            if cp.returncode or not out_mp4.exists() or out_mp4.stat().st_size < 100000:
-                out_mp4.unlink(missing_ok=True)
+            if not ok:
                 continue
-            subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', '3', '-i', str(out_mp4), '-frames:v', '1', '-q:v', '3',
-                            str(out_mp4.with_suffix('.jpg'))], capture_output=True)
             return dict(path=str(out_mp4.relative_to(ROOT)), artist=re.sub(r'\s+', ' ', artist)[:70], license=lic,
                         source=vi.get('descriptionurl', ''), file=name, frame=str(out_mp4.with_suffix('.jpg').relative_to(ROOT)))
     return None
@@ -163,6 +219,7 @@ def main():
     queue = {c['city']: {a: (b, d) for a, b, d in c['stops']}
              for c in json.load(open(ROOT / 'data/route_queue.json'))['cities']}
     out, problems = [], []
+    print('pexels key present:', bool(os.environ.get('PEXELS_API_KEY')), flush=True)
     photos = ROOT / 'assets/photos'
     photos.mkdir(parents=True, exist_ok=True)
     for item in titles:
@@ -211,13 +268,17 @@ def main():
                                                source=more['page'], file=more['file'], width=more['width'], height=more['height']))
         clips = ROOT / 'assets/clips'
         clips.mkdir(parents=True, exist_ok=True)
+        rec['clips'] = []
         try:
-            rec['clip'] = find_clip(rec['title'], city, clips / f"{rec['slug']}.mp4")
+            rec['clips'] = pexels_clips(name, city, rec['slug'], clips)
+            time.sleep(1.0)
+            if not rec['clips']:
+                c = find_clip(rec['title'], city, clips / f"{rec['slug']}-1.mp4")
+                rec['clips'] = [c] if c else []
         except Exception as e:  # a clip is a bonus, never a reason to stop
             problems.append(f'{city}/{name}: clip failed {e}')
-            rec['clip'] = None
         out.append(rec)
-        print(city, name, '->', rec['title'], '|', rec.get('photo', {}).get('license'), '|', dist, '| photos', 1 + len(rec['more_photos']), '| clip', bool(rec['clip']), flush=True)
+        print(city, name, '->', rec['title'], '|', rec.get('photo', {}).get('license'), '|', dist, '| photos', 1 + len(rec['more_photos']), '| clips', [c['license'] for c in rec['clips']], flush=True)
         time.sleep(0.4)
     (ROOT / 'data/landmarks.json').write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding='utf-8')
     (ROOT / 'data/landmarks_problems.txt').write_text('\n'.join(problems) + '\n', encoding='utf-8')

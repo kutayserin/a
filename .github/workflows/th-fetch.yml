@@ -1,4 +1,7 @@
 name: TravelHour landmark data
+concurrency:
+  group: th-fetch
+  cancel-in-progress: true
 on:
   push:
     branches: [travelhour-social]
@@ -17,10 +20,12 @@ jobs:
       - run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - run: pip install requests
       - run: python tools/fetch_landmarks.py
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       - run: |
           git config user.name "travelhour-social"
           git config user.email "noreply@travelhour.app"
           git add data/landmarks.json data/landmarks_problems.txt assets/photos assets/clips
           git commit -m "Update landmark data and photos" || exit 0
-          git pull --rebase origin travelhour-social
+          git pull --rebase -X theirs origin travelhour-social
           git push origin HEAD:travelhour-social
