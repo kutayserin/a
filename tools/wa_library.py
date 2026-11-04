@@ -217,7 +217,7 @@ REWRITE_CSS = (".card{position:absolute;left:60px;right:60px;border-radius:26px;
 
 def render_rewrite(sh, job, p, ind, out):
     Path(out).mkdir(parents=True, exist_ok=True)
-    body = (f'<div class="pad"><div class="eb">Example rewrite</div><div class="h1" style="font-size:{84 if len(p["business"]) <= 23 else 66}px">{esc(p["business"])}</div></div>'
+    body = (f'<div class="pad"><div class="eb">Example rewrite</div><div class="h1" style="font-size:{84 if len(p["business"]) <= 23 else 72 if len(p["business"]) <= 26 else 58}px">{esc(p["business"])}</div></div>'
             f'<div class="card was"><div class="lab">Before</div><p>{esc(p["before"])}</p></div>'
             f'<div class="card now"><div class="lab">After</div><p>{esc(p["after"])}</p></div>'
             '<div class="swipe">SWIPE →</div>' + foot(1, 3))
