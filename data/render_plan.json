@@ -1,0 +1,1080 @@
+[
+{
+"i": 19,
+"kind": "pain",
+"slot": "2026-11-05T10:30",
+"day": "2026-11-05",
+"folder": "2026-11-05-hair-salons-pain-01",
+"audio": "1304451697253803"
+},
+{
+"i": 79,
+"kind": "prompt",
+"slot": "2026-11-05T13:30",
+"day": "2026-11-05",
+"folder": "2026-11-05-dental-clinics-prompt",
+"audio": "473815599863496"
+},
+{
+"i": 118,
+"kind": "rewrite",
+"slot": "2026-11-05T16:30",
+"day": "2026-11-05",
+"folder": "2026-11-05-rewrite-01"
+},
+{
+"i": 24,
+"kind": "pain",
+"slot": "2026-11-05T19:30",
+"day": "2026-11-05",
+"folder": "2026-11-05-restaurants-pain-02",
+"audio": "1369509361952542"
+},
+{
+"i": 133,
+"kind": "tool",
+"slot": "2026-11-05T22:30",
+"day": "2026-11-05",
+"folder": "2026-11-05-business-name-generator-tool",
+"audio": "1941675846329817"
+},
+{
+"i": 27,
+"kind": "pain",
+"slot": "2026-11-06T01:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-lawyers-pain-03",
+"audio": "957044555314519"
+},
+{
+"i": 98,
+"kind": "tip",
+"slot": "2026-11-06T04:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-tip-01",
+"audio": "1304451697253803"
+},
+{
+"i": 0,
+"kind": "checklist",
+"slot": "2026-11-06T07:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-dental-clinics-checklist"
+},
+{
+"i": 30,
+"kind": "pain",
+"slot": "2026-11-06T10:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-real-estate-agents-pain-04",
+"audio": "473815599863496"
+},
+{
+"i": 78,
+"kind": "prompt",
+"slot": "2026-11-06T13:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-hair-salons-prompt",
+"audio": "1369509361952542"
+},
+{
+"i": 119,
+"kind": "rewrite",
+"slot": "2026-11-06T16:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-rewrite-02"
+},
+{
+"i": 134,
+"kind": "tool",
+"slot": "2026-11-06T22:30",
+"day": "2026-11-06",
+"folder": "2026-11-06-tagline-generator-tool",
+"audio": "1941675846329817"
+},
+{
+"i": 33,
+"kind": "pain",
+"slot": "2026-11-07T01:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-accountants-pain-05",
+"audio": "957044555314519"
+},
+{
+"i": 99,
+"kind": "tip",
+"slot": "2026-11-07T04:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-tip-02",
+"audio": "1304451697253803"
+},
+{
+"i": 1,
+"kind": "checklist",
+"slot": "2026-11-07T07:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-restaurants-checklist"
+},
+{
+"i": 21,
+"kind": "pain",
+"slot": "2026-11-07T10:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-dental-clinics-pain-06",
+"audio": "473815599863496"
+},
+{
+"i": 81,
+"kind": "prompt",
+"slot": "2026-11-07T13:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-lawyers-prompt",
+"audio": "1369509361952542"
+},
+{
+"i": 120,
+"kind": "rewrite",
+"slot": "2026-11-07T16:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-rewrite-03"
+},
+{
+"i": 36,
+"kind": "pain",
+"slot": "2026-11-07T19:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-personal-trainers-pain-07",
+"audio": "1941675846329817"
+},
+{
+"i": 135,
+"kind": "tool",
+"slot": "2026-11-07T22:30",
+"day": "2026-11-07",
+"folder": "2026-11-07-color-palette-generator-tool",
+"audio": "957044555314519"
+},
+{
+"i": 39,
+"kind": "pain",
+"slot": "2026-11-08T01:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-florists-pain-08",
+"audio": "1304451697253803"
+},
+{
+"i": 100,
+"kind": "tip",
+"slot": "2026-11-08T04:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-tip-03",
+"audio": "473815599863496"
+},
+{
+"i": 2,
+"kind": "checklist",
+"slot": "2026-11-08T07:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-lawyers-checklist"
+},
+{
+"i": 42,
+"kind": "pain",
+"slot": "2026-11-08T10:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-pizzerias-pain-09",
+"audio": "1369509361952542"
+},
+{
+"i": 80,
+"kind": "prompt",
+"slot": "2026-11-08T13:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-restaurants-prompt",
+"audio": "1941675846329817"
+},
+{
+"i": 121,
+"kind": "rewrite",
+"slot": "2026-11-08T16:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-rewrite-04"
+},
+{
+"i": 45,
+"kind": "pain",
+"slot": "2026-11-08T19:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-coaches-pain-10",
+"audio": "957044555314519"
+},
+{
+"i": 136,
+"kind": "tool",
+"slot": "2026-11-08T22:30",
+"day": "2026-11-08",
+"folder": "2026-11-08-logo-generator-tool",
+"audio": "1304451697253803"
+},
+{
+"i": 48,
+"kind": "pain",
+"slot": "2026-11-09T01:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-wedding-photographers-pain-11",
+"audio": "473815599863496"
+},
+{
+"i": 101,
+"kind": "tip",
+"slot": "2026-11-09T04:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-tip-04",
+"audio": "1369509361952542"
+},
+{
+"i": 3,
+"kind": "checklist",
+"slot": "2026-11-09T07:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-real-estate-agents-checklist"
+},
+{
+"i": 51,
+"kind": "pain",
+"slot": "2026-11-09T10:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-yoga-studios-pain-12",
+"audio": "1941675846329817"
+},
+{
+"i": 83,
+"kind": "prompt",
+"slot": "2026-11-09T13:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-accountants-prompt",
+"audio": "957044555314519"
+},
+{
+"i": 122,
+"kind": "rewrite",
+"slot": "2026-11-09T16:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-rewrite-05"
+},
+{
+"i": 137,
+"kind": "tool",
+"slot": "2026-11-09T22:30",
+"day": "2026-11-09",
+"folder": "2026-11-09-color-contrast-checker-tool",
+"audio": "1304451697253803"
+},
+{
+"i": 54,
+"kind": "pain",
+"slot": "2026-11-10T01:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-gyms-and-fitness-studios-pain-13",
+"audio": "473815599863496"
+},
+{
+"i": 102,
+"kind": "tip",
+"slot": "2026-11-10T04:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-tip-05",
+"audio": "1369509361952542"
+},
+{
+"i": 5,
+"kind": "checklist",
+"slot": "2026-11-10T07:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-personal-trainers-checklist"
+},
+{
+"i": 57,
+"kind": "pain",
+"slot": "2026-11-10T10:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-consultancies-pain-14",
+"audio": "1941675846329817"
+},
+{
+"i": 82,
+"kind": "prompt",
+"slot": "2026-11-10T13:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-real-estate-agents-prompt",
+"audio": "957044555314519"
+},
+{
+"i": 123,
+"kind": "rewrite",
+"slot": "2026-11-10T16:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-rewrite-06"
+},
+{
+"i": 60,
+"kind": "pain",
+"slot": "2026-11-10T19:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-event-planners-pain-15",
+"audio": "1304451697253803"
+},
+{
+"i": 138,
+"kind": "tool",
+"slot": "2026-11-10T22:30",
+"day": "2026-11-10",
+"folder": "2026-11-10-faq-generator-tool",
+"audio": "473815599863496"
+},
+{
+"i": 63,
+"kind": "pain",
+"slot": "2026-11-11T01:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-online-tutors-pain-16",
+"audio": "1369509361952542"
+},
+{
+"i": 103,
+"kind": "tip",
+"slot": "2026-11-11T04:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-tip-06",
+"audio": "1941675846329817"
+},
+{
+"i": 4,
+"kind": "checklist",
+"slot": "2026-11-11T07:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-accountants-checklist"
+},
+{
+"i": 66,
+"kind": "pain",
+"slot": "2026-11-11T10:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-marketing-agencies-pain-17",
+"audio": "957044555314519"
+},
+{
+"i": 84,
+"kind": "prompt",
+"slot": "2026-11-11T13:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-personal-trainers-prompt",
+"audio": "1304451697253803"
+},
+{
+"i": 124,
+"kind": "rewrite",
+"slot": "2026-11-11T16:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-rewrite-07"
+},
+{
+"i": 69,
+"kind": "pain",
+"slot": "2026-11-11T22:30",
+"day": "2026-11-11",
+"folder": "2026-11-11-designers-pain-18",
+"audio": "473815599863496"
+},
+{
+"i": 72,
+"kind": "pain",
+"slot": "2026-11-12T01:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-bookstores-pain-19",
+"audio": "1369509361952542"
+},
+{
+"i": 104,
+"kind": "tip",
+"slot": "2026-11-12T04:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-tip-07",
+"audio": "1941675846329817"
+},
+{
+"i": 6,
+"kind": "checklist",
+"slot": "2026-11-12T07:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-florists-checklist"
+},
+{
+"i": 75,
+"kind": "pain",
+"slot": "2026-11-12T10:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-ceramics-shops-pain-20",
+"audio": "957044555314519"
+},
+{
+"i": 86,
+"kind": "prompt",
+"slot": "2026-11-12T13:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-pizzerias-prompt",
+"audio": "1304451697253803"
+},
+{
+"i": 125,
+"kind": "rewrite",
+"slot": "2026-11-12T16:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-rewrite-08"
+},
+{
+"i": 20,
+"kind": "pain",
+"slot": "2026-11-12T19:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-hair-salons-pain-21",
+"audio": "473815599863496"
+},
+{
+"i": 22,
+"kind": "pain",
+"slot": "2026-11-12T22:30",
+"day": "2026-11-12",
+"folder": "2026-11-12-dental-clinics-pain-22",
+"audio": "1369509361952542"
+},
+{
+"i": 25,
+"kind": "pain",
+"slot": "2026-11-13T01:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-restaurants-pain-23",
+"audio": "1941675846329817"
+},
+{
+"i": 105,
+"kind": "tip",
+"slot": "2026-11-13T04:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-tip-08",
+"audio": "957044555314519"
+},
+{
+"i": 7,
+"kind": "checklist",
+"slot": "2026-11-13T07:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-pizzerias-checklist"
+},
+{
+"i": 28,
+"kind": "pain",
+"slot": "2026-11-13T10:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-lawyers-pain-24",
+"audio": "1304451697253803"
+},
+{
+"i": 85,
+"kind": "prompt",
+"slot": "2026-11-13T13:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-florists-prompt",
+"audio": "473815599863496"
+},
+{
+"i": 126,
+"kind": "rewrite",
+"slot": "2026-11-13T16:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-rewrite-09"
+},
+{
+"i": 31,
+"kind": "pain",
+"slot": "2026-11-13T22:30",
+"day": "2026-11-13",
+"folder": "2026-11-13-real-estate-agents-pain-25",
+"audio": "1369509361952542"
+},
+{
+"i": 34,
+"kind": "pain",
+"slot": "2026-11-14T01:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-accountants-pain-26",
+"audio": "1941675846329817"
+},
+{
+"i": 106,
+"kind": "tip",
+"slot": "2026-11-14T04:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-tip-09",
+"audio": "957044555314519"
+},
+{
+"i": 8,
+"kind": "checklist",
+"slot": "2026-11-14T07:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-coaches-checklist"
+},
+{
+"i": 37,
+"kind": "pain",
+"slot": "2026-11-14T10:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-personal-trainers-pain-27",
+"audio": "1304451697253803"
+},
+{
+"i": 88,
+"kind": "prompt",
+"slot": "2026-11-14T13:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-wedding-photographers-prompt",
+"audio": "473815599863496"
+},
+{
+"i": 127,
+"kind": "rewrite",
+"slot": "2026-11-14T16:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-rewrite-10"
+},
+{
+"i": 40,
+"kind": "pain",
+"slot": "2026-11-14T19:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-florists-pain-28",
+"audio": "1369509361952542"
+},
+{
+"i": 43,
+"kind": "pain",
+"slot": "2026-11-14T22:30",
+"day": "2026-11-14",
+"folder": "2026-11-14-pizzerias-pain-29",
+"audio": "1941675846329817"
+},
+{
+"i": 46,
+"kind": "pain",
+"slot": "2026-11-15T01:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-coaches-pain-30",
+"audio": "957044555314519"
+},
+{
+"i": 107,
+"kind": "tip",
+"slot": "2026-11-15T04:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-tip-10",
+"audio": "1304451697253803"
+},
+{
+"i": 9,
+"kind": "checklist",
+"slot": "2026-11-15T07:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-wedding-photographers-checklist"
+},
+{
+"i": 52,
+"kind": "pain",
+"slot": "2026-11-15T10:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-yoga-studios-pain-31",
+"audio": "473815599863496"
+},
+{
+"i": 90,
+"kind": "prompt",
+"slot": "2026-11-15T13:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-gyms-and-fitness-studios-prompt",
+"audio": "1369509361952542"
+},
+{
+"i": 128,
+"kind": "rewrite",
+"slot": "2026-11-15T16:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-rewrite-11"
+},
+{
+"i": 58,
+"kind": "pain",
+"slot": "2026-11-15T19:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-consultancies-pain-32",
+"audio": "1941675846329817"
+},
+{
+"i": 61,
+"kind": "pain",
+"slot": "2026-11-15T22:30",
+"day": "2026-11-15",
+"folder": "2026-11-15-event-planners-pain-33",
+"audio": "957044555314519"
+},
+{
+"i": 49,
+"kind": "pain",
+"slot": "2026-11-16T01:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-wedding-photographers-pain-34",
+"audio": "1304451697253803"
+},
+{
+"i": 108,
+"kind": "tip",
+"slot": "2026-11-16T04:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-tip-11",
+"audio": "473815599863496"
+},
+{
+"i": 10,
+"kind": "checklist",
+"slot": "2026-11-16T07:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-yoga-studios-checklist"
+},
+{
+"i": 55,
+"kind": "pain",
+"slot": "2026-11-16T10:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-gyms-and-fitness-studios-pain-35",
+"audio": "1369509361952542"
+},
+{
+"i": 87,
+"kind": "prompt",
+"slot": "2026-11-16T13:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-coaches-prompt",
+"audio": "1941675846329817"
+},
+{
+"i": 129,
+"kind": "rewrite",
+"slot": "2026-11-16T16:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-rewrite-12"
+},
+{
+"i": 64,
+"kind": "pain",
+"slot": "2026-11-16T22:30",
+"day": "2026-11-16",
+"folder": "2026-11-16-online-tutors-pain-36",
+"audio": "957044555314519"
+},
+{
+"i": 67,
+"kind": "pain",
+"slot": "2026-11-17T01:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-marketing-agencies-pain-37",
+"audio": "1304451697253803"
+},
+{
+"i": 109,
+"kind": "tip",
+"slot": "2026-11-17T04:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-tip-12",
+"audio": "473815599863496"
+},
+{
+"i": 11,
+"kind": "checklist",
+"slot": "2026-11-17T07:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-gyms-and-fitness-studios-checklist"
+},
+{
+"i": 70,
+"kind": "pain",
+"slot": "2026-11-17T10:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-designers-pain-38",
+"audio": "1369509361952542"
+},
+{
+"i": 89,
+"kind": "prompt",
+"slot": "2026-11-17T13:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-yoga-studios-prompt",
+"audio": "1941675846329817"
+},
+{
+"i": 130,
+"kind": "rewrite",
+"slot": "2026-11-17T16:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-rewrite-13"
+},
+{
+"i": 73,
+"kind": "pain",
+"slot": "2026-11-17T19:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-bookstores-pain-39",
+"audio": "957044555314519"
+},
+{
+"i": 76,
+"kind": "pain",
+"slot": "2026-11-17T22:30",
+"day": "2026-11-17",
+"folder": "2026-11-17-ceramics-shops-pain-40",
+"audio": "1304451697253803"
+},
+{
+"i": 23,
+"kind": "pain",
+"slot": "2026-11-18T01:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-dental-clinics-pain-41",
+"audio": "473815599863496"
+},
+{
+"i": 110,
+"kind": "tip",
+"slot": "2026-11-18T04:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-tip-13",
+"audio": "1369509361952542"
+},
+{
+"i": 12,
+"kind": "checklist",
+"slot": "2026-11-18T07:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-consultancies-checklist"
+},
+{
+"i": 26,
+"kind": "pain",
+"slot": "2026-11-18T10:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-restaurants-pain-42",
+"audio": "1941675846329817"
+},
+{
+"i": 92,
+"kind": "prompt",
+"slot": "2026-11-18T13:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-event-planners-prompt",
+"audio": "957044555314519"
+},
+{
+"i": 131,
+"kind": "rewrite",
+"slot": "2026-11-18T16:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-rewrite-14"
+},
+{
+"i": 29,
+"kind": "pain",
+"slot": "2026-11-18T19:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-lawyers-pain-43",
+"audio": "1304451697253803"
+},
+{
+"i": 32,
+"kind": "pain",
+"slot": "2026-11-18T22:30",
+"day": "2026-11-18",
+"folder": "2026-11-18-real-estate-agents-pain-44",
+"audio": "473815599863496"
+},
+{
+"i": 35,
+"kind": "pain",
+"slot": "2026-11-19T01:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-accountants-pain-45",
+"audio": "1369509361952542"
+},
+{
+"i": 111,
+"kind": "tip",
+"slot": "2026-11-19T04:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-tip-14",
+"audio": "1941675846329817"
+},
+{
+"i": 13,
+"kind": "checklist",
+"slot": "2026-11-19T07:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-event-planners-checklist"
+},
+{
+"i": 38,
+"kind": "pain",
+"slot": "2026-11-19T10:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-personal-trainers-pain-46",
+"audio": "957044555314519"
+},
+{
+"i": 91,
+"kind": "prompt",
+"slot": "2026-11-19T13:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-consultancies-prompt",
+"audio": "1304451697253803"
+},
+{
+"i": 132,
+"kind": "rewrite",
+"slot": "2026-11-19T16:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-rewrite-15"
+},
+{
+"i": 41,
+"kind": "pain",
+"slot": "2026-11-19T19:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-florists-pain-47",
+"audio": "473815599863496"
+},
+{
+"i": 44,
+"kind": "pain",
+"slot": "2026-11-19T22:30",
+"day": "2026-11-19",
+"folder": "2026-11-19-pizzerias-pain-48",
+"audio": "1369509361952542"
+},
+{
+"i": 47,
+"kind": "pain",
+"slot": "2026-11-20T01:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-coaches-pain-49",
+"audio": "1941675846329817"
+},
+{
+"i": 112,
+"kind": "tip",
+"slot": "2026-11-20T04:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-tip-15",
+"audio": "957044555314519"
+},
+{
+"i": 14,
+"kind": "checklist",
+"slot": "2026-11-20T07:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-online-tutors-checklist"
+},
+{
+"i": 50,
+"kind": "pain",
+"slot": "2026-11-20T10:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-wedding-photographers-pain-50",
+"audio": "1304451697253803"
+},
+{
+"i": 94,
+"kind": "prompt",
+"slot": "2026-11-20T13:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-marketing-agencies-prompt",
+"audio": "473815599863496"
+},
+{
+"i": 53,
+"kind": "pain",
+"slot": "2026-11-20T16:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-yoga-studios-pain-51",
+"audio": "1369509361952542"
+},
+{
+"i": 56,
+"kind": "pain",
+"slot": "2026-11-20T19:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-gyms-and-fitness-studios-pain-52",
+"audio": "1941675846329817"
+},
+{
+"i": 59,
+"kind": "pain",
+"slot": "2026-11-20T22:30",
+"day": "2026-11-20",
+"folder": "2026-11-20-consultancies-pain-53",
+"audio": "957044555314519"
+},
+{
+"i": 62,
+"kind": "pain",
+"slot": "2026-11-21T01:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-event-planners-pain-54",
+"audio": "1304451697253803"
+},
+{
+"i": 113,
+"kind": "tip",
+"slot": "2026-11-21T04:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-tip-16",
+"audio": "473815599863496"
+},
+{
+"i": 15,
+"kind": "checklist",
+"slot": "2026-11-21T07:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-marketing-agencies-checklist"
+},
+{
+"i": 65,
+"kind": "pain",
+"slot": "2026-11-21T10:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-online-tutors-pain-55",
+"audio": "1369509361952542"
+},
+{
+"i": 95,
+"kind": "prompt",
+"slot": "2026-11-21T13:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-designers-prompt",
+"audio": "1941675846329817"
+},
+{
+"i": 74,
+"kind": "pain",
+"slot": "2026-11-21T16:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-bookstores-pain-56",
+"audio": "957044555314519"
+},
+{
+"i": 77,
+"kind": "pain",
+"slot": "2026-11-21T19:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-ceramics-shops-pain-57",
+"audio": "1304451697253803"
+},
+{
+"i": 114,
+"kind": "tip",
+"slot": "2026-11-21T22:30",
+"day": "2026-11-21",
+"folder": "2026-11-21-tip-17",
+"audio": "473815599863496"
+},
+{
+"i": 68,
+"kind": "pain",
+"slot": "2026-11-22T01:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-marketing-agencies-pain-58",
+"audio": "1369509361952542"
+},
+{
+"i": 115,
+"kind": "tip",
+"slot": "2026-11-22T04:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-tip-18",
+"audio": "1941675846329817"
+},
+{
+"i": 16,
+"kind": "checklist",
+"slot": "2026-11-22T07:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-designers-checklist"
+},
+{
+"i": 71,
+"kind": "pain",
+"slot": "2026-11-22T10:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-designers-pain-59",
+"audio": "957044555314519"
+},
+{
+"i": 93,
+"kind": "prompt",
+"slot": "2026-11-22T13:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-online-tutors-prompt",
+"audio": "1304451697253803"
+},
+{
+"i": 116,
+"kind": "tip",
+"slot": "2026-11-22T16:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-tip-19",
+"audio": "473815599863496"
+},
+{
+"i": 17,
+"kind": "checklist",
+"slot": "2026-11-22T19:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-bookstores-checklist"
+},
+{
+"i": 97,
+"kind": "prompt",
+"slot": "2026-11-22T22:30",
+"day": "2026-11-22",
+"folder": "2026-11-22-ceramics-shops-prompt",
+"audio": "1369509361952542"
+},
+{
+"i": 117,
+"kind": "tip",
+"slot": "2026-11-23T01:30",
+"day": "2026-11-23",
+"folder": "2026-11-23-tip-20",
+"audio": "1941675846329817"
+},
+{
+"i": 18,
+"kind": "checklist",
+"slot": "2026-11-23T04:30",
+"day": "2026-11-23",
+"folder": "2026-11-23-ceramics-shops-checklist"
+},
+{
+"i": 96,
+"kind": "prompt",
+"slot": "2026-11-23T07:30",
+"day": "2026-11-23",
+"folder": "2026-11-23-bookstores-prompt",
+"audio": "957044555314519"
+}
+]

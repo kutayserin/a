@@ -9,7 +9,7 @@
    "items": [
     [
      "Treatments with price ranges",
-     "A range for a cleaning or a filling helps someone comparing clinics decide to call you."
+     "Where rules allow, a range for a cleaning or a filling helps people compare clinics."
     ],
     [
      "Dentists' names and training",
@@ -46,7 +46,7 @@
     ],
     [
      "Your name on a page you own",
-     "Keep your name, address and menu on your own page, so a search leads to you."
+     "Keep your name, address and menu on your own page, so a search can lead to you."
     ]
    ]
   },
@@ -55,7 +55,7 @@
    "slug": "lawyers",
    "title": "Website checklist for law firms",
    "tag": "lawfirmmarketing",
-   "hook": "Nobody searches for 'law firm.' They search for a problem. Your site should start there.",
+   "hook": "People usually search for a problem, not 'law firm.' Your site should start there.",
    "items": [
     [
      "One page per practice area",
@@ -92,7 +92,7 @@
     ],
     [
      "Neighborhood guides, one per area",
-     "Write what you tell buyers in the car: schools, commute, the good bakery, noisy roads."
+     "Write what you tell buyers in the car: commute, parks, the good bakery, noisy roads."
     ],
     [
      "A link to your current listings",
@@ -109,7 +109,7 @@
    "items": [
     [
      "Service tiers with starting prices",
-     "Bookkeeping, payroll, year-end accounts, each with a 'from' price so people self-select."
+     "Bookkeeping, payroll, year-end accounts, each with a 'from' price to set expectations."
     ],
     [
      "The software you work in",
@@ -184,15 +184,15 @@
    "items": [
     [
      "Your number, tap to call, top right",
-     "On a phone, the number should dial with one tap, and sit before the dough photos."
+     "Put it above the dough photos, so a hungry family can reach you with one tap."
     ],
     [
      "Reservations in your own words",
-     "Tell people how you take tables: phone, WhatsApp, walk-in only. Keep it on your page."
+     "Walk-in only, or tables by phone or WhatsApp? Say so before the family sets off."
     ],
     [
      "The menu as text on the page",
-     "Pizzas as a list people can read on a phone, and change when the burrata runs out."
+     "Group pizzas by type, with prices, so a parent can choose on a phone before calling."
     ],
     [
      "A gallery that loads quickly",
@@ -221,7 +221,7 @@
     ],
     [
      "Testimonials with a name and city",
-     "'Maria, Lisbon' is believable. 'Client, Europe' is wallpaper. Ask first, use real names."
+     "'Maria, Lisbon' is believable. 'Client, Europe' is not. Ask first, then use real names."
     ]
    ]
   },
@@ -234,7 +234,7 @@
    "items": [
     [
      "A starting price, visible",
-     "'Weddings from' with a number saves you and the couple a week of polite emails."
+     "'Weddings from' with a number can spare you and the couple some polite emails."
     ],
     [
      "Eight weddings, chosen carefully",
@@ -266,11 +266,11 @@
      "A single class, a five-pack, a monthly pass. Prices next to each, no 'inquire within'."
     ],
     [
-     "Teacher bios written by humans",
-     "Where they trained, what they teach, and one line about why. Skip the stock quotes."
+     "Teacher bios in their own words",
+     "Where they trained, what they teach, and one line about why. Skip the famous quotes."
     ],
     [
-     "A clear first-class offer",
+     "A clear offer for the first class",
      "Make the first visit easy to understand: what to bring, where to park, what it costs."
     ]
    ]
@@ -291,8 +291,8 @@
      "Keep this week's timetable on your site, so people find it without leaving."
     ],
     [
-     "Trainer bios that name names",
-     "Each coach: photo, specialty, classes they teach. Their followers come along too."
+     "Trainer bios with real names",
+     "Each coach: photo, specialty, classes they teach. Their followers may come along too."
     ],
     [
      "Membership tiers side by side",
@@ -346,7 +346,7 @@
     ],
     [
      "An inquiry form that asks the basics",
-     "Date, guest count, venue if booked, budget range. Four fields save three emails."
+     "Date, guest count, venue if booked, budget range. Four fields can save a lot of emails."
     ]
    ]
   },
@@ -370,7 +370,7 @@
      "Say how long it is, what you cover, and how to request it."
     ],
     [
-     "Book directly with you",
+     "A way to book you directly",
      "Tell parents how to schedule with you, so they don't go back to a marketplace."
     ]
    ]
@@ -380,7 +380,7 @@
    "slug": "marketing-agencies",
    "title": "Website checklist for marketing agencies",
    "tag": "marketingagency",
-   "hook": "'We help brands grow.' So does every agency in town. Your homepage has one line to differ.",
+   "hook": "'We help brands grow.' So does every agency in town. Say what only you do.",
    "items": [
     [
      "Services with a scope and a price",
@@ -392,7 +392,7 @@
     ],
     [
      "A team page that earns its place",
-     "Real names, real photos, what each person owns. Skip the headshot of the office dog."
+     "Real names, real photos, what each person handles. Skip the headshot of the office dog."
     ],
     [
      "An intake with three questions",
@@ -405,7 +405,7 @@
    "slug": "designers",
    "title": "Website checklist for designers",
    "tag": "designportfolio",
-   "hook": "Your portfolio sits on a platform beside everyone else's. Clients can't see where you end.",
+   "hook": "Your portfolio sits on a platform beside everyone else's. Clients can't tell you apart.",
    "items": [
     [
      "Type that stays out of the way",
@@ -417,7 +417,7 @@
     ],
     [
      "Availability and a rate band",
-     "'Taking projects from March, day rate from' and a number filters the wrong inquiries."
+     "'Taking projects from March, day rate from' and a number filters out wrong inquiries."
     ],
     [
      "Your email, written out",
@@ -430,7 +430,7 @@
    "slug": "bookstores",
    "title": "Website checklist for independent bookstores",
    "tag": "indiebookstore",
-   "hook": "Staff picks on Instagram, events on a chalkboard. Someone searching tonight sees neither.",
+   "hook": "Staff picks on Instagram, events on a chalkboard. Neither is on your own site.",
    "items": [
     [
      "Staff picks with a voice",
@@ -445,8 +445,8 @@
      "One field and one sentence on what people get: new arrivals, events, staff picks."
     ],
     [
-     "Easy to read from the shop floor",
-     "Someone standing in your aisle might check it. Big text, phone number and hours first."
+     "Easy to read on the way to you",
+     "Someone on the street might check it first. Big text, phone number and hours on top."
     ]
    ]
   },
@@ -480,7 +480,7 @@
    "slug": "hair-salons",
    "title": "Hair salons: Instagram portfolio",
    "tag": "hairsalon",
-   "hook": "Instagram is your portfolio, and Google has never seen it.",
+   "hook": "Your best cuts are on Instagram, away from your address and prices.",
    "fix_title": "Twelve cuts on a page you own",
    "fix_body": "Put twelve Instagram cuts on a gallery page, your salon's name and street next to them."
   },
@@ -491,7 +491,7 @@
    "tag": "hairsalon",
    "hook": "Each stylist has a following. Your website doesn't mention one name.",
    "fix_title": "A page per stylist",
-   "fix_body": "Photo, specialties and how to book with them by name. Their followers land on your site."
+   "fix_body": "Photo, specialties and how to book with them by name, so followers can find you."
   },
   {
    "type": "pain",
@@ -518,14 +518,14 @@
    "tag": "dentalmarketing",
    "hook": "The only way to get an appointment is to call while you're drilling.",
    "fix_title": "Say how to request a visit",
-   "fix_body": "WhatsApp, a short form or a callback request, with your reply hours. All beat voicemail."
+   "fix_body": "A short form or a callback request, with your reply hours. Ask for no health details."
   },
   {
    "type": "pain",
    "slug": "restaurants",
-   "title": "Restaurants: PDF menu and stock photo",
+   "title": "Restaurants: stock photo",
    "tag": "restaurantmarketing",
-   "hook": "Your website is a 2021 PDF menu and a stock photo of a salad.",
+   "hook": "Your website's main photo is a stock shot of someone else's salad.",
    "fix_title": "Your dishes, photographed by you",
    "fix_body": "Your phone, tonight's special, your light. It beats a studio shot of a stranger's food."
   },
@@ -545,7 +545,7 @@
    "tag": "restaurantmarketing",
    "hook": "People book your tables on a site that isn't yours and keeps the credit.",
    "fix_title": "A page that carries your name",
-   "fix_body": "Name, address, menu and how to book on your own page. Link out only if you must."
+   "fix_body": "Put how to book on your own page first, and send people to the booking site from there."
   },
   {
    "type": "pain",
@@ -553,7 +553,7 @@
    "title": "Law firms: outdated site",
    "tag": "lawfirmmarketing",
    "hook": "Your firm's site is from 2012. The partner who 'owns' it lost the login.",
-   "fix_title": "A site anyone at the firm can edit",
+   "fix_title": "A site your firm can edit itself",
    "fix_body": "When a new associate joins or an address changes, someone should fix it the same day."
   },
   {
@@ -561,7 +561,7 @@
    "slug": "lawyers",
    "title": "Law firms: thin practice pages",
    "tag": "lawfirmmarketing",
-   "hook": "One bullet list covers every practice area. That's where people search.",
+   "hook": "One bullet list covers all your work. People search by practice area.",
    "fix_title": "A full page per practice area",
    "fix_body": "What the matter involves, how you work, what to bring to the first meeting. No promises."
   },
@@ -579,7 +579,7 @@
    "slug": "real-estate-agents",
    "title": "Real estate agents: templated brokerage page",
    "tag": "realestatemarketing",
-   "hook": "Your brokerage page is the same one every other agent at the office got.",
+   "hook": "Your agency gave you a web page. It gave the same one to everyone else.",
    "fix_title": "A page that is only yours",
    "fix_body": "Your photo, the neighborhoods you actually work, and how to reach you directly."
   },
@@ -588,7 +588,7 @@
    "slug": "real-estate-agents",
    "title": "Real estate agents: invisible on portals",
    "tag": "realestatemarketing",
-   "hook": "Buyers find the listing on a portal and never learn who's selling it.",
+   "hook": "Your listings live on a portal, beside every rival agent in town.",
    "fix_title": "Your face next to every listing",
    "fix_body": "On your own page, each listing sits beside your name and your phone number."
   },
@@ -599,7 +599,7 @@
    "tag": "realestatemarketing",
    "hook": "Buyers love neighborhood guides. You never have an evening to write one.",
    "fix_title": "Start with one neighborhood",
-   "fix_body": "Write the one you sell most, in the words you use in the car. Add another next month."
+   "fix_body": "Write the area you sell most, the way you describe it to a buyer. Add one next month."
   },
   {
    "type": "pain",
@@ -608,16 +608,16 @@
    "tag": "accountingfirm",
    "hook": "The pricing page says 'call for a quote.' For a monthly payroll run.",
    "fix_title": "A 'from' price on routine work",
-   "fix_body": "Monthly bookkeeping, annual returns, payroll. A 'from' price lets the right people call."
+   "fix_body": "Put a starting price on the work you do every month, and keep 'ask us' for the rest."
   },
   {
    "type": "pain",
    "slug": "accountants",
    "title": "Accountants: long intake calls",
    "tag": "accountingfirm",
-   "hook": "Half of every intake call is finding out what the prospect needs.",
+   "hook": "Intake calls start with questions you could have asked in advance.",
    "fix_title": "Ask three questions up front",
-   "fix_body": "Business type, revenue range, what they need help with. The call starts where it should."
+   "fix_body": "A short list on the contact page gets you the basics before you pick up the phone."
   },
   {
    "type": "pain",
@@ -626,14 +626,14 @@
    "tag": "accountingfirm",
    "hook": "You live in one bookkeeping system. Your site just says 'accounting.'",
    "fix_title": "Name the software you work in",
-   "fix_body": "A plain sentence on which systems you support, so prospects know their files will open."
+   "fix_body": "Say in one plain sentence which systems you support, so nobody has to ask."
   },
   {
    "type": "pain",
    "slug": "personal-trainers",
    "title": "Personal trainers: nowhere to book",
    "tag": "personaltrainer",
-   "hook": "Clients come from Instagram, then DM you asking how to actually start.",
+   "hook": "Your Instagram bio links to nothing, so every new client has to DM you.",
    "fix_title": "One page that says how to start",
    "fix_body": "A free consult, a trial session, a form. Pick one and link it from your Instagram bio."
   },
@@ -642,7 +642,7 @@
    "slug": "personal-trainers",
    "title": "Personal trainers: one price for two services",
    "tag": "personaltrainer",
-   "hook": "Online and in-person cost different amounts. Your site shows one price.",
+   "hook": "Remote plan or gym session? Your site shows one price for both.",
    "fix_title": "Two columns, two prices",
    "fix_body": "Remote plan on the left, gym sessions on the right, what's included under each."
   },
@@ -660,7 +660,7 @@
    "slug": "florists",
    "title": "Florists: DMs as order book",
    "tag": "floristlife",
-   "hook": "Instagram DMs are your order book. They stop at closing time.",
+   "hook": "Instagram DMs are your order book. You stop answering at closing time.",
    "fix_title": "An order path that works at midnight",
    "fix_body": "List what's in stock, delivery areas and a way to order or message. The site stays open."
   },
@@ -680,7 +680,7 @@
    "tag": "floristlife",
    "hook": "You make lovely subscription boxes. The only way to sign up is to call.",
    "fix_title": "A subscription section",
-   "fix_body": "Weekly or monthly, two sizes, a price each, and how to start. Three lines do it."
+   "fix_body": "Show both sizes, the weekly and monthly price, and how to sign up without a phone call."
   },
   {
    "type": "pain",
@@ -707,14 +707,14 @@
    "tag": "pizzeria",
    "hook": "The menu is a PDF from 2019. One price change means a call to a friend.",
    "fix_title": "A menu you can edit yourself",
-   "fix_body": "Pizzas as text on the page, grouped by type, prices you can change on a Tuesday night."
+   "fix_body": "Keep prices as text you can change yourself, any night, without calling anyone."
   },
   {
    "type": "pain",
    "slug": "coaches",
    "title": "Coaches: nowhere to book",
    "tag": "coachingbusiness",
-   "hook": "They read your posts for a month, look for where to book, and give up.",
+   "hook": "A month of reading your posts, and the next step is nowhere to be found.",
    "fix_title": "A booking path in your bio and site",
    "fix_body": "Link to one page that explains the first call and how to get one. Same link everywhere."
   },
@@ -725,14 +725,14 @@
    "tag": "coachingbusiness",
    "hook": "Discovery calls eat your week. Nothing on the site filters who gets one.",
    "fix_title": "Say who you're for and who you're not",
-   "fix_body": "'I work with first-time managers in tech' saves ten calls with people you can't help."
+   "fix_body": "'I work with first-time managers in tech' can save calls with people you can't help."
   },
   {
    "type": "pain",
    "slug": "coaches",
    "title": "Coaches: site looks cheap",
    "tag": "coachingbusiness",
-   "hook": "You charge a premium rate. Your site looks like a weekend side hustle.",
+   "hook": "You charge executive-coach rates. Your site looks like a side project.",
    "fix_title": "Look like the price you charge",
    "fix_body": "Fewer words, bigger type, one photo of you, packages with prices. Remove the clip art."
   },
@@ -743,7 +743,7 @@
    "tag": "weddingphotographer",
    "hook": "Couples DM you for a package at a third of your price, every week.",
    "fix_title": "Pricing band at the top",
-   "fix_body": "'Weddings start from' and a number, before the gallery. The right couples keep reading."
+   "fix_body": "Put your starting price above the gallery, so couples see it before they write."
   },
   {
    "type": "pain",
@@ -788,7 +788,7 @@
    "tag": "yogastudio",
    "hook": "A teacher moves her Tuesday class. The site shows it wrong for a month.",
    "fix_title": "Edit it yourself, that afternoon",
-   "fix_body": "Class times and teacher bios should take minutes to change, no HTML friend required."
+   "fix_body": "Class times and teacher bios should take minutes to change, with no coding."
   },
   {
    "type": "pain",
@@ -806,14 +806,14 @@
    "tag": "gymowner",
    "hook": "The trainers have followers. The website has a stock kettlebell photo.",
    "fix_title": "A trainer grid with real names",
-   "fix_body": "Photo, specialty, classes they teach. Their followers find your gym through them."
+   "fix_body": "Give each one a photo, a specialty and a class list, then ask them to share the page."
   },
   {
    "type": "pain",
    "slug": "gyms-and-fitness-studios",
    "title": "Gyms: buried intro offer",
    "tag": "gymowner",
-   "hook": "The intro offer that brings people in is three scrolls down.",
+   "hook": "People came for your trial week. They can't find it without scrolling.",
    "fix_title": "Intro offer on the first screen",
    "fix_body": "What it is, what it costs, how to claim it. Above the gallery, above the mission."
   },
@@ -822,18 +822,18 @@
    "slug": "consultancies",
    "title": "Consultancies: no packages",
    "tag": "consulting",
-   "hook": "Your work is bespoke. Your site has no packages, no prices and no shape.",
+   "hook": "Your work is custom. Your site shows no packages and no prices.",
    "fix_title": "Give the work a shape",
-   "fix_body": "A two-week assessment, a quarterly retainer. Name the output and a starting price."
+   "fix_body": "Turn the work into two or three fixed offers, each with an output and a starting price."
   },
   {
    "type": "pain",
    "slug": "consultancies",
    "title": "Consultancies: budget on calls",
    "tag": "consulting",
-   "hook": "Half of each discovery call is spent finding out the budget.",
+   "hook": "Discovery calls keep getting stuck on finding out the budget.",
    "fix_title": "State a minimum engagement",
-   "fix_body": "'Engagements start at' with a number saves both sides a 45-minute call."
+   "fix_body": "'Engagements start at' with a number can save both sides a long call."
   },
   {
    "type": "pain",
@@ -842,7 +842,7 @@
    "tag": "consulting",
    "hook": "Updating one case study takes a designer and three rounds of feedback.",
    "fix_title": "Case studies as plain sections",
-   "fix_body": "Problem, approach, outcome in text you can edit yourself, with one image. One evening."
+   "fix_body": "Problem, approach, outcome in text you can edit yourself, with one image."
   },
   {
    "type": "pain",
@@ -851,7 +851,7 @@
    "tag": "eventplanner",
    "hook": "Your portfolio is on Instagram. Search engines can't read your stories.",
    "fix_title": "Ten events on your own site",
-   "fix_body": "Venue, season, guest count and three photos each. A page that's still there next year."
+   "fix_body": "Each event gets its own section with three photos and a line on what made it work."
   },
   {
    "type": "pain",
@@ -860,14 +860,14 @@
    "tag": "eventplanner",
    "hook": "Every inquiry opens with 'how much for a wedding?' The site never says.",
    "fix_title": "Starting prices by service",
-   "fix_body": "Planning from, coordination from, day-of from. Three numbers answer the first email."
+   "fix_body": "Put one starting price next to each service, so the first email is not about money."
   },
   {
    "type": "pain",
    "slug": "event-planners",
    "title": "Event planners: style invisible",
    "tag": "eventplanner",
-   "hook": "Rustic, minimal or maximalist? Couples can't tell until they meet you.",
+   "hook": "Couples can't tell your style from your site, so they have to ask.",
    "fix_title": "Your style, named at the top",
    "fix_body": "One sentence and three photos that prove it, before any mention of years in business."
   },
@@ -887,7 +887,7 @@
    "tag": "onlinetutor",
    "hook": "Parents have to email you to learn your hourly rate.",
    "fix_title": "Rates on the page",
-   "fix_body": "Hourly, five-lesson and ten-lesson prices, for each subject if they differ."
+   "fix_body": "Show one lesson and a pack at a glance, with a separate price per subject if it differs."
   },
   {
    "type": "pain",
@@ -903,16 +903,16 @@
    "slug": "marketing-agencies",
    "title": "Marketing agencies: generic positioning",
    "tag": "marketingagency",
-   "hook": "'We help brands grow.' Twelve agencies within a mile say the same thing.",
+   "hook": "Swap your logo for a rival's, and your homepage still reads the same.",
    "fix_title": "Say who and what, specifically",
-   "fix_body": "'Paid search for dental clinics in Ohio' is a position. 'Growth partner' is a shrug."
+   "fix_body": "'Paid search for dental clinics in Ohio' is a position. 'Growth partner' says nothing."
   },
   {
    "type": "pain",
    "slug": "marketing-agencies",
    "title": "Marketing agencies: unqualified leads",
    "tag": "marketingagency",
-   "hook": "Half your discovery calls are with companies that can't afford you.",
+   "hook": "Too many discovery calls are with companies that can't afford you.",
    "fix_title": "Publish a starting point",
    "fix_body": "'Retainers start at' and a number. Add the three questions you always ask first."
   },
@@ -923,14 +923,14 @@
    "tag": "marketingagency",
    "hook": "Your case studies live in a slide deck nobody can find from your site.",
    "fix_title": "Case study cards on the homepage",
-   "fix_body": "Client, challenge, what you did, one image. Link the full deck from each card."
+   "fix_body": "Each card gets one image and three short lines, with the full deck one click away."
   },
   {
    "type": "pain",
    "slug": "designers",
    "title": "Designers: platform profile",
    "tag": "designportfolio",
-   "hook": "A platform profile isn't a site you can send a client to close the deal.",
+   "hook": "A serious client expects more than a link to your platform profile.",
    "fix_title": "A site with your name on the URL",
    "fix_body": "Selected work, a short bio, a rate band, a plain email. Nothing else competing."
   },
@@ -957,7 +957,7 @@
    "slug": "bookstores",
    "title": "Independent bookstores: staff picks on Instagram",
    "tag": "indiebookstore",
-   "hook": "Staff picks go on Instagram, where a search engine can't read them.",
+   "hook": "Staff picks go on Instagram, then scroll away under the next post.",
    "fix_title": "A staff picks page",
    "fix_body": "The book, the staff member's name, and two sentences on why. Add one every week."
   },
@@ -968,7 +968,7 @@
    "tag": "indiebookstore",
    "hook": "The events calendar is a chalkboard by the till. Nobody online sees it.",
    "fix_title": "Events on the website",
-   "fix_body": "Date, time, author, how to reserve a seat. Future events first, past ones below."
+   "fix_body": "List what's coming first, with the author and how to get a seat. Past events go below."
   },
   {
    "type": "pain",
@@ -977,7 +977,7 @@
    "tag": "indiebookstore",
    "hook": "Customers call to ask if a book is in stock. You're already on a call.",
    "fix_title": "Say how to check and reserve",
-   "fix_body": "A phone line, WhatsApp or an email for 'do you have it?' and the hours you answer."
+   "fix_body": "WhatsApp or an email for 'do you have it?' and the hours you answer."
   },
   {
    "type": "pain",
@@ -986,14 +986,14 @@
    "tag": "ceramics",
    "hook": "The marketplace takes a cut of every mug and shows buyers your rivals.",
    "fix_title": "Your own shop page",
-   "fix_body": "Your pieces, your prices, your story, and a buyer who remembers your name next time."
+   "fix_body": "Your pieces, your prices, your story, with no rival's mug shown next to yours."
   },
   {
    "type": "pain",
    "slug": "ceramics-shops",
    "title": "Ceramic artists: generic store",
    "tag": "ceramics",
-   "hook": "On that platform, your store looks like every other handmade store.",
+   "hook": "On a marketplace, your store looks like every other handmade store.",
    "fix_title": "Lead with the studio",
    "fix_body": "Open with your wheel, your kiln and your hands in clay. Products come second."
   },
@@ -1002,9 +1002,9 @@
    "slug": "ceramics-shops",
    "title": "Ceramic artists: drops vs catalog",
    "tag": "ceramics",
-   "hook": "You release twelve pieces a month. The template wants a thousand SKUs.",
+   "hook": "You release twelve pieces a month. The template wants a big catalog.",
    "fix_title": "Show the drop, date the next one",
-   "fix_body": "Current pieces, sold ones marked sold, and 'next drop opens' with a date at the top."
+   "fix_body": "Mark what's gone as sold, and put the date of the next drop where people look first."
   },
   {
    "type": "prompt",
@@ -1044,7 +1044,7 @@
    "who": "Small law firm in Austin, Texas.",
    "mood": "Serious, warm, dark green and cream.",
    "different": "Two partners, both former public defenders, now family law.",
-   "show": "Practice areas, attorney bios, consultation request, map."
+   "show": "Practice areas, attorney bios, how to reach us, map."
   },
   {
    "type": "prompt",
@@ -1064,7 +1064,7 @@
    "who": "Accounting firm in Leeds, England.",
    "mood": "Plain, trustworthy, navy and white.",
    "different": "Works mostly with plumbers, builders and small shops.",
-   "show": "Services with prices, who we help, intake form, contact."
+   "show": "Services with prices, who we help, contact details."
   },
   {
    "type": "prompt",
@@ -1083,7 +1083,7 @@
    "tag": "floristlife",
    "who": "Flower shop in Nişantaşı, Istanbul.",
    "mood": "Soft, romantic, blush and sage.",
-   "different": "Same-day delivery across the European side until 2pm.",
+   "different": "Same-day delivery on the European side for orders before 2pm.",
    "show": "Weekly bouquets, subscriptions, delivery areas, WhatsApp."
   },
   {
@@ -1104,7 +1104,7 @@
    "who": "Leadership coach in Amsterdam.",
    "mood": "Minimal, confident, charcoal and white.",
    "different": "Works with engineers who just became managers.",
-   "show": "Approach, packages with prices, testimonials, book a call."
+   "show": "Approach, packages with prices, testimonials, contact."
   },
   {
    "type": "prompt",
@@ -1114,7 +1114,7 @@
    "who": "Wedding photographer in Bodrum, Turkey.",
    "mood": "Airy, candid, warm film tones.",
    "different": "Shoots outdoor weddings on the coast, never a posed group shot.",
-   "show": "Selected weddings, pricing from, style note, inquiry form."
+   "show": "Selected weddings, starting price, style note, contact."
   },
   {
    "type": "prompt",
@@ -1124,7 +1124,7 @@
    "who": "Yoga studio in Trastevere, Rome.",
    "mood": "Quiet, earthy, terracotta and cream.",
    "different": "Classes in Italian and English, small groups of eight.",
-   "show": "Schedule, drop-in prices, teachers, first class offer."
+   "show": "Schedule, drop-in prices, teachers, first visit offer."
   },
   {
    "type": "prompt",
@@ -1144,7 +1144,7 @@
    "who": "Supply chain consultancy in Rotterdam.",
    "mood": "Clear, corporate, deep blue.",
    "different": "Two former port logistics managers who now advise importers.",
-   "show": "Engagements with prices, case studies, team, book a call."
+   "show": "Engagements with prices, case studies, team, contact."
   },
   {
    "type": "prompt",
@@ -1154,7 +1154,7 @@
    "who": "Event planner in Barcelona.",
    "mood": "Elegant, festive, gold and ivory.",
    "different": "Specializes in small weddings of under sixty guests in old farmhouses.",
-   "show": "Portfolio, packages from, style, inquiry form."
+   "show": "Portfolio, starting prices, style, contact."
   },
   {
    "type": "prompt",
@@ -1194,7 +1194,7 @@
    "who": "Independent bookstore in Kızılay, Ankara.",
    "mood": "Cozy, wooden, dark green.",
    "different": "Half the shelves are poetry, the rest are the owner's picks.",
-   "show": "Staff picks, events, newsletter signup, hours and map."
+   "show": "Staff picks, events, hours and map."
   },
   {
    "type": "prompt",
@@ -1258,9 +1258,9 @@
    "type": "tip",
    "title": "Small business website tip: plain headlines",
    "tag": "smallbusinesswebsite",
-   "hook": "'Solutions for a changing world' fits a bank, bakery or a funeral home.",
+   "hook": "'Solutions for a changing world' fits a bank, a bakery, a funeral home.",
    "tip_title": "Headline says what you do",
-   "tip_body": "'Bike repair in Ghent, same day' beats any slogan. A stranger should get it in a glance."
+   "tip_body": "'Bike repair in Ghent, same day' beats any slogan. A stranger should get it at a glance."
   },
   {
    "type": "tip",
@@ -1276,7 +1276,7 @@
    "tag": "smallbusinesswebsite",
    "hook": "'Contact us for a quote' makes the visitor do work you could have done.",
    "tip_title": "Publish a starting price",
-   "tip_body": "A 'from' price or a typical range gives people a yardstick before they write to you."
+   "tip_body": "A 'from' price or a typical range gives people an idea of cost before they write."
   },
   {
    "type": "tip",
@@ -1298,7 +1298,7 @@
    "type": "tip",
    "title": "Small business website tip: footer basics",
    "tag": "smallbusinesswebsite",
-   "hook": "The footer gets no love and all the trust questions.",
+   "hook": "Nobody designs the footer, yet people check it to see if you're real.",
    "tip_title": "Footer: address, hours, legal name",
    "tip_body": "Full address, phone, hours, legal business name, privacy page. Boring and essential."
   },
@@ -1314,8 +1314,8 @@
    "type": "tip",
    "title": "Small business website tip: readable text",
    "tag": "smallbusinesswebsite",
-   "hook": "Light gray text at 13 pixels on a white background is a dare.",
-   "tip_title": "Big, dark text on a plain ground",
+   "hook": "Light gray text at 13 pixels on a white background is hard to read.",
+   "tip_title": "Big, dark text on a plain background",
    "tip_body": "Body text at 18 pixels or more, strong contrast, short paragraphs. Check it in sunlight."
   },
   {
@@ -1323,8 +1323,8 @@
    "title": "Small business website tip: alt text",
    "tag": "smallbusinesswebsite",
    "hook": "A beautiful gallery, completely invisible to a screen reader.",
-   "tip_title": "Describe every photo in alt text",
-   "tip_body": "Describe what's in it: 'bakery counter at 7am, bread cooling.' Search engines read it."
+   "tip_title": "Give each gallery photo alt text",
+   "tip_body": "Say what's in it: 'bakery counter at 7am, bread cooling.' Screen readers read it aloud."
   },
   {
    "type": "tip",
@@ -1373,7 +1373,7 @@
    "business": "Plumber in Leeds",
    "before": "Quality plumbing services for all your needs.",
    "after": "Burst pipe in Leeds? We come out the same day, evenings included.",
-   "why": "It names the problem, the place and a promise you can actually keep."
+   "why": "It names the problem, the place and a promise, so only use it if you can keep it."
   },
   {
    "type": "rewrite",
@@ -1391,7 +1391,7 @@
    "business": "Dog groomer in Denver",
    "before": "We love your pets like our own!",
    "after": "Dog grooming in Capitol Hill. Nervous dogs welcome, one dog at a time.",
-   "why": "The second line tells an anxious owner exactly why they should pick you."
+   "why": "The second sentence tells an anxious owner exactly why they should pick you."
   },
   {
    "type": "rewrite",
@@ -1472,7 +1472,7 @@
    "business": "Hair salon in Istanbul",
    "before": "Where beauty meets style.",
    "after": "Curly hair specialists in Cihangir, walk-ins welcome before noon.",
-   "why": "Two nouns and a neighborhood do what a slogan can't: tell someone it's for them."
+   "why": "A specialty and a neighborhood do what a slogan can't: tell someone it's for them."
   },
   {
    "type": "rewrite",
@@ -1517,7 +1517,7 @@
    "tool": "Tagline generator",
    "url_path": "/tools/tagline-generator",
    "hook": "The sign is ordered, and the line under your name is still blank.",
-   "body": "Tell it what you do and get 10 taglines to pick from or edit. Free, no sign-up."
+   "body": "Tell it what you do and get 10 taglines to pick from. Free, no sign-up."
   },
   {
    "type": "tool",
@@ -1539,7 +1539,7 @@
   },
   {
    "type": "tool",
-   "title": "Free tool: wcag contrast checker",
+   "title": "Free tool: WCAG contrast checker",
    "tag": "freetools",
    "tool": "WCAG contrast checker",
    "url_path": "/tools/color-contrast-checker",
@@ -1548,12 +1548,12 @@
   },
   {
    "type": "tool",
-   "title": "Free tool: faq generator",
+   "title": "Free tool: FAQ generator",
    "tag": "freetools",
    "tool": "FAQ generator",
    "url_path": "/tools/faq-generator",
-   "hook": "You answer the same questions daily and the FAQ page is still a to-do.",
-   "body": "Describe your business and get 10 question and answer pairs to edit. Free, no sign-up."
+   "hook": "Your FAQ page has been on the to-do list since you opened.",
+   "body": "Describe your business and get 10 question and answer pairs. Free, no sign-up."
   }
  ]
 }
