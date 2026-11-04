@@ -1,0 +1,51 @@
+name: website-automation render library
+on:
+  push:
+    branches: [website-automation-social]
+    paths: [data/render_plan.json]
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install playwright numpy && playwright install --with-deps chromium
+      - run: python tools/wa_library.py render ${{ matrix.shard }} 6
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: posts-${{ matrix.shard }}
+          path: posts/
+          retention-days: 3
+  publish:
+    needs: render
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          path: art
+      - run: |
+          for d in art/*/; do cp -Rn "$d". posts/ ; done
+          python tools/wa_library.py calendar
+          git config user.name "website-automation-social"
+          git config user.email "noreply@website-automation.com"
+          git add posts calendar
+          git commit -m "Render post library and calendar" || exit 0
+          git pull --rebase origin website-automation-social
+          git push origin HEAD:website-automation-social
