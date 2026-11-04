@@ -1,0 +1,2774 @@
+[
+ {
+  "city": "London",
+  "name": "Buckingham Palace",
+  "title": "Buckingham Palace",
+  "url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+  "description": "Administrative headquarters of the British monarch",
+  "extract": "Buckingham Palace is the official residence and administrative headquarters of the monarch of the United Kingdom in London, England. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+  "lat": 51.50083333,
+  "lon": -0.14194444,
+  "deck": [
+   51.50083,
+   -0.14194
+  ],
+  "deck_km": 0.0,
+  "slug": "london-buckingham-palace",
+  "photo": {
+   "path": "assets/photos/london-buckingham-palace.jpg",
+   "artist": "William Westall",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Buckingham_House,_East_Front,_by_William_Westall,_1819_-_royal_coll_922137_257059_ORI_0.jpg",
+   "file": "Buckingham House, East Front, by William Westall, 1819 - royal coll 922137 257059 ORI 0.jpg",
+   "width": 1976,
+   "height": 1482
+  }
+ },
+ {
+  "city": "London",
+  "name": "Westminster Abbey",
+  "title": "Westminster Abbey",
+  "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+  "description": "Church in London, England",
+  "extract": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
+  "lat": 51.49944444,
+  "lon": -0.1275,
+  "deck": [
+   51.49944,
+   -0.1275
+  ],
+  "deck_km": 0.0,
+  "slug": "london-westminster-abbey",
+  "photo": {
+   "path": "assets/photos/london-westminster-abbey.jpg",
+   "artist": "JRennocks",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Baron_Boyce_Banner_of_the_Order_of_the_Bath.jpg",
+   "file": "Baron Boyce Banner of the Order of the Bath.jpg",
+   "width": 2000,
+   "height": 1248
+  }
+ },
+ {
+  "city": "London",
+  "name": "Big Ben",
+  "title": "Big Ben",
+  "url": "https://en.wikipedia.org/wiki/Big_Ben",
+  "description": "Clock tower in London, England",
+  "extract": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II. The clock is a striking clock with five bells.",
+  "lat": 51.5007,
+  "lon": -0.1245,
+  "deck": [
+   51.5007,
+   -0.1245
+  ],
+  "deck_km": 0.0,
+  "slug": "london-big-ben",
+  "photo": {
+   "path": "assets/photos/london-big-ben.jpg",
+   "artist": "Morn; original photo by JSilv99",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ayrton_Light.jpg",
+   "file": "Ayrton Light.jpg",
+   "width": 2464,
+   "height": 2892
+  }
+ },
+ {
+  "city": "London",
+  "name": "Trafalgar Square",
+  "title": "Trafalgar Square",
+  "url": "https://en.wikipedia.org/wiki/Trafalgar_Square",
+  "description": "Public square in London, England",
+  "extract": "Trafalgar Square is a public square in the City of Westminster in Central London. It was established in the early 19th century around the area known as Charing Cross. Its name commemorates the Battle of Trafalgar, the British naval victory in the Napoleonic Wars over France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar.",
+  "lat": 51.50805556,
+  "lon": -0.12805556,
+  "deck": [
+   51.50806,
+   -0.12806
+  ],
+  "deck_km": 0.0,
+  "slug": "london-trafalgar-square",
+  "photo": {
+   "path": "assets/photos/london-trafalgar-square.jpg",
+   "artist": "Andy F",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DemonstrationAgainstAntiTerrorismLawLondon23Jan.jpg",
+   "file": "DemonstrationAgainstAntiTerrorismLawLondon23Jan.jpg",
+   "width": 2000,
+   "height": 1330
+  }
+ },
+ {
+  "city": "London",
+  "name": "British Museum",
+  "title": "British Museum",
+  "url": "https://en.wikipedia.org/wiki/British_Museum",
+  "description": "National museum in London, England",
+  "extract": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present. Established in 1753, the British Museum was the world's first public national museum. In 2025, the museum received 6,440,120 visitors and was the second most visited attraction in the United Kingdom.",
+  "lat": 51.5194,
+  "lon": -0.1269,
+  "deck": [
+   51.5194,
+   -0.1269
+  ],
+  "deck_km": 0.0,
+  "slug": "london-british-museum",
+  "photo": {
+   "path": "assets/photos/london-british-museum.jpg",
+   "artist": "Hans Holbein the Younger",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Lady,_called_Anne_Boleyn,_by_Hans_Holbein_the_Younger.jpg",
+   "file": "A Lady, called Anne Boleyn, by Hans Holbein the Younger.jpg",
+   "width": 1920,
+   "height": 2500
+  }
+ },
+ {
+  "city": "London",
+  "name": "St Paul's Cathedral",
+  "title": "St Paul's Cathedral",
+  "url": "https://en.wikipedia.org/wiki/St_Paul's_Cathedral",
+  "description": "Anglican cathedral in London, England",
+  "extract": "St Paul's Cathedral, formally the Cathedral Church of St Paul in London, is an Anglican cathedral in London, England, the seat of the bishop of London. The cathedral serves as the mother church of the Diocese of London in the Church of England. It is on Ludgate Hill at the highest point of the City of London. Its dedication in honour of Paul the Apostle dates back to the original cathedral church on this site, founded in AD 604. The high-domed present structure, which was completed in 1710, is a Grade I listed building that was designed in the English Baroque style by Sir Christopher Wren. The cathedral's reconstruction was part of a major rebuilding programme initiated in the aftermath of the Great Fire of London. The earlier Gothic cathedral, largely destroyed in the Great Fire, was a central focus for medieval and early modern London, including Paul's walk and St Paul's Churchyard, being the site of St Paul's Cross.",
+  "lat": 51.5138,
+  "lon": -0.0983,
+  "deck": [
+   51.5138,
+   -0.0983
+  ],
+  "deck_km": 0.0,
+  "slug": "london-st-paul-s-cathedral",
+  "photo": {
+   "path": "assets/photos/london-st-paul-s-cathedral.jpg",
+   "artist": "davidwilson1949",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20180629_43_St._Paul%27s_Cathedral.jpg",
+   "file": "20180629 43 St. Paul's Cathedral.jpg",
+   "width": 3024,
+   "height": 4032
+  }
+ },
+ {
+  "city": "London",
+  "name": "Tower of London",
+  "title": "Tower of London",
+  "url": "https://en.wikipedia.org/wiki/Tower_of_London",
+  "description": "Castle in London, England",
+  "extract": "The Tower of London, officially His Majesty's Royal Palace and Fortress of the Tower of London, is a historic citadel and castle on the north bank of the River Thames in London, England. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded toward the end of 1066 as part of the Norman Conquest. The White Tower, which gives the castle its name, was built by William the Conqueror in 1078 and was initially a resented symbol of oppression. A grand palace early in its history, it served as a royal residence. The Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat. There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries.",
+  "lat": 51.50805556,
+  "lon": -0.07611111,
+  "deck": [
+   51.50806,
+   -0.07611
+  ],
+  "deck_km": 0.0,
+  "slug": "london-tower-of-london",
+  "photo": {
+   "path": "assets/photos/london-tower-of-london.jpg",
+   "artist": "Rachelle Haun",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephant_sculpture_by_Kendra_Haste,_Tower_of_London.jpg",
+   "file": "Elephant sculpture by Kendra Haste, Tower of London.jpg",
+   "width": 7360,
+   "height": 4912
+  }
+ },
+ {
+  "city": "London",
+  "name": "Tower Bridge",
+  "title": "Tower Bridge",
+  "url": "https://en.wikipedia.org/wiki/Tower_Bridge",
+  "description": "Bridge over the Thames in London, England",
+  "extract": "Tower Bridge is a Grade I listed combined bascule, suspension, and, until 1960, cantilever bridge in London, built between 1886 and 1894, designed by Horace Jones and engineered by John Wolfe Barry with the help of Henry Marc Brunel. It crosses the River Thames close to the Tower of London and is one of five London bridges owned and maintained by the City Bridge Foundation, a charitable trust founded in 1282.",
+  "lat": 51.5056,
+  "lon": -0.0753,
+  "deck": [
+   51.5056,
+   -0.0753
+  ],
+  "deck_km": 0.0,
+  "slug": "london-tower-bridge",
+  "photo": {
+   "path": "assets/photos/london-tower-bridge.jpg",
+   "artist": "Look4myblog",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chithrubar.jpg",
+   "file": "Chithrubar.jpg",
+   "width": 2048,
+   "height": 1536
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Accademia Gallery",
+  "title": "Galleria dell'Accademia",
+  "url": "https://en.wikipedia.org/wiki/Galleria_dell'Accademia",
+  "description": "Art museum in Florence, Italy",
+  "extract": "The Galleria dell'Accademia di Firenze is an art museum in Florence, in Tuscany in central Italy. It houses the Michelangelo sculpture David and other sculptures by Michelangelo, and a large collection of paintings by Florentine artists, mostly from the period 1300–1600. It is smaller and more specialised than the Uffizi, the main art museum in Florence. It adjoins the Accademia di Belle Arti or academy of fine arts of Florence, but despite the name has no other connection with it.",
+  "lat": 43.7769,
+  "lon": 11.2589,
+  "deck": [
+   43.77694,
+   11.25889
+  ],
+  "deck_km": 0.0,
+  "slug": "florence-accademia-gallery",
+  "photo": {
+   "path": "assets/photos/florence-accademia-gallery.jpg",
+   "artist": "S.e.witcher",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg",
+   "file": "Busts displayed at Galleria dell’Accademia di Firenze.jpg",
+   "width": 4032,
+   "height": 3024
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Museum of San Marco",
+  "title": "San Marco, Florence",
+  "url": "https://en.wikipedia.org/wiki/San_Marco%2C_Florence",
+  "description": "Church, convent, and museum in Italy",
+  "extract": "San Marco is a Catholic religious complex in Florence, Italy. It comprises a church and a convent. During the 15th century it was home to two famous Dominicans, the painter Fra Angelico and the preacher Girolamo Savonarola. The church houses the relics of St Antoninus of Florence and the tomb of Pico Della Mirandola, a Renaissance philosopher and humanist.",
+  "lat": 43.77847325,
+  "lon": 11.25902444,
+  "deck": [
+   43.7782,
+   11.25933
+  ],
+  "deck_km": 0.04,
+  "slug": "florence-museum-of-san-marco",
+  "photo": {
+   "path": "assets/photos/florence-museum-of-san-marco.jpg",
+   "artist": "Fra Angelico",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Adorazione_del_Bambino_-_Beato_Angelico.jpg",
+   "file": "Adorazione del Bambino - Beato Angelico.jpg",
+   "width": 2536,
+   "height": 3016
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Florence Cathedral",
+  "title": "Florence Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+  "description": "Church in Tuscany, Italy",
+  "extract": "Florence Cathedral, formally the Cathedral of Saint Mary of the Flower, is the cathedral of the Catholic Archdiocese of Florence in Florence, Italy. Commenced in 1296 in the Gothic style to a design of Arnolfo di Cambio and completed by 1436 with a dome engineered by Filippo Brunelleschi, the basilica's exterior is faced with polychrome marble panels in various shades of green and pink, alternated by white, and features an elaborate 19th-century Gothic Revival western façade by Emilio De Fabris.",
+  "lat": 43.77305556,
+  "lon": 11.25694444,
+  "deck": [
+   43.77306,
+   11.25694
+  ],
+  "deck_km": 0.0,
+  "slug": "florence-florence-cathedral",
+  "photo": {
+   "path": "assets/photos/florence-florence-cathedral.jpg",
+   "artist": "Paolo Villa",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:03_2015_Giudizio_Universale-Cristo-Giorgio_Vasari-Federico_Zuccari-Cupola-Santa_Maria_del_Fiore_(Firenze)_Photo_Paolo_Villa_FOTO9275bis.JPG",
+   "file": "03 2015 Giudizio Universale-Cristo-Giorgio Vasari-Federico Zuccari-Cupola-Santa Maria del Fiore (Firenze) Photo Paolo Villa FOTO9275bis.JPG",
+   "width": 4928,
+   "height": 3264
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Palazzo Vecchio",
+  "title": "Palazzo Vecchio",
+  "url": "https://en.wikipedia.org/wiki/Palazzo_Vecchio",
+  "description": "Town hall of Florence, Italy",
+  "extract": "The Palazzo Vecchio is the town hall of Florence, Italy. It overlooks the Piazza della Signoria, which holds a copy of Michelangelo's David statue, and the gallery of statues in the adjacent Loggia dei Lanzi.",
+  "lat": 43.7694,
+  "lon": 11.2561,
+  "deck": [
+   43.76944,
+   11.25611
+  ],
+  "deck_km": 0.0,
+  "slug": "florence-palazzo-vecchio",
+  "photo": {
+   "path": "assets/photos/florence-palazzo-vecchio.jpg",
+   "artist": "Bronzino",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Agnolo_Bronzino_-_The_crossing_of_the_Red_Sea_-_Google_Art_Project.jpg",
+   "file": "Agnolo Bronzino - The crossing of the Red Sea - Google Art Project.jpg",
+   "width": 7920,
+   "height": 5574
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Uffizi Gallery",
+  "title": "Uffizi",
+  "url": "https://en.wikipedia.org/wiki/Uffizi",
+  "description": "Art museum in Florence, Italy",
+  "extract": "The Uffizi Gallery is an art museum adjacent to the Piazza della Signoria in the Historic Centre of Florence in the region of Tuscany, Italy. It is one of the most visited museums in Italy and among the most important worldwide for its Italian Renaissance art collection.",
+  "lat": 43.7683,
+  "lon": 11.2553,
+  "deck": [
+   43.76833,
+   11.25528
+  ],
+  "deck_km": 0.0,
+  "slug": "florence-uffizi-gallery",
+  "photo": {
+   "path": "assets/photos/florence-uffizi-gallery.jpg",
+   "artist": "Albrecht Dürer",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
+   "file": "Albrecht Dürer - Adorazione dei Magi - Google Art Project.jpg",
+   "width": 3848,
+   "height": 3360
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Ponte Vecchio",
+  "title": "Ponte Vecchio",
+  "url": "https://en.wikipedia.org/wiki/Ponte_Vecchio",
+  "description": "Bridge in Florence, Italy",
+  "extract": "The Ponte Vecchio is a medieval stone closed-spandrel segmental arch bridge over the Arno, in Florence, Italy. The only bridge in Florence spared from destruction during World War II, it is noted for the shops built along it; building shops on such bridges was once a common practice. Butchers, tanners, and farmers initially occupied the shops; the present tenants are jewellers, art dealers, and souvenir sellers. The Ponte Vecchio's two neighbouring bridges are the Ponte Santa Trinita and the Ponte alle Grazie.",
+  "lat": 43.76799,
+  "lon": 11.25316,
+  "deck": [
+   43.76799,
+   11.25319
+  ],
+  "deck_km": 0.0,
+  "slug": "florence-ponte-vecchio",
+  "photo": {
+   "path": "assets/photos/florence-ponte-vecchio.jpg",
+   "artist": "sailko",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lungarno_degli_archibugieri_(corridoio_vasariano)_visto_dal_fiume_01.JPG",
+   "file": "Lungarno degli archibugieri (corridoio vasariano) visto dal fiume 01.JPG",
+   "width": 3648,
+   "height": 2736
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Palazzo Pitti",
+  "title": "Palazzo Pitti",
+  "url": "https://en.wikipedia.org/wiki/Palazzo_Pitti",
+  "description": "Renaissance palace and museum in Florence, Italy",
+  "extract": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker.",
+  "lat": 43.7652,
+  "lon": 11.2501,
+  "deck": [
+   43.76515,
+   11.25001
+  ],
+  "deck_km": 0.01,
+  "slug": "florence-palazzo-pitti",
+  "photo": {
+   "path": "assets/photos/florence-palazzo-pitti.jpg",
+   "artist": "Yanko Malinov",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_Venere_Italica_by_Antonio_Canova.jpg",
+   "file": "Close-up of Venere Italica by Antonio Canova.jpg",
+   "width": 5500,
+   "height": 3672
+  }
+ },
+ {
+  "city": "Florence",
+  "name": "Santa Croce",
+  "title": "Santa Croce, Florence",
+  "url": "https://en.wikipedia.org/wiki/Santa_Croce%2C_Florence",
+  "description": "Franciscan church in Florence, Italy",
+  "extract": "The Basilica di Santa Croce is a minor basilica and the principal Franciscan church of Florence, Italy. It is situated on the Piazza di Santa Croce, about 800 metres (2,600 ft) southeast of the Duomo, on what was once marshland beyond the city walls. Being the burial place of notable Italians, including those from the Italian Renaissance such as Michelangelo, Galileo, and Machiavelli, as well as the poet Foscolo, political philosopher Gentile and the composer Rossini, it is also known as the Temple of the Italian Glories.",
+  "lat": 43.76841667,
+  "lon": 11.26272222,
+  "deck": [
+   43.76845,
+   11.26274
+  ],
+  "deck_km": 0.0,
+  "slug": "florence-santa-croce",
+  "photo": {
+   "path": "assets/photos/florence-santa-croce.jpg",
+   "artist": "Christopher Down",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Croce_Ora_Pro_Animis_gate.jpg",
+   "file": "Basilica di Santa Croce Ora Pro Animis gate.jpg",
+   "width": 4014,
+   "height": 3016
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "Prague Castle",
+  "title": "Prague Castle",
+  "url": "https://en.wikipedia.org/wiki/Prague_Castle",
+  "description": "Historic building in the Czech Republic",
+  "extract": "Prague Castle is a castle complex in Prague, Czech Republic serving as the official residence and workplace of the president of the Czech Republic. Built in the 9th century, the castle has long served as the seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. As such, the term \"Prague Castle\" or simply \"Hrad\" are often used as metonymy for the president and his staff and advisors. The Bohemian Crown Jewels are kept within a hidden room inside it.",
+  "lat": 50.09,
+  "lon": 14.4,
+  "deck": [
+   50.09,
+   14.4
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-prague-castle",
+  "photo": {
+   "path": "assets/photos/prague-prague-castle.jpg",
+   "artist": "Jacek Halicki",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2014_Praga,_Hradczany.JPG",
+   "file": "2014 Praga, Hradczany.JPG",
+   "width": 3235,
+   "height": 2474
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "St. Vitus Cathedral",
+  "title": "St. Vitus Cathedral",
+  "url": "https://en.wikipedia.org/wiki/St._Vitus_Cathedral",
+  "description": "Church in Prague, Czech Republic",
+  "extract": "The Metropolitan Cathedral of Saints Vitus, Wenceslaus and Adalbert is a Catholic metropolitan cathedral in Prague, and the seat of the Archbishop of Prague. Until 1997, the cathedral was dedicated only to Saint Vitus, and is still commonly named only as St. Vitus Cathedral.",
+  "lat": 50.09083333,
+  "lon": 14.40055556,
+  "deck": [
+   50.09083,
+   14.40056
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-st-vitus-cathedral",
+  "photo": {
+   "path": "assets/photos/prague-st-vitus-cathedral.jpg",
+   "artist": "Stefan Bauer, http://www.ferras.at",
+   "license": "CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Hradschin_Prag.jpg",
+   "file": "Hradschin Prag.jpg",
+   "width": 1600,
+   "height": 1044
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "Charles Bridge",
+  "title": "Charles Bridge",
+  "url": "https://en.wikipedia.org/wiki/Charles_Bridge",
+  "description": "Medieval stone arch bridge across the Vltava river in Prague, Czechia",
+  "extract": "Charles Bridge is a medieval stone arch bridge that crosses the Vltava river in Prague, Czech Republic. Its construction started in 1357 under the auspices of King Charles IV, and finished in the early 15th century. The bridge replaced the old Judith Bridge built 1158–1172 that had been severely damaged by a flood in 1342. This new bridge was originally called Stone Bridge or Prague Bridge, but has been referred to as \"Charles Bridge\" since 1870.",
+  "lat": 50.08638889,
+  "lon": 14.41194444,
+  "deck": [
+   50.08639,
+   14.41194
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-charles-bridge",
+  "photo": {
+   "path": "assets/photos/prague-charles-bridge.jpg",
+   "artist": "Peter K Burian",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_(Karl%C5%AFv_most),_Vltava_River,_Prague,_2015.jpg",
+   "file": "Charles Bridge (Karlův most), Vltava River, Prague, 2015.jpg",
+   "width": 3600,
+   "height": 2238
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "Old Town Square",
+  "title": "Old Town Square",
+  "url": "https://en.wikipedia.org/wiki/Old_Town_Square",
+  "description": "Historic square in Prague, Czech Republic",
+  "extract": "Old Town Square is a historic square in the Old Town quarter of Prague, the capital of the Czech Republic. It is located between Wenceslas Square and Charles Bridge.",
+  "lat": 50.0875,
+  "lon": 14.4214,
+  "deck": [
+   50.0875,
+   14.4214
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-old-town-square",
+  "photo": {
+   "path": "assets/photos/prague-old-town-square.jpg",
+   "artist": "Robert Young",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Town_Square,_Prague_-_Starom%C4%9Bstsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD,_Praha.jpg",
+   "file": "Old Town Square, Prague - Staroměstské náměstí, Praha.jpg",
+   "width": 19698,
+   "height": 3989
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "Astronomical Clock",
+  "title": "Prague astronomical clock",
+  "url": "https://en.wikipedia.org/wiki/Prague_astronomical_clock",
+  "description": "Medieval astronomical clock in the Czech Republic",
+  "extract": "The Prague astronomical clock, or Prague Orloj, is a medieval astronomical clock attached to the Old Town Hall in Prague, the capital of the Czech Republic.",
+  "lat": 50.08700833,
+  "lon": 14.42091667,
+  "deck": [
+   50.08701,
+   14.42092
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-astronomical-clock",
+  "photo": {
+   "path": "assets/photos/prague-astronomical-clock.jpg",
+   "artist": "Godot13",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
+   "file": "Czech-2013-Prague-Astronomical clock face.jpg",
+   "width": 5000,
+   "height": 3763
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "Wenceslas Square",
+  "title": "Wenceslas Square",
+  "url": "https://en.wikipedia.org/wiki/Wenceslas_Square",
+  "description": "City square in Prague, Czechia",
+  "extract": "Wenceslas Square is one of the main city squares and the centre of the business and cultural communities in the New Town of Prague, Czech Republic. Many historical events occurred there, and it is a traditional setting for demonstrations, celebrations, and other public gatherings. It is also the place with the busiest pedestrian traffic in the whole country. The square is named after Saint Wenceslas, the patron saint of Bohemia. It is part of the historic centre of Prague, a World Heritage Site.",
+  "lat": 50.08138889,
+  "lon": 14.4275,
+  "deck": [
+   50.08139,
+   14.4275
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-wenceslas-square",
+  "photo": {
+   "path": "assets/photos/prague-wenceslas-square.jpg",
+   "artist": "Ralf Roletschek (talk) - Fahrradtechnik auf fahrradmonteur.de",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:11-05-31-praha-tram-by-RalfR-49.jpg",
+   "file": "11-05-31-praha-tram-by-RalfR-49.jpg",
+   "width": 4288,
+   "height": 2848
+  }
+ },
+ {
+  "city": "Prague",
+  "name": "Dancing House",
+  "title": "Dancing House",
+  "url": "https://en.wikipedia.org/wiki/Dancing_House",
+  "description": "Building in Prague, Czech Republic",
+  "extract": "The Dancing House, or Ginger and Fred, is the nickname given to the Nationale-Nederlanden building on the Rašínovo nábřeží in Prague, Czech Republic. It was designed by the Croatian-Czech architect Vlado Milunić in cooperation with Canadian-American architect Frank Gehry on a vacant riverfront plot. The building was designed in 1992. The construction, carried out by BESIX, was completed four years later in 1996.",
+  "lat": 50.07555556,
+  "lon": 14.41416667,
+  "deck": [
+   50.07556,
+   14.41417
+  ],
+  "deck_km": 0.0,
+  "slug": "prague-dancing-house",
+  "photo": {
+   "path": "assets/photos/prague-dancing-house.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Casa_Danzante,_Praga,_Rep%C3%BAblica_Checa,_2022-07-01,_DD_01.jpg",
+   "file": "Casa Danzante, Praga, República Checa, 2022-07-01, DD 01.jpg",
+   "width": 6819,
+   "height": 4824
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Temple of Debod",
+  "title": "Temple of Debod",
+  "url": "https://en.wikipedia.org/wiki/Temple_of_Debod",
+  "description": "Ancient Nubian temple",
+  "extract": "The Temple of Debod is an ancient Nubian temple currently located in Madrid, Spain. The temple was originally erected in the early 2nd century BC 15 km (9.3 mi) south of Aswan, Egypt. The Egyptian government donated the temple to Spain in 1968 as a sign of gratitude for their participation in the International Campaign to Save the Monuments of Nubia. It was taken apart, transported, and rebuilt in the Parque de la Montaña in 1970–1972. It is one of the few works of ancient Egyptian architecture relocated outside Egypt and the only one of its kind in Spain.",
+  "lat": 40.42405278,
+  "lon": -3.71777778,
+  "deck": [
+   40.42405,
+   -3.71778
+  ],
+  "deck_km": 0.0,
+  "slug": "madrid-temple-of-debod",
+  "photo": {
+   "path": "assets/photos/madrid-temple-of-debod.jpg",
+   "artist": "Matt Joseph",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2026-09-03_-_Temple_of_Debod_in_Madrid_Spain_01.jpg",
+   "file": "2026-09-03 - Temple of Debod in Madrid Spain 01.jpg",
+   "width": 8645,
+   "height": 6483
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Royal Palace",
+  "title": "Royal Palace of Madrid",
+  "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Madrid",
+  "description": "Official residence of the Spanish royal family",
+  "extract": "The Royal Palace of Madrid is the official residence of the Spanish royal family and is used primarily for state ceremonies. With over 135,000 m2 (1,450,000 sq ft) of floor space and 3,418 rooms, the Royal Palace of Madrid is the largest palace in Western Europe, the largest royal palace in Europe, and among the largest palaces in the world.",
+  "lat": 40.41805556,
+  "lon": -3.71416667,
+  "deck": [
+   40.41795,
+   -3.71431
+  ],
+  "deck_km": 0.02,
+  "slug": "madrid-royal-palace",
+  "photo": {
+   "path": "assets/photos/madrid-royal-palace.jpg",
+   "artist": "Antonio.velez",
+   "license": "CC BY-SA 3.0 es",
+   "source": "https://commons.wikimedia.org/wiki/File:Espa%C3%B1a_-_Madrid_-_Campo_del_Moro_-_Entrada.JPG",
+   "file": "España - Madrid - Campo del Moro - Entrada.JPG",
+   "width": 2683,
+   "height": 1996
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Almudena Cathedral",
+  "title": "Almudena Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Almudena_Cathedral",
+  "description": "Catholic cathedral in Madrid, Spain",
+  "extract": "The Cathedral of Saint Mary the Royal of the Almudena, commonly known as the Almudena Cathedral, is a Catholic cathedral in Madrid, Spain. It is the seat of the Archdiocese of Madrid. Its construction began in 1883 and finished over a century later, when it was consecrated by Pope John Paul II in 1993.",
+  "lat": 40.415586,
+  "lon": -3.714558,
+  "deck": [
+   40.41556,
+   -3.71444
+  ],
+  "deck_km": 0.01,
+  "slug": "madrid-almudena-cathedral",
+  "photo": {
+   "path": "assets/photos/madrid-almudena-cathedral.jpg",
+   "artist": "xiquinhosilva from Cacau",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:31659-Madrid_(35598298301).jpg",
+   "file": "31659-Madrid (35598298301).jpg",
+   "width": 6016,
+   "height": 4016
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Puerta del Sol",
+  "title": "Puerta del Sol",
+  "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol",
+  "description": "Square in Madrid, Spain",
+  "extract": "The Puerta del Sol is a public square in Madrid, one of the best known and busiest places in the city. This is the centre of the radial network of Spanish roads. The square also contains the famous clock whose bells mark the traditional eating of the Twelve Grapes and the beginning of a new year. The New Year's celebration has been broadcast live since 31 December 1962 on major radio and television networks including Atresmedia and RTVE.",
+  "lat": 40.41694444,
+  "lon": -3.70361111,
+  "deck": [
+   40.41694,
+   -3.70361
+  ],
+  "deck_km": 0.0,
+  "slug": "madrid-puerta-del-sol",
+  "photo": {
+   "path": "assets/photos/madrid-puerta-del-sol.jpg",
+   "artist": "Matt Joseph",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2026-09-03_-_Puerta_del_Sol_in_Madrid_Spain.jpg",
+   "file": "2026-09-03 - Puerta del Sol in Madrid Spain.jpg",
+   "width": 14204,
+   "height": 10652
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Plaza de Cibeles",
+  "title": "Plaza de Cibeles",
+  "url": "https://en.wikipedia.org/wiki/Plaza_de_Cibeles",
+  "description": "Square in Madrid, Spain",
+  "extract": "The Plaza de Cibeles is a square with a neo-classical complex of marble sculptures with fountains that has become a symbol for the city of Madrid. It sits at the intersection of Calle de Alcalá, Paseo de Recoletos and Paseo del Prado. Plaza de Cibeles was originally named Plaza de Madrid, but in 1900, the City Council named it Plaza de Castelar, which was eventually replaced by its current name.",
+  "lat": 40.41916667,
+  "lon": -3.69305556,
+  "deck": [
+   40.41917,
+   -3.69306
+  ],
+  "deck_km": 0.0,
+  "slug": "madrid-plaza-de-cibeles",
+  "photo": {
+   "path": "assets/photos/madrid-plaza-de-cibeles.jpg",
+   "artist": "Miguel Diaz from Boadilla del Monte, España-Spain",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cibeles_desde_el_Ayuntamiento_(Madrid)_(14203354114).jpg",
+   "file": "Cibeles desde el Ayuntamiento (Madrid) (14203354114).jpg",
+   "width": 6433,
+   "height": 4255
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Prado Museum",
+  "title": "Museo del Prado",
+  "url": "https://en.wikipedia.org/wiki/Museo_del_Prado",
+  "description": "National art museum in Madrid, Spain",
+  "extract": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and is the single best collection of Spanish art in the world. Founded as a museum of paintings and sculpture in 1819, it also contains important collections of other types of works. The numerous works by Francisco Goya, the single most extensively represented artist, as well as by Hieronymus Bosch, El Greco, Peter Paul Rubens, Titian, and Diego Velázquez, are some of the highlights of the collection. Velázquez and his keen eye and sensibility were also responsible for bringing much of the museum's fine collection of Italian masters to Spain, now one of the largest outside of Italy.",
+  "lat": 40.4139,
+  "lon": -3.6922,
+  "deck": [
+   40.41389,
+   -3.69222
+  ],
+  "deck_km": 0.0,
+  "slug": "madrid-prado-museum",
+  "photo": {
+   "path": "assets/photos/madrid-prado-museum.jpg",
+   "artist": "Albrecht Dürer",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adam_and_Eve_(Prado)_2.jpg",
+   "file": "Albrecht Dürer - Adam and Eve (Prado) 2.jpg",
+   "width": 2337,
+   "height": 2934
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "El Retiro Park",
+  "title": "Parque del Buen Retiro",
+  "url": "https://en.wikipedia.org/wiki/Parque_del_Buen_Retiro",
+  "description": "Urban park in Madrid, Spain",
+  "extract": "The Retiro Park, also known as Buen Retiro Park or simply El Retiro, is one of the largest city parks in Madrid, Spain. The park belonged to the Spanish monarchy until 1868, when it became a public park following the Glorious Revolution. The park is located at the edge of the city centre, near both the Alcalá Gate and the Museo del Prado, and covers 1.4 km2. It has gardens, monuments, galleries, an artificial lake, and event-hosting venues. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site that also includes Paseo del Prado.",
+  "lat": 40.415,
+  "lon": -3.68388889,
+  "deck": [
+   40.415,
+   -3.68389
+  ],
+  "deck_km": 0.0,
+  "slug": "madrid-el-retiro-park",
+  "photo": {
+   "path": "assets/photos/madrid-el-retiro-park.jpg",
+   "artist": "Gregorio Puga Bailón from A Coruña, Spain",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Atardece_en_El_Retiro,_Madrid_(15457435472).jpg",
+   "file": "Atardece en El Retiro, Madrid (15457435472).jpg",
+   "width": 5908,
+   "height": 3939
+  }
+ },
+ {
+  "city": "Madrid",
+  "name": "Reina Sofía Museum",
+  "title": "Museo Nacional Centro de Arte Reina Sofía",
+  "url": "https://en.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa",
+  "description": "National museum of Spain",
+  "extract": "The Museo Nacional Centro de Arte Reina Sofía is Spain's national museum of 20th-century art. The museum was officially inaugurated on September 10, 1992, and is named for Queen Sofía. It is located in Madrid, near the Atocha train and metro stations, at the southern end of what is known as the Golden Triangle of Art.",
+  "lat": 40.4086,
+  "lon": -3.694,
+  "deck": [
+   40.4086,
+   -3.694
+  ],
+  "deck_km": 0.0,
+  "slug": "madrid-reina-sofia-museum",
+  "photo": {
+   "path": "assets/photos/madrid-reina-sofia-museum.jpg",
+   "artist": "Juan Gris",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:1913_Gris_violin_and_guitar_anagoria.JPG",
+   "file": "1913 Gris violin and guitar anagoria.JPG",
+   "width": 3738,
+   "height": 4752
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Acropolis",
+  "title": "Acropolis of Athens",
+  "url": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+  "description": "Ancient citadel above the city of Athens",
+  "extract": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece, and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon. The word Acropolis is from Greek  ἄκρον (akron) 'highest point, extremity' and  πόλις (polis) 'city'. The term acropolis is generic and there are many other acropoleis in Greece. During ancient times the Acropolis of Athens was also more properly known as Cecropia (Κεκροπία), after the legendary serpent-man Cecrops, the supposed first Athenian king.",
+  "lat": 37.97166667,
+  "lon": 23.72611111,
+  "deck": [
+   37.97167,
+   23.72611
+  ],
+  "deck_km": 0.0,
+  "slug": "athens-acropolis",
+  "photo": {
+   "path": "assets/photos/athens-acropolis.jpg",
+   "artist": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+   "file": "1029 Acropolis of Athens in Greece at night Photo by Giles Laurent.jpg",
+   "width": 8640,
+   "height": 5760
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Acropolis Museum",
+  "title": "Acropolis Museum",
+  "url": "https://en.wikipedia.org/wiki/Acropolis_Museum",
+  "description": "Archaeological museum in Athens, Greece",
+  "extract": "The Acropolis Museum is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece. The Acropolis Museum also lies over the ruins of part of Roman and early Byzantine Athens.",
+  "lat": 37.969108,
+  "lon": 23.728299,
+  "deck": [
+   37.96842,
+   23.72847
+  ],
+  "deck_km": 0.08,
+  "slug": "athens-acropolis-museum",
+  "photo": {
+   "path": "assets/photos/athens-acropolis-museum.jpg",
+   "artist": "Unknown artistUnknown artist",
+   "license": "CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:ACMA_679_Kore_2.JPG",
+   "file": "ACMA 679 Kore 2.JPG",
+   "width": 2448,
+   "height": 3264
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Ancient Agora",
+  "title": "Ancient Agora of Athens",
+  "url": "https://en.wikipedia.org/wiki/Ancient_Agora_of_Athens",
+  "description": "Square of ancient Athens",
+  "extract": "The Ancient Agora of Athens is an ancient Greek agora. It is located to the northwest of the Acropolis, and bounded on the south by the hill of the Areopagus and on the west by the hill known as the Agoraios Kolonos, also called Market Hill. The Agora's initial use was for a commercial, assembly, or residential gathering place.",
+  "lat": 37.975,
+  "lon": 23.7225,
+  "deck": [
+   37.975,
+   23.7225
+  ],
+  "deck_km": 0.0,
+  "slug": "athens-ancient-agora",
+  "photo": {
+   "path": "assets/photos/athens-ancient-agora.jpg",
+   "artist": "G.dallorto",
+   "license": "Attribution",
+   "source": "https://commons.wikimedia.org/wiki/File:3195_-_Athens_-_Sto%C3%A0_of_Attalus_Museum_-_Spartan_shield_(425_BC)_-_Photo_by_Giovanni_Dall%27Orto,_Nov_9_2009.jpg",
+   "file": "3195 - Athens - Stoà of Attalus Museum - Spartan shield (425 BC) - Photo by Giovanni Dall'Orto, Nov 9 2009.jpg",
+   "width": 1986,
+   "height": 1790
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Plaka",
+  "title": "Plaka",
+  "url": "https://en.wikipedia.org/wiki/Plaka",
+  "description": "Neighborhood in Athens, Attica, Greece",
+  "extract": "Pláka is the old historical neighborhood of Athens, clustered around the northern and eastern slopes of the Acropolis, and incorporating labyrinthine streets and neoclassical architecture. Plaka is built on top of the residential areas of the ancient town of Athens. It is known as the \"Neighborhood of the Gods\" due to its proximity to the Acropolis and its many archaeological sites.",
+  "lat": 37.97222222,
+  "lon": 23.73055556,
+  "deck": [
+   37.97222,
+   23.73056
+  ],
+  "deck_km": 0.0,
+  "slug": "athens-plaka",
+  "photo": {
+   "path": "assets/photos/athens-plaka.jpg",
+   "artist": "Jean Housen",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20100410_athina092.JPG",
+   "file": "20100410 athina092.JPG",
+   "width": 3872,
+   "height": 2592
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Temple of Olympian Zeus",
+  "title": "Temple of Olympian Zeus, Athens",
+  "url": "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus%2C_Athens",
+  "description": "Ancient Greek temple in Athens",
+  "extract": "The Temple of Olympian Zeus, also known as the Olympieion or Columns of the Olympian Zeus, is a colossal temple in the centre of Athens, now in ruins. It was dedicated to \"Olympian\" Zeus, a name originating from his position as head of the Olympian gods. Construction began in the 6th century BC during the rule of the Athenian tyrants, who envisioned building the greatest temple in the ancient world, but it was not completed until the reign of Roman Emperor Hadrian in the 2nd century AD, some 638 years after the project had begun. During the Roman period, the temple, which included 104 colossal columns, was renowned as the largest temple in Greece and housed one of the largest cult statues in the ancient world.",
+  "lat": 37.96937222,
+  "lon": 23.73307778,
+  "deck": [
+   37.96937,
+   23.73308
+  ],
+  "deck_km": 0.0,
+  "slug": "athens-temple-of-olympian-zeus",
+  "photo": {
+   "path": "assets/photos/athens-temple-of-olympian-zeus.jpg",
+   "artist": "User:Greenshed",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Columns_in_details_on_the_Temple_of_Olympian_Zeus.jpg",
+   "file": "Columns in details on the Temple of Olympian Zeus.jpg",
+   "width": 2000,
+   "height": 1884
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Panathenaic Stadium",
+  "title": "Panathenaic Stadium",
+  "url": "https://en.wikipedia.org/wiki/Panathenaic_Stadium",
+  "description": "Stadium in Athens, Greece",
+  "extract": "The Panathenaic Stadium or Kallimarmaro is a multi-purpose stadium in Athens, Greece. One of the main historic attractions of Athens, it is the only stadium in the world built entirely of marble.",
+  "lat": 37.96833333,
+  "lon": 23.74111111,
+  "deck": [
+   37.96833,
+   23.74111
+  ],
+  "deck_km": 0.0,
+  "slug": "athens-panathenaic-stadium",
+  "photo": {
+   "path": "assets/photos/athens-panathenaic-stadium.jpg",
+   "artist": "G.dallorto",
+   "license": "Attribution",
+   "source": "https://commons.wikimedia.org/wiki/File:1734_-_Archaeological_Museum,_Athens_-_Herodes_Atticus_-_Photo_by_Giovanni_Dall%27Orto,_Nov_11_2009.jpg",
+   "file": "1734 - Archaeological Museum, Athens - Herodes Atticus - Photo by Giovanni Dall'Orto, Nov 11 2009.jpg",
+   "width": 1733,
+   "height": 2590
+  }
+ },
+ {
+  "city": "Athens",
+  "name": "Syntagma Square",
+  "title": "Syntagma Square",
+  "url": "https://en.wikipedia.org/wiki/Syntagma_Square",
+  "description": "Central square of Athens, Greece",
+  "extract": "Syntagma Square is the central square of Athens, Greece. The square is named after the Constitution that Otto, the first King of Greece, was obliged to grant after a popular and military uprising on 3 September 1843. It is located in front of the 19th-century Old Royal Palace, housing the Greek Parliament since 1934. Syntagma Square is the most important square of modern Athens from both a historical and social point of view, at the heart of commercial activity and Greek politics. The name Syntagma alone also refers to the neighbourhood surrounding the square. The metro station underneath the square, where lines 2 and 3 connect, along with the tram terminal and the numerous bus stops, constitutes one of the busiest transport hubs in the country.",
+  "lat": 37.97555556,
+  "lon": 23.73472222,
+  "deck": [
+   37.97556,
+   23.73472
+  ],
+  "deck_km": 0.0,
+  "slug": "athens-syntagma-square",
+  "photo": {
+   "path": "assets/photos/athens-syntagma-square.jpg",
+   "artist": "Badseed",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Athens_Syntagma_square_antiquities.jpg",
+   "file": "Athens Syntagma square antiquities.jpg",
+   "width": 3264,
+   "height": 2448
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "Hungarian Parliament",
+  "title": "Hungarian Parliament Building",
+  "url": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building",
+  "description": "Seat of the National Assembly of Hungary",
+  "extract": "The Hungarian Parliament Building, also known as the Parliament of Budapest after its location, is the seat of the National Assembly of Hungary, a notable landmark of Hungary, and a popular tourist destination in Budapest. It is situated on Kossuth Square in the Pest side of the city, on the eastern bank of the Danube. It was designed by Hungarian architect Imre Steindl in neo-Gothic style and opened in 1902. It has been the largest building in Hungary since its completion. The architectural style of the Hungarian parliament building was influenced by the gothic Vienna City Hall, and the renaissance elements like the cupola was influenced by the Maria vom Siege church in Vienna.",
+  "lat": 47.50694444,
+  "lon": 19.04555556,
+  "deck": [
+   47.50694,
+   19.04556
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-hungarian-parliament",
+  "photo": {
+   "path": "assets/photos/budapest-hungarian-parliament.jpg",
+   "artist": "Iraq.vet",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Budapest_Parliament_Building_.jpg",
+   "file": "Budapest Parliament Building .jpg",
+   "width": 5312,
+   "height": 2988
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "St. Stephen's Basilica",
+  "title": "St. Stephen's Basilica",
+  "url": "https://en.wikipedia.org/wiki/St._Stephen's_Basilica",
+  "description": "Church in Budapest, Hungary",
+  "extract": "St. Stephen's Basilica is a Roman Catholic basilica in Budapest, Hungary. It is named in honour of Stephen, the first King of Hungary, whose right hand is housed in the reliquary.",
+  "lat": 47.500833,
+  "lon": 19.053889,
+  "deck": [
+   47.50083,
+   19.05389
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-st-stephen-s-basilica",
+  "photo": {
+   "path": "assets/photos/budapest-st-stephen-s-basilica.jpg",
+   "artist": "Dissipatedfog",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:At_the_top_of_the_stairs_in_the_dome_of_St._Stephen%27s_Basilica_in_Budapest.jpg",
+   "file": "At the top of the stairs in the dome of St. Stephen's Basilica in Budapest.jpg",
+   "width": 2272,
+   "height": 1704
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "Dohány Street Synagogue",
+  "title": "Dohány Street Synagogue",
+  "url": "https://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue",
+  "description": "Synagogue in Budapest, Hungary",
+  "extract": "The Dohány Street Synagogue, also known as the Great Synagogue or Tabakgasse Synagogue, is a Neolog Jewish congregation and synagogue, located on Dohány Street in Erzsébetváros of Budapest, Hungary. It is the largest synagogue in Europe, seating 3,000 people, and is a centre of Neolog Judaism. The congregation worships in the Ashkenazi rite.",
+  "lat": 47.49583333,
+  "lon": 19.06083333,
+  "deck": [
+   47.49583,
+   19.06083
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-dohany-street-synagogue",
+  "photo": {
+   "path": "assets/photos/budapest-dohany-street-synagogue.jpg",
+   "artist": "Jgrec4",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dohany.jpg",
+   "file": "Dohany.jpg",
+   "width": 2802,
+   "height": 3968
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "Chain Bridge",
+  "title": "Széchenyi Chain Bridge",
+  "url": "https://en.wikipedia.org/wiki/Sz%C3%A9chenyi_Chain_Bridge",
+  "description": "Oldest bridge in Budapest",
+  "extract": "The Széchenyi Chain Bridge is a chain bridge that spans the River Danube between Buda and Pest, the western and eastern sides of Budapest, the capital of Hungary. Designed by English engineer William Tierney Clark and built by Scottish engineer Adam Clark, it was the first permanent bridge across the Danube in Hungary. It was opened in 1849. It is anchored on the Pest side of the river to Széchenyi Square, adjacent to the Gresham Palace and the Hungarian Academy of Sciences, and on the Buda side to Adam Clark Square, near the Zero Kilometre Stone and the lower end of the Castle Hill Funicular, leading to Buda Castle.",
+  "lat": 47.49888889,
+  "lon": 19.04361111,
+  "deck": [
+   47.49889,
+   19.04361
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-chain-bridge",
+  "photo": {
+   "path": "assets/photos/budapest-chain-bridge.jpg",
+   "artist": "Silverije",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Budimpe%C5%A1ta,_lan%C4%8Dani_Sz%C3%A9chenyijev_most_no%C4%87u_u_ma%C4%91arskim_bojama_(piros-feh%C3%A9r-z%C3%B6ld).JPG",
+   "file": "Budimpešta, lančani Széchenyijev most noću u mađarskim bojama (piros-fehér-zöld).JPG",
+   "width": 3426,
+   "height": 2348
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "Buda Castle",
+  "title": "Buda Castle",
+  "url": "https://en.wikipedia.org/wiki/Buda_Castle",
+  "description": "Castle complex in Budapest, Hungary",
+  "extract": "Buda Castle, formerly also called the Royal Palace and the Royal Castle, is the historical castle and palace complex of the Hungarian kings in Budapest. First completed in 1265, the Baroque palace that occupies most of the site today was built between 1749 and 1769, severely damaged during the Siege of Budapest in World War II, and rebuilt in a simplified Baroque style during the state communist era. Presently, it houses the Hungarian National Gallery, the Budapest Historical Museum, and the National Széchényi Library.",
+  "lat": 47.49611111,
+  "lon": 19.03972222,
+  "deck": [
+   47.49611,
+   19.03972
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-buda-castle",
+  "photo": {
+   "path": "assets/photos/budapest-buda-castle.jpg",
+   "artist": "iryna - https://iryna.photo/ - 2026",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Buda_Castle_-_2026_-_2.jpg",
+   "file": "Buda Castle - 2026 - 2.jpg",
+   "width": 8485,
+   "height": 5657
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "Matthias Church",
+  "title": "Matthias Church",
+  "url": "https://en.wikipedia.org/wiki/Matthias_Church",
+  "description": "Catholic church in Budapest, Hungary",
+  "extract": "The Church of the Assumption of the Buda Castle, more commonly known as the Matthias Church and more rarely as the Coronation Church of Buda, is a Catholic church in Holy Trinity Square, Budapest, Hungary, in front of the Fisherman's Bastion at the heart of Buda's Castle District.",
+  "lat": 47.50194444,
+  "lon": 19.03416667,
+  "deck": [
+   47.50194,
+   19.03417
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-matthias-church",
+  "photo": {
+   "path": "assets/photos/budapest-matthias-church.jpg",
+   "artist": "David Spigiel",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:002_-_14.07.16_-_Budapest_-_Matthiaskirche.jpg",
+   "file": "002 - 14.07.16 - Budapest - Matthiaskirche.jpg",
+   "width": 4000,
+   "height": 3000
+  }
+ },
+ {
+  "city": "Budapest",
+  "name": "Fisherman's Bastion",
+  "title": "Fisherman's Bastion",
+  "url": "https://en.wikipedia.org/wiki/Fisherman's_Bastion",
+  "description": "Fortification in Budapest, Hungary",
+  "extract": "The Halászbástya or Fisherman's Bastion is one of the best known historical monuments in Budapest, located near the Buda Castle, in the Várkerület. Since 1987, it has been designated a UNESCO World Heritage Site as part of the Várkerület District.",
+  "lat": 47.5027,
+  "lon": 19.0344,
+  "deck": [
+   47.5027,
+   19.0344
+  ],
+  "deck_km": 0.0,
+  "slug": "budapest-fisherman-s-bastion",
+  "photo": {
+   "path": "assets/photos/budapest-fisherman-s-bastion.jpg",
+   "artist": "Fortepan / Budapest Főváros Levéltára. Levéltári jelzet: HU.BFL.XV.19.",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Budapest,_Hal%C3%A1szb%C3%A1stya._-_fortepan_82646.jpg",
+   "file": "Budapest, Halászbástya. - fortepan 82646.jpg",
+   "width": 6056,
+   "height": 4264
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Rijksmuseum",
+  "title": "Rijksmuseum",
+  "url": "https://en.wikipedia.org/wiki/Rijksmuseum",
+  "description": "National museum in Amsterdam, Netherlands",
+  "extract": "The Rijksmuseum is the national museum of the Netherlands dedicated to Dutch arts and history, located at the Museum Square in the borough of Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Royal Concertgebouw.",
+  "lat": 52.36,
+  "lon": 4.8853,
+  "deck": [
+   52.36,
+   4.8853
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-rijksmuseum",
+  "photo": {
+   "path": "assets/photos/amsterdam-rijksmuseum.jpg",
+   "artist": "Jan Steen",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:1670_Jan_Havicksz._Steen_-_zelfportret.jpg",
+   "file": "1670 Jan Havicksz. Steen - zelfportret.jpg",
+   "width": 4272,
+   "height": 4962
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Van Gogh Museum",
+  "title": "Van Gogh Museum",
+  "url": "https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+  "description": "National art museum in the Netherlands",
+  "extract": "The Van Gogh Museum is a Dutch art museum dedicated to the works of Vincent van Gogh and his contemporaries in the Museum Square in Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw. The museum opened on 2 June 1973, and its buildings were designed by Gerrit Rietveld and Kisho Kurokawa.",
+  "lat": 52.3583,
+  "lon": 4.8811,
+  "deck": [
+   52.3583,
+   4.8811
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-van-gogh-museum",
+  "photo": {
+   "path": "assets/photos/amsterdam-van-gogh-museum.jpg",
+   "artist": "Vincent van Gogh",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+   "file": "De aardappeleters - s0005V1962 - Van Gogh Museum.jpg",
+   "width": 7695,
+   "height": 5441
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Vondelpark",
+  "title": "Vondelpark",
+  "url": "https://en.wikipedia.org/wiki/Vondelpark",
+  "description": "Park in Amsterdam, Netherlands",
+  "extract": "The Vondelpark is a public urban park of 47 hectares in Amsterdam, Netherlands. It is part of the borough of Amsterdam-Zuid and situated west from the Leidseplein and the Museumplein. The park was opened in 1865 and originally named Nieuwe Park, but later renamed Vondelpark, after the 17th-century playwright and poet Joost van den Vondel. The park has around 10 million visitors annually. Within the park is an open-air theatre, a playground and several food service facilities.",
+  "lat": 52.358,
+  "lon": 4.868,
+  "deck": [
+   52.358,
+   4.868
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-vondelpark",
+  "photo": {
+   "path": "assets/photos/amsterdam-vondelpark.jpg",
+   "artist": "Dguendel",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Vondelpark,_at_the_pond-2.jpg",
+   "file": "Amsterdam, Vondelpark, at the pond-2.jpg",
+   "width": 2551,
+   "height": 1701
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Begijnhof",
+  "title": "Begijnhof, Amsterdam",
+  "url": "https://en.wikipedia.org/wiki/Begijnhof%2C_Amsterdam",
+  "description": "One of the oldest inner courts in the city of Amsterdam",
+  "extract": "The Begijnhof is one of the oldest hofjes in Amsterdam, Netherlands. A group of historic buildings, mostly private dwellings, centre on it. As the name suggests, it was originally a béguinage. Today it is also the site of two churches, the Catholic Miracle Church and the English Reformed Church.",
+  "lat": 52.3694,
+  "lon": 4.8901,
+  "deck": [
+   52.3694,
+   4.8901
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-begijnhof",
+  "photo": {
+   "path": "assets/photos/amsterdam-begijnhof.jpg",
+   "artist": "Dietmar Rabich",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Begijnhof_--_2015_--_7220.jpg",
+   "file": "Amsterdam (NL), Begijnhof -- 2015 -- 7220.jpg",
+   "width": 4820,
+   "height": 3411
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Dam Square",
+  "title": "Dam Square",
+  "url": "https://en.wikipedia.org/wiki/Dam_Square",
+  "description": "Town square in Amsterdam",
+  "extract": "Dam Square, also known as the Dam, is a town square in Amsterdam, the capital and most populous city of the Netherlands. Its notable buildings and frequent events make it one of the best-known and most important locations in the city and the country.",
+  "lat": 52.3731,
+  "lon": 4.8928,
+  "deck": [
+   52.3731,
+   4.8928
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-dam-square",
+  "photo": {
+   "path": "assets/photos/amsterdam-dam-square.jpg",
+   "artist": "Krijn Taconis (1918-1979)",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_shooting,_May_7_1945.jpg",
+   "file": "Amsterdam shooting, May 7 1945.jpg",
+   "width": 2586,
+   "height": 2868
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Oude Kerk",
+  "title": "Oude Kerk, Amsterdam",
+  "url": "https://en.wikipedia.org/wiki/Oude_Kerk%2C_Amsterdam",
+  "description": "Church building in Amsterdam, Netherlands",
+  "extract": "The Oude Kerk is a Reformed church in Amsterdam, Netherlands, being the oldest parish church in the city. The oldest structure in Amsterdam, the building was founded around 1213 and consecrated in 1306 as a Roman Catholic church by the bishop of Utrecht with Saint Nicolas as its patron saint. After the Reformation in 1578, it became a Reformed (Calvinist) church, which it remains today. It is located in De Wallen and since 2012, the church has also housed contemporary art exhibitions. The square surrounding the church is the Oudekerksplein.",
+  "lat": 52.3744,
+  "lon": 4.898,
+  "deck": [
+   52.3744,
+   4.898
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-oude-kerk",
+  "photo": {
+   "path": "assets/photos/amsterdam-oude-kerk.jpg",
+   "artist": "Gerd Eichmann",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amsterdam-508-Oude_Kerk-2010-gje.jpg",
+   "file": "Amsterdam-508-Oude Kerk-2010-gje.jpg",
+   "width": 2694,
+   "height": 2072
+  }
+ },
+ {
+  "city": "Amsterdam",
+  "name": "Anne Frank House",
+  "title": "Anne Frank House",
+  "url": "https://en.wikipedia.org/wiki/Anne_Frank_House",
+  "description": "Writer's house and museum in Amsterdam",
+  "extract": "The Anne Frank House is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank. The building is located on the Prinsengracht, close to the Westerkerk, in central Amsterdam in the Netherlands.",
+  "lat": 52.37525,
+  "lon": 4.88432,
+  "deck": [
+   52.37525,
+   4.88432
+  ],
+  "deck_km": 0.0,
+  "slug": "amsterdam-anne-frank-house",
+  "photo": {
+   "path": "assets/photos/amsterdam-anne-frank-house.jpg",
+   "artist": "Dietmar Rabich",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg",
+   "file": "Amsterdam (NL), Anne-Frank-Huis -- 2015 -- 7185.jpg",
+   "width": 4073,
+   "height": 3176
+  }
+ },
+ {
+  "city": "Vienna",
+  "name": "St. Stephen's Cathedral",
+  "title": "St. Stephen's Cathedral, Vienna",
+  "url": "https://en.wikipedia.org/wiki/St._Stephen's_Cathedral%2C_Vienna",
+  "description": "Church in Vienna, Austria",
+  "extract": "St. Stephen's Cathedral is a Roman Catholic church in Vienna, Austria, and the mother church of the Archdiocese of Vienna. It is the seat of the Archbishop of Vienna, Josef Grünwidl.",
+  "lat": 48.2085,
+  "lon": 16.373,
+  "deck": [
+   48.2085,
+   16.373
+  ],
+  "deck_km": 0.0,
+  "slug": "vienna-st-stephen-s-cathedral",
+  "photo": {
+   "path": "assets/photos/vienna-st-stephen-s-cathedral.jpg",
+   "artist": "Andrew Bossi",
+   "license": "CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:0181-0183a_-_Wien_-_Stephansdom.jpg",
+   "file": "0181-0183a - Wien - Stephansdom.jpg",
+   "width": 4762,
+   "height": 4130
+  }
+ },
+ {
+  "city": "Vienna",
+  "name": "Hofburg",
+  "title": "Hofburg",
+  "url": "https://en.wikipedia.org/wiki/Hofburg",
+  "description": "Imperial palace in Vienna, Austria",
+  "extract": "The Hofburg is the former principal imperial palace of the Habsburg dynasty in Austria. Located in the center of Vienna, it was built in the 13th century by Ottokar II of Bohemia and expanded several times afterwards. It also served as the imperial winter residence, as Schönbrunn Palace was the summer residence. Since 1946, it has been the official residence and workplace of the president of Austria.",
+  "lat": 48.20638889,
+  "lon": 16.36527778,
+  "deck": [
+   48.20639,
+   16.36528
+  ],
+  "deck_km": 0.0,
+  "slug": "vienna-hofburg",
+  "photo": {
+   "path": "assets/photos/vienna-hofburg.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amalienburg,_Hofburg,_Viena,_Austria,_2020-01-31,_DD_21.jpg",
+   "file": "Amalienburg, Hofburg, Viena, Austria, 2020-01-31, DD 21.jpg",
+   "width": 6611,
+   "height": 3481
+  }
+ },
+ {
+  "city": "Vienna",
+  "name": "Albertina",
+  "title": "Albertina",
+  "url": "https://en.wikipedia.org/wiki/Albertina",
+  "description": "Art museum in Vienna, Austria",
+  "extract": "The Albertina is a museum in the Innere Stadt of Vienna, Austria. It houses one of the largest and most important print rooms in the world with approximately 65,000 drawings and approximately 1 million old master prints, as well as more modern graphic works, photographs and architectural drawings. Apart from the graphics collection the museum has acquired, on permanent loan, two significant collections of Impressionist and early 20th-century art, some of which are on permanent display. The museum also houses temporary exhibitions. The museum had 1,037,347 visitors in 2025, down 3 percent from 2024, but up 4% from 2019, before the COVID-19 pandemic. It ranked 74th in the list of most-visited art museums in the world.",
+  "lat": 48.20472222,
+  "lon": 16.36833333,
+  "deck": [
+   48.20472,
+   16.36833
+  ],
+  "deck_km": 0.0,
+  "slug": "vienna-albertina",
+  "photo": {
+   "path": "assets/photos/vienna-albertina.jpg",
+   "artist": "Albrecht Dürer",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg",
+   "file": "Albrecht Dürer - Hare, 1502 - Google Art Project.jpg",
+   "width": 3731,
+   "height": 4123
+  }
+ },
+ {
+  "city": "Vienna",
+  "name": "Kunsthistorisches Museum",
+  "title": "Kunsthistorisches Museum",
+  "url": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum",
+  "description": "Art museum in Vienna, Austria",
+  "extract": "The Kunsthistorisches Museum Wien is an art museum in Vienna, Austria. Housed in its festive palatial building on the Vienna Ring Road, it is crowned with an octagonal dome. The term Kunsthistorisches Museum applies to both the institution and the main building. It is the largest art museum in the country.",
+  "lat": 48.20388056,
+  "lon": 16.3616,
+  "deck": [
+   48.20388,
+   16.3616
+  ],
+  "deck_km": 0.0,
+  "slug": "vienna-kunsthistorisches-museum",
+  "photo": {
+   "path": "assets/photos/vienna-kunsthistorisches-museum.jpg",
+   "artist": "Giuseppe Arcimboldo",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Arcimboldo,_Giuseppe_Summer.jpg",
+   "file": "Arcimboldo, Giuseppe Summer.jpg",
+   "width": 1800,
+   "height": 2380
+  }
+ },
+ {
+  "city": "Vienna",
+  "name": "Karlskirche",
+  "title": "Karlskirche",
+  "url": "https://en.wikipedia.org/wiki/Karlskirche",
+  "description": "Church in Vienna, Austria",
+  "extract": "The Karlskirche is a Baroque church in the Karlsplatz in Vienna, Austria. The church is dedicated to Saint Charles Borromeo, a leading figure of the Counter-Reformation. The church is located on the border of Wieden and the Innere Stadt, the city centre.",
+  "lat": 48.19828056,
+  "lon": 16.3719,
+  "deck": [
+   48.19828,
+   16.3719
+  ],
+  "deck_km": 0.0,
+  "slug": "vienna-karlskirche",
+  "photo": {
+   "path": "assets/photos/vienna-karlskirche.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Carlos_Borromeo,_Viena,_Austria,_2020-01-31,_DD_164-166_HDR.jpg",
+   "file": "Iglesia de San Carlos Borromeo, Viena, Austria, 2020-01-31, DD 164-166 HDR.jpg",
+   "width": 6270,
+   "height": 3696
+  }
+ },
+ {
+  "city": "Vienna",
+  "name": "Belvedere",
+  "title": "Belvedere, Vienna",
+  "url": "https://en.wikipedia.org/wiki/Belvedere%2C_Vienna",
+  "description": "Historic building complex and art museum in Vienna, Austria",
+  "extract": "The Belvedere is a historic building complex and art museum in Vienna, Austria. The complex consists of two Baroque palaces, the Upper and Lower Belvedere, together with the Orangery, the Palace Stables, and a formal Baroque garden. It is located in the city's third district, Landstraße, on the south-eastern edge of Vienna's historic centre. Built as the summer residence of Prince Eugene of Savoy, the complex was designed principally by Johann Lukas von Hildebrandt and completed in the early eighteenth century.",
+  "lat": 48.19416667,
+  "lon": 16.38027778,
+  "deck": [
+   48.19417,
+   16.38028
+  ],
+  "deck_km": 0.0,
+  "slug": "vienna-belvedere",
+  "photo": {
+   "path": "assets/photos/vienna-belvedere.jpg",
+   "artist": "Kadı",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Belvedere,_Vienna.jpg",
+   "file": "Belvedere, Vienna.jpg",
+   "width": 3264,
+   "height": 2448
+  }
+ },
+ {
+  "city": "Venice",
+  "name": "St Mark's Basilica",
+  "title": "St Mark's Basilica",
+  "url": "https://en.wikipedia.org/wiki/St_Mark's_Basilica",
+  "description": "Cathedral church in Venice, Italy",
+  "extract": "The Patriarchal Cathedral Basilica of Saint Mark, commonly known as St Mark's Basilica, is the cathedral church of the Patriarchate of Venice; it became the episcopal seat of the Patriarch of Venice in 1807, replacing the earlier cathedral of San Pietro di Castello. It is dedicated to and holds the relics of Saint Mark the Evangelist, the patron saint of the city.",
+  "lat": 45.43444444,
+  "lon": 12.33972222,
+  "deck": [
+   45.43444,
+   12.33972
+  ],
+  "deck_km": 0.0,
+  "slug": "venice-st-mark-s-basilica",
+  "photo": {
+   "path": "assets/photos/venice-st-mark-s-basilica.jpg",
+   "artist": "Jean-Pol GRANDMONT",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:0_Venise,_pilier_dit_de_Saint-Jean_d%27Acre_2.JPG",
+   "file": "0 Venise, pilier dit de Saint-Jean d'Acre 2.JPG",
+   "width": 3276,
+   "height": 4915
+  }
+ },
+ {
+  "city": "Venice",
+  "name": "Doge's Palace",
+  "title": "Doge's Palace",
+  "url": "https://en.wikipedia.org/wiki/Doge's_Palace",
+  "description": "Art museum and historic site in Venice, Italy",
+  "extract": "The Doge's Palace is a palace built in Venetian Gothic style, and one of the main landmarks of the city of Venice in northern Italy. The palace included government offices, a jail, and the residence of the Doge of Venice, the elected authority of the former Republic of Venice. It was originally built in 810, rebuilt in 1340 and extended and modified in the following centuries. It became a museum in 1923 and is one of 11 museums run by the Fondazione Musei Civici di Venezia.",
+  "lat": 45.4337,
+  "lon": 12.3405,
+  "deck": [
+   45.4337,
+   12.3405
+  ],
+  "deck_km": 0.0,
+  "slug": "venice-doge-s-palace",
+  "photo": {
+   "path": "assets/photos/venice-doge-s-palace.jpg",
+   "artist": "Didier Descouens",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:(Venice)_Bocca_di_Leone_in_the_Doge%27s_Palace.jpg",
+   "file": "(Venice) Bocca di Leone in the Doge's Palace.jpg",
+   "width": 8670,
+   "height": 9552
+  }
+ },
+ {
+  "city": "Venice",
+  "name": "Rialto Bridge",
+  "title": "Rialto Bridge",
+  "url": "https://en.wikipedia.org/wiki/Rialto_Bridge",
+  "description": "Bridge in Venice, Italy",
+  "extract": "The Rialto Bridge is the oldest of the four bridges spanning the Grand Canal in Venice, Italy. Connecting the sestieri (districts) of San Marco and San Polo, it has been rebuilt several times since its first construction as a pontoon bridge in 1173, and is now a significant tourist attraction in the city.",
+  "lat": 45.438,
+  "lon": 12.336,
+  "deck": [
+   45.438,
+   12.336
+  ],
+  "deck_km": 0.0,
+  "slug": "venice-rialto-bridge",
+  "photo": {
+   "path": "assets/photos/venice-rialto-bridge.jpg",
+   "artist": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, ",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto_Canal_Grande_Venezia_Rilievo_San_Marco.jpg",
+   "file": "Ponte di Rialto Canal Grande Venezia Rilievo San Marco.jpg",
+   "width": 7501,
+   "height": 5126
+  }
+ },
+ {
+  "city": "Venice",
+  "name": "Santa Maria della Salute",
+  "title": "Santa Maria della Salute",
+  "url": "https://en.wikipedia.org/wiki/Santa_Maria_della_Salute",
+  "description": "Church in Venice, Italy",
+  "extract": "Santa Maria della Salute, commonly known simply as La Salute, is a Roman Catholic church and minor basilica located at the Punta della Dogana in the Dorsoduro sestiere of the city of Venice, Italy.",
+  "lat": 45.43083333,
+  "lon": 12.33444444,
+  "deck": [
+   45.43083,
+   12.33444
+  ],
+  "deck_km": 0.0,
+  "slug": "venice-santa-maria-della-salute",
+  "photo": {
+   "path": "assets/photos/venice-santa-maria-della-salute.jpg",
+   "artist": "Didier Descouens",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:(Venice)_-_Santa_Maria_della_Salute_-_Le_due_cupole_e_i_due_campanili.jpg",
+   "file": "(Venice) - Santa Maria della Salute - Le due cupole e i due campanili.jpg",
+   "width": 11518,
+   "height": 7730
+  }
+ },
+ {
+  "city": "Venice",
+  "name": "Peggy Guggenheim Collection",
+  "title": "Peggy Guggenheim Collection",
+  "url": "https://en.wikipedia.org/wiki/Peggy_Guggenheim_Collection",
+  "description": "Art museum in Venice",
+  "extract": "The Peggy Guggenheim Collection is an art museum on the Grand Canal in the Dorsoduro sestiere of Venice, Italy. It is one of the most visited attractions in Venice. The collection is housed in the Palazzo Venier dei Leoni, an 18th-century palace, which was the home of the American heiress Peggy Guggenheim for three decades. She began displaying her private collection of modern artworks to the public seasonally in 1951. After her death in 1979, it passed to the Solomon R. Guggenheim Foundation, which opened the collection year-round from 1980.",
+  "lat": 45.43055556,
+  "lon": 12.33111111,
+  "deck": [
+   45.43056,
+   12.33111
+  ],
+  "deck_km": 0.0,
+  "slug": "venice-peggy-guggenheim-collection",
+  "photo": {
+   "path": "assets/photos/venice-peggy-guggenheim-collection.jpg",
+   "artist": "G.Lanting",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:PI5DAE~2_-_CopyPeggy_Guggenheim_Museum.JPG",
+   "file": "PI5DAE~2 - CopyPeggy Guggenheim Museum.JPG",
+   "width": 2228,
+   "height": 1623
+  }
+ },
+ {
+  "city": "Venice",
+  "name": "Gallerie dell'Accademia",
+  "title": "Gallerie dell'Accademia",
+  "url": "https://en.wikipedia.org/wiki/Gallerie_dell'Accademia",
+  "description": "Art museum in Venice, Italy",
+  "extract": "The Gallerie dell'Accademia is a museum gallery of pre-19th-century art in Venice, northern Italy. It houses the Leonardo da Vinci drawing The Vitruvian Man, which can only be exposed for a few weeks every six years for conservation reasons. It is housed in a building complex comprising the former Scuola Grande, church, and convent of Santa Maria della Carità on the south bank of the Grand Canal, within the sestiere of Dorsoduro.",
+  "lat": 45.43138889,
+  "lon": 12.32805556,
+  "deck": [
+   45.43139,
+   12.32806
+  ],
+  "deck_km": 0.0,
+  "slug": "venice-gallerie-dell-accademia",
+  "photo": {
+   "path": "assets/photos/venice-gallerie-dell-accademia.jpg",
+   "artist": "Jean-Pierre Dalbéra",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Pr%C3%A9sentation_de_la_Vierge_au_Temple%22_de_Titien_(Accademia,_Venise)_(8103563222).jpg",
+   "file": "\"Présentation de la Vierge au Temple\" de Titien (Accademia, Venise) (8103563222).jpg",
+   "width": 1806,
+   "height": 900
+  }
+ },
+ {
+  "city": "Lisbon",
+  "name": "Belém Tower",
+  "title": "Belém Tower",
+  "url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+  "description": "Fortified tower in Lisbon, Portugal",
+  "extract": "Belém Tower, officially the Tower of Saint Vincent, is a 16th-century fortification located in Lisbon, Portugal, which served as a point of embarkation and disembarkation for Portuguese explorers and as a ceremonial gateway to Lisbon. The tower symbolizes Portugal's maritime and colonial power in early modern Europe. It was built during the height of the Portuguese Renaissance and is a prominent example of the Portuguese Manueline style, but it also incorporates other architectural styles, such as the minarets, which are inspired by Moorish architecture. The structure was built from lioz limestone, a material local to the Lisbon region, and is composed of a bastion and a 30-metre (100 ft) four-storey tower.",
+  "lat": 38.69166667,
+  "lon": -9.21611111,
+  "deck": [
+   38.69167,
+   -9.21611
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-belem-tower",
+  "photo": {
+   "path": "assets/photos/lisbon-belem-tower.jpg",
+   "artist": "Berthold Werner",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-34-03.jpg",
+   "file": "Lisbon Torre de Belém BW 2018-10-03 16-34-03.jpg",
+   "width": 4796,
+   "height": 3944
+  }
+ },
+ {
+  "city": "Lisbon",
+  "name": "Jerónimos Monastery",
+  "title": "Jerónimos Monastery",
+  "url": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery",
+  "description": "Building in Santa Maria de Belém, Lisbon District, Portugal",
+  "extract": "The Jerónimos Monastery or Hieronymites Monastery is a former monastery of the Order of Saint Jerome near the Tagus river in the parish of Belém, in the Lisbon Municipality, Portugal. It became the necropolis of the Portuguese royal dynasty of Aviz in the 16th century but was secularized on 28 December 1833 by state decree and its ownership transferred to the charitable institution, Real Casa Pia de Lisboa.",
+  "lat": 38.69777778,
+  "lon": -9.20611111,
+  "deck": [
+   38.69778,
+   -9.20611
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-jeronimos-monastery",
+  "photo": {
+   "path": "assets/photos/lisbon-jeronimos-monastery.jpg",
+   "artist": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+   "file": "1502 legte König Manuel I. den Grundstein für das Hieronymus Kloster in Lissabon. 06.jpg",
+   "width": 5769,
+   "height": 3467
+  }
+ },
+ {
+  "city": "Lisbon",
+  "name": "Carmo Convent",
+  "title": "Carmo Convent",
+  "url": "https://en.wikipedia.org/wiki/Carmo_Convent",
+  "description": "Church in Lisbon, Portugal",
+  "extract": "The Convent of Our Lady of Mount Carmel is a former Catholic convent located in the civil parish of Santa Maria Maior, municipality of Lisbon, Portugal. The medieval convent was ruined during the sequence of the 1755 Lisbon earthquake, and the destroyed Gothic Church of Our Lady of Mount Carmel on the southern facade of the convent is the main trace of the great earthquake still visible in the old city.",
+  "lat": 38.71222222,
+  "lon": -9.14,
+  "deck": [
+   38.71222,
+   -9.14
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-carmo-convent",
+  "photo": {
+   "path": "assets/photos/lisbon-carmo-convent.jpg",
+   "artist": "Kent Wang",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apse_of_Igreja_do_Convento_do_Carmo_de_Lisboa_(interior)_95.jpg",
+   "file": "Apse of Igreja do Convento do Carmo de Lisboa (interior) 95.jpg",
+   "width": 8001,
+   "height": 6001
+  }
+ },
+ {
+  "city": "Lisbon",
+  "name": "Santa Justa Lift",
+  "title": "Santa Justa Lift",
+  "url": "https://en.wikipedia.org/wiki/Santa_Justa_Lift",
+  "description": "Municipal elevator in Lisbon, Portugal",
+  "extract": "The Santa Justa Lift, also called Carmo Lift, is an elevator, or lift, in the civil parish of Santa Maria Maior, in the historic center of Lisbon, Portugal. Situated at the end of Rua de Santa Justa, it connects the lower streets of the Baixa with the higher Largo do Carmo.",
+  "lat": 38.71222222,
+  "lon": -9.13944444,
+  "deck": [
+   38.71222,
+   -9.13944
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-santa-justa-lift",
+  "photo": {
+   "path": "assets/photos/lisbon-santa-justa-lift.jpg",
+   "artist": "deror_avi",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:At_Pra%C3%A7a_de_D._Pedro_IV_P1000848.JPG",
+   "file": "At Praça de D. Pedro IV P1000848.JPG",
+   "width": 4000,
+   "height": 3000
+  }
+ },
+ {
+  "city": "Lisbon",
+  "name": "Rossio",
+  "title": "Rossio",
+  "url": "https://en.wikipedia.org/wiki/Rossio",
+  "description": "Town square in Lisbon, Portugal",
+  "extract": "The King Pedro IV Square, popularly known as Rossio, is a square in the Pombaline Downtown of Lisbon, Portugal. It has been one of its main squares since the Middle Ages. It has been the setting of popular revolts and celebrations, bullfights and executions, and is now a preferred meeting place of Lisbon natives and tourists alike. The square is named after Pedro IV, King of Portugal. The Column of Pedro IV is in the middle of the square.",
+  "lat": 38.71388889,
+  "lon": -9.13944444,
+  "deck": [
+   38.71389,
+   -9.13944
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-rossio"
+ },
+ {
+  "city": "Lisbon",
+  "name": "Lisbon Cathedral",
+  "title": "Lisbon Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Lisbon_Cathedral",
+  "description": "Roman Catholic cathedral located in Lisbon, Portugal",
+  "extract": "The Cathedral of Saint Mary Major, often called Lisbon Cathedral or simply the Sé, is a Roman Catholic cathedral located in Lisbon, Portugal. It is the oldest church in the city, built in 1147. The cathedral has survived many earthquakes and has been modified, renovated and restored several times, resulting in a mix of different architectural styles. It is the seat of the Patriarchate of Lisbon, and has been classified as a National Monument since 1910.",
+  "lat": 38.70972222,
+  "lon": -9.13305556,
+  "deck": [
+   38.70972,
+   -9.13306
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-lisbon-cathedral",
+  "photo": {
+   "path": "assets/photos/lisbon-lisbon-cathedral.jpg",
+   "artist": "Kent Wang",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chancel_arch_of_S%C3%A9_de_Lisboa_25.jpg",
+   "file": "Chancel arch of Sé de Lisboa 25.jpg",
+   "width": 5155,
+   "height": 6874
+  }
+ },
+ {
+  "city": "Lisbon",
+  "name": "São Jorge Castle",
+  "title": "São Jorge Castle",
+  "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle",
+  "description": "Historic castle in Lisbon, Portugal",
+  "extract": "São Jorge Castle, sometimes known in English as Saint George's Castle, is a historic castle in the Portuguese capital of Lisbon, located in the freguesia of Santa Maria Maior. Human occupation of the castle hill dates to at least the 8th century BC while the oldest fortifications on the site date from the 2nd century BC. The hill on which Saint George's Castle stands has played an important part in the history of Lisbon, having served as the location of fortifications occupied successively by Phoenicians, Carthaginians, Romans, and Moors, before its conquest by the Portuguese in the 1147 Siege of Lisbon. Since the 12th century, the castle has variously served as a royal palace, a military barracks, home of the Torre do Tombo National Archive, and now as a national monument and museum.",
+  "lat": 38.71388889,
+  "lon": -9.13361111,
+  "deck": [
+   38.71389,
+   -9.13361
+  ],
+  "deck_km": 0.0,
+  "slug": "lisbon-sao-jorge-castle",
+  "photo": {
+   "path": "assets/photos/lisbon-sao-jorge-castle.jpg",
+   "artist": "Marco Aldeia",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Castelo_de_Guimar%C3%A3es_Castelo_da_Funda%C3%A7%C3%A3o.JPG",
+   "file": "Castelo de Guimarães Castelo da Fundação.JPG",
+   "width": 2576,
+   "height": 1920
+  }
+ },
+ {
+  "city": "New York",
+  "name": "Empire State Building",
+  "title": "Empire State Building",
+  "url": "https://en.wikipedia.org/wiki/Empire_State_Building",
+  "description": "Office skyscraper in Manhattan, New York",
+  "extract": "The Empire State Building is a 102-story, supertall skyscraper in the Midtown South neighborhood of Manhattan, New York City, United States. The building was designed in the Art Deco style by Shreve, Lamb & Harmon and constructed between 1930 and 1931. Its name is derived from \"Empire State\", the nickname of New York state. The building has a roof height of 1,250 feet (380 m) and stands a total of 1,454 feet (443.2 m) tall including its antenna. The Empire State Building was the world's tallest building until the North Tower of the World Trade Center was topped out in 1970; following the September 11 attacks in 2001, the Empire State Building was once more New York City's tallest building until it was surpassed in 2012 by One World Trade Center. As of 2025, the building is the eighth-tallest building in New York City, the tenth-tallest completed skyscraper in the United States, and the 59th-tallest completed skyscraper in the world.",
+  "lat": 40.7483,
+  "lon": -73.9856,
+  "deck": [
+   40.7483,
+   -73.9856
+  ],
+  "deck_km": 0.0,
+  "slug": "new-york-empire-state-building",
+  "photo": {
+   "path": "assets/photos/new-york-empire-state-building.jpg",
+   "artist": "Anthony Quintano: https://www.flickr.com/photos/quintanomedia/",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ESBandDowntown2015.jpg",
+   "file": "ESBandDowntown2015.jpg",
+   "width": 7020,
+   "height": 4680
+  }
+ },
+ {
+  "city": "New York",
+  "name": "Grand Central Terminal",
+  "title": "Grand Central Terminal",
+  "url": "https://en.wikipedia.org/wiki/Grand_Central_Terminal",
+  "description": "Railway terminal in Manhattan, New York",
+  "extract": "Grand Central Terminal is a commuter rail terminal at 42nd Street and Park Avenue in Midtown Manhattan, New York City. Grand Central is the southern terminus of the Metro-North Railroad's Harlem, Hudson and New Haven Lines, serving the northern parts of the New York metropolitan area. It also serves the Long Island Rail Road through Grand Central Madison, a 16-acre (6.5 ha) addition to the station located underneath the Metro-North tracks, built from 2007 to 2023. The terminal also connects to the New York City Subway at the Grand Central–42nd Street station. The terminal is the third-busiest train station in North America, after New York Penn Station and Toronto Union Station.",
+  "lat": 40.7528,
+  "lon": -73.9772,
+  "deck": [
+   40.7528,
+   -73.9772
+  ],
+  "deck_km": 0.0,
+  "slug": "new-york-grand-central-terminal",
+  "photo": {
+   "path": "assets/photos/new-york-grand-central-terminal.jpg",
+   "artist": "Metropolitan Transportation Authority of the State of New York",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:100Years_5900_(8435665301).jpg",
+   "file": "100Years 5900 (8435665301).jpg",
+   "width": 1920,
+   "height": 1276
+  }
+ },
+ {
+  "city": "New York",
+  "name": "Times Square",
+  "title": "Times Square",
+  "url": "https://en.wikipedia.org/wiki/Times_Square",
+  "description": "Intersection and area in Manhattan, New York",
+  "extract": "Times Square is one of the world's busiest pedestrian intersections, tourist destinations, and entertainment hubs. It is formed by the junction of Broadway, Seventh Avenue, and 42nd Street in Midtown Manhattan, New York City. Together with adjacent Duffy Square, Times Square is a bowtie-shaped plaza five blocks long between 42nd and 47th Streets. As an epicenter of the world's entertainment industry and as the physical hub of the Theater District, where most Broadway theaters are located, Times Square is constantly illuminated by numerous digital billboards and advertisements as well as businesses offering 24/7 service.",
+  "lat": 40.7575,
+  "lon": -73.9858,
+  "deck": [
+   40.7575,
+   -73.9858
+  ],
+  "deck_km": 0.0,
+  "slug": "new-york-times-square",
+  "photo": {
+   "path": "assets/photos/new-york-times-square.jpg",
+   "artist": "Laslovarga; cropped by Beyond My Ken (talk) 23:50, 2 May 2010 (UTC)",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:0480New_York_City_Madame_Tussauds_crop.jpg",
+   "file": "0480New York City Madame Tussauds crop.jpg",
+   "width": 2260,
+   "height": 1504
+  }
+ },
+ {
+  "city": "New York",
+  "name": "Rockefeller Center",
+  "title": "Rockefeller Center",
+  "url": "https://en.wikipedia.org/wiki/Rockefeller_Center",
+  "description": "Skyscraper complex in Manhattan, New York",
+  "extract": "Rockefeller Center is a complex of 19 commercial buildings covering 22 acres (8.9 ha) between 48th Street and 51st Street in the Midtown Manhattan neighborhood of New York City. The 14 original Art Deco buildings, commissioned by the Rockefeller family, span the area between Fifth Avenue and Sixth Avenue, split by a large sunken square and a private street called Rockefeller Plaza. Later additions include 75 Rockefeller Plaza across 51st Street at the north end of Rockefeller Plaza, and four International Style buildings on the west side of Sixth Avenue.",
+  "lat": 40.75861111,
+  "lon": -73.97916667,
+  "deck": [
+   40.75861,
+   -73.97917
+  ],
+  "deck_km": 0.0,
+  "slug": "new-york-rockefeller-center",
+  "photo": {
+   "path": "assets/photos/new-york-rockefeller-center.jpg",
+   "artist": "dconvertini",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:1221_Avenue_of_the_Americas.jpg",
+   "file": "1221 Avenue of the Americas.jpg",
+   "width": 6000,
+   "height": 4000
+  }
+ },
+ {
+  "city": "New York",
+  "name": "Central Park",
+  "title": "Central Park",
+  "url": "https://en.wikipedia.org/wiki/Central_Park",
+  "description": "Public park in Manhattan, New York",
+  "extract": "Central Park is an urban park between the Upper West Side and Upper East Side neighborhoods of Manhattan in New York City, and the first landscaped park in the United States. It is the sixth-largest park in the city, containing 843 acres (341 ha), and the most visited urban park in the United States, with an estimated 42 million visitors annually as of 2016. Central Park is owned by the New York City Department of Parks and Recreation but has been managed by the Central Park Conservancy since 1998 under a contract with the government of New York City in a public–private partnership. The conservancy, a non-profit organization, sets Central Park's annual operating budget and is responsible for care of the park.",
+  "lat": 40.78222222,
+  "lon": -73.96527778,
+  "deck": [
+   40.78222,
+   -73.96528
+  ],
+  "deck_km": 0.0,
+  "slug": "new-york-central-park",
+  "photo": {
+   "path": "assets/photos/new-york-central-park.jpg",
+   "artist": "Martin St-Amant (S23678)",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:26_-_New_York_-_Octobre_2008.jpg",
+   "file": "26 - New York - Octobre 2008.jpg",
+   "width": 18092,
+   "height": 3522
+  }
+ },
+ {
+  "city": "New York",
+  "name": "The Met",
+  "title": "Metropolitan Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+  "description": "Art museum in New York City",
+  "extract": "The Metropolitan Museum of Art, colloquially referred to as the Met, is an encyclopedic art museum in New York City. By floor area, it is the fourth-largest museum in the world and the largest art museum in the Americas. With 5,727,258 visitors in fiscal year 2025, it was the most-visited museum in the United States and the fifth-most visited art museum in the world.",
+  "lat": 40.7794,
+  "lon": -73.9631,
+  "deck": [
+   40.7794,
+   -73.9631
+  ],
+  "deck_km": 0.0,
+  "slug": "new-york-the-met",
+  "photo": {
+   "path": "assets/photos/new-york-the-met.jpg",
+   "artist": "Attributed to Jean de Touyl (French, died 1349)",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:1325-50_Touyl_Reliquienschrein_anagoria.JPG",
+   "file": "1325-50 Touyl Reliquienschrein anagoria.JPG",
+   "width": 3548,
+   "height": 2292
+  }
+ },
+ {
+  "city": "Berlin",
+  "name": "Reichstag",
+  "title": "Reichstag building",
+  "url": "https://en.wikipedia.org/wiki/Reichstag_building",
+  "description": "Seat of the federal parliament of Germany",
+  "extract": "The Reichstag is a historic legislative government building on Platz der Republik in Berlin that is the seat of the Bundestag parliament. It is also the meeting place of the Federal Convention, which elects the president of Germany.",
+  "lat": 52.51861111,
+  "lon": 13.37611111,
+  "deck": [
+   52.51861,
+   13.37611
+  ],
+  "deck_km": 0.0,
+  "slug": "berlin-reichstag",
+  "photo": {
+   "path": "assets/photos/berlin-reichstag.jpg",
+   "artist": "Rainer Schulze-Muhr",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Berlin_Aug.98_-_3.jpg",
+   "file": "Berlin Aug.98 - 3.jpg",
+   "width": 1911,
+   "height": 1289
+  }
+ },
+ {
+  "city": "Berlin",
+  "name": "Brandenburg Gate",
+  "title": "Brandenburg Gate",
+  "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+  "description": "Triumphal arch and gate in Berlin, Germany",
+  "extract": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.",
+  "lat": 52.5163,
+  "lon": 13.3777,
+  "deck": [
+   52.51627,
+   13.37772
+  ],
+  "deck_km": 0.0,
+  "slug": "berlin-brandenburg-gate",
+  "photo": {
+   "path": "assets/photos/berlin-brandenburg-gate.jpg",
+   "artist": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:00_2486_Quadriga_-_Brandenburger_Tor_(Berlin).jpg",
+   "file": "00 2486 Quadriga - Brandenburger Tor (Berlin).jpg",
+   "width": 3600,
+   "height": 2400
+  }
+ },
+ {
+  "city": "Berlin",
+  "name": "Checkpoint Charlie",
+  "title": "Checkpoint Charlie",
+  "url": "https://en.wikipedia.org/wiki/Checkpoint_Charlie",
+  "description": "Crossing point in the Berlin Wall",
+  "extract": "Checkpoint Charlie was the Western Bloc's name for the best-known Berlin Wall crossing point between East Berlin and West Berlin during the Cold War (1947–1991), becoming a symbol of the Cold War, representing the separation of East and West.",
+  "lat": 52.5075,
+  "lon": 13.39027778,
+  "deck": [
+   52.5075,
+   13.39028
+  ],
+  "deck_km": 0.0,
+  "slug": "berlin-checkpoint-charlie",
+  "photo": {
+   "path": "assets/photos/berlin-checkpoint-charlie.jpg",
+   "artist": "Thomas Wolf, www.foto-tw.de",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_nachts.jpg",
+   "file": "Brandenburger Tor nachts.jpg",
+   "width": 5138,
+   "height": 2584
+  }
+ },
+ {
+  "city": "Berlin",
+  "name": "Museum Island",
+  "title": "Museum Island",
+  "url": "https://en.wikipedia.org/wiki/Museum_Island",
+  "description": "Part of Spree Island in central Berlin",
+  "extract": "The Museum Island is a museum complex on the northern part of Spree Island in the historic heart of Berlin, Germany. It is one of the capital's most visited sights and one of the most important museum sites in Europe. Originally built from 1830 to 1930, initially by order of the Prussian Kings, according to plans by five architects, the Museum Island was designated a UNESCO World Heritage Site in 1999 because of its testimony to the architectural and cultural development of museums in the 19th and 20th centuries. It consists of the Altes Museum, the Neues Museum, the Alte Nationalgalerie, the Bode-Museum and the Pergamon Museum. As the Museum Island designation includes all of Spree Island north of the Karl Liebknecht Boulevard, the historic Berlin Cathedral is also located there, next to the open Lustgarten park. To the south of Liebknecht Boulevard, the reconstructed Berlin Palace houses the Humboldt Forum museum and opened in 2020. Also adjacent, across the west branch of the Spree is the German Historical Museum. Since German reunification, the Museum Island has been rebuilt and extended according to a master plan. In 2019, a new visitor center and art gallery, the James Simon Gallery, was opened within the Museum Island heritage site.",
+  "lat": 52.52138889,
+  "lon": 13.39555556,
+  "deck": [
+   52.52139,
+   13.39556
+  ],
+  "deck_km": 0.0,
+  "slug": "berlin-museum-island",
+  "photo": {
+   "path": "assets/photos/berlin-museum-island.jpg",
+   "artist": "Manfred Brückels",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:AlteNationalgalerie_1a.jpg",
+   "file": "AlteNationalgalerie 1a.jpg",
+   "width": 2272,
+   "height": 1704
+  }
+ },
+ {
+  "city": "Berlin",
+  "name": "Berlin Cathedral",
+  "title": "Berlin Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Berlin_Cathedral",
+  "description": "Lutheran church in Berlin",
+  "extract": "Berlin Cathedral, also known as the Evangelical Supreme Parish and Collegiate Church, is a monumental German Protestant church and dynastic tomb at the Lustgarten on the Museum Island in central Berlin. Having its origins as a castle chapel for the Berlin Palace, several structures have served to house the church since the 15th century. The present collegiate church was built from 1894 to 1905 by order of Emperor William II according to plans by Julius Raschdorff in Renaissance and Baroque Revival styles. The listed building is the largest Protestant church in Germany and one of the most important dynastic tombs in Europe. In addition to church services, the cathedral is used for state ceremonies, concerts and other events.",
+  "lat": 52.51916667,
+  "lon": 13.40111111,
+  "deck": [
+   52.51917,
+   13.40111
+  ],
+  "deck_km": 0.0,
+  "slug": "berlin-berlin-cathedral",
+  "photo": {
+   "path": "assets/photos/berlin-berlin-cathedral.jpg",
+   "artist": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:.00_1039_Berliner_Dom,_Altar.jpg",
+   "file": ".00 1039 Berliner Dom, Altar.jpg",
+   "width": 3900,
+   "height": 2600
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Topkapı Palace",
+  "title": "Topkapı Palace",
+  "url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+  "description": "Palace museum in Istanbul, Turkey",
+  "extract": "The Topkapı Palace or the Seraglio, is a large museum and library in the east of the Fatih district of Istanbul in Turkey. From the 1460s to the completion of Dolmabahçe Palace in 1853, it served as the administrative center of the Ottoman Empire, and was the main residence of its sultans.",
+  "lat": 41.013,
+  "lon": 28.984,
+  "deck": [
+   41.013,
+   28.984
+  ],
+  "deck_km": 0.0,
+  "slug": "istanbul-topkap-palace",
+  "photo": {
+   "path": "assets/photos/istanbul-topkap-palace.jpg",
+   "artist": "Maksym Kozlenko",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2013-01-02_Topkap%C4%B1_Palace_22.jpg",
+   "file": "2013-01-02 Topkapı Palace 22.jpg",
+   "width": 2700,
+   "height": 1800
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Hagia Sophia",
+  "title": "Hagia Sophia",
+  "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "description": "Mosque and former church in Istanbul, Turkey",
+  "extract": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and a major cultural and historical site in Istanbul, Turkey. It was formerly a church (360–1453) and a museum (1935–2020). The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome. It is considered the epitome of Byzantine architecture and is said to have \"changed the history of architecture\". From its dedication in 360 until 1453, Hagia Sophia served as the cathedral of Constantinople in the Byzantine liturgical tradition, except for the period 1204–1261 when the Latin Crusaders installed their own hierarchy. After the fall of Constantinople in 1453, it served as a mosque, having its minarets added soon after. The site became a museum in 1935, and was redesignated as a mosque in 2020.",
+  "lat": 41.00833333,
+  "lon": 28.98,
+  "deck": [
+   41.00833,
+   28.98
+  ],
+  "deck_km": 0.0,
+  "slug": "istanbul-hagia-sophia",
+  "photo": {
+   "path": "assets/photos/istanbul-hagia-sophia.jpg",
+   "artist": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2._Seraph_angel._13th_century_CE._Ceiling_mosaics,_Hagia_Sophia,_Istanbul,_Turkey.jpg",
+   "file": "2. Seraph angel. 13th century CE. Ceiling mosaics, Hagia Sophia, Istanbul, Turkey.jpg",
+   "width": 4016,
+   "height": 6016
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Basilica Cistern",
+  "title": "Basilica Cistern",
+  "url": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+  "description": "Ancient cistern beneath Istanbul, Turkey",
+  "extract": "The Basilica Cistern, or Cisterna Basilica, is the largest of several hundred ancient cisterns that lie beneath the city of Istanbul, Turkey. The cistern, located 150 metres (490 ft) southwest of the Hagia Sophia on the historical peninsula of Sarayburnu, was built in the 6th century during the reign of Byzantine emperor Justinian I. Today, it is kept with little water for public access inside the space.",
+  "lat": 41.00805556,
+  "lon": 28.97777778,
+  "deck": [
+   41.00806,
+   28.97778
+  ],
+  "deck_km": 0.0,
+  "slug": "istanbul-basilica-cistern",
+  "photo": {
+   "path": "assets/photos/istanbul-basilica-cistern.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_40-42_HDR.jpg",
+   "file": "Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 40-42 HDR.jpg",
+   "width": 8111,
+   "height": 5407
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Blue Mosque",
+  "title": "Blue Mosque",
+  "url": "https://en.wikipedia.org/wiki/Blue_Mosque",
+  "description": "Topics referred to by the same term",
+  "extract": "Blue Mosque may refer to:",
+  "lat": null,
+  "lon": null,
+  "deck": [
+   41.00539,
+   28.97682
+  ],
+  "deck_km": null,
+  "slug": "istanbul-blue-mosque"
+ },
+ {
+  "city": "Istanbul",
+  "name": "Little Hagia Sophia",
+  "title": "Little Hagia Sophia",
+  "url": "https://en.wikipedia.org/wiki/Little_Hagia_Sophia",
+  "description": "Mosque (originally church) in Istanbul",
+  "extract": "The Little Hagia Sophia mosque, formerly the Church of Saints Sergius and Bacchus, is a former Greek Orthodox church dedicated to the Syrian Christian Saints Sergius and Bacchus in Constantinople. Its date of construction is disputed, with some scholars favouring a mid-520s date with groundbreaking by 527\nand others preferring to date its construction between 532 and 536, and converted into a mosque during the Ottoman Empire.",
+  "lat": 41.00277778,
+  "lon": 28.97194444,
+  "deck": [
+   41.00278,
+   28.97194
+  ],
+  "deck_km": 0.0,
+  "slug": "istanbul-little-hagia-sophia",
+  "photo": {
+   "path": "assets/photos/istanbul-little-hagia-sophia.jpg",
+   "artist": "User:Ggia",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20101222_interior1_Kucuk_Ayasofya_Mosque_Istanbul_Turkey.jpg",
+   "file": "20101222 interior1 Kucuk Ayasofya Mosque Istanbul Turkey.jpg",
+   "width": 2711,
+   "height": 3886
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Süleymaniye Mosque",
+  "title": "Süleymaniye Mosque",
+  "url": "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque",
+  "description": "Mosque and religious complex in Istanbul, Turkey",
+  "extract": "The Süleymaniye Mosque is an Ottoman imperial mosque located on the Third Hill of Istanbul, Turkey. The mosque was commissioned by Suleiman the Magnificent and designed by the imperial architect Mimar Sinan. An inscription specifies the foundation date as 1550 and the inauguration date as 1557, although work on the complex probably continued for a few years after this.",
+  "lat": 41.01611111,
+  "lon": 28.96388889,
+  "deck": [
+   41.01611,
+   28.96389
+  ],
+  "deck_km": 0.0,
+  "slug": "istanbul-suleymaniye-mosque",
+  "photo": {
+   "path": "assets/photos/istanbul-suleymaniye-mosque.jpg",
+   "artist": "Mustafa-trit20",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2020_Suleymaniye_mosque,_prayer_hall,_muezzin%27s_gallery.jpg",
+   "file": "2020 Suleymaniye mosque, prayer hall, muezzin's gallery.jpg",
+   "width": 2891,
+   "height": 3854
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Panthéon",
+  "title": "Panthéon",
+  "url": "https://en.wikipedia.org/wiki/Panth%C3%A9on",
+  "description": "National mausoleum in Paris",
+  "extract": "The Panthéon is a monument in the 5th arrondissement of Paris, France. It stands in the Latin Quarter, on the Montagne Sainte-Geneviève, in the centre of the Place du Panthéon, which was named after it. The edifice was built between 1758 and 1790, from designs by Jacques-Germain Soufflot, at the behest of King Louis XV; the king intended it as a church dedicated to Saint Genevieve, Paris's patron saint, whose relics were to be housed in the church. Neither Soufflot nor Louis XV lived to see the church completed.",
+  "lat": 48.84611111,
+  "lon": 2.34583333,
+  "deck": [
+   48.84611,
+   2.34583
+  ],
+  "deck_km": 0.0,
+  "slug": "paris-pantheon",
+  "photo": {
+   "path": "assets/photos/paris-pantheon.jpg",
+   "artist": "Alphonse Poitevin",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Alphonse-Louis_Poitevin,_The_Pantheon,_1842.jpg",
+   "file": "Alphonse-Louis Poitevin, The Pantheon, 1842.jpg",
+   "width": 3144,
+   "height": 4381
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Notre-Dame",
+  "title": "Notre-Dame de Paris",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+  "description": "Cathedral in Paris, France, built 1163–1345",
+  "extract": "Notre-Dame de Paris, often referred to simply as Notre-Dame, is a medieval Catholic cathedral and basilica on the Île de la Cité, in the 4th arrondissement of Paris, France. It is the cathedral church of the Roman Catholic Archdiocese of Paris.",
+  "lat": 48.85305556,
+  "lon": 2.35,
+  "deck": [
+   48.85306,
+   2.35
+  ],
+  "deck_km": 0.0,
+  "slug": "paris-notre-dame",
+  "photo": {
+   "path": "assets/photos/paris-notre-dame.jpg",
+   "artist": "Lalupa",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:050903_Paris_052_NotreDame_memoriaInglesi.JPG",
+   "file": "050903 Paris 052 NotreDame memoriaInglesi.JPG",
+   "width": 1704,
+   "height": 2272
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Louvre",
+  "title": "Louvre",
+  "url": "https://en.wikipedia.org/wiki/Louvre",
+  "description": "Art museum in Paris, France",
+  "extract": "The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and home to some of the most canonical works of Western art, including the Mona Lisa, Venus de Milo, and Winged Victory. The museum is housed in the Louvre Palace, originally built in the late 12th to 13th century under Philip II. Remnants of the Medieval Louvre fortress are visible in the basement of the museum. Due to urban expansion, the fortress eventually lost its defensive function, and in 1546 Francis I converted it into the primary residence of the French kings.",
+  "lat": 48.8611,
+  "lon": 2.3358,
+  "deck": [
+   48.8611,
+   2.3358
+  ],
+  "deck_km": 0.0,
+  "slug": "paris-louvre",
+  "photo": {
+   "path": "assets/photos/paris-louvre.jpg",
+   "artist": "Rama",
+   "license": "CC BY-SA 3.0 fr",
+   "source": "https://commons.wikimedia.org/wiki/File:Akhenathon_and_Nefertiti_E15593_mp3h8771-gradient.jpg",
+   "file": "Akhenathon and Nefertiti E15593 mp3h8771-gradient.jpg",
+   "width": 3500,
+   "height": 3500
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Musée d'Orsay",
+  "title": "Musée d'Orsay",
+  "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Orsay",
+  "description": "Art museum in Paris, France",
+  "extract": "The Musée d'Orsay is a museum in Paris, France, on the Left Bank of the Seine. One of the largest art museums in Europe, it is housed in the former Gare d'Orsay, a Beaux-Arts railway station built from 1898 to 1900. The museum holds mainly French artworks dating from 1848 to 1914, including paintings, sculptures, furniture, and photography. It houses the largest collection of Impressionist and post-Impressionist masterpieces in the world, by painters such as Monet, Manet, Renoir, Morisot, Degas, Sisley, Cézanne, Seurat, Gauguin, and van Gogh. Many of these works were held at the Galerie nationale du Jeu de Paume prior to the museum's opening in 1986.",
+  "lat": 48.859972,
+  "lon": 2.326527,
+  "deck": [
+   48.85997,
+   2.32653
+  ],
+  "deck_km": 0.0,
+  "slug": "paris-musee-d-orsay",
+  "photo": {
+   "path": "assets/photos/paris-musee-d-orsay.jpg",
+   "artist": "William-Adolphe Bouguereau",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Bouguereau_-_%C3%A9galit%C3%A9_devant_la_mort_1848.jpg",
+   "file": "Bouguereau - égalité devant la mort 1848.jpg",
+   "width": 4134,
+   "height": 2185
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Eiffel Tower",
+  "title": "Eiffel Tower",
+  "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "description": "Tower in Paris, France",
+  "extract": "The Eiffel Tower is a lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.",
+  "lat": 48.85822222,
+  "lon": 2.2945,
+  "deck": [
+   48.8583,
+   2.29448
+  ],
+  "deck_km": 0.01,
+  "slug": "paris-eiffel-tower",
+  "photo": {
+   "path": "assets/photos/paris-eiffel-tower.jpg",
+   "artist": "Photo: © Giles Laurent / Illumination: © Pierre Bideau, concepteur Lum",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:1000_Eiffel_tower_night_illumination_by_Pierre_Bideau_in_Paris_Photo_by_Giles_Laurent.jpg",
+   "file": "1000 Eiffel tower night illumination by Pierre Bideau in Paris Photo by Giles Laurent.jpg",
+   "width": 3686,
+   "height": 5529
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Arc de Triomphe",
+  "title": "Arc de Triomphe",
+  "url": "https://en.wikipedia.org/wiki/Arc_de_Triomphe",
+  "description": "Triumphal arch in Paris, France",
+  "extract": "The Arc de Triomphe de l'Étoile, often simply called the Arc de Triomphe, is one of the most famous monuments in Paris, France. It is located at the western end of the Champs-Élysées, at the centre of the Place Charles de Gaulle—formerly known as the \"Place de l'Étoile\"—named for the star-shaped configuration formed by the convergence of twelve radiating avenues. The monument is situated at the intersection of three arrondissements: the 16th, the 17th, and the 8th. Commissioned to honor those who fought and died for France during the French Revolutionary and Napoleonic Wars, the Arc bears the names of French victories and its generals engraved on its inner and outer surfaces. Beneath its vault lies the Tomb of the Unknown Soldier from World War I, marked by an eternal flame commemorating unidentified fallen soldiers of the French Nation.",
+  "lat": 48.87377778,
+  "lon": 2.29502778,
+  "deck": [
+   48.8738,
+   2.295
+  ],
+  "deck_km": 0.0,
+  "slug": "paris-arc-de-triomphe",
+  "photo": {
+   "path": "assets/photos/paris-arc-de-triomphe.jpg",
+   "artist": "Alvesgaspar",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Antoine_%C3%89tex,_Der_Friede_von_1815,_Halbrelief,_Arc_de_Triomphe,_Paris.jpg",
+   "file": "Antoine Étex, Der Friede von 1815, Halbrelief, Arc de Triomphe, Paris.jpg",
+   "width": 3728,
+   "height": 4990
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Dolmabahçe Palace",
+  "title": "Dolmabahçe Palace",
+  "url": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace",
+  "description": "Palace in Istanbul, Turkey",
+  "extract": "Dolmabahçe Palace is a 19th-century imperial palace located in Istanbul, Turkey, along the European shore of the Bosporus, which served as the main administrative center of the Ottoman Empire from 1853 to 1887 and from 1909 to 1922.",
+  "lat": 41.03944444,
+  "lon": 29.00166667,
+  "deck": null,
+  "deck_km": null,
+  "slug": "istanbul-dolmabahce-palace",
+  "photo": {
+   "path": "assets/photos/istanbul-dolmabahce-palace.jpg",
+   "artist": "xiquinhosilva",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:03306-Istanbul-DolmabahcePalace_(3446813334).jpg",
+   "file": "03306-Istanbul-DolmabahcePalace (3446813334).jpg",
+   "width": 2048,
+   "height": 1536
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Galata Tower",
+  "title": "Galata Tower",
+  "url": "https://en.wikipedia.org/wiki/Galata_Tower",
+  "description": "Tower in Istanbul, Turkey",
+  "extract": "Galata Tower, or Galata Tower Museum, its name since it began to be used as a museum, is a tower located in the Beyoğlu district of Istanbul. It takes its name from the Galata neighborhood where it stands. Built as a watchtower within the Walls of Galata, the tower has served various purposes over different periods and has functioned as an exhibition venue and museum since 2020. It is one of the landmark structures of both Beyoğlu and Istanbul.",
+  "lat": null,
+  "lon": null,
+  "deck": null,
+  "deck_km": null,
+  "slug": "istanbul-galata-tower",
+  "photo": {
+   "path": "assets/photos/istanbul-galata-tower.jpg",
+   "artist": "Mark Ahsmann",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20131205_Istanbul_311.jpg",
+   "file": "20131205 Istanbul 311.jpg",
+   "width": 3968,
+   "height": 2976
+  }
+ },
+ {
+  "city": "Istanbul",
+  "name": "Maiden's Tower",
+  "title": "Maiden's Tower",
+  "url": "https://en.wikipedia.org/wiki/Maiden's_Tower",
+  "description": "Tower located on the Champ de Mars in Istanbul, Turkey",
+  "extract": "The Maiden's Tower, also known as Leander's Tower since the Byzantine period, is a tower on a small islet at the southern entrance of the Bosphorus strait, 200 m (220 yd) from the coast of Üsküdar in Istanbul, Turkey.",
+  "lat": 41.02116667,
+  "lon": 29.00425,
+  "deck": null,
+  "deck_km": null,
+  "slug": "istanbul-maiden-s-tower",
+  "photo": {
+   "path": "assets/photos/istanbul-maiden-s-tower.jpg",
+   "artist": "Jorge Franganillo",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Istanbul_K%C4%B1z_Kulesi_(54511155871)_(cropped).jpg",
+   "file": "Istanbul Kız Kulesi (54511155871) (cropped).jpg",
+   "width": 2628,
+   "height": 2950
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Sacré-Cœur",
+  "title": "Sacré-Cœur, Paris",
+  "url": "https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur%2C_Paris",
+  "description": "Catholic basilica and landmark in Paris, France",
+  "extract": "The Basilica of the Sacred Heart of Montmartre, commonly known as Sacré-Cœur Basilica or simply Sacré-Cœur, is a Catholic church and minor basilica in Paris dedicated to the Sacred Heart of Jesus.",
+  "lat": null,
+  "lon": null,
+  "deck": null,
+  "deck_km": null,
+  "slug": "paris-sacre-cur",
+  "photo": {
+   "path": "assets/photos/paris-sacre-cur.jpg",
+   "artist": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:04-2017._Par%C3%ADs-4.jpg",
+   "file": "04-2017. París-4.jpg",
+   "width": 5333,
+   "height": 3555
+  }
+ },
+ {
+  "city": "Paris",
+  "name": "Champs-Élysées",
+  "title": "Champs-Élysées",
+  "url": "https://en.wikipedia.org/wiki/Champs-%C3%89lys%C3%A9es",
+  "description": "Avenue in Paris, France",
+  "extract": "The Avenue des Champs-Élysées, usually shortened to the Champs-Élysées, is an avenue in the 8th arrondissement of Paris, France. The avenue is 1.9 kilometres (1.2 mi) long and 70 metres (230 ft) wide, running between the Place de la Concorde in the east and the Place Charles de Gaulle in the west, where the Arc de Triomphe is located. It is known for its theatres, cafés, and luxury shops; as the finish of the Tour de France cycling race; and for its annual Bastille Day military parade.",
+  "lat": null,
+  "lon": null,
+  "deck": null,
+  "deck_km": null,
+  "slug": "paris-champs-elysees",
+  "photo": {
+   "path": "assets/photos/paris-champs-elysees.jpg",
+   "artist": "Tournasol7",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:18th_stage_Tour_de_France_2025_(92).jpg",
+   "file": "18th stage Tour de France 2025 (92).jpg",
+   "width": 3644,
+   "height": 2319
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "St. Peter's Basilica",
+  "title": "St. Peter's Basilica",
+  "url": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+  "description": "Roman Catholic basilica and landmark in Vatican City",
+  "extract": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+  "lat": 41.90222222,
+  "lon": 12.45333333,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-st-peter-s-basilica",
+  "photo": {
+   "path": "assets/photos/rome-st-peter-s-basilica.jpg",
+   "artist": "NateBergin",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:01_Baldacchino_St_Peter%27s.jpg",
+   "file": "01 Baldacchino St Peter's.jpg",
+   "width": 6000,
+   "height": 4911
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "Castel Sant'Angelo",
+  "title": "Castel Sant'Angelo",
+  "url": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+  "description": "Historic building in Rome, Italy",
+  "extract": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle dedicated to Saint Michael the Archangel, and it is now a museum. The structure was once the tallest building in Rome.",
+  "lat": 41.9031,
+  "lon": 12.4663,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-castel-sant-angelo",
+  "photo": {
+   "path": "assets/photos/rome-castel-sant-angelo.jpg",
+   "artist": "Alvesgaspar",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Angels_Sant%27Angelo_Bridge_1.jpg",
+   "file": "Angels Sant'Angelo Bridge 1.jpg",
+   "width": 10415,
+   "height": 3679
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "Pantheon",
+  "title": "Pantheon, Rome",
+  "url": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome",
+  "description": "Roman temple, later church, in Rome",
+  "extract": "The Pantheon is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus and reconstructed under Hadrian (117–138).",
+  "lat": 41.8986,
+  "lon": 12.4768,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-pantheon",
+  "photo": {
+   "path": "assets/photos/rome-pantheon.jpg",
+   "artist": "Sjaak Kempe from Groningen, The Netherlands",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20160422_107_Roma_-_Pantheon_(26078747133).jpg",
+   "file": "20160422 107 Roma - Pantheon (26078747133).jpg",
+   "width": 5180,
+   "height": 3368
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "Roman Forum",
+  "title": "Roman Forum",
+  "url": "https://en.wikipedia.org/wiki/Roman_Forum",
+  "description": "Ancient Roman centre of Rome, Italy",
+  "extract": "The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings at the centre of the city of Rome. Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum, or simply the Forum.",
+  "lat": 41.8922,
+  "lon": 12.4852,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-roman-forum",
+  "photo": {
+   "path": "assets/photos/rome-roman-forum.jpg",
+   "artist": "Blackcat",
+   "license": "CC BY-SA 3.0 it",
+   "source": "https://commons.wikimedia.org/wiki/File:2012-02-17_Foro_Romano_da_Palazzo_Senatorio_3.jpg",
+   "file": "2012-02-17 Foro Romano da Palazzo Senatorio 3.jpg",
+   "width": 2848,
+   "height": 2134
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "Circus Maximus",
+  "title": "Circus Maximus",
+  "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+  "description": "Ancient Roman circus in Rome",
+  "extract": "The Circus Maximus is an ancient Roman chariot-racing stadium and mass entertainment venue in Rome, Italy. In the valley between the Aventine and Palatine hills, it was the first and largest stadium in ancient Rome and its later Empire. It measured 621 m (2,037 ft) in length and 118 m (387 ft) in width and could accommodate over 150,000 spectators. In its fully developed form, it became the model for circuses throughout the Roman Empire. The site is now a public park.",
+  "lat": 41.8859,
+  "lon": 12.4857,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-circus-maximus",
+  "photo": {
+   "path": "assets/photos/rome-circus-maximus.jpg",
+   "artist": "Mbattista22",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CircusMaximusNorthEast2019.jpg",
+   "file": "CircusMaximusNorthEast2019.jpg",
+   "width": 3024,
+   "height": 4032
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "Colosseum",
+  "title": "Colosseum",
+  "url": "https://en.wikipedia.org/wiki/Colosseum",
+  "description": "Ancient Roman amphitheater in Rome",
+  "extract": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under the Emperor Vespasian in 72 and was completed in AD 80 under his successor and heir, Titus. Further modifications were made during the reign of Domitian. The three emperors who were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre by later classicists and archaeologists for its association with their family name (Flavius).",
+  "lat": 41.8903,
+  "lon": 12.4922,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-colosseum",
+  "photo": {
+   "path": "assets/photos/rome-colosseum.jpg",
+   "artist": "Jean-Pol GRANDMONT",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:0_Colosseum_-_Rome_111001_(2).JPG",
+   "file": "0 Colosseum - Rome 111001 (2).JPG",
+   "width": 3610,
+   "height": 2407
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "Santa Maria Maggiore",
+  "title": "Santa Maria Maggiore",
+  "url": "https://en.wikipedia.org/wiki/Santa_Maria_Maggiore",
+  "description": "Rome Catholic basilica and landmark in Rome, Italy",
+  "extract": "The Papal Basilica of Saint Mary the Great, also informally known as the Basilica of Saint Mary Major, is a Roman Catholic Papal Basilica and one of the Seven Pilgrim Churches of Rome. The largest Marian church in Rome, it is regarded as the first Marian sanctuary and the mother of all Marian shrines. The shrine is dedicated to the Blessed Virgin Mary under the title of Our Lady of the Snow.",
+  "lat": 41.8975,
+  "lon": 12.49861111,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-santa-maria-maggiore",
+  "photo": {
+   "path": "assets/photos/rome-santa-maria-maggiore.jpg",
+   "artist": "Basilica Santa Maria Maggiore",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apse_of_Santa_Maria_Maggiore.jpg",
+   "file": "Apse of Santa Maria Maggiore.jpg",
+   "width": 8489,
+   "height": 5729
+  }
+ },
+ {
+  "city": "Rome",
+  "name": "St. John Lateran",
+  "title": "Archbasilica of Saint John Lateran",
+  "url": "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran",
+  "description": "Catholic landmark in Rome, Italy",
+  "extract": "The Archbasilica of Saint John Lateran, commonly known as the Lateran Basilica or Saint John Lateran, is the Catholic cathedral of the Diocese of Rome in the city of Rome, Italy. It serves as the seat of the bishop of Rome and head of the worldwide Catholic Church: the pope. The only \"archbasilica\" in the world, it lies outside of Vatican City proper, which is located approximately four kilometres northwest. Nevertheless, as properties of the Holy See, the archbasilica and its adjoining edifices enjoy an extraterritorial status from Italy, pursuant to the terms of the Lateran Treaty of 1929. Dedicated to Christ the Saviour, in honor of John the Baptist and John the Evangelist, the place name – Laterano (Lateran) – comes from an ancient Roman family (gens), whose palace (domus) grounds occupied the site. The adjacent Lateran Palace was the primary residence of the pope until the Middle Ages.",
+  "lat": 41.88590556,
+  "lon": 12.50615556,
+  "deck": null,
+  "deck_km": null,
+  "slug": "rome-st-john-lateran",
+  "photo": {
+   "path": "assets/photos/rome-st-john-lateran.jpg",
+   "artist": "NateBergin",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:01_Lateran_Basilica_Nave.jpg",
+   "file": "01 Lateran Basilica Nave.jpg",
+   "width": 5097,
+   "height": 6000
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Park Güell",
+  "title": "Park Güell",
+  "url": "https://en.wikipedia.org/wiki/Park_G%C3%BCell",
+  "description": "Public park system in Barcelona, Spain",
+  "extract": "Park Güell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gràcia district in Barcelona, Catalonia, Spain. It is situated on the southern slope of the Turó del Carmel hill, part of the Collserola mountain range, overlooking the city. The separate Parc del Carmel lies on the northern side of the same hill.",
+  "lat": 41.41361111,
+  "lon": 2.15277778,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-park-guell",
+  "photo": {
+   "path": "assets/photos/barcelona-park-guell.jpg",
+   "artist": "Mstyslav Chernov",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_musician_playing_among_columns_of_Sala_Hip%C3%B3stila,_Park_G%C3%BCell_(_UNESCO_World_Heritage_Site),_hill_of_El_Carmel,_Gr%C3%A0cia_(district),_Barcelona,_Catalonia,_Spain.jpg",
+   "file": "A musician playing among columns of Sala Hipóstila, Park Güell ( UNESCO World Heritage Site), hill of El Carmel, Gràcia (district), Barcelona, Catalonia, Spain.jpg",
+   "width": 2343,
+   "height": 3500
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Sagrada Família",
+  "title": "Sagrada Família",
+  "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+  "description": "Basilica under construction since 1882 in Barcelona, Spain",
+  "extract": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic Basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church \nin the world. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica. In 2005, parts of the Sagrada Família were declared a UNESCO World Heritage Site, under \"Works of Antoni Gaudí\".",
+  "lat": 41.40369,
+  "lon": 2.17433,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-sagrada-familia",
+  "photo": {
+   "path": "assets/photos/barcelona-sagrada-familia.jpg",
+   "artist": "Didier Descouens",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:(Barcelona)_The_Beggars_Cathedral_by_Joaquim_Mir_-_Museu_Nacional_d%27Art_de_Catalunya.jpg",
+   "file": "(Barcelona) The Beggars Cathedral by Joaquim Mir - Museu Nacional d'Art de Catalunya.jpg",
+   "width": 5430,
+   "height": 4476
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Casa Milà",
+  "title": "La Pedrera, Barcelona",
+  "url": "https://en.wikipedia.org/wiki/La_Pedrera%2C_Barcelona",
+  "description": "Building in Barcelona, Spain",
+  "extract": "Casa Milà, popularly known as La Pedrera in reference to its unconventional rough-hewn appearance, is a Modernista building in Barcelona, Catalonia, Spain. It was the last private residence designed by architect Antoni Gaudí and was built between 1906 and 1912.",
+  "lat": 41.39527778,
+  "lon": 2.16166667,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-casa-mila",
+  "photo": {
+   "path": "assets/photos/barcelona-casa-mila.jpg",
+   "artist": "José Luiz",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Attic_of_Casa_Mil%C3%A0.jpg",
+   "file": "Attic of Casa Milà.jpg",
+   "width": 1728,
+   "height": 2592
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Casa Batlló",
+  "title": "Casa Batlló",
+  "url": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3",
+  "description": "Building by Antoni Gaudí in Barcelona, Spain",
+  "extract": "Casa Batlló is a building in the center of Barcelona, Spain. It was designed by Antoni Gaudí, and is considered one of his masterpieces. A remodel of a previously built house, it was redesigned in 1904 by Gaudí and has been refurbished several times since. Gaudí's assistants Domènec Sugrañes i Gras, Josep Canaleta and Joan Rubió also contributed to the renovation project.",
+  "lat": 41.39158,
+  "lon": 2.16492,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-casa-batllo",
+  "photo": {
+   "path": "assets/photos/barcelona-casa-batllo.jpg",
+   "artist": "tato grasso",
+   "license": "CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:CasaBatllo_0170.JPG",
+   "file": "CasaBatllo 0170.JPG",
+   "width": 2000,
+   "height": 3008
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Palau de la Música",
+  "title": "Palau de la Música Catalana",
+  "url": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana",
+  "description": "Concert hall in Barcelona, Spain",
+  "extract": "Palau de la Música Catalana is a concert hall in Barcelona, Catalonia, Spain. Designed in the Catalan modernista style by the architect Lluís Domènech i Montaner, it was built between 1905 and 1908 for Orfeó Català, a choral society founded in 1891 that was a leading force in the Catalan cultural movement that came to be known as the Renaixença. It was inaugurated on 9 February 1908.",
+  "lat": 41.3875,
+  "lon": 2.17555556,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-palau-de-la-musica",
+  "photo": {
+   "path": "assets/photos/barcelona-palau-de-la-musica.jpg",
+   "artist": "MarisaLR",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cantonada_Sant_Pere_m%C3%A9s_Alt_del_Palau_de_la_M%C3%BAsica_Catalana.jpg",
+   "file": "Cantonada Sant Pere més Alt del Palau de la Música Catalana.jpg",
+   "width": 2112,
+   "height": 2816
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Barcelona Cathedral",
+  "title": "Barcelona Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Barcelona_Cathedral",
+  "description": "Gothic cathedral and seat of the Archbishop of Barcelona, Spain",
+  "extract": "The Cathedral of the Holy Cross and Saint Eulalia, also known as Barcelona Cathedral, is the seat of the archbishop of Barcelona in Catalonia, Spain. The cathedral was constructed from the thirteenth to fifteenth centuries, with the principal work done in the fourteenth century. The cloister, which encloses the Well of the Geese (Font de les Oques), was completed in 1448. In the late nineteenth century, the neo-Gothic façade was constructed over the undistinguished exterior that was common to Catalan churches.",
+  "lat": 41.38388889,
+  "lon": 2.17638889,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-barcelona-cathedral",
+  "photo": {
+   "path": "assets/photos/barcelona-barcelona-cathedral.jpg",
+   "artist": "Hedwig Storch",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Barcelona,_Cathedral_and_Palau_del_Lloctinent.jpg",
+   "file": "Barcelona, Cathedral and Palau del Lloctinent.jpg",
+   "width": 2128,
+   "height": 2832
+  }
+ },
+ {
+  "city": "Barcelona",
+  "name": "Palau Güell",
+  "title": "Palau Güell",
+  "url": "https://en.wikipedia.org/wiki/Palau_G%C3%BCell",
+  "description": "Mansion in Barcelona designed by Gaudí",
+  "extract": "The Palau Güell is a mansion designed by the architect Antoni Gaudí for the industrial tycoon Eusebi Güell, and was built between 1886 and 1888. It is situated on the Carrer Nou de la Rambla, in the El Raval neighborhood of Barcelona in Catalonia, Spain. It is part of the UNESCO World Heritage Site \"Works of Antoni Gaudí\".",
+  "lat": null,
+  "lon": null,
+  "deck": null,
+  "deck_km": null,
+  "slug": "barcelona-palau-guell",
+  "photo": {
+   "path": "assets/photos/barcelona-palau-guell.jpg",
+   "artist": "Thomas Ledl",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Palau_G%C3%BCell,_Antoni_Gaudi,_Barcelona_2.jpg",
+   "file": "Palau Güell, Antoni Gaudi, Barcelona 2.jpg",
+   "width": 2829,
+   "height": 4243
+  }
+ }
+]
