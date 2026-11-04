@@ -1,0 +1,194 @@
+{
+"lmu-munich": [
+"lmu-munich-6",
+"lmu-munich-4"
+],
+"fu-berlin": [
+"fu-berlin-c2",
+"fu-berlin-c3"
+],
+"heidelberg": [
+"heidelberg-4",
+"heidelberg-6"
+],
+"tum-munich": [
+"tum-munich-5",
+"tum-munich-6"
+],
+"rwth-aachen": [
+"rwth-aachen-1",
+"rwth-aachen-2"
+],
+"tu-dresden": [
+"tu-dresden-4",
+"tu-dresden-1"
+],
+"hpi": [
+"hpi-c1",
+"hpi-c5"
+],
+"uni-mannheim": [
+"uni-mannheim-4",
+"uni-mannheim-3"
+],
+"uni-muenster": [
+"uni-muenster-6",
+"uni-muenster-4"
+],
+"uni-erlangen": [
+"uni-erlangen-1",
+"uni-erlangen-2"
+],
+"jacobs-bremen": [
+"jacobs-bremen-1"
+],
+"uni-goettingen": [
+"uni-goettingen-2",
+"uni-goettingen-5"
+],
+"bocconi-university": [
+"bocconi-university-c2"
+],
+"luiss": [
+"luiss-1",
+"luiss-c5"
+],
+"cattolica-milan": [
+"cattolica-milan-5",
+"cattolica-milan-1"
+],
+"sapienza-university-rome": [
+"sapienza-university-rome-c1",
+"sapienza-university-rome-c2"
+],
+"university-of-verona": [
+"university-of-verona-c4",
+"university-of-verona-c3"
+],
+"unibz": [
+"unibz-c6",
+"unibz-c1"
+],
+"university-of-bologna": [
+"university-of-bologna-3",
+"university-of-bologna-4"
+],
+"milano-bicocca": [
+"milano-bicocca-2",
+"milano-bicocca-c2"
+],
+"university-of-turin": [
+"university-of-turin-1",
+"university-of-turin-c6"
+],
+"university-of-genoa": [
+"university-of-genoa-1",
+"university-of-genoa-c2"
+],
+"university-of-pavia": [
+"university-of-pavia-1",
+"university-of-pavia-2"
+],
+"tu-delft": [
+"tu-delft-2",
+"tu-delft-6"
+],
+"eur-rotterdam": [
+"eur-rotterdam-5"
+],
+"leiden": [
+"leiden-4",
+"leiden-2"
+],
+"tilburg": [
+"tilburg-c1",
+"tilburg-c2"
+],
+"twente": [
+"twente-2",
+"twente-1"
+],
+"rug-groningen": [
+"rug-groningen-2",
+"rug-groningen-6"
+],
+"wur": [
+"wur-5",
+"wur-1"
+],
+"rietveld": [
+"rietveld-1"
+],
+"hanze": [
+"hanze-1",
+"hanze-c3"
+],
+"hhs-thuas": [
+"hhs-thuas-1",
+"hhs-thuas-2"
+],
+"cambridge": [
+"cambridge-5",
+"cambridge-1"
+],
+"lse": [
+"lse-c2",
+"lse-c1"
+],
+"york": [
+"york-4",
+"york-3"
+],
+"imperial": [
+"imperial-3",
+"imperial-1"
+],
+"rca": [
+"rca-3",
+"rca-1"
+],
+"manchester": [
+"manchester-1",
+"manchester-2"
+],
+"soas": [
+"soas-4",
+"soas-5"
+],
+"oxford": [
+"oxford-3",
+"oxford-5"
+],
+"southampton": [
+"southampton-1",
+"southampton-4"
+],
+"harvard": [
+"harvard-c5",
+"harvard-c1"
+],
+"columbia": [
+"columbia-c2",
+"columbia-c5"
+],
+"uw": [
+"uw-2",
+"uw-5"
+],
+"berkeley": [
+"berkeley-5",
+"berkeley-1"
+],
+"uci": [
+"uci-3",
+"uci-6"
+],
+"cmu": [
+"cmu-3",
+"cmu-2"
+],
+"princeton": [
+"princeton-2",
+"princeton-4"
+]
+}

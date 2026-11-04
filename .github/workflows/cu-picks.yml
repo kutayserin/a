@@ -1,0 +1,25 @@
+name: CompassUni picked photos in high resolution
+on:
+  push:
+    branches: [compassuni-social]
+    paths: [tools/fetch_picks.py, data/visual_pick.json]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python tools/fetch_picks.py
+      - run: |
+          git config user.name "compassuni-social"
+          git config user.email "noreply@compassuni.com"
+          git add assets/photos
+          git commit -m "Picked photos in high resolution" || exit 0
+          git pull --rebase -X theirs origin compassuni-social
+          git push origin HEAD:compassuni-social
