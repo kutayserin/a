@@ -1,0 +1,572 @@
+[
+{
+"city": "London",
+"name": "Buckingham Palace",
+"title": "Buckingham Palace"
+},
+{
+"city": "London",
+"name": "Westminster Abbey",
+"title": "Westminster Abbey"
+},
+{
+"city": "London",
+"name": "Big Ben",
+"title": "Big Ben"
+},
+{
+"city": "London",
+"name": "Trafalgar Square",
+"title": "Trafalgar Square"
+},
+{
+"city": "London",
+"name": "British Museum",
+"title": "British Museum"
+},
+{
+"city": "London",
+"name": "St Paul's Cathedral",
+"title": "St Paul's Cathedral"
+},
+{
+"city": "London",
+"name": "Tower of London",
+"title": "Tower of London"
+},
+{
+"city": "London",
+"name": "Tower Bridge",
+"title": "Tower Bridge"
+},
+{
+"city": "Florence",
+"name": "Accademia Gallery",
+"title": "Galleria dell'Accademia"
+},
+{
+"city": "Florence",
+"name": "Museum of San Marco",
+"title": "San Marco, Florence"
+},
+{
+"city": "Florence",
+"name": "Florence Cathedral",
+"title": "Florence Cathedral"
+},
+{
+"city": "Florence",
+"name": "Palazzo Vecchio",
+"title": "Palazzo Vecchio"
+},
+{
+"city": "Florence",
+"name": "Uffizi Gallery",
+"title": "Uffizi"
+},
+{
+"city": "Florence",
+"name": "Ponte Vecchio",
+"title": "Ponte Vecchio"
+},
+{
+"city": "Florence",
+"name": "Palazzo Pitti",
+"title": "Palazzo Pitti"
+},
+{
+"city": "Florence",
+"name": "Santa Croce",
+"title": "Santa Croce, Florence"
+},
+{
+"city": "Prague",
+"name": "Prague Castle",
+"title": "Prague Castle"
+},
+{
+"city": "Prague",
+"name": "St. Vitus Cathedral",
+"title": "St. Vitus Cathedral"
+},
+{
+"city": "Prague",
+"name": "Charles Bridge",
+"title": "Charles Bridge"
+},
+{
+"city": "Prague",
+"name": "Old Town Square",
+"title": "Old Town Square"
+},
+{
+"city": "Prague",
+"name": "Astronomical Clock",
+"title": "Prague astronomical clock"
+},
+{
+"city": "Prague",
+"name": "Wenceslas Square",
+"title": "Wenceslas Square"
+},
+{
+"city": "Prague",
+"name": "Dancing House",
+"title": "Dancing House"
+},
+{
+"city": "Madrid",
+"name": "Temple of Debod",
+"title": "Temple of Debod"
+},
+{
+"city": "Madrid",
+"name": "Royal Palace",
+"title": "Royal Palace of Madrid"
+},
+{
+"city": "Madrid",
+"name": "Almudena Cathedral",
+"title": "Almudena Cathedral"
+},
+{
+"city": "Madrid",
+"name": "Puerta del Sol",
+"title": "Puerta del Sol"
+},
+{
+"city": "Madrid",
+"name": "Plaza de Cibeles",
+"title": "Plaza de Cibeles"
+},
+{
+"city": "Madrid",
+"name": "Prado Museum",
+"title": "Prado Museum"
+},
+{
+"city": "Madrid",
+"name": "El Retiro Park",
+"title": "Buen Retiro Park"
+},
+{
+"city": "Madrid",
+"name": "Reina Sofía Museum",
+"title": "Museo Reina Sofía"
+},
+{
+"city": "Athens",
+"name": "Acropolis",
+"title": "Acropolis of Athens"
+},
+{
+"city": "Athens",
+"name": "Acropolis Museum",
+"title": "Acropolis Museum"
+},
+{
+"city": "Athens",
+"name": "Ancient Agora",
+"title": "Ancient Agora of Athens"
+},
+{
+"city": "Athens",
+"name": "Plaka",
+"title": "Plaka"
+},
+{
+"city": "Athens",
+"name": "Temple of Olympian Zeus",
+"title": "Temple of Olympian Zeus, Athens"
+},
+{
+"city": "Athens",
+"name": "Panathenaic Stadium",
+"title": "Panathenaic Stadium"
+},
+{
+"city": "Athens",
+"name": "Syntagma Square",
+"title": "Syntagma Square"
+},
+{
+"city": "Budapest",
+"name": "Hungarian Parliament",
+"title": "Hungarian Parliament Building"
+},
+{
+"city": "Budapest",
+"name": "St. Stephen's Basilica",
+"title": "St. Stephen's Basilica"
+},
+{
+"city": "Budapest",
+"name": "Dohány Street Synagogue",
+"title": "Dohány Street Synagogue"
+},
+{
+"city": "Budapest",
+"name": "Chain Bridge",
+"title": "Széchenyi Chain Bridge"
+},
+{
+"city": "Budapest",
+"name": "Buda Castle",
+"title": "Buda Castle"
+},
+{
+"city": "Budapest",
+"name": "Matthias Church",
+"title": "Matthias Church"
+},
+{
+"city": "Budapest",
+"name": "Fisherman's Bastion",
+"title": "Fisherman's Bastion"
+},
+{
+"city": "Amsterdam",
+"name": "Rijksmuseum",
+"title": "Rijksmuseum"
+},
+{
+"city": "Amsterdam",
+"name": "Van Gogh Museum",
+"title": "Van Gogh Museum"
+},
+{
+"city": "Amsterdam",
+"name": "Vondelpark",
+"title": "Vondelpark"
+},
+{
+"city": "Amsterdam",
+"name": "Begijnhof",
+"title": "Begijnhof, Amsterdam"
+},
+{
+"city": "Amsterdam",
+"name": "Dam Square",
+"title": "Dam Square"
+},
+{
+"city": "Amsterdam",
+"name": "Oude Kerk",
+"title": "Oude Kerk, Amsterdam"
+},
+{
+"city": "Amsterdam",
+"name": "Anne Frank House",
+"title": "Anne Frank House"
+},
+{
+"city": "Vienna",
+"name": "St. Stephen's Cathedral",
+"title": "St. Stephen's Cathedral, Vienna"
+},
+{
+"city": "Vienna",
+"name": "Hofburg",
+"title": "Hofburg"
+},
+{
+"city": "Vienna",
+"name": "Albertina",
+"title": "Albertina"
+},
+{
+"city": "Vienna",
+"name": "Kunsthistorisches Museum",
+"title": "Kunsthistorisches Museum"
+},
+{
+"city": "Vienna",
+"name": "Karlskirche",
+"title": "Karlskirche"
+},
+{
+"city": "Vienna",
+"name": "Belvedere",
+"title": "Belvedere, Vienna"
+},
+{
+"city": "Venice",
+"name": "St Mark's Basilica",
+"title": "St Mark's Basilica"
+},
+{
+"city": "Venice",
+"name": "Doge's Palace",
+"title": "Doge's Palace"
+},
+{
+"city": "Venice",
+"name": "Rialto Bridge",
+"title": "Rialto Bridge"
+},
+{
+"city": "Venice",
+"name": "Santa Maria della Salute",
+"title": "Santa Maria della Salute"
+},
+{
+"city": "Venice",
+"name": "Peggy Guggenheim Collection",
+"title": "Peggy Guggenheim Collection"
+},
+{
+"city": "Venice",
+"name": "Gallerie dell'Accademia",
+"title": "Gallerie dell'Accademia"
+},
+{
+"city": "Lisbon",
+"name": "Belém Tower",
+"title": "Belém Tower"
+},
+{
+"city": "Lisbon",
+"name": "Jerónimos Monastery",
+"title": "Jerónimos Monastery"
+},
+{
+"city": "Lisbon",
+"name": "Carmo Convent",
+"title": "Carmo Convent (Lisbon)"
+},
+{
+"city": "Lisbon",
+"name": "Santa Justa Lift",
+"title": "Santa Justa Lift"
+},
+{
+"city": "Lisbon",
+"name": "Rossio",
+"title": "Rossio"
+},
+{
+"city": "Lisbon",
+"name": "Lisbon Cathedral",
+"title": "Lisbon Cathedral"
+},
+{
+"city": "Lisbon",
+"name": "São Jorge Castle",
+"title": "São Jorge Castle"
+},
+{
+"city": "New York",
+"name": "Empire State Building",
+"title": "Empire State Building"
+},
+{
+"city": "New York",
+"name": "Grand Central Terminal",
+"title": "Grand Central Terminal"
+},
+{
+"city": "New York",
+"name": "Times Square",
+"title": "Times Square"
+},
+{
+"city": "New York",
+"name": "Rockefeller Center",
+"title": "Rockefeller Center"
+},
+{
+"city": "New York",
+"name": "Central Park",
+"title": "Central Park"
+},
+{
+"city": "New York",
+"name": "The Met",
+"title": "Metropolitan Museum of Art"
+},
+{
+"city": "Berlin",
+"name": "Reichstag",
+"title": "Reichstag building"
+},
+{
+"city": "Berlin",
+"name": "Brandenburg Gate",
+"title": "Brandenburg Gate"
+},
+{
+"city": "Berlin",
+"name": "Checkpoint Charlie",
+"title": "Checkpoint Charlie"
+},
+{
+"city": "Berlin",
+"name": "Museum Island",
+"title": "Museum Island"
+},
+{
+"city": "Berlin",
+"name": "Berlin Cathedral",
+"title": "Berlin Cathedral"
+},
+{
+"city": "Istanbul",
+"name": "Topkapı Palace",
+"title": "Topkapı Palace"
+},
+{
+"city": "Istanbul",
+"name": "Hagia Sophia",
+"title": "Hagia Sophia"
+},
+{
+"city": "Istanbul",
+"name": "Basilica Cistern",
+"title": "Basilica Cistern"
+},
+{
+"city": "Istanbul",
+"name": "Blue Mosque",
+"title": "Blue Mosque"
+},
+{
+"city": "Istanbul",
+"name": "Little Hagia Sophia",
+"title": "Little Hagia Sophia"
+},
+{
+"city": "Istanbul",
+"name": "Süleymaniye Mosque",
+"title": "Süleymaniye Mosque"
+},
+{
+"city": "Paris",
+"name": "Panthéon",
+"title": "Panthéon"
+},
+{
+"city": "Paris",
+"name": "Notre-Dame",
+"title": "Notre-Dame de Paris"
+},
+{
+"city": "Paris",
+"name": "Louvre",
+"title": "Louvre"
+},
+{
+"city": "Paris",
+"name": "Musée d'Orsay",
+"title": "Musée d'Orsay"
+},
+{
+"city": "Paris",
+"name": "Eiffel Tower",
+"title": "Eiffel Tower"
+},
+{
+"city": "Paris",
+"name": "Arc de Triomphe",
+"title": "Arc de Triomphe"
+},
+{
+"city": "Istanbul",
+"name": "Dolmabahçe Palace",
+"title": "Dolmabahçe Palace"
+},
+{
+"city": "Istanbul",
+"name": "Galata Tower",
+"title": "Galata Tower"
+},
+{
+"city": "Istanbul",
+"name": "Maiden's Tower",
+"title": "Maiden's Tower"
+},
+{
+"city": "Paris",
+"name": "Sacré-Cœur",
+"title": "Sacré-Cœur, Paris"
+},
+{
+"city": "Paris",
+"name": "Champs-Élysées",
+"title": "Champs-Élysées"
+},
+{
+"city": "Rome",
+"name": "St. Peter's Basilica",
+"title": "St. Peter's Basilica"
+},
+{
+"city": "Rome",
+"name": "Castel Sant'Angelo",
+"title": "Castel Sant'Angelo"
+},
+{
+"city": "Rome",
+"name": "Pantheon",
+"title": "Pantheon, Rome"
+},
+{
+"city": "Rome",
+"name": "Roman Forum",
+"title": "Roman Forum"
+},
+{
+"city": "Rome",
+"name": "Circus Maximus",
+"title": "Circus Maximus"
+},
+{
+"city": "Rome",
+"name": "Colosseum",
+"title": "Colosseum"
+},
+{
+"city": "Rome",
+"name": "Santa Maria Maggiore",
+"title": "Santa Maria Maggiore"
+},
+{
+"city": "Rome",
+"name": "St. John Lateran",
+"title": "Archbasilica of Saint John Lateran"
+},
+{
+"city": "Barcelona",
+"name": "Park Güell",
+"title": "Park Güell"
+},
+{
+"city": "Barcelona",
+"name": "Sagrada Família",
+"title": "Sagrada Família"
+},
+{
+"city": "Barcelona",
+"name": "Casa Milà",
+"title": "Casa Milà"
+},
+{
+"city": "Barcelona",
+"name": "Casa Batlló",
+"title": "Casa Batlló"
+},
+{
+"city": "Barcelona",
+"name": "Palau de la Música",
+"title": "Palau de la Música Catalana"
+},
+{
+"city": "Barcelona",
+"name": "Barcelona Cathedral",
+"title": "Barcelona Cathedral"
+},
+{
+"city": "Barcelona",
+"name": "Palau Güell",
+"title": "Palau Güell"
+}
+]

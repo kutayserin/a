@@ -1,0 +1,25 @@
+name: TravelHour landmark data
+on:
+  push:
+    branches: [travelhour-social]
+    paths: [tools/fetch_landmarks.py, data/landmark_titles.json]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python tools/fetch_landmarks.py
+      - run: |
+          git config user.name "travelhour-social"
+          git config user.email "noreply@travelhour.app"
+          git add data/landmarks.json data/landmarks_problems.txt assets/photos
+          git commit -m "Update landmark data and photos" || exit 0
+          git pull --rebase origin travelhour-social
+          git push origin HEAD:travelhour-social
