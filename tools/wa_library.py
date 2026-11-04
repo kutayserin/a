@@ -155,7 +155,7 @@ def render_tool(sh, job, p, ind, out):
     sh.shot(page(1080, 1920, body), tmp / 'b.png', 1080, 1920)
     end_slide(sh, tmp / 'c.png', 'Then turn it into<br><em>a real website.</em>', 'website-automation.com/tools. All six are free, no sign-up.', 1080, 1920)
     w.slideshow_reel([(tmp / 'a.png', 3.4), (tmp / 'b.png', 4.4), (tmp / 'c.png', 2.6)], out)
-    return f"{p['hook']}\n\n{p['tool']}: {p['body']}\n\nFree, no sign-up: website-automation.com{p['url_path']}"
+    return f"{p['hook']}\n\n{p['tool']}: {p['body']}\n\nTry it: website-automation.com{p['url_path']}"
 
 
 def render_prompt(sh, job, p, ind, out):
