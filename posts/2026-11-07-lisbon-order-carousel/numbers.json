@@ -1,0 +1,15 @@
+{
+ "order": [
+  "Belém Tower",
+  "Jerónimos Monastery",
+  "Carmo Convent",
+  "Santa Justa Lift",
+  "Rossio",
+  "São Jorge Castle",
+  "Lisbon Cathedral"
+ ],
+ "best_km": 10.74515109798088,
+ "rand_km": 27.054355237424694,
+ "diff": 16.309204139443814,
+ "walk_h": 2.3878113551068623
+}

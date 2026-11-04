@@ -1,0 +1,14 @@
+{
+ "order": [
+  "Topkapı Palace",
+  "Hagia Sophia",
+  "Basilica Cistern",
+  "Blue Mosque",
+  "Little Hagia Sophia",
+  "Süleymaniye Mosque"
+ ],
+ "best_km": 4.219024690415496,
+ "rand_km": 6.53220743029289,
+ "diff": 2.3131827398773934,
+ "walk_h": 0.9375610423145547
+}

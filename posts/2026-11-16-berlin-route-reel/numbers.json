@@ -1,0 +1,12 @@
+{
+ "order": [
+  "Checkpoint Charlie",
+  "Brandenburg Gate",
+  "Reichstag",
+  "Museum Island",
+  "Berlin Cathedral"
+ ],
+ "km": 4.3899544700450495,
+ "walk_h": 0.9755454377877888,
+ "seconds": 12.299999999999999
+}

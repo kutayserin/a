@@ -1,0 +1,15 @@
+{
+ "order": [
+  "Ancient Agora",
+  "Acropolis",
+  "Acropolis Museum",
+  "Temple of Olympian Zeus",
+  "Plaka",
+  "Syntagma Square",
+  "Panathenaic Stadium"
+ ],
+ "best_km": 4.170092653788759,
+ "rand_km": 6.361212239227604,
+ "diff": 2.1911195854388454,
+ "walk_h": 0.9266872563975019
+}

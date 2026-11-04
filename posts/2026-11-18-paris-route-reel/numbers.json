@@ -1,0 +1,13 @@
+{
+ "order": [
+  "Panthéon",
+  "Notre-Dame",
+  "Louvre",
+  "Musée d'Orsay",
+  "Eiffel Tower",
+  "Arc de Triomphe"
+ ],
+ "km": 9.057195362586274,
+ "walk_h": 2.0127100805747276,
+ "seconds": 13.733333333333333
+}

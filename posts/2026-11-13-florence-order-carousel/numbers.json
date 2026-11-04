@@ -1,0 +1,16 @@
+{
+ "order": [
+  "Museum of San Marco",
+  "Accademia Gallery",
+  "Florence Cathedral",
+  "Palazzo Vecchio",
+  "Uffizi Gallery",
+  "Ponte Vecchio",
+  "Palazzo Pitti",
+  "Santa Croce"
+ ],
+ "best_km": 3.6607667305579317,
+ "rand_km": 6.939025636470582,
+ "diff": 3.2782589059126503,
+ "walk_h": 0.8135037179017626
+}

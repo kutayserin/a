@@ -1,0 +1,13 @@
+{
+ "order": [
+  "Checkpoint Charlie",
+  "Brandenburg Gate",
+  "Reichstag",
+  "Museum Island",
+  "Berlin Cathedral"
+ ],
+ "best_km": 4.3899544700450495,
+ "rand_km": 6.5825830909082415,
+ "diff": 2.192628620863192,
+ "walk_h": 0.9755454377877888
+}

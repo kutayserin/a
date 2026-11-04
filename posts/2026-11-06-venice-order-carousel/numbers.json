@@ -1,0 +1,14 @@
+{
+ "order": [
+  "Rialto Bridge",
+  "St Mark's Basilica",
+  "Doge's Palace",
+  "Santa Maria della Salute",
+  "Peggy Guggenheim Collection",
+  "Gallerie dell'Accademia"
+ ],
+ "best_km": 2.184705532911206,
+ "rand_km": 4.166381855576989,
+ "diff": 1.9816763226657832,
+ "walk_h": 0.48549011842471246
+}

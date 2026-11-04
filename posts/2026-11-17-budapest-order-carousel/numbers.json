@@ -1,0 +1,15 @@
+{
+ "order": [
+  "Hungarian Parliament",
+  "Fisherman's Bastion",
+  "Matthias Church",
+  "Buda Castle",
+  "Chain Bridge",
+  "St. Stephen's Basilica",
+  "Dohány Street Synagogue"
+ ],
+ "best_km": 4.950659399895799,
+ "rand_km": 8.682907622421743,
+ "diff": 3.7322482225259437,
+ "walk_h": 1.1001465333101776
+}

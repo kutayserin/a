@@ -1,0 +1,14 @@
+{
+ "order": [
+  "St. Stephen's Cathedral",
+  "Albertina",
+  "Hofburg",
+  "Kunsthistorisches Museum",
+  "Karlskirche",
+  "Belvedere"
+ ],
+ "best_km": 3.878510726107816,
+ "rand_km": 6.366047874308253,
+ "diff": 2.4875371482004374,
+ "walk_h": 0.8618912724684036
+}

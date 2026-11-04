@@ -1,0 +1,16 @@
+{
+ "order": [
+  "Reina Sofía Museum",
+  "Prado Museum",
+  "El Retiro Park",
+  "Plaza de Cibeles",
+  "Puerta del Sol",
+  "Almudena Cathedral",
+  "Royal Palace",
+  "Temple of Debod"
+ ],
+ "best_km": 6.615795981448077,
+ "rand_km": 13.681149105640648,
+ "diff": 7.065353124192571,
+ "walk_h": 1.4701768847662393
+}

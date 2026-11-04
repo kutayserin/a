@@ -1,0 +1,15 @@
+{
+ "order": [
+  "Buckingham Palace",
+  "Westminster Abbey",
+  "Big Ben",
+  "Trafalgar Square",
+  "British Museum",
+  "St Paul's Cathedral",
+  "Tower of London",
+  "Tower Bridge"
+ ],
+ "km": 9.616057365784936,
+ "walk_h": 2.136901636841097,
+ "seconds": 16.633333333333333
+}

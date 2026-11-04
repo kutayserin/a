@@ -1,0 +1,14 @@
+{
+ "order": [
+  "Empire State Building",
+  "Grand Central Terminal",
+  "Times Square",
+  "Rockefeller Center",
+  "The Met",
+  "Central Park"
+ ],
+ "best_km": 6.985996234254999,
+ "rand_km": 13.971949713764625,
+ "diff": 6.985953479509626,
+ "walk_h": 1.5524436076122219
+}

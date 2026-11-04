@@ -1,0 +1,15 @@
+{
+ "order": [
+  "Oude Kerk",
+  "Dam Square",
+  "Anne Frank House",
+  "Begijnhof",
+  "Rijksmuseum",
+  "Van Gogh Museum",
+  "Vondelpark"
+ ],
+ "best_km": 5.319254903273959,
+ "rand_km": 10.779738247349833,
+ "diff": 5.460483344075874,
+ "walk_h": 1.1820566451719907
+}

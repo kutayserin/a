@@ -1,0 +1,15 @@
+{
+ "order": [
+  "St. Vitus Cathedral",
+  "Prague Castle",
+  "Charles Bridge",
+  "Astronomical Clock",
+  "Old Town Square",
+  "Wenceslas Square",
+  "Dancing House"
+ ],
+ "best_km": 4.821623906281708,
+ "rand_km": 9.553882172236907,
+ "diff": 4.732258265955199,
+ "walk_h": 1.0714719791737128
+}
