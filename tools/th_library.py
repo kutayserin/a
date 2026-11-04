@@ -46,15 +46,33 @@ def tagify(city):
     return city.lower().replace(' ', '')
 
 
+# Commons author fields carry notes, doubled names and cut-off text; these keep the name only.
+ARTIST_FIX = [('Unknown artistUnknown artist', 'Unknown artist'), ('Unknown authorUnknown author', 'Unknown author'),
+              ('Anonymous (Category:Roman Empire)', 'Unknown author'), ('When reusing, please credit me as author: Adam Kliczek', 'Adam Kliczek'),
+              ('This Photo was taken by Wolfgang Moroder', 'Wolfgang Moroder'), ('This media file was made by Michiel1972', 'Michiel1972'),
+              ('No machine-readable author provided. Chosovi', 'Chosovi'), ('Photo taken by; készítette: id. Takács István', 'id. Takács István'),
+              ('Fortepan / Budapest Főváros Levéltára', 'Fortepan / Budapest Főváros Levéltára'),
+              ('This video is a work by Wikipedia and Wikimedia Commons user C.Suthorn', 'C.Suthorn'),
+              ('Original uploader was Rifleman 82', 'Rifleman 82'), ('https://www.parismuseescollections', 'Paris Musées'),
+              ('Naila Ramah for Wikimedia Foundation', 'Naila Ramah for Wikimedia Foundation'), ('iryna - https://iryna.photo/', 'iryna, https://iryna.photo/'),
+              ('Constantinou Dimitrios Details', 'Constantinou Dimitrios')]
+
+
 def clean_artist(a):
-    # Commons author fields often carry wiki signatures; the name and any requested link stay.
-    a = re.sub(r'\s*\(talk\)|\s*\d\d:\d\d, \d+ \w+ \d{4} \(UTC\)', '', a or 'Unknown')
+    a = a or 'Unknown'
+    for start, name in ARTIST_FIX:
+        if a.startswith(start):
+            return name
+    a = re.sub(r'\s*\(talk\)|\s*\d\d:\d\d, \d+ \w+ \d{4} \(UTC\)', '', a)
+    a = re.sub(r'^user:', '', a, flags=re.I)
     return re.sub(r'\s+-\s+.*$', '', a).strip()
 
 
 def credit_short(p):
+    """For the small line on a slide; the full credit with any link is in the caption."""
     a = clean_artist(p['artist'])
-    a = a.split(' (')[0].strip()
+    m = re.match(r'https?://(?:www\.)?flickr\.com/photos/([^/]+)', a)
+    a = f'{m[1]} on Flickr' if m else re.sub(r'[,:]?\s*(https?://|www\.)\S+', '', a).split(' (')[0].strip()
     a = a if len(a) <= 34 else a[:32].rstrip() + '…'
     return f"{a} · {p['license']}"
 
@@ -224,7 +242,9 @@ def render_spotlight(sh, job, x, c, out):
         if v['license'] == 'Pexels License':
             cr.append(f"🎥 Video: {v['artist']} via Pexels")
         else:
-            cr.append(f"📷 {credit_line(v)} via Wikimedia Commons, cropped with text added")
+            line = f"📷 {credit_line(v)} via Wikimedia Commons, cropped with text added"
+            if line not in cr:
+                cr.append(line)
     cap = (f"{hook}\n\n{c['fact']}\n\n📍 {x['name']}, {x['city']}\n{SAVES[n % len(SAVES)]}\n\n{CTAS[n % len(CTAS)]}\n\n"
            f"#{tagify(x['city'])}travel #{tagify(x['city'])} #{c['tag']} #traveltips #citybreak\n\n" + '\n'.join(cr))
     (out / 'caption.txt').write_text(cap, encoding='utf-8')
