@@ -16,8 +16,9 @@ from cu_media import page, brand_bg, ICON, INK, SLATE, BLUE, ROYAL, SKY, LINE
 
 
 def esc(s):
-    """Keep a price together: a currency sign alone on the next line reads as a mistake on a frame."""
-    return re.sub(r'(\d) ([€£$₺])', '\\1\u00a0\\2', m.esc(s))
+    """Keep a price or a year range together: a currency sign or "27" alone on the next line reads as a mistake on a frame."""
+    s = re.sub(r'(\d) ([€£$₺])', '\\1\u00a0\\2', m.esc(s))
+    return re.sub(r'(\d)-(\d)', '\\1-\u2060\\2', s)
 
 
 ROOT = m.ROOT
