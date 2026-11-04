@@ -37,11 +37,7 @@
 "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-18-how-07/cover.jpg",
 "instagramData": {
 "type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "957044555314519",
-"videoVolume": 0
-}
+"showReelOnFeed": true
 },
 "facebookData": {
 "type": "REEL",
@@ -145,11 +141,7 @@
 "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-18-how-08/cover.jpg",
 "instagramData": {
 "type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1304451697253803",
-"videoVolume": 0
-}
+"showReelOnFeed": true
 },
 "facebookData": {
 "type": "REEL",

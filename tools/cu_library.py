@@ -367,8 +367,9 @@ def calendar():
         tiktok = dict(privacyOption='PUBLIC_TO_EVERYONE', commercialContentOwnBrand=True, title=title[:90])
         if job['kind'] in REEL_KINDS:
             info.update(media=[f'{base}/reel.mp4'], videoThumbnailUrl=f'{base}/cover.jpg',
-                        instagramData=dict(type='REEL', showReelOnFeed=True,
-                                           audioConfiguration=dict(audioId=job['audio'], videoVolume=0)),
+                        # No audioConfiguration: Metricool answers "Authorization Error" on this Instagram account's audio catalog.
+                        # The reels carry their own soft audio.
+                        instagramData=dict(type='REEL', showReelOnFeed=True),
                         facebookData=dict(type='REEL', title=title[:90]), tiktokData=dict(tiktok, autoAddMusic=False))
         else:
             files = sorted(p.name for p in d.glob('*.jpg'))
