@@ -1,0 +1,445 @@
+[
+{
+"slot": "2026-11-06T08:30",
+"date": "2026-11-06T08:30:00+03:00",
+"kind": "uni",
+"folder": "2026-11-06-berkeley-uni",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T08:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "UC Berkeley: Berkeley için TOEFL 90, UC başvurusu 30 Kasım\n\nBerkeley, İngilizce için TOEFL 90 veya yeni skalada 4.5 ya da IELTS 6.5 istiyor. Güz 2027 UC başvurusu 1 Ekim ile 30 Kasım 2026 arası. UC sisteminde erken tur yok; tek başvuru, birden fazla kampüs. Puan 31 Ocak'a kadar.\n\nKaynak: admissions.berkeley.edu, admission.universityofcalifornia.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#berkeley #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni\n\n📷 Tristan Harward (CC BY-SA 2.5), Wikimedia Commons, kırpıldı ve metin eklendi\n📷 Daderot (CC0), Wikimedia Commons, kırpıldı ve metin eklendi",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-berkeley-uni/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-berkeley-uni/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1304451697253803",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "UC Berkeley: TOEFL 90 veya 4.5, IELTS 6.5; UC başvurusu 30 Kasım"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "UC Berkeley: TOEFL 90 veya 4.5, IELTS 6.5; UC başvurusu 30 Kasım",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-06T10:30",
+"date": "2026-11-06T10:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-06-list-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T10:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Almanya'da dönem katkı payı ne kadar? Altı üniversite\n\nFU Berlin: 376,80 € (2026/27 kış, ulaşım bileti dahil)\nMünster: 369,50 € (2026/27 kış)\nBonn: 363,07 € (sosyal katkı payı)\nBochum: yaklaşık 350 € (sosyal katkı payı, yaklaşık)\nFreiburg: 190 € (AB dışı ayrıca 1.500 € öğrenim ücreti)\nStuttgart: 184 € (AB dışı ayrıca 1.500 € öğrenim ücreti)\n\nDönemlik tutarlar; her dönem güncellenir ve öğrenim ücreti içermez. Baden-Württemberg'de AB dışı öğrenci ayrıca 1.500 € öder.\n\nKaynak: fu-berlin.de, uni-muenster.de, international.ruhr-uni-bochum.de, uni-bonn.de, student.uni-stuttgart.de, uni-freiburg.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#almanyadaegitim #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-list-01/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-list-01/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-list-01/03.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-list-01/04.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Almanya'da dönem katkı payı: altı üniversite",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-06T12:30",
+"date": "2026-11-06T12:30:00+03:00",
+"kind": "uni",
+"folder": "2026-11-06-fu-berlin-uni",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T12:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "FU Berlin: FU Berlin'de bir dönemin katkı payı: 376,80 €\n\nFU Berlin'de öğrenim ücreti yok. 2026/27 kış dönemi katkı payı 376,80 €; bunun 226,80 €'su dönemlik toplu taşıma bileti. Yaz 2026 tutarı 358,80 € idi; rakam her dönem güncellenir.\n\nKaynak: fu-berlin.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#berlindeokumak #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni\n\n📷 Gunnar Klack (CC BY-SA 4.0), Wikimedia Commons, kırpıldı ve metin eklendi",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-fu-berlin-uni/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-fu-berlin-uni/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "473815599863496",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "FU Berlin: 2026/27 kış dönemi katkı payı 376,80 €"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "FU Berlin: 2026/27 kış dönemi katkı payı 376,80 €",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-06T14:30",
+"date": "2026-11-06T14:30:00+03:00",
+"kind": "myth",
+"folder": "2026-11-06-myth-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T14:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "“Almanya'nın her yerinde öğrenim ücreti yok”\n\nDoğrusu: İstisnalar var: Baden-Württemberg, TUM, FAU. Baden-Württemberg'de AB dışı dönemde 1.500 €. TUM master 4.000 veya 6.000 € (2027/28'den 4.600 veya 6.800 €). FAU da 2027 yazından alacak.\n\nKaynak: mwk.baden-wuerttemberg.de, tum.de, fau.eu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#almanyadaegitim #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-myth-02/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-myth-02/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1369509361952542",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Yanılgı: Almanya'nın her yerinde ücret yok"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Yanılgı: Almanya'nın her yerinde ücret yok",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-06T16:30",
+"date": "2026-11-06T16:30:00+03:00",
+"kind": "uni",
+"folder": "2026-11-06-bocconi-university-uni",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T16:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Bocconi: Bocconi'de 2027/28 master ücreti netleşti\n\nMaster of Science programlarında ilk yıl ücret 19.300 €. Kısmi muafiyetle 15.440 € veya 7.720 €'ya düşebiliyor. AB ve AB dışı ayrımı yok. Lisans ücreti farklı. Muafiyetler başarı ve ihtiyaç değerlendirmesiyle verilir.\n\nKaynak: unibocconi.it (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.\n\n#bocconi #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni\n\n📷 Fcarbonara (CC BY-SA 3.0), Wikimedia Commons, kırpıldı ve metin eklendi",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-bocconi-university-uni/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-bocconi-university-uni/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1941675846329817",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Bocconi: 2027/28 Master of Science ilk yıl 19.300 €"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Bocconi: 2027/28 Master of Science ilk yıl 19.300 €",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-06T18:30",
+"date": "2026-11-06T18:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-06-guide-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T18:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Studielink'te başvuru dört adımda\n\n1. Programı bul: Studyfinder'da programı seç, kurumun sayfasında başvuru yolunu kontrol et. Bazı kurumlar farklı yol kullanır.\n2. Studielink'e kaydol: Hesap aç, önceki eğitimini ekle ve başvuruyu gönder. Kurum sonra kendi portalında ek belge isteyebilir.\n3. Tarihlere dikkat: Numerus fixus 15 Ocak 23:59'da kapanır; genel tarih 1 Mayıs. AB dışı adayda kurum daha erken tarih koyabilir.\n4. Teklifi kabul et: Numerus fixus sıralaması 15 Nisan'da gelir; teklifi iki hafta içinde kabul etmezsen yer başkasına geçer.\n\nYılda en fazla iki numerus fixus programına başvurabilirsin; tıp gibi alanlarda o programa yılda tek başvuru.\n\nKaynak: studyinnl.org (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#hollandadaegitim #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/03.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/04.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/05.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/06.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-guide-02/07.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Hollanda: Studielink ile başvuru dört adımda",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-06T20:30",
+"date": "2026-11-06T20:30:00+03:00",
+"kind": "uni",
+"folder": "2026-11-06-heidelberg-uni",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T20:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Heidelberg Üniversitesi: Heidelberg'de Türk öğrenci için dönemlik 1.500 €\n\nBaden-Württemberg'de AB/AEA dışı öğrenciler lisans ve aynı alandaki master için dönem başına 1.500 € öğrenim ücreti öder. Yılda 3.000 €. Dönem katkı payı ayrıca ödenir. AB/AEA vatandaşları bu ücreti ödemez.\n\nKaynak: uni-heidelberg.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#almanyadaegitim #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni\n\n📷 Renardo la vulpo (CC BY-SA 4.0), Wikimedia Commons, kırpıldı ve metin eklendi\n📷 Jan Beckendorf (CC BY-SA 2.0), Wikimedia Commons, kırpıldı ve metin eklendi",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-heidelberg-uni/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-heidelberg-uni/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "957044555314519",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "Heidelberg: AB dışı öğrenci dönem başına 1.500 € öder"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Heidelberg: AB dışı öğrenci dönem başına 1.500 € öder",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-06T22:30",
+"date": "2026-11-06T22:30:00+03:00",
+"kind": "how",
+"folder": "2026-11-06-how-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "CompassUni nasıl çalışır? Dört adım\n\n1. Paket seç: İhtiyacına uygun danışmanlık paketini seç ve güvenle öde. Tek seferlik ödeme, KDV dahil.\n2. Belgelerini yükle: Pasaport, transkript, dil sertifikası: uygulamadan yüklersin. Mobil uygulamalar yakında.\n3. Başvuruları yönetelim: Danışmanın üniversite başvurularını senin adına hazırlar ve takip eder.\n4. Sonucu birlikte takip edelim: Kabul kararı üniversitenin. Sonuç, vize ve kayıt adımlarında da yanındayız.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-how-01/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-how-01/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true,
+"audioConfiguration": {
+"audioId": "1304451697253803",
+"videoVolume": 0
+}
+},
+"facebookData": {
+"type": "REEL",
+"title": "CompassUni nasıl çalışır: dört adım"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "CompassUni nasıl çalışır: dört adım",
+"autoAddMusic": false
+}
+}
+}
+]
