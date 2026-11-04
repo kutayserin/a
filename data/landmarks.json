@@ -22,7 +22,55 @@
    "file": "Buckingham House, East Front, by William Westall, 1819 - royal coll 922137 257059 ORI 0.jpg",
    "width": 1976,
    "height": 1482
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-buckingham-palace-2.jpg",
+    "artist": "Tony Hisgett",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_Garden_Party_in_2024.jpg",
+    "file": "Buckingham Palace Garden Party in 2024.jpg",
+    "width": 5217,
+    "height": 3550
+   },
+   {
+    "path": "assets/photos/london-buckingham-palace-3.jpg",
+    "artist": "Julian Herzog (Website)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_London_Morning_2020_01_(cropped).jpg",
+    "file": "Buckingham Palace London Morning 2020 01 (cropped).jpg",
+    "width": 3455,
+    "height": 2070
+   },
+   {
+    "path": "assets/photos/london-buckingham-palace-4.jpg",
+    "artist": "Mark from Brighton",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Changing_the_Guard_-_Buckingham_Palace_(6367947019).jpg",
+    "file": "Changing the Guard - Buckingham Palace (6367947019).jpg",
+    "width": 3813,
+    "height": 2503
+   },
+   {
+    "path": "assets/photos/london-buckingham-palace-5.jpg",
+    "artist": "Fcandice",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MBE1.jpg",
+    "file": "MBE1.jpg",
+    "width": 2100,
+    "height": 1500
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/london-buckingham-palace-1.mp4",
+    "artist": "Kauko Helavuo",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:THE_WASHING_(Buckingham_Palace,_London,_UK)_4K.webm",
+    "file": "THE WASHING (Buckingham Palace, London, UK) 4K.webm",
+    "frame": "assets/clips/london-buckingham-palace-1.jpg"
+   }
+  ]
  },
  {
   "city": "London",
@@ -47,7 +95,46 @@
    "file": "Baron Boyce Banner of the Order of the Bath.jpg",
    "width": 2000,
    "height": 1248
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-westminster-abbey-2.jpg",
+    "artist": "amanderson2",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Britains_Oldest_Door_Westminster_Abbey_London_England.jpg",
+    "file": "Britains Oldest Door Westminster Abbey London England.jpg",
+    "width": 3456,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/london-westminster-abbey-3.jpg",
+    "artist": "JRennocks",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling_of_Henry_VII_Chapel.jpg",
+    "file": "Ceiling of Henry VII Chapel.jpg",
+    "width": 3024,
+    "height": 3024
+   },
+   {
+    "path": "assets/photos/london-westminster-abbey-4.jpg",
+    "artist": "\"ptwo\"",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chamber_of_the_Pyx.jpg",
+    "file": "Chamber of the Pyx.jpg",
+    "width": 2310,
+    "height": 1536
+   },
+   {
+    "path": "assets/photos/london-westminster-abbey-5.jpg",
+    "artist": "amanderson2",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Choir_Westminster_Abbey_London_England.jpg",
+    "file": "Choir Westminster Abbey London England.jpg",
+    "width": 2992,
+    "height": 2992
+   }
+  ],
+  "clips": []
  },
  {
   "city": "London",
@@ -72,7 +159,55 @@
    "file": "Ayrton Light.jpg",
    "width": 2464,
    "height": 2892
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-big-ben-2.jpg",
+    "artist": "Miyagi165",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_2018.jpg",
+    "file": "Big Ben 2018.jpg",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "path": "assets/photos/london-big-ben-3.jpg",
+    "artist": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_Covered_in_Scaffolding.jpg",
+    "file": "Big Ben Covered in Scaffolding.jpg",
+    "width": 3143,
+    "height": 4834
+   },
+   {
+    "path": "assets/photos/london-big-ben-4.jpg",
+    "artist": "Julian Herzog (Website)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_Elizabeth_Tower_London_2023_01_Detail.jpg",
+    "file": "Big Ben Elizabeth Tower London 2023 01 Detail.jpg",
+    "width": 3909,
+    "height": 3283
+   },
+   {
+    "path": "assets/photos/london-big-ben-5.jpg",
+    "artist": "Bobulous",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paddington_Trail_-_The_Bear_Of_London.jpg",
+    "file": "Paddington Trail - The Bear Of London.jpg",
+    "width": 3205,
+    "height": 4807
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/london-big-ben-1.mp4",
+    "artist": "This video is a work by Wikipedia and Wikimedia Commons user C.Suthorn",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clock_Tower,_London,_21st_august_2017_10.00.webm",
+    "file": "Clock Tower, London, 21st august 2017 10.00.webm",
+    "frame": "assets/clips/london-big-ben-1.jpg"
+   }
+  ]
  },
  {
   "city": "London",
@@ -97,7 +232,55 @@
    "file": "DemonstrationAgainstAntiTerrorismLawLondon23Jan.jpg",
    "width": 2000,
    "height": 1330
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-trafalgar-square-2.jpg",
+    "artist": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London,_Trafalgar_Square,_Nelson%27s_Column_--_2016_--_4851.jpg",
+    "file": "London, Trafalgar Square, Nelson's Column -- 2016 -- 4851.jpg",
+    "width": 2991,
+    "height": 4187
+   },
+   {
+    "path": "assets/photos/london-trafalgar-square-3.jpg",
+    "artist": "Billy Hicks",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:People_feeding_pigeons_in_Trafalgar_Square_c.1993.jpg",
+    "file": "People feeding pigeons in Trafalgar Square c.1993.jpg",
+    "width": 1760,
+    "height": 1180
+   },
+   {
+    "path": "assets/photos/london-trafalgar-square-4.jpg",
+    "artist": "Peter from Lincoln, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Henry_Havelock,_October_2014_(15555081947).jpg",
+    "file": "Statue of Henry Havelock, October 2014 (15555081947).jpg",
+    "width": 2892,
+    "height": 4588
+   },
+   {
+    "path": "assets/photos/london-trafalgar-square-5.jpg",
+    "artist": "Florinux",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TrafalgarSquareLion.JPG",
+    "file": "TrafalgarSquareLion.JPG",
+    "width": 3872,
+    "height": 2592
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/london-trafalgar-square-1.mp4",
+    "artist": "Fæ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pride_London_2012_Titans.ogv",
+    "file": "Pride London 2012 Titans.ogv",
+    "frame": "assets/clips/london-trafalgar-square-1.jpg"
+   }
+  ]
  },
  {
   "city": "London",
@@ -122,7 +305,55 @@
    "file": "A Lady, called Anne Boleyn, by Hans Holbein the Younger.jpg",
    "width": 1920,
    "height": 2500
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-british-museum-2.jpg",
+    "artist": "Hieronymus Bosch",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:A_fool,_seated_on_a_basket,_about_to_be_shaved_by_a_nun_holding_a_wafer_iron_by_Hieronymus_Bosch.jpg",
+    "file": "A fool, seated on a basket, about to be shaved by a nun holding a wafer iron by Hieronymus Bosch.jpg",
+    "width": 2500,
+    "height": 2113
+   },
+   {
+    "path": "assets/photos/london-british-museum-3.jpg",
+    "artist": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_pair_of_lamassus_from_the_Throne_Room,_Room_B,_of_the_North-West_Palace_at_Nimrud,_Iraq,_9th_century_BC._The_British_Museum.jpg",
+    "file": "A pair of lamassus from the Throne Room, Room B, of the North-West Palace at Nimrud, Iraq, 9th century BC. The British Museum.jpg",
+    "width": 2048,
+    "height": 1361
+   },
+   {
+    "path": "assets/photos/london-british-museum-4.jpg",
+    "artist": "Thomas Gainsborough",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:A_woman_with_a_rose_drawn_by_Thomas_Gainsborough.jpg",
+    "file": "A woman with a rose drawn by Thomas Gainsborough.jpg",
+    "width": 1999,
+    "height": 2811
+   },
+   {
+    "path": "assets/photos/london-british-museum-5.jpg",
+    "artist": "Einsamer Schütze",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aegina_treasure_01.jpg",
+    "file": "Aegina treasure 01.jpg",
+    "width": 2032,
+    "height": 1728
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/london-british-museum-1.mp4",
+    "artist": "Trustees of the British Museum",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Editing_Hoxne_Hoard_at_the_British_Museum.ogv",
+    "file": "Editing Hoxne Hoard at the British Museum.ogv",
+    "frame": "assets/clips/london-british-museum-1.jpg"
+   }
+  ]
  },
  {
   "city": "London",
@@ -147,7 +378,46 @@
    "file": "20180629 43 St. Paul's Cathedral.jpg",
    "width": 3024,
    "height": 4032
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-st-paul-s-cathedral-2.jpg",
+    "artist": "Christopher Wren",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:74_-_AS_II.13._S_elevation.jpg",
+    "file": "74 - AS II.13. S elevation.jpg",
+    "width": 3801,
+    "height": 2623
+   },
+   {
+    "path": "assets/photos/london-st-paul-s-cathedral-3.jpg",
+    "artist": "Antonio Joli",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Antonio_Joli_Prospect_of_London.jpg",
+    "file": "Antonio Joli Prospect of London.jpg",
+    "width": 1671,
+    "height": 1495
+   },
+   {
+    "path": "assets/photos/london-st-paul-s-cathedral-4.jpg",
+    "artist": "Giovanni Antonio Canal",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Canaletto_-_St._Paul%27s_Cathedral_-_Google_Art_Project.jpg",
+    "file": "Canaletto - St. Paul's Cathedral - Google Art Project.jpg",
+    "width": 6092,
+    "height": 5113
+   },
+   {
+    "path": "assets/photos/london-st-paul-s-cathedral-5.jpg",
+    "artist": "Katie Chan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EH1194622_Railings_to_Churchyard_of_Cathedral_Church_of_St_Paul_04.jpg",
+    "file": "EH1194622 Railings to Churchyard of Cathedral Church of St Paul 04.jpg",
+    "width": 5184,
+    "height": 3456
+   }
+  ],
+  "clips": []
  },
  {
   "city": "London",
@@ -172,7 +442,55 @@
    "file": "Elephant sculpture by Kendra Haste, Tower of London.jpg",
    "width": 7360,
    "height": 4912
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-tower-of-london-2.jpg",
+    "artist": "James Basire",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:James_Basire_-_The_Procession_of_King_Edward_VI_from_the_Tower_-_B1977.14.11652_-_Yale_Center_for_British_Art.jpg",
+    "file": "James Basire - The Procession of King Edward VI from the Tower - B1977.14.11652 - Yale Center for British Art.jpg",
+    "width": 1920,
+    "height": 969
+   },
+   {
+    "path": "assets/photos/london-tower-of-london-3.jpg",
+    "artist": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jubilee_and_Munin,_Ravens,_Tower_of_London_2016-04-30.jpg",
+    "file": "Jubilee and Munin, Ravens, Tower of London 2016-04-30.jpg",
+    "width": 2723,
+    "height": 2723
+   },
+   {
+    "path": "assets/photos/london-tower-of-london-4.jpg",
+    "artist": "APK",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:King%27s_House_and_Tower_Green,_Tower_of_London.jpg",
+    "file": "King's House and Tower Green, Tower of London.jpg",
+    "width": 3708,
+    "height": 1568
+   },
+   {
+    "path": "assets/photos/london-tower-of-london-5.jpg",
+    "artist": "Rachelle Haun",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London-10-2_(48189346536).jpg",
+    "file": "London-10-2 (48189346536).jpg",
+    "width": 7360,
+    "height": 4912
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/london-tower-of-london-1.mp4",
+    "artist": "FASTILY",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_of_London_8_2013-07-02.ogv",
+    "file": "Tower of London 8 2013-07-02.ogv",
+    "frame": "assets/clips/london-tower-of-london-1.jpg"
+   }
+  ]
  },
  {
   "city": "London",
@@ -197,7 +515,55 @@
    "file": "Chithrubar.jpg",
    "width": 2048,
    "height": 1536
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/london-tower-bridge-2.jpg",
+    "artist": "Cmglee",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Tower_Bridge_tall_ship.jpg",
+    "file": "Cmglee Tower Bridge tall ship.jpg",
+    "width": 3072,
+    "height": 2048
+   },
+   {
+    "path": "assets/photos/london-tower-bridge-3.jpg",
+    "artist": "Fry72",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Krkavec_(raven),_Tower,_City,_Lond%C3%BDn,_Anglie_01.jpg",
+    "file": "Krkavec (raven), Tower, City, Londýn, Anglie 01.jpg",
+    "width": 4000,
+    "height": 3000
+   },
+   {
+    "path": "assets/photos/london-tower-bridge-4.jpg",
+    "artist": "New York Times Paris Bureau Collection.",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Blitz_791940.jpg",
+    "file": "London Blitz 791940.jpg",
+    "width": 2954,
+    "height": 1916
+   },
+   {
+    "path": "assets/photos/london-tower-bridge-5.jpg",
+    "artist": "William Lionel Wyllie",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Opening_of_Tower_Bridge_1895.jpg",
+    "file": "Opening of Tower Bridge 1895.jpg",
+    "width": 3090,
+    "height": 1753
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/london-tower-bridge-1.mp4",
+    "artist": "Kauko Helavuo",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TOWER_BRIDGE,_London_UK_4K.webm",
+    "file": "TOWER BRIDGE, London UK 4K.webm",
+    "frame": "assets/clips/london-tower-bridge-1.jpg"
+   }
+  ]
  },
  {
   "city": "Florence",
@@ -222,7 +588,28 @@
    "file": "Busts displayed at Galleria dell’Accademia di Firenze.jpg",
    "width": 4032,
    "height": 3024
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-accademia-gallery-2.jpg",
+    "artist": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_at_the_Galleria_dell%27Accademia_(61351).jpg",
+    "file": "David at the Galleria dell'Accademia (61351).jpg",
+    "width": 2840,
+    "height": 2725
+   },
+   {
+    "path": "assets/photos/florence-accademia-gallery-3.jpg",
+    "artist": "Robot8A",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Florence_13_09_07_817000.jpeg",
+    "file": "Florence 13 09 07 817000.jpeg",
+    "width": 4032,
+    "height": 3024
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -247,7 +634,37 @@
    "file": "Adorazione del Bambino - Beato Angelico.jpg",
    "width": 2536,
    "height": 3016
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-museum-of-san-marco-2.jpg",
+    "artist": "Srecan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chiostro_di_San_Marco_in_Florence.JPG",
+    "file": "Chiostro di San Marco in Florence.JPG",
+    "width": 3207,
+    "height": 2391
+   },
+   {
+    "path": "assets/photos/florence-museum-of-san-marco-3.jpg",
+    "artist": "Sailko",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Farmacia_di_San_Marco.JPG",
+    "file": "Farmacia di San Marco.JPG",
+    "width": 1600,
+    "height": 1200
+   },
+   {
+    "path": "assets/photos/florence-museum-of-san-marco-4.jpg",
+    "artist": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Firenze,_san_marco,_facciata_02.jpg",
+    "file": "Firenze, san marco, facciata 02.jpg",
+    "width": 3414,
+    "height": 4836
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -272,7 +689,46 @@
    "file": "03 2015 Giudizio Universale-Cristo-Giorgio Vasari-Federico Zuccari-Cupola-Santa Maria del Fiore (Firenze) Photo Paolo Villa FOTO9275bis.JPG",
    "width": 4928,
    "height": 3264
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-florence-cathedral-2.jpg",
+    "artist": "Rufus46",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_Fresco_Niccolo_da_Tolentino_Dom_Florenz-01.jpg",
+    "file": "Andrea del Castagno Fresco Niccolo da Tolentino Dom Florenz-01.jpg",
+    "width": 3192,
+    "height": 4879
+   },
+   {
+    "path": "assets/photos/florence-florence-cathedral-3.jpg",
+    "artist": "Gary Campbell-Hall",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "file": "Cattedrale di Santa Maria del Fiore – Il Duomo di Firenze.jpg",
+    "width": 3872,
+    "height": 2592
+   },
+   {
+    "path": "assets/photos/florence-florence-cathedral-4.jpg",
+    "artist": "see filename or category",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Codice_rustici,_santa_maria_del_fiore.jpg",
+    "file": "Codice rustici, santa maria del fiore.jpg",
+    "width": 2132,
+    "height": 3008
+   },
+   {
+    "path": "assets/photos/florence-florence-cathedral-5.jpg",
+    "artist": "Domenico di Michelino / After Alesso Baldovinetti",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dante_Domenico_di_Michelino.jpg",
+    "file": "Dante Domenico di Michelino.jpg",
+    "width": 2048,
+    "height": 1649
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -297,7 +753,46 @@
    "file": "Agnolo Bronzino - The crossing of the Red Sea - Google Art Project.jpg",
    "width": 7920,
    "height": 5574
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-palazzo-vecchio-2.jpg",
+    "artist": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Domenico_ghirlandaio,_sala_dei_gigli,_eroi_antichi,_cesare,_muzio_scevola_e_furio_camillo,_1482-84_ca,_01.jpg",
+    "file": "Domenico ghirlandaio, sala dei gigli, eroi antichi, cesare, muzio scevola e furio camillo, 1482-84 ca, 01.jpg",
+    "width": 2820,
+    "height": 2276
+   },
+   {
+    "path": "assets/photos/florence-palazzo-vecchio-3.jpg",
+    "artist": "Ignazio Danti",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Egnazio_Danti_-_British_Isles_-_Google_Art_Project.jpg",
+    "file": "Egnazio Danti - British Isles - Google Art Project.jpg",
+    "width": 6651,
+    "height": 6722
+   },
+   {
+    "path": "assets/photos/florence-palazzo-vecchio-4.jpg",
+    "artist": "Zairon",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Firenze_Palazzo_Vecchio_Interno_Sala_degli_Elementi_09.jpg",
+    "file": "Firenze Palazzo Vecchio Interno Sala degli Elementi 09.jpg",
+    "width": 5162,
+    "height": 3750
+   },
+   {
+    "path": "assets/photos/florence-palazzo-vecchio-5.jpg",
+    "artist": "user:Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Francesco_Salviati,_Storie_di_Furio_Amillo,_1543-45,_Trionfo_di_Furio_Camillo_01-105.jpg",
+    "file": "Francesco Salviati, Storie di Furio Amillo, 1543-45, Trionfo di Furio Camillo 01-105.jpg",
+    "width": 4942,
+    "height": 3389
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -322,7 +817,46 @@
    "file": "Albrecht Dürer - Adorazione dei Magi - Google Art Project.jpg",
    "width": 3848,
    "height": 3360
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-uffizi-gallery-2.jpg",
+    "artist": "Giovanni Antonio Canal",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Palazzo_Ducale_di_Venezia_-_Google_Art_Project.jpg",
+    "file": "Canaletto - Veduta del Palazzo Ducale di Venezia - Google Art Project.jpg",
+    "width": 3432,
+    "height": 2103
+   },
+   {
+    "path": "assets/photos/florence-uffizi-gallery-3.jpg",
+    "artist": "Caravaggio",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+    "file": "Caravaggio - Medusa - Google Art Project.jpg",
+    "width": 3369,
+    "height": 3453
+   },
+   {
+    "path": "assets/photos/florence-uffizi-gallery-4.jpg",
+    "artist": "Arek N.",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Florence,_Italy_-_panoramio_(125).jpg",
+    "file": "Florence, Italy - panoramio (125).jpg",
+    "width": 3456,
+    "height": 2304
+   },
+   {
+    "path": "assets/photos/florence-uffizi-gallery-5.jpg",
+    "artist": "Giotto",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Giotto,_1267_Around-1337_-_Maest%C3%A0_-_Google_Art_Project.jpg",
+    "file": "Giotto, 1267 Around-1337 - Maestà - Google Art Project.jpg",
+    "width": 2056,
+    "height": 3272
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -347,7 +881,37 @@
    "file": "Lungarno degli archibugieri (corridoio vasariano) visto dal fiume 01.JPG",
    "width": 3648,
    "height": 2736
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-ponte-vecchio-2.jpg",
+    "artist": "Jan Drewes",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_Ponte_Vecchio_in_Florence,_Italy.jpg",
+    "file": "Panorama of the Ponte Vecchio in Florence, Italy.jpg",
+    "width": 14394,
+    "height": 5000
+   },
+   {
+    "path": "assets/photos/florence-ponte-vecchio-3.jpg",
+    "artist": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg",
+    "file": "Ponte Vecchio from Ponte alle Grazie.jpg",
+    "width": 6000,
+    "height": 3340
+   },
+   {
+    "path": "assets/photos/florence-ponte-vecchio-4.jpg",
+    "artist": "Tanner (Capt), War Office official photographer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Scenes_in_Florence,_Italy,_14_August_1944_TR2286.jpg",
+    "file": "Scenes in Florence, Italy, 14 August 1944 TR2286.jpg",
+    "width": 2480,
+    "height": 1633
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -372,7 +936,46 @@
    "file": "Close-up of Venere Italica by Antonio Canova.jpg",
    "width": 5500,
    "height": 3672
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-palazzo-pitti-2.jpg",
+    "artist": "Antonio Ciseri",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ecce_homo_by_Antonio_Ciseri_(1).jpg",
+    "file": "Ecce homo by Antonio Ciseri (1).jpg",
+    "width": 3072,
+    "height": 2358
+   },
+   {
+    "path": "assets/photos/florence-palazzo-pitti-3.jpg",
+    "artist": "Workshop of Bronzino",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Eleanora_of_Toledo.jpg",
+    "file": "Eleanora of Toledo.jpg",
+    "width": 4129,
+    "height": 5540
+   },
+   {
+    "path": "assets/photos/florence-palazzo-pitti-4.jpg",
+    "artist": "Rabe!",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Florenz_-_Palazzo_Pitti_-_Innen.JPG",
+    "file": "Florenz - Palazzo Pitti - Innen.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/florence-palazzo-pitti-5.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_B%C3%B3boli,_Florencia,_Italia,_2022-09-19,_DD_15.jpg",
+    "file": "Jardín de Bóboli, Florencia, Italia, 2022-09-19, DD 15.jpg",
+    "width": 8578,
+    "height": 5719
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Florence",
@@ -397,7 +1000,46 @@
    "file": "Basilica di Santa Croce Ora Pro Animis gate.jpg",
    "width": 4014,
    "height": 3016
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/florence-santa-croce-2.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_la_Santa_Cruz,_Florencia,_Italia,_2022-09-18,_DD_110.jpg",
+    "file": "Basílica de la Santa Cruz, Florencia, Italia, 2022-09-18, DD 110.jpg",
+    "width": 4101,
+    "height": 6115
+   },
+   {
+    "path": "assets/photos/florence-santa-croce-3.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_la_Santa_Cruz,_Florencia,_Italia,_2022-09-18,_DD_111.jpg",
+    "file": "Basílica de la Santa Cruz, Florencia, Italia, 2022-09-18, DD 111.jpg",
+    "width": 4320,
+    "height": 6935
+   },
+   {
+    "path": "assets/photos/florence-santa-croce-4.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_la_Santa_Cruz,_Florencia,_Italia,_2022-09-18,_DD_95.jpg",
+    "file": "Basílica de la Santa Cruz, Florencia, Italia, 2022-09-18, DD 95.jpg",
+    "width": 4558,
+    "height": 4558
+   },
+   {
+    "path": "assets/photos/florence-santa-croce-5.jpg",
+    "artist": "MenkinAlRire",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernardo_Rossellino,_Monumental_tomb_for_Leonardo_Bruni,_1445-50,_Santa_Croce,_Florence.jpg",
+    "file": "Bernardo Rossellino, Monumental tomb for Leonardo Bruni, 1445-50, Santa Croce, Florence.jpg",
+    "width": 3371,
+    "height": 5578
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Prague",
@@ -422,7 +1064,55 @@
    "file": "2014 Praga, Hradczany.JPG",
    "width": 3235,
    "height": 2474
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-prague-castle-2.jpg",
+    "artist": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karl%C5%AFv_most_Praha,_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg",
+    "file": "Karlův most Praha, Staré Město 20170810 007.jpg",
+    "width": 6016,
+    "height": 4016
+   },
+   {
+    "path": "assets/photos/prague-prague-castle-3.jpg",
+    "artist": "PetrusSilesius",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_Vladislav-Saal.jpg",
+    "file": "Prag Vladislav-Saal.jpg",
+    "width": 1932,
+    "height": 2576
+   },
+   {
+    "path": "assets/photos/prague-prague-castle-4.jpg",
+    "artist": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_-_New_Royal_Palace_gate.jpg",
+    "file": "Prague - New Royal Palace gate.jpg",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "path": "assets/photos/prague-prague-castle-5.jpg",
+    "artist": "Rémi Diligent",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Castle_St_George.JPG",
+    "file": "Prague Castle St George.JPG",
+    "width": 2048,
+    "height": 1536
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/prague-prague-castle-1.mp4",
+    "artist": "Wikimedia UK",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Castle_walk_of_Wikimedia_UK_at_Prehackathon_Prague.ogv",
+    "file": "Prague Castle walk of Wikimedia UK at Prehackathon Prague.ogv",
+    "frame": "assets/clips/prague-prague-castle-1.jpg"
+   }
+  ]
  },
  {
   "city": "Prague",
@@ -447,7 +1137,46 @@
    "file": "Hradschin Prag.jpg",
    "width": 1600,
    "height": 1044
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-st-vitus-cathedral-2.jpg",
+    "artist": "ErwinMeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_Dom_St._Veit_01.jpg",
+    "file": "Prag Dom St. Veit 01.jpg",
+    "width": 4295,
+    "height": 5200
+   },
+   {
+    "path": "assets/photos/prague-st-vitus-cathedral-3.jpg",
+    "artist": "ErwinMeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_Dom_St._Veit_04.jpg",
+    "file": "Prag Dom St. Veit 04.jpg",
+    "width": 5199,
+    "height": 5024
+   },
+   {
+    "path": "assets/photos/prague-st-vitus-cathedral-4.jpg",
+    "artist": "ErwinMeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_Dom_St._Veit_07.jpg",
+    "file": "Prag Dom St. Veit 07.jpg",
+    "width": 10742,
+    "height": 3430
+   },
+   {
+    "path": "assets/photos/prague-st-vitus-cathedral-5.jpg",
+    "artist": "ErwinMeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_Dom_St._Veit_10.jpg",
+    "file": "Prag Dom St. Veit 10.jpg",
+    "width": 2736,
+    "height": 3016
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Prague",
@@ -472,7 +1201,37 @@
    "file": "Charles Bridge (Karlův most), Vltava River, Prague, 2015.jpg",
    "width": 3600,
    "height": 2238
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-charles-bridge-2.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img2.jpg",
+    "file": "Prague 07-2016 View from Petrinska Tower img2.jpg",
+    "width": 5021,
+    "height": 3347
+   },
+   {
+    "path": "assets/photos/prague-charles-bridge-3.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg",
+    "file": "Prague 07-2016 view from Lesser Town Tower of Charles Bridge img3.jpg",
+    "width": 4555,
+    "height": 3037
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/prague-charles-bridge-1.mp4",
+    "artist": "Spasimir Pilev",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vltava_in_Prague_2018-04-19_02.webm",
+    "file": "Vltava in Prague 2018-04-19 02.webm",
+    "frame": "assets/clips/prague-charles-bridge-1.jpg"
+   }
+  ]
  },
  {
   "city": "Prague",
@@ -497,7 +1256,46 @@
    "file": "Old Town Square, Prague - Staroměstské náměstí, Praha.jpg",
    "width": 19698,
    "height": 3989
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-old-town-square-2.jpg",
+    "artist": "Yair Haklai",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_Town_Square-Prague.jpg",
+    "file": "Old Town Square-Prague.jpg",
+    "width": 2448,
+    "height": 3264
+   },
+   {
+    "path": "assets/photos/prague-old-town-square-3.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg",
+    "file": "Prague 07-2016 View from Old Town Hall Tower img3.jpg",
+    "width": 4433,
+    "height": 2771
+   },
+   {
+    "path": "assets/photos/prague-old-town-square-4.jpg",
+    "artist": "Øyvind Holmstad",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Praha_2014_Holmstad_flott_Jan_Hus_monument_bytorget_Stare_mesto.jpg",
+    "file": "Prague Praha 2014 Holmstad flott Jan Hus monument bytorget Stare mesto.jpg",
+    "width": 4765,
+    "height": 3111
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/prague-old-town-square-1.mp4",
+    "artist": "Spasimir Pilev",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_2018-04-19.webm",
+    "file": "Prague 2018-04-19.webm",
+    "frame": "assets/clips/prague-old-town-square-1.jpg"
+   }
+  ]
  },
  {
   "city": "Prague",
@@ -522,7 +1320,55 @@
    "file": "Czech-2013-Prague-Astronomical clock face.jpg",
    "width": 5000,
    "height": 3763
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-astronomical-clock-2.jpg",
+    "artist": "Gklka",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Astronomical_Clock_Detail.jpg",
+    "file": "Prague Astronomical Clock Detail.jpg",
+    "width": 3888,
+    "height": 2592
+   },
+   {
+    "path": "assets/photos/prague-astronomical-clock-3.jpg",
+    "artist": "Ludek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prazsky_orloj_sochy_apostolove.jpg",
+    "file": "Prazsky orloj sochy apostolove.jpg",
+    "width": 2592,
+    "height": 1944
+   },
+   {
+    "path": "assets/photos/prague-astronomical-clock-4.jpg",
+    "artist": "Martin Frouz/Magistrát hl. m. Prahy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rekonstrukce_Starom%C4%9Bstsk%C3%A9_radnice_1AAB1356.jpg",
+    "file": "Rekonstrukce Staroměstské radnice 1AAB1356.jpg",
+    "width": 6720,
+    "height": 4480
+   },
+   {
+    "path": "assets/photos/prague-astronomical-clock-5.jpg",
+    "artist": "Sebaso",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Statues_on_Prague_Astronomical_Clock_2014-01_(landscape_mode)_3.jpg",
+    "file": "Statues on Prague Astronomical Clock 2014-01 (landscape mode) 3.jpg",
+    "width": 5184,
+    "height": 3456
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/prague-astronomical-clock-1.mp4",
+    "artist": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Praha_(9).ogg",
+    "file": "Zlatá Praha (9).ogg",
+    "frame": "assets/clips/prague-astronomical-clock-1.jpg"
+   }
+  ]
  },
  {
   "city": "Prague",
@@ -547,7 +1393,55 @@
    "file": "11-05-31-praha-tram-by-RalfR-49.jpg",
    "width": 4288,
    "height": 2848
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-wenceslas-square-2.jpg",
+    "artist": "RobbieIanMorrison",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1989_November_Prague_Velvet_Revolution_Wenceslas_Square_night_time_protest.jpg",
+    "file": "1989 November Prague Velvet Revolution Wenceslas Square night time protest.jpg",
+    "width": 6307,
+    "height": 4134
+   },
+   {
+    "path": "assets/photos/prague-wenceslas-square-3.jpg",
+    "artist": "SteinundBaum",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022-10-15_V%C3%A1clavsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_1.jpg",
+    "file": "2022-10-15 Václavské náměstí 1.jpg",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "path": "assets/photos/prague-wenceslas-square-4.jpg",
+    "artist": "giggel",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_-_Grand_Hotel_Europa_und_Meran_Hotel_am_Wenzelsplatz_-_V%C3%A1clavsk%C3%A9m_n%C3%A1m%C4%9Bst%C3%AD_-_panoramio.jpg",
+    "file": "Prag - Grand Hotel Europa und Meran Hotel am Wenzelsplatz - Václavském náměstí - panoramio.jpg",
+    "width": 4320,
+    "height": 3240
+   },
+   {
+    "path": "assets/photos/prague-wenceslas-square-5.jpg",
+    "artist": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prag_Koruna_Palast_01.jpg",
+    "file": "Prag Koruna Palast 01.jpg",
+    "width": 5252,
+    "height": 3502
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/prague-wenceslas-square-1.mp4",
+    "artist": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_(5).ogg",
+    "file": "Prague (5).ogg",
+    "frame": "assets/clips/prague-wenceslas-square-1.jpg"
+   }
+  ]
  },
  {
   "city": "Prague",
@@ -572,7 +1466,46 @@
    "file": "Casa Danzante, Praga, República Checa, 2022-07-01, DD 01.jpg",
    "width": 6819,
    "height": 4824
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/prague-dancing-house-2.jpg",
+    "artist": "Speedbump49",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dancing_house_1945-2010.jpg",
+    "file": "Dancing house 1945-2010.jpg",
+    "width": 2817,
+    "height": 3855
+   },
+   {
+    "path": "assets/photos/prague-dancing-house-3.jpg",
+    "artist": "Mounirzok",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dancing_house_windows.jpg",
+    "file": "Dancing house windows.jpg",
+    "width": 3008,
+    "height": 2000
+   },
+   {
+    "path": "assets/photos/prague-dancing-house-4.jpg",
+    "artist": "Danny Alexander Lettkemann, Architekt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tanzendes_Haus_2023.jpg",
+    "file": "Tanzendes Haus 2023.jpg",
+    "width": 3000,
+    "height": 3000
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/prague-dancing-house-1.mp4",
+    "artist": "Karelj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha_Palack%C3%A9ho_most_2017_3.webm",
+    "file": "Praha Palackého most 2017 3.webm",
+    "frame": "assets/clips/prague-dancing-house-1.jpg"
+   }
+  ]
  },
  {
   "city": "Madrid",
@@ -597,7 +1530,55 @@
    "file": "2026-09-03 - Temple of Debod in Madrid Spain 01.jpg",
    "width": 8645,
    "height": 6483
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-temple-of-debod-2.jpg",
+    "artist": "Matt Joseph",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-09-03_-_Temple_of_Debod_in_Madrid_Spain_02.jpg",
+    "file": "2026-09-03 - Temple of Debod in Madrid Spain 02.jpg",
+    "width": 14204,
+    "height": 10652
+   },
+   {
+    "path": "assets/photos/madrid-temple-of-debod-3.jpg",
+    "artist": "Matt Joseph",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-09-03_-_Temple_of_Debod_in_Madrid_Spain_03.jpg",
+    "file": "2026-09-03 - Temple of Debod in Madrid Spain 03.jpg",
+    "width": 14204,
+    "height": 10652
+   },
+   {
+    "path": "assets/photos/madrid-temple-of-debod-4.jpg",
+    "artist": "Matt Joseph",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-09-03_-_Temple_of_Debod_in_Madrid_Spain_04.jpg",
+    "file": "2026-09-03 - Temple of Debod in Madrid Spain 04.jpg",
+    "width": 14204,
+    "height": 10652
+   },
+   {
+    "path": "assets/photos/madrid-temple-of-debod-5.jpg",
+    "artist": "Miguel Hermoso Cuesta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Debod_Relieve_01.JPG",
+    "file": "Debod Relieve 01.JPG",
+    "width": 5184,
+    "height": 3456
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/madrid-temple-of-debod-1.mp4",
+    "artist": "Nicolas Vigier",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Templo-de-Debod-2021_01_13-02.webm",
+    "file": "Templo-de-Debod-2021 01 13-02.webm",
+    "frame": "assets/clips/madrid-temple-of-debod-1.jpg"
+   }
+  ]
  },
  {
   "city": "Madrid",
@@ -622,7 +1603,55 @@
    "file": "España - Madrid - Campo del Moro - Entrada.JPG",
    "width": 2683,
    "height": 1996
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-royal-palace-2.jpg",
+    "artist": "European Commission - Dati Bendo",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Staircase_of_the_Royal_Palace_of_Madrid.jpg",
+    "file": "Main Staircase of the Royal Palace of Madrid.jpg",
+    "width": 4000,
+    "height": 2666
+   },
+   {
+    "path": "assets/photos/madrid-royal-palace-3.jpg",
+    "artist": "Tim Adams",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg",
+    "file": "Palacio Real de Madrid Julio 2016 (cropped).jpg",
+    "width": 2784,
+    "height": 2104
+   },
+   {
+    "path": "assets/photos/madrid-royal-palace-4.jpg",
+    "artist": "Brian Snelson from United Kingdom",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Oriente_(Madrid)_11.jpg",
+    "file": "Plaza de Oriente (Madrid) 11.jpg",
+    "width": 2915,
+    "height": 2205
+   },
+   {
+    "path": "assets/photos/madrid-royal-palace-5.jpg",
+    "artist": "Duimdog at Dutch Wikipedia",
+    "license": "CC BY 2.5 nl",
+    "source": "https://commons.wikimedia.org/wiki/File:RealFarmacia.JPG",
+    "file": "RealFarmacia.JPG",
+    "width": 2272,
+    "height": 1704
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/madrid-royal-palace-1.mp4",
+    "artist": "MinDefensa",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Relevo_Solemne_de_la_Guardia_del_Palacio_Real_de_Madrid.webm",
+    "file": "Relevo Solemne de la Guardia del Palacio Real de Madrid.webm",
+    "frame": "assets/clips/madrid-royal-palace-1.jpg"
+   }
+  ]
  },
  {
   "city": "Madrid",
@@ -647,7 +1676,46 @@
    "file": "31659-Madrid (35598298301).jpg",
    "width": 6016,
    "height": 4016
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-almudena-cathedral-2.jpg",
+    "artist": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Almudena_2022_-_overview.jpg",
+    "file": "Almudena 2022 - overview.jpg",
+    "width": 6000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/madrid-almudena-cathedral-3.jpg",
+    "artist": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Almudena_2022_-_virgin_chapel.jpg",
+    "file": "Almudena 2022 - virgin chapel.jpg",
+    "width": 5042,
+    "height": 3996
+   },
+   {
+    "path": "assets/photos/madrid-almudena-cathedral-4.jpg",
+    "artist": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Almudena_Madrid_May_2014-11a.jpg",
+    "file": "Almudena Madrid May 2014-11a.jpg",
+    "width": 4453,
+    "height": 4261
+   },
+   {
+    "path": "assets/photos/madrid-almudena-cathedral-5.jpg",
+    "artist": "Fotografías - archimadrid.es",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bendici%C3%B3n_de_la_catedral_por_Juan_Pablo_II_(1993)_-_42812137461_copy.jpg",
+    "file": "Bendición de la catedral por Juan Pablo II (1993) - 42812137461 copy.jpg",
+    "width": 1911,
+    "height": 1468
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Madrid",
@@ -672,7 +1740,55 @@
    "file": "2026-09-03 - Puerta del Sol in Madrid Spain.jpg",
    "width": 14204,
    "height": 10652
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-puerta-del-sol-2.jpg",
+    "artist": "David Adam Kess",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Oso_y_el_Madro%C3%B1o_and_the_Tio_Pepe_Neon_Advertisment_in_the_distance.JPG",
+    "file": "El Oso y el Madroño and the Tio Pepe Neon Advertisment in the distance.JPG",
+    "width": 4608,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/madrid-puerta-del-sol-3.jpg",
+    "artist": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estatua_ecuestre_de_Carlos_III_-_03.jpg",
+    "file": "Estatua ecuestre de Carlos III - 03.jpg",
+    "width": 3379,
+    "height": 2534
+   },
+   {
+    "path": "assets/photos/madrid-puerta-del-sol-4.jpg",
+    "artist": "Barcex",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_-_Metro_Sol_y_T%C3%ADo_Pepe_-_140815_204041.jpg",
+    "file": "Madrid - Metro Sol y Tío Pepe - 140815 204041.jpg",
+    "width": 5074,
+    "height": 2854
+   },
+   {
+    "path": "assets/photos/madrid-puerta-del-sol-5.jpg",
+    "artist": "Original uploader was Rifleman 82 at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_Bear_at_Puerta_del_Sol.jpg",
+    "file": "Madrid Bear at Puerta del Sol.jpg",
+    "width": 1600,
+    "height": 1200
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/madrid-puerta-del-sol-1.mp4",
+    "artist": "Barcex",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_-_Acampada_Sol_-_20110519-2023b.ogv",
+    "file": "Madrid - Acampada Sol - 20110519-2023b.ogv",
+    "frame": "assets/clips/madrid-puerta-del-sol-1.jpg"
+   }
+  ]
  },
  {
   "city": "Madrid",
@@ -697,7 +1813,28 @@
    "file": "Cibeles desde el Ayuntamiento (Madrid) (14203354114).jpg",
    "width": 6433,
    "height": 4255
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-plaza-de-cibeles-2.jpg",
+    "artist": "Naknaknak",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cibeles_fountain_naknaknak.jpg",
+    "file": "Cibeles fountain naknaknak.jpg",
+    "width": 5825,
+    "height": 3883
+   },
+   {
+    "path": "assets/photos/madrid-plaza-de-cibeles-3.jpg",
+    "artist": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_de_Comunicaciones_-_47.jpg",
+    "file": "Palacio de Comunicaciones - 47.jpg",
+    "width": 4128,
+    "height": 2061
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Madrid",
@@ -722,7 +1859,55 @@
    "file": "Albrecht Dürer - Adam and Eve (Prado) 2.jpg",
    "width": 2337,
    "height": 2934
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-prado-museum-2.jpg",
+    "artist": "Andrea Mantegna",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_047.jpg",
+    "file": "Andrea Mantegna 047.jpg",
+    "width": 2260,
+    "height": 2952
+   },
+   {
+    "path": "assets/photos/madrid-prado-museum-3.jpg",
+    "artist": "Rembrandt",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Judith_at_the_Banquet_of_Holofernes_(previously_known_as_Artemisia),_by_Rembrandt,_from_Prado_in_Google_Earth.jpg",
+    "file": "Artemisia, by Rembrandt, from Prado in Google Earth.jpg",
+    "width": 30000,
+    "height": 27904
+   },
+   {
+    "path": "assets/photos/madrid-prado-museum-4.jpg",
+    "artist": "Titian",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bacanal_de_los_andrios.jpg",
+    "file": "Bacanal de los andrios.jpg",
+    "width": 2611,
+    "height": 2362
+   },
+   {
+    "path": "assets/photos/madrid-prado-museum-5.jpg",
+    "artist": "Francisco de Zurbarán",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bodeg%C3%B3n_de_recipientes_(Zurbar%C3%A1n).jpg",
+    "file": "Bodegón de recipientes (Zurbarán).jpg",
+    "width": 3051,
+    "height": 1654
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/madrid-prado-museum-1.mp4",
+    "artist": "The Habsburg Project",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caecilia_virgo_gloriosa_by_Jacobus_Clemens_non_Papa_(c._1510-15_-_1555-6).webm",
+    "file": "Caecilia virgo gloriosa by Jacobus Clemens non Papa (c. 1510-15 - 1555-6).webm",
+    "frame": "assets/clips/madrid-prado-museum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Madrid",
@@ -747,7 +1932,55 @@
    "file": "Atardece en El Retiro, Madrid (15457435472).jpg",
    "width": 5908,
    "height": 3939
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-el-retiro-park-2.jpg",
+    "artist": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fuente_del_%C3%81ngel_Ca%C3%ADdo_2025.jpg",
+    "file": "Fuente del Ángel Caído 2025.jpg",
+    "width": 3640,
+    "height": 5460
+   },
+   {
+    "path": "assets/photos/madrid-el-retiro-park-3.jpg",
+    "artist": "Dmitry Dzhus from London",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid,_El_Retiro_(38625190791).jpg",
+    "file": "Madrid, El Retiro (38625190791).jpg",
+    "width": 4413,
+    "height": 3303
+   },
+   {
+    "path": "assets/photos/madrid-el-retiro-park-4.jpg",
+    "artist": "Cruccone",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_Retiro_Casita_Pescador.jpg",
+    "file": "Madrid Retiro Casita Pescador.jpg",
+    "width": 2816,
+    "height": 2112
+   },
+   {
+    "path": "assets/photos/madrid-el-retiro-park-5.jpg",
+    "artist": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monument_to_Alfonso_XII_of_Spain_2025_east_side.jpg",
+    "file": "Monument to Alfonso XII of Spain 2025 east side.jpg",
+    "width": 5905,
+    "height": 3937
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/madrid-el-retiro-park-1.mp4",
+    "artist": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Sciurus_vulgaris_(Madrid,_Spain)_001.webm",
+    "file": "Sciurus vulgaris (Madrid, Spain) 001.webm",
+    "frame": "assets/clips/madrid-el-retiro-park-1.jpg"
+   }
+  ]
  },
  {
   "city": "Madrid",
@@ -772,7 +2005,55 @@
    "file": "1913 Gris violin and guitar anagoria.JPG",
    "width": 3738,
    "height": 4752
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/madrid-reina-sofia-museum-2.jpg",
+    "artist": "María Blanchard",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1917_Blanchard_Frau_mit_Gitarre.JPG",
+    "file": "1917 Blanchard Frau mit Gitarre.JPG",
+    "width": 3612,
+    "height": 4752
+   },
+   {
+    "path": "assets/photos/madrid-reina-sofia-museum-3.jpg",
+    "artist": "Marco Pagni from Firenze, Italia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ampliaci%C3%B3n_del_Reina_Sof%C3%ADa_(2).jpg",
+    "file": "Ampliación del Reina Sofía (2).jpg",
+    "width": 1937,
+    "height": 2913
+   },
+   {
+    "path": "assets/photos/madrid-reina-sofia-museum-4.jpg",
+    "artist": "Wassily Kandinsky",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Delicate_Tension_by_Wassily_Kandinsky,_1923_AD,_aquarelle_and_ink_on_paper_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_-_DSC08787.JPG",
+    "file": "Delicate Tension by Wassily Kandinsky, 1923 AD, aquarelle and ink on paper - Museo Nacional Centro de Arte Reina Sofía - DSC08787.JPG",
+    "width": 3076,
+    "height": 4329
+   },
+   {
+    "path": "assets/photos/madrid-reina-sofia-museum-5.jpg",
+    "artist": "Iantomferry",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa.jpg",
+    "file": "Museo Nacional Centro de Arte Reina Sofía.jpg",
+    "width": 4000,
+    "height": 3000
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/madrid-reina-sofia-museum-1.mp4",
+    "artist": "GUARDIA CIVIL",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Traslado_de_%22Cabeza_de_mujer_j%C3%B3ven%22_de_Picasso.webm",
+    "file": "Traslado de \"Cabeza de mujer jóven\" de Picasso.webm",
+    "frame": "assets/clips/madrid-reina-sofia-museum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Athens",
@@ -797,7 +2078,55 @@
    "file": "1029 Acropolis of Athens in Greece at night Photo by Giles Laurent.jpg",
    "width": 8640,
    "height": 5760
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-acropolis-2.jpg",
+    "artist": "Joseph-Philibert Girault de Prangey",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:49._Ath%C3%A8nes._Acropole._C%C3%B4t%C3%A9_O._MET_DP-13897-003.jpg",
+    "file": "49. Athènes. Acropole. Côté O. MET DP-13897-003.jpg",
+    "width": 4000,
+    "height": 1604
+   },
+   {
+    "path": "assets/photos/athens-acropolis-3.jpg",
+    "artist": "Stymphal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acropolis_of_Athens_at_dusk.jpg",
+    "file": "Acropolis of Athens at dusk.jpg",
+    "width": 5743,
+    "height": 3829
+   },
+   {
+    "path": "assets/photos/athens-acropolis-4.jpg",
+    "artist": "dronepicr",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Athen_Akropolis_(18512008726).jpg",
+    "file": "Athen Akropolis (18512008726).jpg",
+    "width": 4000,
+    "height": 3000
+   },
+   {
+    "path": "assets/photos/athens-acropolis-5.jpg",
+    "artist": "Hermann Luckenbach",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Aufri%C3%9F_des_alten_Athena-Tempels.jpg",
+    "file": "Aufriß des alten Athena-Tempels.jpg",
+    "width": 3702,
+    "height": 2891
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/athens-acropolis-1.mp4",
+    "artist": "Le Monde en Vidéo",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Acropolis_of_Athens,_Greece.webm",
+    "file": "The Acropolis of Athens, Greece.webm",
+    "frame": "assets/clips/athens-acropolis-1.jpg"
+   }
+  ]
  },
  {
   "city": "Athens",
@@ -822,7 +2151,46 @@
    "file": "ACMA 679 Kore 2.JPG",
    "width": 2448,
    "height": 3264
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-acropolis-museum-2.jpg",
+    "artist": "Unknown artistUnknown artist",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:ACMA_680_Kore_3.JPG",
+    "file": "ACMA 680 Kore 3.JPG",
+    "width": 2448,
+    "height": 3264
+   },
+   {
+    "path": "assets/photos/athens-acropolis-museum-3.jpg",
+    "artist": "Martin451",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acropolis_and_Acropolis_Museum.jpg",
+    "file": "Acropolis and Acropolis Museum.jpg",
+    "width": 2560,
+    "height": 1920
+   },
+   {
+    "path": "assets/photos/athens-acropolis-museum-4.jpg",
+    "artist": "Melissopetra",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Artemis_Brauronia.jpg",
+    "file": "Artemis Brauronia.jpg",
+    "width": 3024,
+    "height": 4032
+   },
+   {
+    "path": "assets/photos/athens-acropolis-museum-5.jpg",
+    "artist": "Challisrussia",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:EHGritaly_120304-08_(Acropolis_Museum_2).JPG",
+    "file": "EHGritaly 120304-08 (Acropolis Museum 2).JPG",
+    "width": 3648,
+    "height": 2736
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Athens",
@@ -847,7 +2215,37 @@
    "file": "3195 - Athens - Stoà of Attalus Museum - Spartan shield (425 BC) - Photo by Giovanni Dall'Orto, Nov 9 2009.jpg",
    "width": 1986,
    "height": 1790
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-ancient-agora-2.jpg",
+    "artist": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agora_-_Ath%C3%A8nes_(GRA1)_-_2022-03-26_-_97.jpg",
+    "file": "Agora - Athènes (GRA1) - 2022-03-26 - 97.jpg",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "path": "assets/photos/athens-ancient-agora-3.jpg",
+    "artist": "Storeye",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hephaistos_Temple.JPG",
+    "file": "Hephaistos Temple.JPG",
+    "width": 3072,
+    "height": 2304
+   },
+   {
+    "path": "assets/photos/athens-ancient-agora-4.jpg",
+    "artist": "Janmad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Odeon_of_Agrippa_Athens_agora.jpg",
+    "file": "Odeon of Agrippa Athens agora.jpg",
+    "width": 2156,
+    "height": 2053
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Athens",
@@ -872,7 +2270,46 @@
    "file": "20100410 athina092.JPG",
    "width": 3872,
    "height": 2592
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-plaka-2.jpg",
+    "artist": "JFKennedy at English Wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Athens_Plaka07.jpg",
+    "file": "Athens Plaka07.jpg",
+    "width": 2304,
+    "height": 1728
+   },
+   {
+    "path": "assets/photos/athens-plaka-3.jpg",
+    "artist": "Joanbanjo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carrer_del_barri_de_Plaka,_Atenes.JPG",
+    "file": "Carrer del barri de Plaka, Atenes.JPG",
+    "width": 3664,
+    "height": 2748
+   },
+   {
+    "path": "assets/photos/athens-plaka-4.jpg",
+    "artist": "sailko",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Choragic_Monument_of_Lysicrates_00.JPG",
+    "file": "Choragic Monument of Lysicrates 00.JPG",
+    "width": 2736,
+    "height": 3648
+   },
+   {
+    "path": "assets/photos/athens-plaka-5.jpg",
+    "artist": "Joanbanjo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entaulament_i_dues_columnes,_barri_de_Plaka,_Atenes.JPG",
+    "file": "Entaulament i dues columnes, barri de Plaka, Atenes.JPG",
+    "width": 3508,
+    "height": 2565
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Athens",
@@ -897,7 +2334,46 @@
    "file": "Columns in details on the Temple of Olympian Zeus.jpg",
    "width": 2000,
    "height": 1884
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-temple-of-olympian-zeus-2.jpg",
+    "artist": "Constantinou Dimitrios Details on Google Art Project",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Constantinou_Dimitrios_-_The_Temple_of_Olympian_Zeus_and_the_Acropolis_in_the_background_-_Google_Art_Project.jpg",
+    "file": "Constantinou Dimitrios - The Temple of Olympian Zeus and the Acropolis in the background - Google Art Project.jpg",
+    "width": 3924,
+    "height": 2849
+   },
+   {
+    "path": "assets/photos/athens-temple-of-olympian-zeus-3.jpg",
+    "artist": "Jean-Pierre Dalbéra from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%27Olympieion_(Ath%C3%A8nes)_(30776483926).jpg",
+    "file": "L'Olympieion (Athènes) (30776483926).jpg",
+    "width": 1800,
+    "height": 1200
+   },
+   {
+    "path": "assets/photos/athens-temple-of-olympian-zeus-4.jpg",
+    "artist": "Valentin Fiumefreddo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympieion2_copy.jpg",
+    "file": "Olympieion2 copy.jpg",
+    "width": 4024,
+    "height": 1978
+   },
+   {
+    "path": "assets/photos/athens-temple-of-olympian-zeus-5.jpg",
+    "artist": "Marcok di it.wikipedia",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Tempio_di_Zeus_Olimpo_apr2005_03.jpg",
+    "file": "Tempio di Zeus Olimpo apr2005 03.jpg",
+    "width": 2048,
+    "height": 1470
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Athens",
@@ -922,7 +2398,55 @@
    "file": "1734 - Archaeological Museum, Athens - Herodes Atticus - Photo by Giovanni Dall'Orto, Nov 11 2009.jpg",
    "width": 1733,
    "height": 2590
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-panathenaic-stadium-2.jpg",
+    "artist": "George E. Koronaios",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_the_Panathenaic_Stadium_of_Athens.jpg",
+    "file": "At the Panathenaic Stadium of Athens.jpg",
+    "width": 6000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/athens-panathenaic-stadium-3.jpg",
+    "artist": "Christos Doudoulakis",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Athens2.jpg",
+    "file": "Athens2.jpg",
+    "width": 3958,
+    "height": 1773
+   },
+   {
+    "path": "assets/photos/athens-panathenaic-stadium-4.jpg",
+    "artist": "Elpexa",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Panatenaico.JPG",
+    "file": "Estadio Panatenaico.JPG",
+    "width": 3072,
+    "height": 2304
+   },
+   {
+    "path": "assets/photos/athens-panathenaic-stadium-5.jpg",
+    "artist": "Bgabel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:GR-athen-panathinaiko-stadion.jpg",
+    "file": "GR-athen-panathinaiko-stadion.jpg",
+    "width": 2259,
+    "height": 653
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/athens-panathenaic-stadium-1.mp4",
+    "artist": "Medullaoblongata Projekt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Greece_Athens_Panathenaic_Stadium.ogv",
+    "file": "Greece Athens Panathenaic Stadium.ogv",
+    "frame": "assets/clips/athens-panathenaic-stadium-1.jpg"
+   }
+  ]
  },
  {
   "city": "Athens",
@@ -947,7 +2471,46 @@
    "file": "Athens Syntagma square antiquities.jpg",
    "width": 3264,
    "height": 2448
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/athens-syntagma-square-2.jpg",
+    "artist": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_05_Syntagma.jpg",
+    "file": "Attica 06-13 Athens 05 Syntagma.jpg",
+    "width": 4914,
+    "height": 3363
+   },
+   {
+    "path": "assets/photos/athens-syntagma-square-3.jpg",
+    "artist": "Brastite at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EVZONES_GROUP.JPG",
+    "file": "EVZONES GROUP.JPG",
+    "width": 2101,
+    "height": 1004
+   },
+   {
+    "path": "assets/photos/athens-syntagma-square-4.jpg",
+    "artist": "Άργος",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syntagma_Square_(2015).jpg",
+    "file": "Syntagma Square (2015).jpg",
+    "width": 1913,
+    "height": 1434
+   },
+   {
+    "path": "assets/photos/athens-syntagma-square-5.jpg",
+    "artist": "Evadb",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Unknown_at_Syntagma_Square_in_Athens.JPG",
+    "file": "Tomb of Unknown at Syntagma Square in Athens.JPG",
+    "width": 2579,
+    "height": 1899
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Budapest",
@@ -972,7 +2535,55 @@
    "file": "Budapest Parliament Building .jpg",
    "width": 5312,
    "height": 2988
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-hungarian-parliament-2.jpg",
+    "artist": "Karelj",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest_parlament_interior_9.jpg",
+    "file": "Budapest parlament interior 9.jpg",
+    "width": 2400,
+    "height": 1620
+   },
+   {
+    "path": "assets/photos/budapest-hungarian-parliament-3.jpg",
+    "artist": "User:CSvBibra",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Crown,_Sword_and_Globus_Cruciger_of_Hungary2.jpg",
+    "file": "Crown, Sword and Globus Cruciger of Hungary2.jpg",
+    "width": 1610,
+    "height": 1094
+   },
+   {
+    "path": "assets/photos/budapest-hungarian-parliament-4.jpg",
+    "artist": "TheSaturnLover",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Danubian_structure.jpg",
+    "file": "Danubian structure.jpg",
+    "width": 3000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/budapest-hungarian-parliament-5.jpg",
+    "artist": "Károly Divald",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg",
+    "file": "Divald országház 1905-27.jpg",
+    "width": 5441,
+    "height": 3970
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/budapest-hungarian-parliament-1.mp4",
+    "artist": "Vauia Rex",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest_protest_2018-12-16_18-24-10.webm",
+    "file": "Budapest protest 2018-12-16 18-24-10.webm",
+    "frame": "assets/clips/budapest-hungarian-parliament-1.jpg"
+   }
+  ]
  },
  {
   "city": "Budapest",
@@ -997,7 +2608,46 @@
    "file": "At the top of the stairs in the dome of St. Stephen's Basilica in Budapest.jpg",
    "width": 2272,
    "height": 1704
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-st-stephen-s-basilica-2.jpg",
+    "artist": "When reusing, please credit me as author: Adam Kliczek, http://memorie",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest,_St._Stephen%27s_Basilica_C11.jpg",
+    "file": "Budapest, St. Stephen's Basilica C11.jpg",
+    "width": 4000,
+    "height": 6000
+   },
+   {
+    "path": "assets/photos/budapest-st-stephen-s-basilica-3.jpg",
+    "artist": "When reusing, please credit me as author: Adam Kliczek, http://memorie",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest,_St._Stephen%27s_Basilica_C12.jpg",
+    "file": "Budapest, St. Stephen's Basilica C12.jpg",
+    "width": 3261,
+    "height": 5097
+   },
+   {
+    "path": "assets/photos/budapest-st-stephen-s-basilica-4.jpg",
+    "artist": "When reusing, please credit me as author: Adam Kliczek, http://memorie",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest,_St._Stephen%27s_Basilica_C13.jpg",
+    "file": "Budapest, St. Stephen's Basilica C13.jpg",
+    "width": 5632,
+    "height": 3755
+   },
+   {
+    "path": "assets/photos/budapest-st-stephen-s-basilica-5.jpg",
+    "artist": "Marc Ryckaert (MJJR)",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest_Szent_Istvan_Bazilika_R01.jpg",
+    "file": "Budapest Szent Istvan Bazilika R01.jpg",
+    "width": 2240,
+    "height": 1752
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Budapest",
@@ -1022,7 +2672,46 @@
    "file": "Dohany.jpg",
    "width": 2802,
    "height": 3968
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-dohany-street-synagogue-2.jpg",
+    "artist": "Geb0541",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DohanyStMemorialwStones.jpg",
+    "file": "DohanyStMemorialwStones.jpg",
+    "width": 3000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/budapest-dohany-street-synagogue-3.jpg",
+    "artist": "Jgrec4",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dohany_Street_Synagogue_Exterior_Window.jpg",
+    "file": "Dohany Street Synagogue Exterior Window.jpg",
+    "width": 2225,
+    "height": 1734
+   },
+   {
+    "path": "assets/photos/budapest-dohany-street-synagogue-4.jpg",
+    "artist": "Yelkrokoyade",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9morial_holocauste_Budapest.jpg",
+    "file": "Mémorial holocauste Budapest.jpg",
+    "width": 4928,
+    "height": 3264
+   },
+   {
+    "path": "assets/photos/budapest-dohany-street-synagogue-5.jpg",
+    "artist": "Choinowski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Synagoge_Budapest_2014.jpg",
+    "file": "Synagoge Budapest 2014.jpg",
+    "width": 5014,
+    "height": 3342
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Budapest",
@@ -1047,7 +2736,46 @@
    "file": "Budimpešta, lančani Széchenyijev most noću u mađarskim bojama (piros-fehér-zöld).JPG",
    "width": 3426,
    "height": 2348
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-chain-bridge-2.jpg",
+    "artist": "Photo taken by; készítette: id. Takács István (1946) Scanned by, lapol",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lanc_hid_-_Budapest_3_Febr_1946_Foto_Takkk_Hungary.jpg",
+    "file": "Lanc hid - Budapest 3 Febr 1946 Foto Takkk Hungary.jpg",
+    "width": 3840,
+    "height": 2748
+   },
+   {
+    "path": "assets/photos/budapest-chain-bridge-3.jpg",
+    "artist": "Iryna",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9chenyi_Chain_Bridge_-_2026.jpg",
+    "file": "Széchenyi Chain Bridge - 2026.jpg",
+    "width": 5657,
+    "height": 8485
+   },
+   {
+    "path": "assets/photos/budapest-chain-bridge-4.jpg",
+    "artist": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg",
+    "file": "Széchenyi Chain Bridge in Budapest at night.jpg",
+    "width": 3580,
+    "height": 2000
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/budapest-chain-bridge-1.mp4",
+    "artist": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ice_drift.ogv",
+    "file": "Ice drift.ogv",
+    "frame": "assets/clips/budapest-chain-bridge-1.jpg"
+   }
+  ]
  },
  {
   "city": "Budapest",
@@ -1072,7 +2800,55 @@
    "file": "Buda Castle - 2026 - 2.jpg",
    "width": 8485,
    "height": 5657
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-buda-castle-2.jpg",
+    "artist": "https://www.flickr.com/photos/chad_k/",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buda_Castle_2365941876_12a03f263c.jpg",
+    "file": "Buda Castle 2365941876 12a03f263c.jpg",
+    "width": 2816,
+    "height": 2112
+   },
+   {
+    "path": "assets/photos/budapest-buda-castle-3.jpg",
+    "artist": "Elekes Andor",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buda_Still_Standing.jpg",
+    "file": "Buda Still Standing.jpg",
+    "width": 3648,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/budapest-buda-castle-4.jpg",
+    "artist": "C1815",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Buda_castle_interior_church.JPG",
+    "file": "Buda castle interior church.JPG",
+    "width": 3008,
+    "height": 2000
+   },
+   {
+    "path": "assets/photos/budapest-buda-castle-5.jpg",
+    "artist": "Tolnai -korabeli kép alapján",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Buda_l%C3%A1tk%C3%A9pe-XVI._sz.jpg",
+    "file": "Buda látképe-XVI. sz.jpg",
+    "width": 1623,
+    "height": 1458
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/budapest-buda-castle-1.mp4",
+    "artist": "Elekes Andor",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Stakes_of_the_Election.ogg",
+    "file": "The Stakes of the Election.ogg",
+    "frame": "assets/clips/budapest-buda-castle-1.jpg"
+   }
+  ]
  },
  {
   "city": "Budapest",
@@ -1097,7 +2873,46 @@
    "file": "002 - 14.07.16 - Budapest - Matthiaskirche.jpg",
    "width": 4000,
    "height": 3000
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-matthias-church-2.jpg",
+    "artist": "Paolo Villa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:03_2019_photo_Paolo_Villa_-_F0197909_bis-_Budapest_-_Danubio,_Chiesa_calvinista_di_Buda,_Bastione_dei_pescatori,_San_Mattia_-_notte_-_luci.jpg",
+    "file": "03 2019 photo Paolo Villa - F0197909 bis- Budapest - Danubio, Chiesa calvinista di Buda, Bastione dei pescatori, San Mattia - notte - luci.jpg",
+    "width": 4858,
+    "height": 3158
+   },
+   {
+    "path": "assets/photos/budapest-matthias-church-3.jpg",
+    "artist": "KumarNeelamegam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beautiful_view_of_budapest_mathew_chruch.jpg",
+    "file": "Beautiful view of budapest mathew chruch.jpg",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/budapest-matthias-church-4.jpg",
+    "artist": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matthias_Church_5.jpg",
+    "file": "Matthias Church 5.jpg",
+    "width": 6000,
+    "height": 5200
+   },
+   {
+    "path": "assets/photos/budapest-matthias-church-5.jpg",
+    "artist": "Thaler Tamas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MatyasTemplomFotoThalerTamas15a.JPG",
+    "file": "MatyasTemplomFotoThalerTamas15a.JPG",
+    "width": 1600,
+    "height": 1067
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Budapest",
@@ -1122,7 +2937,55 @@
    "file": "Budapest, Halászbástya. - fortepan 82646.jpg",
    "width": 6056,
    "height": 4264
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/budapest-fisherman-s-bastion-2.jpg",
+    "artist": "Visions of Domino",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fisherman%27s_Bastion,_Hungary_-_Budapest_(28388298082).jpg",
+    "file": "Fisherman's Bastion, Hungary - Budapest (28388298082).jpg",
+    "width": 2500,
+    "height": 1667
+   },
+   {
+    "path": "assets/photos/budapest-fisherman-s-bastion-3.jpg",
+    "artist": "Ricardo Martins",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fisherman_s_Bastion.jpg",
+    "file": "Fisherman s Bastion.jpg",
+    "width": 3840,
+    "height": 5760
+   },
+   {
+    "path": "assets/photos/budapest-fisherman-s-bastion-4.jpg",
+    "artist": "michael clarke stuff",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fishermans_Bastion_03_(2473199207).jpg",
+    "file": "Fishermans Bastion 03 (2473199207).jpg",
+    "width": 1798,
+    "height": 2048
+   },
+   {
+    "path": "assets/photos/budapest-fisherman-s-bastion-5.jpg",
+    "artist": "Bjoertvedt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fishermans_bastion_Budapest_IMG_1429.JPG",
+    "file": "Fishermans bastion Budapest IMG 1429.JPG",
+    "width": 4608,
+    "height": 2592
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/budapest-fisherman-s-bastion-1.mp4",
+    "artist": "Elekes Andor",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Fisherman%27s_Bastion_(4).ogg",
+    "file": "View from Fisherman's Bastion (4).ogg",
+    "frame": "assets/clips/budapest-fisherman-s-bastion-1.jpg"
+   }
+  ]
  },
  {
   "city": "Amsterdam",
@@ -1147,7 +3010,55 @@
    "file": "1670 Jan Havicksz. Steen - zelfportret.jpg",
    "width": 4272,
    "height": 4962
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-rijksmuseum-2.jpg",
+    "artist": "Bartholomeus van der Helst / Jan Vos",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bartholomeus_van_der_Helst,_Banquet_of_the_Amsterdam_Civic_Guard_in_Celebration_of_the_Peace_of_M%C3%BCnster.jpg",
+    "file": "Bartholomeus van der Helst, Banquet of the Amsterdam Civic Guard in Celebration of the Peace of Münster.jpg",
+    "width": 4025,
+    "height": 1705
+   },
+   {
+    "path": "assets/photos/amsterdam-rijksmuseum-3.jpg",
+    "artist": "Cornelis Ketel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Company_of_Captain_Rosecrans_Ketel.jpg",
+    "file": "Company of Captain Rosecrans Ketel.jpg",
+    "width": 2928,
+    "height": 1459
+   },
+   {
+    "path": "assets/photos/amsterdam-rijksmuseum-4.jpg",
+    "artist": "Nicolaes Maes, 1680",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cornelis_Evertsen,_luitenant-admiraal_van_Zeeland,_1662.jpg",
+    "file": "Cornelis Evertsen, luitenant-admiraal van Zeeland, 1662.jpg",
+    "width": 2000,
+    "height": 2372
+   },
+   {
+    "path": "assets/photos/amsterdam-rijksmuseum-5.jpg",
+    "artist": "Jan Willem Pieneman",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:De_Slag_bij_Waterloo_Rijksmuseum_SK-A-1115.jpeg",
+    "file": "De Slag bij Waterloo Rijksmuseum SK-A-1115.jpeg",
+    "width": 9818,
+    "height": 6500
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/amsterdam-rijksmuseum-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rijksmuseum,_Amsterdam_ground_floor_105654.webm",
+    "file": "Rijksmuseum, Amsterdam ground floor 105654.webm",
+    "frame": "assets/clips/amsterdam-rijksmuseum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Amsterdam",
@@ -1172,7 +3083,55 @@
    "file": "De aardappeleters - s0005V1962 - Van Gogh Museum.jpg",
    "width": 7695,
    "height": 5441
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-van-gogh-museum-2.jpg",
+    "artist": "Vincent van Gogh",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:De_zaaier_-_s0029V1962_-_Van_Gogh_Museum.jpg",
+    "file": "De zaaier - s0029V1962 - Van Gogh Museum.jpg",
+    "width": 7003,
+    "height": 5625
+   },
+   {
+    "path": "assets/photos/amsterdam-van-gogh-museum-3.jpg",
+    "artist": "Sebastian Koppehel",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_Museum,_Kurokawa_wing.jpg",
+    "file": "Van Gogh Museum, Kurokawa wing.jpg",
+    "width": 5238,
+    "height": 3492
+   },
+   {
+    "path": "assets/photos/amsterdam-van-gogh-museum-4.jpg",
+    "artist": "User:A,Ocram",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_Museum_in_Amsterdam_am_Abend.jpg",
+    "file": "Van Gogh Museum in Amsterdam am Abend.jpg",
+    "width": 3858,
+    "height": 2572
+   },
+   {
+    "path": "assets/photos/amsterdam-van-gogh-museum-5.jpg",
+    "artist": "Vincent van Gogh",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
+    "file": "Vincent van Gogh - Almond blossom - Google Art Project.jpg",
+    "width": 3139,
+    "height": 2480
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/amsterdam-van-gogh-museum-1.mp4",
+    "artist": "Klapi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_2016.webm",
+    "file": "Amsterdam 2016.webm",
+    "frame": "assets/clips/amsterdam-van-gogh-museum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Amsterdam",
@@ -1197,7 +3156,55 @@
    "file": "Amsterdam, Vondelpark, at the pond-2.jpg",
    "width": 2551,
    "height": 1701
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-vondelpark-2.jpg",
+    "artist": "Sybren",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam-Vondelpark-2004.JPG",
+    "file": "Amsterdam-Vondelpark-2004.JPG",
+    "width": 2272,
+    "height": 1704
+   },
+   {
+    "path": "assets/photos/amsterdam-vondelpark-3.jpg",
+    "artist": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Vondelpark_-_1496.jpg",
+    "file": "Amsterdam - Vondelpark - 1496.jpg",
+    "width": 4368,
+    "height": 2912
+   },
+   {
+    "path": "assets/photos/amsterdam-vondelpark-4.jpg",
+    "artist": "Jvhertum",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Blauwe_Theehuis_2.jpg",
+    "file": "Blauwe Theehuis 2.jpg",
+    "width": 2000,
+    "height": 1500
+   },
+   {
+    "path": "assets/photos/amsterdam-vondelpark-5.jpg",
+    "artist": "Trougnouf (Benoit Brummer)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Figure_d%C3%A9coup%C3%A9e_(DSCF3006).jpg",
+    "file": "Figure découpée (DSCF3006).jpg",
+    "width": 4935,
+    "height": 3295
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/amsterdam-vondelpark-1.mp4",
+    "artist": "Klapi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_2016.webm",
+    "file": "Amsterdam 2016.webm",
+    "frame": "assets/clips/amsterdam-vondelpark-1.jpg"
+   }
+  ]
  },
  {
   "city": "Amsterdam",
@@ -1222,7 +3229,28 @@
    "file": "Amsterdam (NL), Begijnhof -- 2015 -- 7220.jpg",
    "width": 4820,
    "height": 3411
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-begijnhof-2.jpg",
+    "artist": "Massimo Catarinella",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BegijnhofAmsterdamPanorama.jpg",
+    "file": "BegijnhofAmsterdamPanorama.jpg",
+    "width": 4000,
+    "height": 2179
+   },
+   {
+    "path": "assets/photos/amsterdam-begijnhof-3.jpg",
+    "artist": "This media file was made by Michiel1972 You may use it using a redistr",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RM371_Amsterdam_-_Begijnhof_34.jpg",
+    "file": "RM371 Amsterdam - Begijnhof 34.jpg",
+    "width": 1944,
+    "height": 2592
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Amsterdam",
@@ -1247,7 +3275,55 @@
    "file": "Amsterdam shooting, May 7 1945.jpg",
    "width": 2586,
    "height": 2868
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-dam-square-2.jpg",
+    "artist": "Deerpeter",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dam_Square_2026.jpg",
+    "file": "Dam Square 2026.jpg",
+    "width": 7008,
+    "height": 4672
+   },
+   {
+    "path": "assets/photos/amsterdam-dam-square-3.jpg",
+    "artist": "Nikthestoned",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dam_Square_funfair.jpg",
+    "file": "Dam Square funfair.jpg",
+    "width": 3872,
+    "height": 2592
+   },
+   {
+    "path": "assets/photos/amsterdam-dam-square-4.jpg",
+    "artist": "Kander",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nl_AMS_De_Dam_Pano.jpg",
+    "file": "Nl AMS De Dam Pano.jpg",
+    "width": 11575,
+    "height": 2000
+   },
+   {
+    "path": "assets/photos/amsterdam-dam-square-5.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Standbeeld_Czaar_Peter_--_Zaandam.jpg",
+    "file": "Standbeeld Czaar Peter -- Zaandam.jpg",
+    "width": 2110,
+    "height": 3240
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/amsterdam-dam-square-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dam_Square,_Amsterdam_140448.webm",
+    "file": "Dam Square, Amsterdam 140448.webm",
+    "frame": "assets/clips/amsterdam-dam-square-1.jpg"
+   }
+  ]
  },
  {
   "city": "Amsterdam",
@@ -1272,7 +3348,55 @@
    "file": "Amsterdam-508-Oude Kerk-2010-gje.jpg",
    "width": 2694,
    "height": 2072
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-oude-kerk-2.jpg",
+    "artist": "Heinz-Josef Lücking",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_Window_Oude_Kerk_Amsterdam.jpg",
+    "file": "Church Window Oude Kerk Amsterdam.jpg",
+    "width": 2124,
+    "height": 3165
+   },
+   {
+    "path": "assets/photos/amsterdam-oude-kerk-3.jpg",
+    "artist": "Leon petrosyan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Oude_Kerk.JPG",
+    "file": "Interior of the Oude Kerk.JPG",
+    "width": 2048,
+    "height": 1366
+   },
+   {
+    "path": "assets/photos/amsterdam-oude-kerk-4.jpg",
+    "artist": "quinn norton",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_Church_-_Old_Profession.jpg",
+    "file": "Old Church - Old Profession.jpg",
+    "width": 1600,
+    "height": 1200
+   },
+   {
+    "path": "assets/photos/amsterdam-oude-kerk-5.jpg",
+    "artist": "quinn norton",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oude_Kerk.jpg",
+    "file": "Oude Kerk.jpg",
+    "width": 1600,
+    "height": 1200
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/amsterdam-oude-kerk-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oude_Kerk,_Amsterdam_105418_1.webm",
+    "file": "Oude Kerk, Amsterdam 105418 1.webm",
+    "frame": "assets/clips/amsterdam-oude-kerk-1.jpg"
+   }
+  ]
  },
  {
   "city": "Amsterdam",
@@ -1297,7 +3421,55 @@
    "file": "Amsterdam (NL), Anne-Frank-Huis -- 2015 -- 7185.jpg",
    "width": 4073,
    "height": 3176
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/amsterdam-anne-frank-house-2.jpg",
+    "artist": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_Westerkerk_Blick_vom_Turm_15.jpg",
+    "file": "Amsterdam Westerkerk Blick vom Turm 15.jpg",
+    "width": 4534,
+    "height": 3368
+   },
+   {
+    "path": "assets/photos/amsterdam-anne-frank-house-3.jpg",
+    "artist": "Massimo Catarinella",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AnneFrankHouseAmsterdamtheNetherlands.jpg",
+    "file": "AnneFrankHouseAmsterdamtheNetherlands.jpg",
+    "width": 2562,
+    "height": 3936
+   },
+   {
+    "path": "assets/photos/amsterdam-anne-frank-house-4.jpg",
+    "artist": "Massimo Catarinella",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AnneFrankMuseum.jpg",
+    "file": "AnneFrankMuseum.jpg",
+    "width": 3456,
+    "height": 2304
+   },
+   {
+    "path": "assets/photos/amsterdam-anne-frank-house-5.jpg",
+    "artist": "Alexisrael",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anne_Frank_House_Model.JPG",
+    "file": "Anne Frank House Model.JPG",
+    "width": 4608,
+    "height": 3456
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/amsterdam-anne-frank-house-1.mp4",
+    "artist": "frédérik ruys",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiding_Anne_Frank_3D.webm",
+    "file": "Hiding Anne Frank 3D.webm",
+    "frame": "assets/clips/amsterdam-anne-frank-house-1.jpg"
+   }
+  ]
  },
  {
   "city": "Vienna",
@@ -1322,7 +3494,55 @@
    "file": "0181-0183a - Wien - Stephansdom.jpg",
    "width": 4762,
    "height": 4130
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/vienna-st-stephen-s-cathedral-2.jpg",
+    "artist": "Jakob Alt",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jakob_Alt_001.jpg",
+    "file": "Jakob Alt 001.jpg",
+    "width": 2126,
+    "height": 1556
+   },
+   {
+    "path": "assets/photos/vienna-st-stephen-s-cathedral-3.jpg",
+    "artist": "Gryffindor",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pummerin_Stephansdom_Vienna_July_2008_(14).JPG",
+    "file": "Pummerin Stephansdom Vienna July 2008 (14).JPG",
+    "width": 2304,
+    "height": 3072
+   },
+   {
+    "path": "assets/photos/vienna-st-stephen-s-cathedral-4.jpg",
+    "artist": "acediscovery",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roof-window-Stephansdom-Vienna.jpg",
+    "file": "Roof-window-Stephansdom-Vienna.jpg",
+    "width": 3600,
+    "height": 2700
+   },
+   {
+    "path": "assets/photos/vienna-st-stephen-s-cathedral-5.jpg",
+    "artist": "User:AndreasPraefcke",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stephansdom_Christ_in_Gethsemane.jpg",
+    "file": "Stephansdom Christ in Gethsemane.jpg",
+    "width": 2304,
+    "height": 2203
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/vienna-st-stephen-s-cathedral-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vienna_Cathedral_101202.webm",
+    "file": "Vienna Cathedral 101202.webm",
+    "frame": "assets/clips/vienna-st-stephen-s-cathedral-1.jpg"
+   }
+  ]
  },
  {
   "city": "Vienna",
@@ -1347,7 +3567,46 @@
    "file": "Amalienburg, Hofburg, Viena, Austria, 2020-01-31, DD 21.jpg",
    "width": 6611,
    "height": 3481
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/vienna-hofburg-2.jpg",
+    "artist": "Moriz Bermann",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hofburg_Castle_in_16th_century_(152354424).jpg",
+    "file": "Hofburg Castle in 16th century (152354424).jpg",
+    "width": 1900,
+    "height": 1429
+   },
+   {
+    "path": "assets/photos/vienna-hofburg-3.jpg",
+    "artist": "Bede735c",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Imperial_Crown_Orb_and_Sceptre_of_Austria_(Imperial_Treasury).jpg",
+    "file": "Imperial Crown Orb and Sceptre of Austria (Imperial Treasury).jpg",
+    "width": 4900,
+    "height": 3546
+   },
+   {
+    "path": "assets/photos/vienna-hofburg-4.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Michaelertrakt,_Hofburg,_Viena,_Austria,_2020-01-31,_DD_08-10_PAN.jpg",
+    "file": "Michaelertrakt, Hofburg, Viena, Austria, 2020-01-31, DD 08-10 PAN.jpg",
+    "width": 8358,
+    "height": 3935
+   },
+   {
+    "path": "assets/photos/vienna-hofburg-5.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Michaelertrakt,_Hofburg,_Viena,_Austria,_2020-01-31,_DD_14.jpg",
+    "file": "Michaelertrakt, Hofburg, Viena, Austria, 2020-01-31, DD 14.jpg",
+    "width": 4341,
+    "height": 6511
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Vienna",
@@ -1372,7 +3631,46 @@
    "file": "Albrecht Dürer - Hare, 1502 - Google Art Project.jpg",
    "width": 3731,
    "height": 4123
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/vienna-albertina-2.jpg",
+    "artist": "Claude Monet",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Water_Lily_Pond,_c._1917-19,_frame_cropped,_Google_Art_Project.jpg",
+    "file": "Claude Monet, The Water Lily Pond, c. 1917-19, frame cropped, Google Art Project.jpg",
+    "width": 6760,
+    "height": 3383
+   },
+   {
+    "path": "assets/photos/vienna-albertina-3.jpg",
+    "artist": "Henri de Toulouse-Lautrec",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Henri_Toulouse-Lautrec_-_The_White_Horse_%22Gazelle%22,_1881_-_Google_Art_Project.jpg",
+    "file": "Henri Toulouse-Lautrec - The White Horse \"Gazelle\", 1881 - Google Art Project.jpg",
+    "width": 1819,
+    "height": 2189
+   },
+   {
+    "path": "assets/photos/vienna-albertina-4.jpg",
+    "artist": "Jean-Honoré Fragonard",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jean-Honor%C3%A9_Fragonard_-_The_Girl_with_the_Marmot_-_Google_Art_Project.jpg",
+    "file": "Jean-Honoré Fragonard - The Girl with the Marmot - Google Art Project.jpg",
+    "width": 2953,
+    "height": 3581
+   },
+   {
+    "path": "assets/photos/vienna-albertina-5.jpg",
+    "artist": "Claude Monet",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Monet_-_Das_Haus_in_den_Rosen.jpeg",
+    "file": "Monet - Das Haus in den Rosen.jpeg",
+    "width": 4476,
+    "height": 4632
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Vienna",
@@ -1397,7 +3695,55 @@
    "file": "Arcimboldo, Giuseppe Summer.jpg",
    "width": 1800,
    "height": 2380
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/vienna-kunsthistorisches-museum-2.jpg",
+    "artist": "Caravaggio",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_David_with_the_Head_of_Goliath_-_Vienna.jpg",
+    "file": "Caravaggio - David with the Head of Goliath - Vienna.jpg",
+    "width": 3000,
+    "height": 2333
+   },
+   {
+    "path": "assets/photos/vienna-kunsthistorisches-museum-3.jpg",
+    "artist": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cupola_of_Kunsthistorisches_Museum_Vienna.jpg",
+    "file": "Cupola of Kunsthistorisches Museum Vienna.jpg",
+    "width": 4541,
+    "height": 3328
+   },
+   {
+    "path": "assets/photos/vienna-kunsthistorisches-museum-4.jpg",
+    "artist": "Diego Velázquez",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Diego_Rodriguez_de_Silva_y_Vel%C3%A1zquez_-_Infanta_Margarita_Teresa_in_a_Blue_Dress_-_Google_Art_Project.jpg",
+    "file": "Diego Rodriguez de Silva y Velázquez - Infanta Margarita Teresa in a Blue Dress - Google Art Project.jpg",
+    "width": 5360,
+    "height": 6374
+   },
+   {
+    "path": "assets/photos/vienna-kunsthistorisches-museum-5.jpg",
+    "artist": "Circle of Titian",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
+    "file": "EmperorSuleiman.jpg",
+    "width": 1810,
+    "height": 2117
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/vienna-kunsthistorisches-museum-1.mp4",
+    "artist": "Harley McAdams",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kunsthistorisches_Museum_-_Kuppelhalle_und_Stiegenhaus.webm",
+    "file": "Kunsthistorisches Museum - Kuppelhalle und Stiegenhaus.webm",
+    "frame": "assets/clips/vienna-kunsthistorisches-museum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Vienna",
@@ -1422,7 +3768,55 @@
    "file": "Iglesia de San Carlos Borromeo, Viena, Austria, 2020-01-31, DD 164-166 HDR.jpg",
    "width": 6270,
    "height": 3696
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/vienna-karlskirche-2.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Carlos_Borromeo,_Viena,_Austria,_2020-01-31,_DD_49-51_HDR.jpg",
+    "file": "Iglesia de San Carlos Borromeo, Viena, Austria, 2020-01-31, DD 49-51 HDR.jpg",
+    "width": 4953,
+    "height": 4708
+   },
+   {
+    "path": "assets/photos/vienna-karlskirche-3.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Carlos_Borromeo,_Viena,_Austria,_2020-01-31,_DD_61-63_HDR.jpg",
+    "file": "Iglesia de San Carlos Borromeo, Viena, Austria, 2020-01-31, DD 61-63 HDR.jpg",
+    "width": 4276,
+    "height": 4143
+   },
+   {
+    "path": "assets/photos/vienna-karlskirche-4.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Carlos_Borromeo,_Viena,_Austria,_2020-01-31,_DD_64-66_HDR.jpg",
+    "file": "Iglesia de San Carlos Borromeo, Viena, Austria, 2020-01-31, DD 64-66 HDR.jpg",
+    "width": 6250,
+    "height": 4169
+   },
+   {
+    "path": "assets/photos/vienna-karlskirche-5.jpg",
+    "artist": "Johann Michael Rottmayr Edited by Alberto Fernandez Fernandez",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Intercession_of_Charles_Borromeo_supported_by_the_Virgin_Mary_-_Detail_Rottmayr_Fresco_-_Karlskirche_-_Vienna.JPG",
+    "file": "Intercession of Charles Borromeo supported by the Virgin Mary - Detail Rottmayr Fresco - Karlskirche - Vienna.JPG",
+    "width": 3616,
+    "height": 2175
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/vienna-karlskirche-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karlskirche,_Wien_093838.webm",
+    "file": "Karlskirche, Wien 093838.webm",
+    "frame": "assets/clips/vienna-karlskirche-1.jpg"
+   }
+  ]
  },
  {
   "city": "Vienna",
@@ -1447,7 +3841,46 @@
    "file": "Belvedere, Vienna.jpg",
    "width": 3264,
    "height": 2448
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/vienna-belvedere-2.jpg",
+    "artist": "NN",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Belvedere_1753.jpg",
+    "file": "Belvedere 1753.jpg",
+    "width": 2500,
+    "height": 1410
+   },
+   {
+    "path": "assets/photos/vienna-belvedere-3.jpg",
+    "artist": "Bonet 86",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Belvedere_G%C3%A4rten_und_Blick_nach_Wien._Vista_de_Viena_desde_los_jardines_del_Belvedere.JPG",
+    "file": "Belvedere Gärten und Blick nach Wien. Vista de Viena desde los jardines del Belvedere.JPG",
+    "width": 3648,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/vienna-belvedere-4.jpg",
+    "artist": "Bernardo Bellotto",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto,_il_Canaletto_-_View_of_Vienna_from_the_Belvedere.jpg",
+    "file": "Bernardo Bellotto, il Canaletto - View of Vienna from the Belvedere.jpg",
+    "width": 4702,
+    "height": 2940
+   },
+   {
+    "path": "assets/photos/vienna-belvedere-5.jpg",
+    "artist": "Bernardo Bellotto",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto,_il_Canaletto_-_View_of_Vienna_from_the_Belvedere.jpg",
+    "file": "Canaletto (I) 058.jpg",
+    "width": 4702,
+    "height": 2940
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Venice",
@@ -1472,7 +3905,55 @@
    "file": "0 Venise, pilier dit de Saint-Jean d'Acre 2.JPG",
    "width": 3276,
    "height": 4915
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/venice-st-mark-s-basilica-2.jpg",
+    "artist": "Venicescapes",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrea_Gabrieli-O_Sacrum_Convivium.jpg",
+    "file": "Andrea Gabrieli-O Sacrum Convivium.jpg",
+    "width": 1705,
+    "height": 841
+   },
+   {
+    "path": "assets/photos/venice-st-mark-s-basilica-3.jpg",
+    "artist": "Joanbanjo",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_Foscari,_pati_del_Palau_Ducal_de_Ven%C3%A8cia.JPG",
+    "file": "Arc Foscari, pati del Palau Ducal de Venècia.JPG",
+    "width": 2748,
+    "height": 3664
+   },
+   {
+    "path": "assets/photos/venice-st-mark-s-basilica-4.jpg",
+    "artist": "Joanbanjo",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_de_la_bas%C3%ADlica_de_sant_Marc_de_Ven%C3%A8cia.JPG",
+    "file": "Interior de la basílica de sant Marc de Venècia.JPG",
+    "width": 3664,
+    "height": 2748
+   },
+   {
+    "path": "assets/photos/venice-st-mark-s-basilica-5.jpg",
+    "artist": "Didier Descouens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Madonna_dell%27Orto_Portail.jpg",
+    "file": "Madonna dell'Orto Portail.jpg",
+    "width": 4912,
+    "height": 6208
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/venice-st-mark-s-basilica-1.mp4",
+    "artist": "Deror avi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Traffic_on_Canal_Grande_MVI_0636.webm",
+    "file": "Traffic on Canal Grande MVI 0636.webm",
+    "frame": "assets/clips/venice-st-mark-s-basilica-1.jpg"
+   }
+  ]
  },
  {
   "city": "Venice",
@@ -1497,7 +3978,55 @@
    "file": "(Venice) Bocca di Leone in the Doge's Palace.jpg",
    "width": 8670,
    "height": 9552
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/venice-doge-s-palace-2.jpg",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(Venice)_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg",
+    "file": "(Venice) Doge's Palace and campanile of St. Mark's Basilica facing the sea.jpg",
+    "width": 12096,
+    "height": 8352
+   },
+   {
+    "path": "assets/photos/venice-doge-s-palace-3.jpg",
+    "artist": "Giovanni Dall'Orto",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:4775_-_Venezia_-_Palazzo_ducale_-_Capitello_12_-_Falsa_fides_in_me_semper_est_-_Foto_Giovanni_Dall%27Orto,_31-Jul-2008.jpg",
+    "file": "4775 - Venezia - Palazzo ducale - Capitello 12 - Falsa fides in me semper est - Foto Giovanni Dall'Orto, 31-Jul-2008.jpg",
+    "width": 2048,
+    "height": 1360
+   },
+   {
+    "path": "assets/photos/venice-doge-s-palace-4.jpg",
+    "artist": "Benh LIEU SONG",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doge%27s_Palace_Courtyard_BLS.jpg",
+    "file": "Doge's Palace Courtyard BLS.jpg",
+    "width": 4927,
+    "height": 3201
+   },
+   {
+    "path": "assets/photos/venice-doge-s-palace-5.jpg",
+    "artist": "Benh LIEU SONG",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doge%27s_Palace_Scala_dei_Giganti_BLS.jpg",
+    "file": "Doge's Palace Scala dei Giganti BLS.jpg",
+    "width": 3176,
+    "height": 4800
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/venice-doge-s-palace-1.mp4",
+    "artist": "Deror avi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Traffic_on_Canal_Grande_MVI_0636.webm",
+    "file": "Traffic on Canal Grande MVI 0636.webm",
+    "frame": "assets/clips/venice-doge-s-palace-1.jpg"
+   }
+  ]
  },
  {
   "city": "Venice",
@@ -1522,7 +4051,55 @@
    "file": "Ponte di Rialto Canal Grande Venezia Rilievo San Marco.jpg",
    "width": 7501,
    "height": 5126
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/venice-rialto-bridge-2.jpg",
+    "artist": "Hervé Simon",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ponte_di_Rialto_e_Canal_Grande,_Venezia.jpg",
+    "file": "Ponte di Rialto e Canal Grande, Venezia.jpg",
+    "width": 3004,
+    "height": 1475
+   },
+   {
+    "path": "assets/photos/venice-rialto-bridge-3.jpg",
+    "artist": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg",
+    "file": "Rialto 2025 4.jpg",
+    "width": 5100,
+    "height": 3400
+   },
+   {
+    "path": "assets/photos/venice-rialto-bridge-4.jpg",
+    "artist": "Livioandronico2013",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rialto_Bridge_at_night2.jpg",
+    "file": "Rialto Bridge at night2.jpg",
+    "width": 5568,
+    "height": 3712
+   },
+   {
+    "path": "assets/photos/venice-rialto-bridge-5.jpg",
+    "artist": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rialto_Gondoliers.jpg",
+    "file": "Rialto Gondoliers.jpg",
+    "width": 3592,
+    "height": 2512
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/venice-rialto-bridge-1.mp4",
+    "artist": "Jamie Tabb",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Timelapse_from_Rialto_Bridge,_Venice.webm",
+    "file": "Timelapse from Rialto Bridge, Venice.webm",
+    "frame": "assets/clips/venice-rialto-bridge-1.jpg"
+   }
+  ]
  },
  {
   "city": "Venice",
@@ -1547,7 +4124,55 @@
    "file": "(Venice) - Santa Maria della Salute - Le due cupole e i due campanili.jpg",
    "width": 11518,
    "height": 7730
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/venice-santa-maria-della-salute-2.jpg",
+    "artist": "Jean-Pol GRANDMONT",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_Venise,_basilique_Santa_Maria_della_Salute_(6).JPG",
+    "file": "0 Venise, basilique Santa Maria della Salute (6).JPG",
+    "width": 3352,
+    "height": 5048
+   },
+   {
+    "path": "assets/photos/venice-santa-maria-della-salute-3.jpg",
+    "artist": "Jean-Pol GRANDMONT",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_Venise,_ch%C5%93ur_de_la_basilique_Santa_Maria_della_Salute.JPG",
+    "file": "0 Venise, chœur de la basilique Santa Maria della Salute.JPG",
+    "width": 5168,
+    "height": 3435
+   },
+   {
+    "path": "assets/photos/venice-santa-maria-della-salute-4.jpg",
+    "artist": "Jean-Pol GRANDMONT",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_Venise,_table_d%27autel_de_la_basilique_Santa_Maria_della_Salute.JPG",
+    "file": "0 Venise, table d'autel de la basilique Santa Maria della Salute.JPG",
+    "width": 4990,
+    "height": 3328
+   },
+   {
+    "path": "assets/photos/venice-santa-maria-della-salute-5.jpg",
+    "artist": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_Santa_Maria_della_Salute_Venice_1.jpg",
+    "file": "Basilica Santa Maria della Salute Venice 1.jpg",
+    "width": 2750,
+    "height": 4100
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/venice-santa-maria-della-salute-1.mp4",
+    "artist": "Triplec85",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018-09-25_Santa_Maria_della_Salute_(Venice)_Grand_Canal.webm",
+    "file": "2018-09-25 Santa Maria della Salute (Venice) Grand Canal.webm",
+    "frame": "assets/clips/venice-santa-maria-della-salute-1.jpg"
+   }
+  ]
  },
  {
   "city": "Venice",
@@ -1572,7 +4197,9 @@
    "file": "PI5DAE~2 - CopyPeggy Guggenheim Museum.JPG",
    "width": 2228,
    "height": 1623
-  }
+  },
+  "more_photos": [],
+  "clips": []
  },
  {
   "city": "Venice",
@@ -1597,7 +4224,46 @@
    "file": "\"Présentation de la Vierge au Temple\" de Titien (Accademia, Venise) (8103563222).jpg",
    "width": 1806,
    "height": 900
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/venice-gallerie-dell-accademia-2.jpg",
+    "artist": "Didier Descouens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:(Venice)_Adoration_of_the_shepherds_by_Jacopo_Dal_Ponte_Bassano_-_gallerie_Accademia_Venice.jpg",
+    "file": "(Venice) Adoration of the shepherds by Jacopo Dal Ponte Bassano - gallerie Accademia Venice.jpg",
+    "width": 8779,
+    "height": 5961
+   },
+   {
+    "path": "assets/photos/venice-gallerie-dell-accademia-3.jpg",
+    "artist": "Didier Descouens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:(Venice)_Allegoria_della_battaglia_di_Lepanto_-_Gallerie_Accademia.jpg",
+    "file": "(Venice) Allegoria della battaglia di Lepanto - Gallerie Accademia.jpg",
+    "width": 5400,
+    "height": 6678
+   },
+   {
+    "path": "assets/photos/venice-gallerie-dell-accademia-4.jpg",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Accademia_(Venice).jpg",
+    "file": "Accademia (Venice).jpg",
+    "width": 3171,
+    "height": 2868
+   },
+   {
+    "path": "assets/photos/venice-gallerie-dell-accademia-5.jpg",
+    "artist": "Didier Descouens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Accademia_-_Madonna_con_Bambino_tra_le_sante_Caterina_e_Maria_Maddalena_-_Giovanni_Bellini_-_Cat_613.jpg",
+    "file": "Accademia - Madonna con Bambino tra le sante Caterina e Maria Maddalena - Giovanni Bellini - Cat 613.jpg",
+    "width": 6894,
+    "height": 3762
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Lisbon",
@@ -1622,7 +4288,46 @@
    "file": "Lisbon Torre de Belém BW 2018-10-03 16-34-03.jpg",
    "width": 4796,
    "height": 3944
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/lisbon-belem-tower-2.jpg",
+    "artist": "Bryn Pinzgauer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lisbon_holiday_(18798806522).jpg",
+    "file": "Lisbon holiday (18798806522).jpg",
+    "width": 1920,
+    "height": 2560
+   },
+   {
+    "path": "assets/photos/lisbon-belem-tower-3.jpg",
+    "artist": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "file": "Torre Belém April 2009-4a.jpg",
+    "width": 5035,
+    "height": 4805
+   },
+   {
+    "path": "assets/photos/lisbon-belem-tower-4.jpg",
+    "artist": "Patrick Clenet",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tour_de_Belem_detail_1_082006.JPG",
+    "file": "Tour de Belem detail 1 082006.JPG",
+    "width": 1920,
+    "height": 2560
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/lisbon-belem-tower-1.mp4",
+    "artist": "Ijon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lisbon_ferry_Bel%C3%A9m_%E2%80%93_Trafaria_%E2%80%93_view_of_Bel%C3%A9m_Tower.webm",
+    "file": "Lisbon ferry Belém – Trafaria – view of Belém Tower.webm",
+    "frame": "assets/clips/lisbon-belem-tower-1.jpg"
+   }
+  ]
  },
  {
   "city": "Lisbon",
@@ -1647,7 +4352,55 @@
    "file": "1502 legte König Manuel I. den Grundstein für das Hieronymus Kloster in Lissabon. 06.jpg",
    "width": 5769,
    "height": 3467
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/lisbon-jeronimos-monastery-2.jpg",
+    "artist": "Fulviusbsas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Concei%C3%A7ao_Velha_-_Portal_Manuelino.JPG",
+    "file": "Conceiçao Velha - Portal Manuelino.JPG",
+    "width": 1728,
+    "height": 2304
+   },
+   {
+    "path": "assets/photos/lisbon-jeronimos-monastery-3.jpg",
+    "artist": "Dirk Stoop",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dirck_Stoop_-_View_of_Belem_Monastery_near_Lisbon_-_172_-_Mauritshuis.jpg",
+    "file": "Dirck Stoop - View of Belem Monastery near Lisbon - 172 - Mauritshuis.jpg",
+    "width": 4724,
+    "height": 2835
+   },
+   {
+    "path": "assets/photos/lisbon-jeronimos-monastery-4.jpg",
+    "artist": "xiquinhosilva from Cacau",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Igreja_Santa_Maria_de_Bel%C3%A9m_33583-Lisbon_(36495749435).jpg",
+    "file": "Igreja Santa Maria de Belém 33583-Lisbon (36495749435).jpg",
+    "width": 4016,
+    "height": 6016
+   },
+   {
+    "path": "assets/photos/lisbon-jeronimos-monastery-5.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lion_fountain_in_the_cloisters_of_Mosteiro_dos_Jer%C3%B3nimos_8501.jpg",
+    "file": "Lion fountain in the cloisters of Mosteiro dos Jerónimos 8501.jpg",
+    "width": 5662,
+    "height": 7078
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/lisbon-jeronimos-monastery-1.mp4",
+    "artist": "Agencia LUSA",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estudo_recomenda_medidas_preventivas_para_Torre_de_Bel%C3%A9m_e_prote%C3%A7%C3%A3o_de_visitantes.webm",
+    "file": "Estudo recomenda medidas preventivas para Torre de Belém e proteção de visitantes.webm",
+    "frame": "assets/clips/lisbon-jeronimos-monastery-1.jpg"
+   }
+  ]
  },
  {
   "city": "Lisbon",
@@ -1672,7 +4425,46 @@
    "file": "Apse of Igreja do Convento do Carmo de Lisboa (interior) 95.jpg",
    "width": 8001,
    "height": 6001
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/lisbon-carmo-convent-2.jpg",
+    "artist": "José Artur Leitão Bárcia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:BAR000284_-_Convento_do_Carmo._%C3%80_esquerda,_a_ponte_do_elevador_de_Santa_Justa.jpg",
+    "file": "BAR000284 - Convento do Carmo. À esquerda, a ponte do elevador de Santa Justa.jpg",
+    "width": 2048,
+    "height": 1451
+   },
+   {
+    "path": "assets/photos/lisbon-carmo-convent-3.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carlota,_Convento_do_Carmo_87.jpg",
+    "file": "Carlota, Convento do Carmo 87.jpg",
+    "width": 6048,
+    "height": 8064
+   },
+   {
+    "path": "assets/photos/lisbon-carmo-convent-4.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Collections_of_the_Museu_Arqueol%C3%B3gico_do_Carmo_83.jpg",
+    "file": "Collections of the Museu Arqueológico do Carmo 83.jpg",
+    "width": 5510,
+    "height": 6887
+   },
+   {
+    "path": "assets/photos/lisbon-carmo-convent-5.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Collections_of_the_Museu_Arqueol%C3%B3gico_do_Carmo_93.jpg",
+    "file": "Collections of the Museu Arqueológico do Carmo 93.jpg",
+    "width": 6637,
+    "height": 4978
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Lisbon",
@@ -1697,7 +4489,37 @@
    "file": "At Praça de D. Pedro IV P1000848.JPG",
    "width": 4000,
    "height": 3000
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/lisbon-santa-justa-lift-2.jpg",
+    "artist": "David Sim from London, United Kingdom",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevador_of_Santa_Justa_from_castle.jpg",
+    "file": "Elevador of Santa Justa from castle.jpg",
+    "width": 3648,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/lisbon-santa-justa-lift-3.jpg",
+    "artist": "Soulman of XD400",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Engines_of_Elevador_de_Santa_Justa.jpg",
+    "file": "Engines of Elevador de Santa Justa.jpg",
+    "width": 2272,
+    "height": 1704
+   },
+   {
+    "path": "assets/photos/lisbon-santa-justa-lift-4.jpg",
+    "artist": "Dicklyon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Santa_Justa_Lift_observation_deck.jpg",
+    "file": "Santa Justa Lift observation deck.jpg",
+    "width": 2688,
+    "height": 1512
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Lisbon",
@@ -1713,7 +4535,18 @@
    -9.13944
   ],
   "deck_km": 0.0,
-  "slug": "lisbon-rossio"
+  "slug": "lisbon-rossio",
+  "more_photos": [],
+  "clips": [
+   {
+    "path": "assets/clips/lisbon-rossio-1.mp4",
+    "artist": "Agencia LUSA",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Covid-19-_Medo_do_futuro_tira_o_sono_aos_empres%C3%A1rios_da_noite_e_h%C3%A1_quem_n%C3%A3o_resista.webm",
+    "file": "Covid-19- Medo do futuro tira o sono aos empresários da noite e há quem não resista.webm",
+    "frame": "assets/clips/lisbon-rossio-1.jpg"
+   }
+  ]
  },
  {
   "city": "Lisbon",
@@ -1738,7 +4571,55 @@
    "file": "Chancel arch of Sé de Lisboa 25.jpg",
    "width": 5155,
    "height": 6874
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/lisbon-lisbon-cathedral-2.jpg",
+    "artist": "Fulviusbsas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Concei%C3%A7ao_Velha_-_Portal_Manuelino.JPG",
+    "file": "Conceiçao Velha - Portal Manuelino.JPG",
+    "width": 1728,
+    "height": 2304
+   },
+   {
+    "path": "assets/photos/lisbon-lisbon-cathedral-3.jpg",
+    "artist": "Peter",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Excavation_in_the_cloister_of_Lisbon_Cathedral_(10328935154).jpg",
+    "file": "Excavation in the cloister of Lisbon Cathedral (10328935154).jpg",
+    "width": 2448,
+    "height": 3264
+   },
+   {
+    "path": "assets/photos/lisbon-lisbon-cathedral-4.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nave_of_S%C3%A9_de_Lisboa_towards_the_chancel_23.jpg",
+    "file": "Nave of Sé de Lisboa towards the chancel 23.jpg",
+    "width": 7047,
+    "height": 5285
+   },
+   {
+    "path": "assets/photos/lisbon-lisbon-cathedral-5.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rose_window,_center_of_west_facade_of_S%C3%A9_de_Lisboa_(interior)_24.jpg",
+    "file": "Rose window, center of west facade of Sé de Lisboa (interior) 24.jpg",
+    "width": 7120,
+    "height": 5340
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/lisbon-lisbon-cathedral-1.mp4",
+    "artist": "jazzcool",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lisbon_trams_-_Lissabon_Stra%C3%9Fenbahn_-_Lisboa_Carris_-_tramway_-_villamos.webm",
+    "file": "Lisbon trams - Lissabon Straßenbahn - Lisboa Carris - tramway - villamos.webm",
+    "frame": "assets/clips/lisbon-lisbon-cathedral-1.jpg"
+   }
+  ]
  },
  {
   "city": "Lisbon",
@@ -1763,7 +4644,46 @@
    "file": "Castelo de Guimarães Castelo da Fundação.JPG",
    "width": 2576,
    "height": 1920
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/lisbon-sao-jorge-castle-2.jpg",
+    "artist": "Adriao",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castelo_de_Penela_-_vista_geral.JPG",
+    "file": "Castelo de Penela - vista geral.JPG",
+    "width": 3648,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/lisbon-sao-jorge-castle-3.jpg",
+    "artist": "Reino Baptista",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castelo_de_Plamela_2004-04.jpg",
+    "file": "Castelo de Plamela 2004-04.jpg",
+    "width": 1612,
+    "height": 994
+   },
+   {
+    "path": "assets/photos/lisbon-sao-jorge-castle-4.jpg",
+    "artist": "kenward",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castelo_de_S%C3%A3o_Jorge_DSC_0034_(17293550541).jpg",
+    "file": "Castelo de São Jorge DSC 0034 (17293550541).jpg",
+    "width": 6000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/lisbon-sao-jorge-castle-5.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castelo_de_S%C3%A3o_Jorge_at_night_09.jpg",
+    "file": "Castelo de São Jorge at night 09.jpg",
+    "width": 4032,
+    "height": 3024
+   }
+  ],
+  "clips": []
  },
  {
   "city": "New York",
@@ -1788,7 +4708,55 @@
    "file": "ESBandDowntown2015.jpg",
    "width": 7020,
    "height": 4680
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/new-york-empire-state-building-2.jpg",
+    "artist": "DanielPenfield",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding20205thAvenueEntrance.jpg",
+    "file": "EmpireStateBuilding20205thAvenueEntrance.jpg",
+    "width": 4048,
+    "height": 3036
+   },
+   {
+    "path": "assets/photos/new-york-empire-state-building-3.jpg",
+    "artist": "DanielPenfield",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding202080thFloorSouthEastCorner.jpg",
+    "file": "EmpireStateBuilding202080thFloorSouthEastCorner.jpg",
+    "width": 4048,
+    "height": 3036
+   },
+   {
+    "path": "assets/photos/new-york-empire-state-building-4.jpg",
+    "artist": "DanielPenfield",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg",
+    "file": "EmpireStateBuilding202086thFloorExteriorNorthwestCorner.jpg",
+    "width": 4048,
+    "height": 3036
+   },
+   {
+    "path": "assets/photos/new-york-empire-state-building-5.jpg",
+    "artist": "PabEnrEsc",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EmpireStateBuilding_highest_point-crop.jpg",
+    "file": "EmpireStateBuilding highest point-crop.jpg",
+    "width": 2009,
+    "height": 2211
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/new-york-empire-state-building-1.mp4",
+    "artist": "the Dronalist",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flight_over_mid_Manhattan_New_York.webm",
+    "file": "Flight over mid Manhattan New York.webm",
+    "frame": "assets/clips/new-york-empire-state-building-1.jpg"
+   }
+  ]
  },
  {
   "city": "New York",
@@ -1813,7 +4781,9 @@
    "file": "100Years 5900 (8435665301).jpg",
    "width": 1920,
    "height": 1276
-  }
+  },
+  "more_photos": [],
+  "clips": []
  },
  {
   "city": "New York",
@@ -1838,7 +4808,55 @@
    "file": "0480New York City Madame Tussauds crop.jpg",
    "width": 2260,
    "height": 1504
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/new-york-times-square-2.jpg",
+    "artist": "chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1_times_square_night_2013.jpg",
+    "file": "1 times square night 2013.jpg",
+    "width": 7360,
+    "height": 4912
+   },
+   {
+    "path": "assets/photos/new-york-times-square-3.jpg",
+    "artist": "Jim Evans",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Camel_Cigaretts_Sign_--_Times_Square_1965.jpg",
+    "file": "Camel Cigaretts Sign -- Times Square 1965.jpg",
+    "width": 3634,
+    "height": 2503
+   },
+   {
+    "path": "assets/photos/new-york-times-square-4.jpg",
+    "artist": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NYC_07_2012_Times_Square_4002.jpg",
+    "file": "NYC 07 2012 Times Square 4002.jpg",
+    "width": 2100,
+    "height": 1400
+   },
+   {
+    "path": "assets/photos/new-york-times-square-5.jpg",
+    "artist": "Gerd Eichmann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_York-Manhattan-50-Times_Square-1982-gje.jpg",
+    "file": "New York-Manhattan-50-Times Square-1982-gje.jpg",
+    "width": 3605,
+    "height": 2164
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/new-york-times-square-1.mp4",
+    "artist": "Voice of America",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:New_York_Battles_Snow_(Bomb_Cyclone_2018).webm",
+    "file": "New York Battles Snow (Bomb Cyclone 2018).webm",
+    "frame": "assets/clips/new-york-times-square-1.jpg"
+   }
+  ]
  },
  {
   "city": "New York",
@@ -1863,7 +4881,46 @@
    "file": "1221 Avenue of the Americas.jpg",
    "width": 6000,
    "height": 4000
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/new-york-rockefeller-center-2.jpg",
+    "artist": "dconvertini",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1230_Avenue_of_the_Americas.jpg",
+    "file": "1230 Avenue of the Americas.jpg",
+    "width": 5953,
+    "height": 3992
+   },
+   {
+    "path": "assets/photos/new-york-rockefeller-center-3.jpg",
+    "artist": "inazakira",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:47_50_Streets_entrance_2010_vc.jpg",
+    "file": "47 50 Streets entrance 2010 vc.jpg",
+    "width": 2592,
+    "height": 1944
+   },
+   {
+    "path": "assets/photos/new-york-rockefeller-center-4.jpg",
+    "artist": "dconvertini",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:75_Rockefeller_Plaza.jpg",
+    "file": "75 Rockefeller Plaza.jpg",
+    "width": 2471,
+    "height": 3706
+   },
+   {
+    "path": "assets/photos/new-york-rockefeller-center-5.jpg",
+    "artist": "David Shankbone",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG",
+    "file": "GE Building by David Shankbone.JPG",
+    "width": 2380,
+    "height": 3204
+   }
+  ],
+  "clips": []
  },
  {
   "city": "New York",
@@ -1888,7 +4945,55 @@
    "file": "26 - New York - Octobre 2008.jpg",
    "width": 18092,
    "height": 3522
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/new-york-central-park-2.jpg",
+    "artist": "Ingfbruno",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2886-Central_Park-The_Ramble.JPG",
+    "file": "2886-Central Park-The Ramble.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/new-york-central-park-3.jpg",
+    "artist": "Ingfbruno",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2910-Central_Park-Conservatory_Pond.JPG",
+    "file": "2910-Central Park-Conservatory Pond.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/new-york-central-park-4.jpg",
+    "artist": "Ingfbruno",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:3015-Central_Park-Sheep_Meadow.JPG",
+    "file": "3015-Central Park-Sheep Meadow.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/new-york-central-park-5.jpg",
+    "artist": "Wil540 art",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:5_11_2022_Central_Park_from_above_looking_north.jpg",
+    "file": "5 11 2022 Central Park from above looking north.jpg",
+    "width": 4032,
+    "height": 3024
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/new-york-central-park-1.mp4",
+    "artist": "NOAA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Heavy_Rains_Cause_Flooding_in_New_York_City_(NESDIS_2023-10-06_2023_10_06_Heavy_Rains_Cause_Flooding_in_NY).webm",
+    "file": "Heavy Rains Cause Flooding in New York City (NESDIS 2023-10-06 2023 10 06 Heavy Rains Cause Flooding in NY).webm",
+    "frame": "assets/clips/new-york-central-park-1.jpg"
+   }
+  ]
  },
  {
   "city": "New York",
@@ -1913,7 +5018,55 @@
    "file": "1325-50 Touyl Reliquienschrein anagoria.JPG",
    "width": 3548,
    "height": 2292
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/new-york-the-met-2.jpg",
+    "artist": "Claude Monet",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1891_Monet_The_four_trees_anagoria.JPG",
+    "file": "1891 Monet The four trees anagoria.JPG",
+    "width": 2008,
+    "height": 1920
+   },
+   {
+    "path": "assets/photos/new-york-the-met-3.jpg",
+    "artist": "Jean Le Noir",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:4_Jean_Le_Noir._Miniature_from_Psalter_of_Bonne_of_Luxemburg_1348-49_Metropolitan_Museum,_N-Y.jpg",
+    "file": "4 Jean Le Noir. Miniature from Psalter of Bonne of Luxemburg 1348-49 Metropolitan Museum, N-Y.jpg",
+    "width": 1953,
+    "height": 1391
+   },
+   {
+    "path": "assets/photos/new-york-the-met-4.jpg",
+    "artist": "Amedeo Modigliani",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Amedeo_Modigliani,_1919,_Jeanne_H%C3%A9buterne,_oil_on_canvas,_91.4_x_73_cm,_Metropolitan_Museum_of_Art.jpg",
+    "file": "Amedeo Modigliani, 1919, Jeanne Hébuterne, oil on canvas, 91.4 x 73 cm, Metropolitan Museum of Art.jpg",
+    "width": 2948,
+    "height": 3690
+   },
+   {
+    "path": "assets/photos/new-york-the-met-5.jpg",
+    "artist": "sailko",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrea_da_giona,_altarpiece_with_christ_in_mayesty,_s._john_the_b.,_s._margareth,_liguria,_1434.JPG",
+    "file": "Andrea da giona, altarpiece with christ in mayesty, s. john the b., s. margareth, liguria, 1434.JPG",
+    "width": 2082,
+    "height": 1773
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/new-york-the-met-1.mp4",
+    "artist": "Lane Rasberry",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dolores_at_Wikipedia_Asian_Month_at_Met_Museum.webm",
+    "file": "Dolores at Wikipedia Asian Month at Met Museum.webm",
+    "frame": "assets/clips/new-york-the-met-1.jpg"
+   }
+  ]
  },
  {
   "city": "Berlin",
@@ -1938,7 +5091,55 @@
    "file": "Berlin Aug.98 - 3.jpg",
    "width": 1911,
    "height": 1289
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/berlin-reichstag-2.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Reichstag_mit_Bismarck_Denkmal_um_1900.jpg",
+    "file": "Berlin Reichstag mit Bismarck Denkmal um 1900.jpg",
+    "width": 2957,
+    "height": 2233
+   },
+   {
+    "path": "assets/photos/berlin-reichstag-3.jpg",
+    "artist": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_nachts.jpg",
+    "file": "Brandenburger Tor nachts.jpg",
+    "width": 5138,
+    "height": 2584
+   },
+   {
+    "path": "assets/photos/berlin-reichstag-4.jpg",
+    "artist": "Hermann Rückwardt",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigsplatz_Berlin,_um_1880.jpg",
+    "file": "Königsplatz Berlin, um 1880.jpg",
+    "width": 3000,
+    "height": 1935
+   },
+   {
+    "path": "assets/photos/berlin-reichstag-5.jpg",
+    "artist": "Евгений Тиханов (ТАСС)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:RIAN_2569121_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B5%D0%BD%D0%B0%D1%85_%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3%D0%B0,_%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D1%8F_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0.jpg",
+    "file": "RIAN 2569121 Памятные надписи на стенах Рейхстага, оставленные советскими солдатами после взятия Берлина.jpg",
+    "width": 5416,
+    "height": 3543
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/berlin-reichstag-1.mp4",
+    "artist": "Ranjithsiji",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Playing_trumpet_near_Reichstag_Building_in_Berlin_VID_20191027_103611.webm",
+    "file": "Playing trumpet near Reichstag Building in Berlin VID 20191027 103611.webm",
+    "frame": "assets/clips/berlin-reichstag-1.jpg"
+   }
+  ]
  },
  {
   "city": "Berlin",
@@ -1963,7 +5164,55 @@
    "file": "00 2486 Quadriga - Brandenburger Tor (Berlin).jpg",
    "width": 3600,
    "height": 2400
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/berlin-brandenburg-gate-2.jpg",
+    "artist": "Johann Carl Richter (1759–1838)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1795ca_Johann-Carl-Richter_Propyleen%2BBrandenburger-Tor.jpg",
+    "file": "1795ca Johann-Carl-Richter Propyleen+Brandenburger-Tor.jpg",
+    "width": 2098,
+    "height": 2827
+   },
+   {
+    "path": "assets/photos/berlin-brandenburg-gate-3.jpg",
+    "artist": "Simon",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1820-Grundriss-Brandenburger-Tor.jpg",
+    "file": "1820-Grundriss-Brandenburger-Tor.jpg",
+    "width": 2253,
+    "height": 1314
+   },
+   {
+    "path": "assets/photos/berlin-brandenburg-gate-4.jpg",
+    "artist": "Axel Mauruszat",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:2005-10-26_Brandenburger-Tor.JPG",
+    "file": "2005-10-26 Brandenburger-Tor.JPG",
+    "width": 2048,
+    "height": 1536
+   },
+   {
+    "path": "assets/photos/berlin-brandenburg-gate-5.jpg",
+    "artist": "Martin Rulsch, Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-09-17_Brandenburger_Tor_mit_oranger_Farbe.jpg",
+    "file": "2023-09-17 Brandenburger Tor mit oranger Farbe.jpg",
+    "width": 4080,
+    "height": 2509
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/berlin-brandenburg-gate-1.mp4",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_FreeNavalny_Birthday_rally_asv2023-06_short_video.webm",
+    "file": "Berlin FreeNavalny Birthday rally asv2023-06 short video.webm",
+    "frame": "assets/clips/berlin-brandenburg-gate-1.jpg"
+   }
+  ]
  },
  {
   "city": "Berlin",
@@ -1988,7 +5237,37 @@
    "file": "Brandenburger Tor nachts.jpg",
    "width": 5138,
    "height": 2584
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/berlin-checkpoint-charlie-2.jpg",
+    "artist": "StoveTable",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Checkpoint_Charlie_Tourist.jpg",
+    "file": "Checkpoint Charlie Tourist.jpg",
+    "width": 1704,
+    "height": 1997
+   },
+   {
+    "path": "assets/photos/berlin-checkpoint-charlie-3.jpg",
+    "artist": "U.S. Army photo Photo Credit: USAMHI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:US_Army_tanks_face_off_against_Soviet_tanks,_Berlin_1961.jpg",
+    "file": "US Army tanks face off against Soviet tanks, Berlin 1961.jpg",
+    "width": 2000,
+    "height": 1507
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/berlin-checkpoint-charlie-1.mp4",
+    "artist": "U.S. Army video by Sgt. Sarla Dominguez",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Explore_Europe-Berlin_(1026759).webm",
+    "file": "Explore Europe-Berlin (1026759).webm",
+    "frame": "assets/clips/berlin-checkpoint-charlie-1.jpg"
+   }
+  ]
  },
  {
   "city": "Berlin",
@@ -2013,7 +5292,55 @@
    "file": "AlteNationalgalerie 1a.jpg",
    "width": 2272,
    "height": 1704
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/berlin-museum-island-2.jpg",
+    "artist": "Asio otus",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin-BerlinerSchloss-2-Asio_(cropped).JPG",
+    "file": "Berlin-BerlinerSchloss-2-Asio (cropped).JPG",
+    "width": 4295,
+    "height": 3140
+   },
+   {
+    "path": "assets/photos/berlin-museum-island-3.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_James-Simon-Galerie_asv2019-07_img1.jpg",
+    "file": "Berlin James-Simon-Galerie asv2019-07 img1.jpg",
+    "width": 7004,
+    "height": 4669
+   },
+   {
+    "path": "assets/photos/berlin-museum-island-4.jpg",
+    "artist": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Museumsinsel_Fernsehturm.jpg",
+    "file": "Berlin Museumsinsel Fernsehturm.jpg",
+    "width": 5454,
+    "height": 3684
+   },
+   {
+    "path": "assets/photos/berlin-museum-island-5.jpg",
+    "artist": "Ksaraf",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berliner_Dom_Museum_Island.jpg",
+    "file": "Berliner Dom Museum Island.jpg",
+    "width": 7348,
+    "height": 2611
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/berlin-museum-island-1.mp4",
+    "artist": "IgorCalzone1",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Er%C3%B6ffnung_des_Berlinale_Summer_Special_auf_der_Museumsinsel_am_9_Juni_2021_(Video_1).webm",
+    "file": "Eröffnung des Berlinale Summer Special auf der Museumsinsel am 9 Juni 2021 (Video 1).webm",
+    "frame": "assets/clips/berlin-museum-island-1.jpg"
+   }
+  ]
  },
  {
   "city": "Berlin",
@@ -2038,7 +5365,55 @@
    "file": ".00 1039 Berliner Dom, Altar.jpg",
    "width": 3900,
    "height": 2600
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/berlin-berlin-cathedral-2.jpg",
+    "artist": "Ansgar Koreng",
+    "license": "CC BY 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:141227_Berliner_Dom.jpg",
+    "file": "141227 Berliner Dom.jpg",
+    "width": 4182,
+    "height": 2928
+   },
+   {
+    "path": "assets/photos/berlin-berlin-cathedral-3.jpg",
+    "artist": "Johann David Schleuen",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1736_Domkirche.jpg",
+    "file": "1736 Domkirche.jpg",
+    "width": 2000,
+    "height": 2180
+   },
+   {
+    "path": "assets/photos/berlin-berlin-cathedral-4.jpg",
+    "artist": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Berliner_Dom_-_Westfassade_--_01.jpg",
+    "file": "2023 Berliner Dom - Westfassade -- 01.jpg",
+    "width": 3704,
+    "height": 2778
+   },
+   {
+    "path": "assets/photos/berlin-berlin-cathedral-5.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Berliner-Dom-1905-Grundriss.jpg",
+    "file": "Berliner-Dom-1905-Grundriss.jpg",
+    "width": 1804,
+    "height": 1219
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/berlin-berlin-cathedral-1.mp4",
+    "artist": "Morn",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Cathedral_with_bells_ringing.webm",
+    "file": "Berlin Cathedral with bells ringing.webm",
+    "frame": "assets/clips/berlin-berlin-cathedral-1.jpg"
+   }
+  ]
  },
  {
   "city": "Istanbul",
@@ -2063,7 +5438,55 @@
    "file": "2013-01-02 Topkapı Palace 22.jpg",
    "width": 2700,
    "height": 1800
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-topkap-palace-2.jpg",
+    "artist": "Maksym Kozlenko",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2013-01-02_Topkap%C4%B1_Palace_54.jpg",
+    "file": "2013-01-02 Topkapı Palace 54.jpg",
+    "width": 2700,
+    "height": 1800
+   },
+   {
+    "path": "assets/photos/istanbul-topkap-palace-3.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131204_Istanbul_031.jpg",
+    "file": "20131204 Istanbul 031.jpg",
+    "width": 3968,
+    "height": 2976
+   },
+   {
+    "path": "assets/photos/istanbul-topkap-palace-4.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131204_Istanbul_085.jpg",
+    "file": "20131204 Istanbul 085.jpg",
+    "width": 3968,
+    "height": 2976
+   },
+   {
+    "path": "assets/photos/istanbul-topkap-palace-5.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131204_Istanbul_198.jpg",
+    "file": "20131204 Istanbul 198.jpg",
+    "width": 3673,
+    "height": 3001
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/istanbul-topkap-palace-1.mp4",
+    "artist": "yasin ilcebay",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:One_Day_in_Istanbul_4K.webm",
+    "file": "One Day in Istanbul 4K.webm",
+    "frame": "assets/clips/istanbul-topkap-palace-1.jpg"
+   }
+  ]
  },
  {
   "city": "Istanbul",
@@ -2088,7 +5511,55 @@
    "file": "2. Seraph angel. 13th century CE. Ceiling mosaics, Hagia Sophia, Istanbul, Turkey.jpg",
    "width": 4016,
    "height": 6016
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-hagia-sophia-2.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131203_Istanbul_048.jpg",
+    "file": "20131203 Istanbul 048.jpg",
+    "width": 3968,
+    "height": 2976
+   },
+   {
+    "path": "assets/photos/istanbul-hagia-sophia-3.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131203_Istanbul_091.jpg",
+    "file": "20131203 Istanbul 091.jpg",
+    "width": 2761,
+    "height": 2842
+   },
+   {
+    "path": "assets/photos/istanbul-hagia-sophia-4.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131203_Istanbul_100.jpg",
+    "file": "20131203 Istanbul 100.jpg",
+    "width": 2976,
+    "height": 3968
+   },
+   {
+    "path": "assets/photos/istanbul-hagia-sophia-5.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131203_Istanbul_130.jpg",
+    "file": "20131203 Istanbul 130.jpg",
+    "width": 3968,
+    "height": 2976
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/istanbul-hagia-sophia-1.mp4",
+    "artist": "ZDF/Terra X/Bilderfest/M. Richter-Jähnig/H. Neuhäuser/K. Weiss/M. Heß",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Hagia_Sophia_in_Istanbul.webm",
+    "file": "Die Hagia Sophia in Istanbul.webm",
+    "frame": "assets/clips/istanbul-hagia-sophia-1.jpg"
+   }
+  ]
  },
  {
   "city": "Istanbul",
@@ -2113,23 +5584,119 @@
    "file": "Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 40-42 HDR.jpg",
    "width": 8111,
    "height": 5407
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-basilica-cistern-2.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_52-54_HDR.jpg",
+    "file": "Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 52-54 HDR.jpg",
+    "width": 7304,
+    "height": 5643
+   },
+   {
+    "path": "assets/photos/istanbul-basilica-cistern-3.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_58-60_HDR.jpg",
+    "file": "Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg",
+    "width": 5495,
+    "height": 8505
+   },
+   {
+    "path": "assets/photos/istanbul-basilica-cistern-4.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_73-75_HDR.jpg",
+    "file": "Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 73-75 HDR.jpg",
+    "width": 8362,
+    "height": 5575
+   },
+   {
+    "path": "assets/photos/istanbul-basilica-cistern-5.jpg",
+    "artist": "chtsrl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yerebatan_Sarn%C4%B1c%C4%B1_Istanbul.jpg",
+    "file": "Yerebatan Sarnıcı Istanbul.jpg",
+    "width": 3024,
+    "height": 4032
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/istanbul-basilica-cistern-1.mp4",
+    "artist": "yasin ilcebay",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:One_Day_in_Istanbul_4K.webm",
+    "file": "One Day in Istanbul 4K.webm",
+    "frame": "assets/clips/istanbul-basilica-cistern-1.jpg"
+   }
+  ]
  },
  {
   "city": "Istanbul",
   "name": "Blue Mosque",
-  "title": "Blue Mosque",
-  "url": "https://en.wikipedia.org/wiki/Blue_Mosque",
-  "description": "Topics referred to by the same term",
-  "extract": "Blue Mosque may refer to:",
-  "lat": null,
-  "lon": null,
+  "title": "Blue Mosque, Istanbul",
+  "url": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul",
+  "description": "17th-century mosque in Turkey",
+  "extract": "The Sultan Ahmed Mosque, popularly known as the Blue Mosque, is an Ottoman-era historical imperial mosque located in Istanbul, Turkey. It was constructed between 1609 and 1617 during the rule of Ahmed I. It attracts a large number of tourists and is one of the most iconic and popular monuments of Ottoman architecture.",
+  "lat": 41.0053851,
+  "lon": 28.9768247,
   "deck": [
    41.00539,
    28.97682
   ],
-  "deck_km": null,
-  "slug": "istanbul-blue-mosque"
+  "deck_km": 0.0,
+  "slug": "istanbul-blue-mosque",
+  "photo": {
+   "path": "assets/photos/istanbul-blue-mosque.jpg",
+   "artist": "Maksym Kozlenko",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2013-01-03_Istanbul_112.jpg",
+   "file": "2013-01-03 Istanbul 112.jpg",
+   "width": 2700,
+   "height": 1800
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-blue-mosque-2.jpg",
+    "artist": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20131202_Istanbul_092.jpg",
+    "file": "20131202 Istanbul 092.jpg",
+    "width": 3968,
+    "height": 2976
+   },
+   {
+    "path": "assets/photos/istanbul-blue-mosque-3.jpg",
+    "artist": "H005",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blaue_Moschee_Seitenkuppel.jpg",
+    "file": "Blaue Moschee Seitenkuppel.jpg",
+    "width": 4192,
+    "height": 2781
+   },
+   {
+    "path": "assets/photos/istanbul-blue-mosque-4.jpg",
+    "artist": "Rev Stan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_-_Istanbul.jpg",
+    "file": "Blue Mosque - Istanbul.jpg",
+    "width": 2560,
+    "height": 1920
+   },
+   {
+    "path": "assets/photos/istanbul-blue-mosque-5.jpg",
+    "artist": "Christian Perez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_2.jpg",
+    "file": "Blue Mosque 2.jpg",
+    "width": 5184,
+    "height": 3456
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Istanbul",
@@ -2154,7 +5721,46 @@
    "file": "20101222 interior1 Kucuk Ayasofya Mosque Istanbul Turkey.jpg",
    "width": 2711,
    "height": 3886
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-little-hagia-sophia-2.jpg",
+    "artist": "Bollweevil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Sergius_and_Bacchus_Church-2.JPG",
+    "file": "Interior of Sergius and Bacchus Church-2.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/istanbul-little-hagia-sophia-3.jpg",
+    "artist": "Bollweevil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Sergius_and_Bacchus_Church-3.JPG",
+    "file": "Interior of Sergius and Bacchus Church-3.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/istanbul-little-hagia-sophia-4.jpg",
+    "artist": "Bollweevil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Sergius_and_Bacchus_Church-5.JPG",
+    "file": "Interior of Sergius and Bacchus Church-5.JPG",
+    "width": 5184,
+    "height": 3456
+   },
+   {
+    "path": "assets/photos/istanbul-little-hagia-sophia-5.jpg",
+    "artist": "Bollweevil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Sergius_and_Bacchus_Church-6.JPG",
+    "file": "Interior of Sergius and Bacchus Church-6.JPG",
+    "width": 3456,
+    "height": 5184
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Istanbul",
@@ -2179,7 +5785,46 @@
    "file": "2020 Suleymaniye mosque, prayer hall, muezzin's gallery.jpg",
    "width": 2891,
    "height": 3854
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-suleymaniye-mosque-2.jpg",
+    "artist": "Myrabella",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cour_mosquee_Suleymaniye_Istanbul.jpg",
+    "file": "Cour mosquee Suleymaniye Istanbul.jpg",
+    "width": 3301,
+    "height": 2840
+   },
+   {
+    "path": "assets/photos/istanbul-suleymaniye-mosque-3.jpg",
+    "artist": "Moonik",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Courtyard_of_the_S%C3%BCleymaniye_Mosque_in_Istanbul,_Turkey_001.jpg",
+    "file": "Courtyard of the Süleymaniye Mosque in Istanbul, Turkey 001.jpg",
+    "width": 4066,
+    "height": 2366
+   },
+   {
+    "path": "assets/photos/istanbul-suleymaniye-mosque-4.jpg",
+    "artist": "Moonik",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_S%C3%BCleymaniye_Mosque_in_Istanbul,_Turkey_002.jpg",
+    "file": "Exterior of the Süleymaniye Mosque in Istanbul, Turkey 002.jpg",
+    "width": 3258,
+    "height": 3603
+   },
+   {
+    "path": "assets/photos/istanbul-suleymaniye-mosque-5.jpg",
+    "artist": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Roxelane_Mausoleum_in_2017_3631.jpg",
+    "file": "Istanbul Roxelane Mausoleum in 2017 3631.jpg",
+    "width": 4928,
+    "height": 3280
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Paris",
@@ -2204,7 +5849,55 @@
    "file": "Alphonse-Louis Poitevin, The Pantheon, 1842.jpg",
    "width": 3144,
    "height": 4381
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-pantheon-2.jpg",
+    "artist": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/es",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Antoine-Jean_Gros_005.jpg",
+    "file": "Antoine-Jean Gros 005.jpg",
+    "width": 4016,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/paris-pantheon-3.jpg",
+    "artist": "Britchi Mirela",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bastet_cat_in_a_tomb_in_the_Panth%C3%A9on,_Paris,_France.jpg",
+    "file": "Bastet cat in a tomb in the Panthéon, Paris, France.jpg",
+    "width": 3220,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/paris-pantheon-4.jpg",
+    "artist": "Jebulon",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Colonnes_chapiteaux_pantheon.jpg",
+    "file": "Colonnes chapiteaux pantheon.jpg",
+    "width": 2224,
+    "height": 3344
+   },
+   {
+    "path": "assets/photos/paris-pantheon-5.jpg",
+    "artist": "Paris91 (remix); original by Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dome_Panth%C3%A9on_Paris_23_detail.jpg",
+    "file": "Dome Panthéon Paris 23 detail.jpg",
+    "width": 5184,
+    "height": 3456
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-pantheon-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon,_Paris_120131.webm",
+    "file": "Pantheon, Paris 120131.webm",
+    "frame": "assets/clips/paris-pantheon-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2229,7 +5922,55 @@
    "file": "050903 Paris 052 NotreDame memoriaInglesi.JPG",
    "width": 1704,
    "height": 2272
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-notre-dame-2.jpg",
+    "artist": "Zmorgan",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1_Tomb_in_ambulatory,_Notre_Dame_in_Paris,_ZM.JPG",
+    "file": "1 Tomb in ambulatory, Notre Dame in Paris, ZM.JPG",
+    "width": 3264,
+    "height": 2448
+   },
+   {
+    "path": "assets/photos/paris-notre-dame-3.jpg",
+    "artist": "Thomas Bresson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016-02-23_15-56-57_paris.jpg",
+    "file": "2016-02-23 15-56-57 paris.jpg",
+    "width": 3648,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/paris-notre-dame-4.jpg",
+    "artist": "H2ofranck",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:3h20.jpg",
+    "file": "3h20.jpg",
+    "width": 1600,
+    "height": 1200
+   },
+   {
+    "path": "assets/photos/paris-notre-dame-5.jpg",
+    "artist": "No machine-readable author provided. Chosovi assumed (based on copyrig",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Alegor%C3%ADa_de_la_alquimia_en_Notre-Dame.jpg",
+    "file": "Alegoría de la alquimia en Notre-Dame.jpg",
+    "width": 2139,
+    "height": 1492
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-notre-dame-1.mp4",
+    "artist": "Tasnim News Agency",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Video_Shows_Damage_Done_to_Notre_Dame_Cathedral_by_Fire_-_Wo.webm",
+    "file": "Video Shows Damage Done to Notre Dame Cathedral by Fire - Wo.webm",
+    "frame": "assets/clips/paris-notre-dame-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2254,7 +5995,55 @@
    "file": "Akhenathon and Nefertiti E15593 mp3h8771-gradient.jpg",
    "width": 3500,
    "height": 3500
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-louvre-2.jpg",
+    "artist": "Antonio Canova",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amor-Psyche-Canova-JBU02.JPG",
+    "file": "Amor-Psyche-Canova-JBU02.JPG",
+    "width": 3209,
+    "height": 3212
+   },
+   {
+    "path": "assets/photos/paris-louvre-3.jpg",
+    "artist": "Leandro Neumann Ciuffo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Apartamentos_de_Napole%C3%A3o_(3666688904).jpg",
+    "file": "Apartamentos de Napoleão (3666688904).jpg",
+    "width": 1600,
+    "height": 1200
+   },
+   {
+    "path": "assets/photos/paris-louvre-4.jpg",
+    "artist": "Daniel Perez Sutil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Appartements_Napol%C3%A9on_III.jpg",
+    "file": "Appartements Napoléon III.jpg",
+    "width": 3888,
+    "height": 2592
+   },
+   {
+    "path": "assets/photos/paris-louvre-5.jpg",
+    "artist": "JackyM59",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg",
+    "file": "Arcimboldo - Les saisons - Le printemps - Sans cadre.jpg",
+    "width": 3749,
+    "height": 4625
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-louvre-1.mp4",
+    "artist": "Video: Mathias LeroyMusic: Frédéric ChopinPerformance: Tony Jin (to re",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Un_Hiver_%C3%A0_Paris_-_Vimeo.webm",
+    "file": "Un Hiver à Paris - Vimeo.webm",
+    "frame": "assets/clips/paris-louvre-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2279,7 +6068,55 @@
    "file": "Bouguereau - égalité devant la mort 1848.jpg",
    "width": 4134,
    "height": 2185
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-musee-d-orsay-2.jpg",
+    "artist": "Paul Cézanne",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Card_Players-Paul_Cezanne.jpg",
+    "file": "Card Players-Paul Cezanne.jpg",
+    "width": 2048,
+    "height": 1747
+   },
+   {
+    "path": "assets/photos/paris-musee-d-orsay-3.jpg",
+    "artist": "Gustave Courbet",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Courbet_LAtelier_du_peintre.jpg",
+    "file": "Courbet LAtelier du peintre.jpg",
+    "width": 16951,
+    "height": 9989
+   },
+   {
+    "path": "assets/photos/paris-musee-d-orsay-4.jpg",
+    "artist": "Edgar Degas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg",
+    "file": "EDGAR DEGAS - En un café o La Absenta (Museo de Orsay, París, 1873. Óleo sobre lienzo, 92 x 68.5 cm).jpg",
+    "width": 3936,
+    "height": 5400
+   },
+   {
+    "path": "assets/photos/paris-musee-d-orsay-5.jpg",
+    "artist": "Edgar Degas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg",
+    "file": "Edgar Degas - In a Café - Google Art Project 2.jpg",
+    "width": 3936,
+    "height": 5400
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-musee-d-orsay-1.mp4",
+    "artist": "Naila Ramah for Wikimedia Foundation. Full credits list available in t",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wikimania_Paris_Opening_Video.webm",
+    "file": "Wikimania Paris Opening Video.webm",
+    "frame": "assets/clips/paris-musee-d-orsay-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2304,7 +6141,55 @@
    "file": "1000 Eiffel tower night illumination by Pierre Bideau in Paris Photo by Giles Laurent.jpg",
    "width": 3686,
    "height": 5529
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-eiffel-tower-2.jpg",
+    "artist": "Yann Caradec from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2013_Fireworks_on_Eiffel_Tower_11.jpg",
+    "file": "2013 Fireworks on Eiffel Tower 11.jpg",
+    "width": 3931,
+    "height": 2948
+   },
+   {
+    "path": "assets/photos/paris-eiffel-tower-3.jpg",
+    "artist": "Lokeswaran Kaliyappan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_by_Loki.jpg",
+    "file": "Eiffel tower by Loki.jpg",
+    "width": 2724,
+    "height": 2724
+   },
+   {
+    "path": "assets/photos/paris-eiffel-tower-4.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Exposition_Universelle_de_Paris_1889_-_Universit%C3%A4ts-_und_Landesbibliothek_Darmstadt.jpg",
+    "file": "Exposition Universelle de Paris 1889 - Universitäts- und Landesbibliothek Darmstadt.jpg",
+    "width": 6288,
+    "height": 4432
+   },
+   {
+    "path": "assets/photos/paris-eiffel-tower-5.jpg",
+    "artist": "Serge Melki from Indianapolis, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gustaves_Apartment_-_Eiffel_(3384390462).jpg",
+    "file": "Gustaves Apartment - Eiffel (3384390462).jpg",
+    "width": 4288,
+    "height": 2848
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-eiffel-tower-1.mp4",
+    "artist": "Duclos Alexis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Covid19_Avril_2020.webm",
+    "file": "Paris Covid19 Avril 2020.webm",
+    "frame": "assets/clips/paris-eiffel-tower-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2329,7 +6214,55 @@
    "file": "Antoine Étex, Der Friede von 1815, Halbrelief, Arc de Triomphe, Paris.jpg",
    "width": 3728,
    "height": 4990
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-arc-de-triomphe-2.jpg",
+    "artist": "Steve CIMOLINO",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ArcTriompheParis.jpg",
+    "file": "ArcTriompheParis.jpg",
+    "width": 28176,
+    "height": 2475
+   },
+   {
+    "path": "assets/photos/paris-arc-de-triomphe-3.jpg",
+    "artist": "ZeusUpsistos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg",
+    "file": "Arc de Triomphe - Août 2026.jpg",
+    "width": 4802,
+    "height": 3203
+   },
+   {
+    "path": "assets/photos/paris-arc-de-triomphe-4.jpg",
+    "artist": "edwin.11",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_May_7,_2008.jpg",
+    "file": "Arc de Triomphe May 7, 2008.jpg",
+    "width": 3008,
+    "height": 2000
+   },
+   {
+    "path": "assets/photos/paris-arc-de-triomphe-5.jpg",
+    "artist": "Guillaume Baviere from Helsingborg, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%C3%89toile,_Paris_7_June_2012.jpg",
+    "file": "Arc de Triomphe de lÉtoile, Paris 7 June 2012.jpg",
+    "width": 4566,
+    "height": 2923
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-arc-de-triomphe-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%27%C3%89toile,_Paris_083430.webm",
+    "file": "Arc de Triomphe de l'Étoile, Paris 083430.webm",
+    "frame": "assets/clips/paris-arc-de-triomphe-1.jpg"
+   }
+  ]
  },
  {
   "city": "Istanbul",
@@ -2351,7 +6284,46 @@
    "file": "03306-Istanbul-DolmabahcePalace (3446813334).jpg",
    "width": 2048,
    "height": 1536
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-dolmabahce-palace-2.jpg",
+    "artist": "flowcomm",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Istanbul_Turkey.jpg",
+    "file": "Dolmabahce Istanbul Turkey.jpg",
+    "width": 4365,
+    "height": 2385
+   },
+   {
+    "path": "assets/photos/istanbul-dolmabahce-palace-3.jpg",
+    "artist": "Mircea Ostoia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Palacasdfe.jpg",
+    "file": "Dolmabahce Palacasdfe.jpg",
+    "width": 3008,
+    "height": 2000
+   },
+   {
+    "path": "assets/photos/istanbul-dolmabahce-palace-4.jpg",
+    "artist": "KLMircea",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Palace_(3219625821).jpg",
+    "file": "Dolmabahce Palace (3219625821).jpg",
+    "width": 3008,
+    "height": 2000
+   },
+   {
+    "path": "assets/photos/istanbul-dolmabahce-palace-5.jpg",
+    "artist": "KLMircea",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dolmabahce_Palace_(3219626631).jpg",
+    "file": "Dolmabahce Palace (3219626631).jpg",
+    "width": 3008,
+    "height": 2000
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Istanbul",
@@ -2373,7 +6345,55 @@
    "file": "20131205 Istanbul 311.jpg",
    "width": 3968,
    "height": 2976
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-galata-tower-2.jpg",
+    "artist": "Fatih Yasin Köroğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_circular_window_of_the_Galata_Tower_(5th_floor)-3.jpg",
+    "file": "A circular window of the Galata Tower (5th floor)-3.jpg",
+    "width": 3024,
+    "height": 4032
+   },
+   {
+    "path": "assets/photos/istanbul-galata-tower-3.jpg",
+    "artist": "Fatih Yasin Köroğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_inscription_from_the_Walls_of_Galata-3.jpg",
+    "file": "An inscription from the Walls of Galata-3.jpg",
+    "width": 3024,
+    "height": 4032
+   },
+   {
+    "path": "assets/photos/istanbul-galata-tower-4.jpg",
+    "artist": "Fatih Yasin Köroğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_inscription_from_the_Walls_of_Galata.jpg",
+    "file": "An inscription from the Walls of Galata.jpg",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "path": "assets/photos/istanbul-galata-tower-5.jpg",
+    "artist": "Basak",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bereketzade_%C3%87e%C5%9Fmesi.jpg",
+    "file": "Bereketzade Çeşmesi.jpg",
+    "width": 3024,
+    "height": 4032
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/istanbul-galata-tower-1.mp4",
+    "artist": "yasin ilcebay",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:One_Day_in_Istanbul_4K.webm",
+    "file": "One Day in Istanbul 4K.webm",
+    "frame": "assets/clips/istanbul-galata-tower-1.jpg"
+   }
+  ]
  },
  {
   "city": "Istanbul",
@@ -2395,7 +6415,37 @@
    "file": "Istanbul Kız Kulesi (54511155871) (cropped).jpg",
    "width": 2628,
    "height": 2950
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/istanbul-maiden-s-tower-2.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img53_Maiden%27s_Tower.jpg",
+    "file": "Istanbul asv2020-02 img53 Maiden's Tower.jpg",
+    "width": 5005,
+    "height": 5005
+   },
+   {
+    "path": "assets/photos/istanbul-maiden-s-tower-3.jpg",
+    "artist": "Sadrettin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_bogazici_siluet.jpg",
+    "file": "Istanbul bogazici siluet.jpg",
+    "width": 5994,
+    "height": 1704
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/istanbul-maiden-s-tower-1.mp4",
+    "artist": "yasin ilcebay",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:One_Day_in_Istanbul_4K.webm",
+    "file": "One Day in Istanbul 4K.webm",
+    "frame": "assets/clips/istanbul-maiden-s-tower-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2417,7 +6467,55 @@
    "file": "04-2017. París-4.jpg",
    "width": 5333,
    "height": 3555
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-sacre-cur-2.jpg",
+    "artist": "Thomas Bresson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018-02-21_10-18-36_sacr%C3%A9-coeur-paris.jpg",
+    "file": "2018-02-21 10-18-36 sacré-coeur-paris.jpg",
+    "width": 2521,
+    "height": 2579
+   },
+   {
+    "path": "assets/photos/paris-sacre-cur-3.jpg",
+    "artist": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_fa%C3%A7ade_sud_Paris_11.jpg",
+    "file": "Basilique Sacré Cœur Montmartre façade sud Paris 11.jpg",
+    "width": 3707,
+    "height": 4081
+   },
+   {
+    "path": "assets/photos/paris-sacre-cur-4.jpg",
+    "artist": "Serge Ottaviani",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre-_Saint_Hubert_-_Duchesse_d%27Uz%C3%A9s_dite_Manuela_1889.JPG",
+    "file": "Basilique du Sacré-Cœur de Montmartre- Saint Hubert - Duchesse d'Uzés dite Manuela 1889.JPG",
+    "width": 2302,
+    "height": 2626
+   },
+   {
+    "path": "assets/photos/paris-sacre-cur-5.jpg",
+    "artist": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilique_du_Sacr%C3%A9_C%C5%93ur_de_Montmartre_@_Paris_(33387632454).jpg",
+    "file": "Basilique du Sacré Cœur de Montmartre @ Paris (33387632454).jpg",
+    "width": 3648,
+    "height": 5472
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-sacre-cur-1.mp4",
+    "artist": "Alex Soloviev",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:People_of_Montmartre_-_Paris_-_Canon_RAW.webm",
+    "file": "People of Montmartre - Paris - Canon RAW.webm",
+    "frame": "assets/clips/paris-sacre-cur-1.jpg"
+   }
+  ]
  },
  {
   "city": "Paris",
@@ -2439,7 +6537,55 @@
    "file": "18th stage Tour de France 2025 (92).jpg",
    "width": 3644,
    "height": 2319
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/paris-champs-elysees-2.jpg",
+    "artist": "Burgermac from Pornichet, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_news_kiosk_Paris_1406808950.jpg",
+    "file": "2007 news kiosk Paris 1406808950.jpg",
+    "width": 2724,
+    "height": 2043
+   },
+   {
+    "path": "assets/photos/paris-champs-elysees-3.jpg",
+    "artist": "Ninara from Helsinki, Finland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%27%C3%89toile_at_night_(38945430622).jpg",
+    "file": "Arc de Triomphe de l'Étoile at night (38945430622).jpg",
+    "width": 3632,
+    "height": 1651
+   },
+   {
+    "path": "assets/photos/paris-champs-elysees-4.jpg",
+    "artist": "Jebulon",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenue_des_Champs-Elys%C3%A9es_from_top_of_Arc_de_triomphe_Paris.jpg",
+    "file": "Avenue des Champs-Elysées from top of Arc de triomphe Paris.jpg",
+    "width": 2073,
+    "height": 3115
+   },
+   {
+    "path": "assets/photos/paris-champs-elysees-5.jpg",
+    "artist": "Jon Kragh",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenue_des_Champs-%C3%89lys%C3%A9es,_Paris_15_July_2006.jpg",
+    "file": "Avenue des Champs-Élysées, Paris 15 July 2006.jpg",
+    "width": 3456,
+    "height": 2304
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/paris-champs-elysees-1.mp4",
+    "artist": "Ambroise-François Parnaland",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Street_Traffic_on_the_Champs-%C3%89lys%C3%A9es,_Paris,_1898.webm",
+    "file": "Street Traffic on the Champs-Élysées, Paris, 1898.webm",
+    "frame": "assets/clips/paris-champs-elysees-1.jpg"
+   }
+  ]
  },
  {
   "city": "Rome",
@@ -2461,7 +6607,46 @@
    "file": "01 Baldacchino St Peter's.jpg",
    "width": 6000,
    "height": 4911
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-st-peter-s-basilica-2.jpg",
+    "artist": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:01_St_Peter%27s_Bramante_Crossing.jpg",
+    "file": "01 St Peter's Bramante Crossing.jpg",
+    "width": 6000,
+    "height": 4500
+   },
+   {
+    "path": "assets/photos/rome-st-peter-s-basilica-3.jpg",
+    "artist": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_Monument_fun%C3%A9raire_du_pape_Alexandre_VII_-_St-Pierre_-_Vatican_(1).jpg",
+    "file": "0 Monument funéraire du pape Alexandre VII - St-Pierre - Vatican (1).jpg",
+    "width": 2592,
+    "height": 3888
+   },
+   {
+    "path": "assets/photos/rome-st-peter-s-basilica-4.jpg",
+    "artist": "Eugene Pivovarov",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_(notte).jpg",
+    "file": "Basilica di San Pietro (notte).jpg",
+    "width": 4272,
+    "height": 2848
+   },
+   {
+    "path": "assets/photos/rome-st-peter-s-basilica-5.jpg",
+    "artist": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "file": "Basilica di San Pietro in Vaticano September 2015-1a.jpg",
+    "width": 13066,
+    "height": 6823
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Rome",
@@ -2483,7 +6668,46 @@
    "file": "Angels Sant'Angelo Bridge 1.jpg",
    "width": 10415,
    "height": 3679
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-castel-sant-angelo-2.jpg",
+    "artist": "Livioandronico2013",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_at_Night.jpg",
+    "file": "Castel Sant'Angelo at Night.jpg",
+    "width": 4301,
+    "height": 3852
+   },
+   {
+    "path": "assets/photos/rome-castel-sant-angelo-3.jpg",
+    "artist": "Julian Lupyan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_from_Southeast,_Rome,_Italy.jpg",
+    "file": "Castel Sant'Angelo from Southeast, Rome, Italy.jpg",
+    "width": 4142,
+    "height": 3045
+   },
+   {
+    "path": "assets/photos/rome-castel-sant-angelo-4.jpg",
+    "artist": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Engelsburg_und_Engelsbr%C3%BCcke_abends.jpg",
+    "file": "Engelsburg und Engelsbrücke abends.jpg",
+    "width": 7471,
+    "height": 4844
+   },
+   {
+    "path": "assets/photos/rome-castel-sant-angelo-5.jpg",
+    "artist": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Castel_Sant%27Angelo_10_(15442805966).jpg",
+    "file": "View from Castel Sant'Angelo 10 (15442805966).jpg",
+    "width": 4000,
+    "height": 3000
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Rome",
@@ -2505,7 +6729,55 @@
    "file": "20160422 107 Roma - Pantheon (26078747133).jpg",
    "width": 5180,
    "height": 3368
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-pantheon-2.jpg",
+    "artist": "Jfabrix101",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190406-DSC5193_Panteon.jpg",
+    "file": "20190406-DSC5193 Panteon.jpg",
+    "width": 6000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/rome-pantheon-3.jpg",
+    "artist": "Cimabue",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cimabue_007.jpg",
+    "file": "Cimabue 007.jpg",
+    "width": 2024,
+    "height": 2467
+   },
+   {
+    "path": "assets/photos/rome-pantheon-4.jpg",
+    "artist": "Stefan Bauer",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Einblick_Panorama_Pantheon_Rom.jpg",
+    "file": "Einblick Panorama Pantheon Rom.jpg",
+    "width": 1600,
+    "height": 667
+   },
+   {
+    "path": "assets/photos/rome-pantheon-5.jpg",
+    "artist": "Museoscienza53",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:GAACD0~1.jpg",
+    "file": "GAACD0~1.jpg",
+    "width": 2000,
+    "height": 1333
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/rome-pantheon-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon,_Rome_123028.webm",
+    "file": "Pantheon, Rome 123028.webm",
+    "frame": "assets/clips/rome-pantheon-1.jpg"
+   }
+  ]
  },
  {
   "city": "Rome",
@@ -2527,7 +6799,55 @@
    "file": "2012-02-17 Foro Romano da Palazzo Senatorio 3.jpg",
    "width": 2848,
    "height": 2134
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-roman-forum-2.jpg",
+    "artist": "Jebulon",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+    "file": "Arch Septimius Severus Column Phocas Forum Romanum Rome.jpg",
+    "width": 4592,
+    "height": 3032
+   },
+   {
+    "path": "assets/photos/rome-roman-forum-3.jpg",
+    "artist": "Jebulon",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colonna_di_Foca_Forum_Romanum_Rome.jpg",
+    "file": "Colonna di Foca Forum Romanum Rome.jpg",
+    "width": 3060,
+    "height": 5032
+   },
+   {
+    "path": "assets/photos/rome-roman-forum-4.jpg",
+    "artist": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "file": "Foro Romano Musei Capitolini Roma.jpg",
+    "width": 17000,
+    "height": 6980
+   },
+   {
+    "path": "assets/photos/rome-roman-forum-5.jpg",
+    "artist": "Marcok - it.wikipedia.org",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Foro_romano_tempio_Saturno_09feb08_01.jpg",
+    "file": "Foro romano tempio Saturno 09feb08 01.jpg",
+    "width": 2048,
+    "height": 1536
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/rome-roman-forum-1.mp4",
+    "artist": "Ancient Rome Live",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:What_are_the_preserved_buildings_in_the_Roman_Empire.webm",
+    "file": "What are the preserved buildings in the Roman Empire.webm",
+    "frame": "assets/clips/rome-roman-forum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Rome",
@@ -2549,7 +6869,55 @@
    "file": "CircusMaximusNorthEast2019.jpg",
    "width": 3024,
    "height": 4032
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-circus-maximus-2.jpg",
+    "artist": "Rabax63",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CircusMaximusSO.jpg",
+    "file": "CircusMaximusSO.jpg",
+    "width": 5897,
+    "height": 3931
+   },
+   {
+    "path": "assets/photos/rome-circus-maximus-3.jpg",
+    "artist": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Circus_Maximus_in_Rome.jpg",
+    "file": "Circus Maximus in Rome.jpg",
+    "width": 6959,
+    "height": 1640
+   },
+   {
+    "path": "assets/photos/rome-circus-maximus-4.jpg",
+    "artist": "Pieter van Eekeren",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Circus_Maximus_today.jpg",
+    "file": "Circus Maximus today.jpg",
+    "width": 4032,
+    "height": 1960
+   },
+   {
+    "path": "assets/photos/rome-circus-maximus-5.jpg",
+    "artist": "Anonymous (Category:Roman Empire)Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Roman_-_Intaglio_of_a_Circus_with_a_Chariot_Race_-_Walters_421314.jpg",
+    "file": "Roman - Intaglio of a Circus with a Chariot Race - Walters 421314.jpg",
+    "width": 1800,
+    "height": 1515
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/rome-circus-maximus-1.mp4",
+    "artist": "Ancient Rome Live",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ancient_Rome_Reborn_Through_Virtual_Reality.webm",
+    "file": "Ancient Rome Reborn Through Virtual Reality.webm",
+    "frame": "assets/clips/rome-circus-maximus-1.jpg"
+   }
+  ]
  },
  {
   "city": "Rome",
@@ -2571,7 +6939,55 @@
    "file": "0 Colosseum - Rome 111001 (2).JPG",
    "width": 3610,
    "height": 2407
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-colosseum-2.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ave_Caesar_Morituri_te_Salutant_(G%C3%A9r%C3%B4me)_01.jpg",
+    "file": "Ave Caesar Morituri te Salutant (Gérôme) 01.jpg",
+    "width": 3000,
+    "height": 1881
+   },
+   {
+    "path": "assets/photos/rome-colosseum-3.jpg",
+    "artist": "Christoffer Wilhelm Eckersberg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Christoffer_Wilhelm_Eckersberg_-_View_of_the_interior_of_the_Colosseum_-_Google_Art_Project.jpg",
+    "file": "Christoffer Wilhelm Eckersberg - View of the interior of the Colosseum - Google Art Project.jpg",
+    "width": 2509,
+    "height": 2848
+   },
+   {
+    "path": "assets/photos/rome-colosseum-4.jpg",
+    "artist": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "file": "Colosseo 2020.jpg",
+    "width": 12051,
+    "height": 8442
+   },
+   {
+    "path": "assets/photos/rome-colosseum-5.jpg",
+    "artist": "Julian Lupyan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseum,_Eastern_Interior.jpg",
+    "file": "Colosseum, Eastern Interior.jpg",
+    "width": 5872,
+    "height": 3915
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/rome-colosseum-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseum,_Rome_113323.webm",
+    "file": "Colosseum, Rome 113323.webm",
+    "frame": "assets/clips/rome-colosseum-1.jpg"
+   }
+  ]
  },
  {
   "city": "Rome",
@@ -2593,7 +7009,55 @@
    "file": "Apse of Santa Maria Maggiore.jpg",
    "width": 8489,
    "height": 5729
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-santa-maria-maggiore-2.jpg",
+    "artist": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg",
+    "file": "Basilica di Santa Maria Maggiore - Roma.jpg",
+    "width": 6906,
+    "height": 5358
+   },
+   {
+    "path": "assets/photos/rome-santa-maria-maggiore-3.jpg",
+    "artist": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_Maggiore_abside_a_Roma.jpg",
+    "file": "Basilica di Santa Maria Maggiore abside a Roma.jpg",
+    "width": 6500,
+    "height": 7934
+   },
+   {
+    "path": "assets/photos/rome-santa-maria-maggiore-4.jpg",
+    "artist": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_the_Basilica_di_Santa_Maria_Maggiore.jpg",
+    "file": "Detail of the Basilica di Santa Maria Maggiore.jpg",
+    "width": 2399,
+    "height": 1496
+   },
+   {
+    "path": "assets/photos/rome-santa-maria-maggiore-5.jpg",
+    "artist": "Cigoli",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dome_of_Cappella_Paolina_in_Santa_Maria_Maggiore_(Rome).jpg",
+    "file": "Dome of Cappella Paolina in Santa Maria Maggiore (Rome).jpg",
+    "width": 3320,
+    "height": 4734
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/rome-santa-maria-maggiore-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_Maggiore,_Roma_084216.webm",
+    "file": "Basilica di Santa Maria Maggiore, Roma 084216.webm",
+    "frame": "assets/clips/rome-santa-maria-maggiore-1.jpg"
+   }
+  ]
  },
  {
   "city": "Rome",
@@ -2615,7 +7079,55 @@
    "file": "01 Lateran Basilica Nave.jpg",
    "width": 5097,
    "height": 6000
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/rome-st-john-lateran-2.jpg",
+    "artist": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:06_Lateran_Cloister.jpg",
+    "file": "06 Lateran Cloister.jpg",
+    "width": 4343,
+    "height": 6000
+   },
+   {
+    "path": "assets/photos/rome-st-john-lateran-3.jpg",
+    "artist": "Marie-Lan Nguyen",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Inscription_Ecclesiarum_Mater_San_Giovanni_in_Laterano_2006-09-07.jpg",
+    "file": "Inscription Ecclesiarum Mater San Giovanni in Laterano 2006-09-07.jpg",
+    "width": 2890,
+    "height": 1350
+   },
+   {
+    "path": "assets/photos/rome-st-john-lateran-4.jpg",
+    "artist": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lateran_Basilica_Aisle.jpg",
+    "file": "Lateran Basilica Aisle.jpg",
+    "width": 5480,
+    "height": 6000
+   },
+   {
+    "path": "assets/photos/rome-st-john-lateran-5.jpg",
+    "artist": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lateran_Basilica_Torlonia_Chapel.jpg",
+    "file": "Lateran Basilica Torlonia Chapel.jpg",
+    "width": 6000,
+    "height": 4714
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/rome-st-john-lateran-1.mp4",
+    "artist": "Quahadi",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lateranska_bazilika_Svetog_Ivana_085023.webm",
+    "file": "Lateranska bazilika Svetog Ivana 085023.webm",
+    "frame": "assets/clips/rome-st-john-lateran-1.jpg"
+   }
+  ]
  },
  {
   "city": "Barcelona",
@@ -2637,7 +7149,46 @@
    "file": "A musician playing among columns of Sala Hipóstila, Park Güell ( UNESCO World Heritage Site), hill of El Carmel, Gràcia (district), Barcelona, Catalonia, Spain.jpg",
    "width": 2343,
    "height": 3500
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/barcelona-park-guell-2.jpg",
+    "artist": "Julian Lupyan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Balustrade_of_Terrace_of_Parc_G%C3%BCell,_Barcelona,_Spain.jpg",
+    "file": "Balustrade of Terrace of Parc Güell, Barcelona, Spain.jpg",
+    "width": 6000,
+    "height": 4000
+   },
+   {
+    "path": "assets/photos/barcelona-park-guell-3.jpg",
+    "artist": "Georges Jansoone (JoJan)",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_193.JPG",
+    "file": "Barcelona 193.JPG",
+    "width": 1920,
+    "height": 2560
+   },
+   {
+    "path": "assets/photos/barcelona-park-guell-4.jpg",
+    "artist": "AxaxaxaxMlö",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Mart%C3%AD_Trias_i_Dom%C3%A8nech.jpg",
+    "file": "Casa Martí Trias i Domènech.jpg",
+    "width": 3648,
+    "height": 2736
+   },
+   {
+    "path": "assets/photos/barcelona-park-guell-5.jpg",
+    "artist": "Delialendeczki",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling_mosaic,_Park_G%C3%BCell,_Barcelona.jpg",
+    "file": "Ceiling mosaic, Park Güell, Barcelona.jpg",
+    "width": 4288,
+    "height": 2848
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Barcelona",
@@ -2659,7 +7210,55 @@
    "file": "(Barcelona) The Beggars Cathedral by Joaquim Mir - Museu Nacional d'Art de Catalunya.jpg",
    "width": 5430,
    "height": 4476
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/barcelona-sagrada-familia-2.jpg",
+    "artist": "Enfo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:019_Sagrada_Fam%C3%ADlia,_interior,_fa%C3%A7ana_de_la_Gl%C3%B2ria.jpg",
+    "file": "019 Sagrada Família, interior, façana de la Glòria.jpg",
+    "width": 1704,
+    "height": 2272
+   },
+   {
+    "path": "assets/photos/barcelona-sagrada-familia-3.jpg",
+    "artist": "Etan J. Tal",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AlphaOmega.jpg",
+    "file": "AlphaOmega.jpg",
+    "width": 1920,
+    "height": 2560
+   },
+   {
+    "path": "assets/photos/barcelona-sagrada-familia-4.jpg",
+    "artist": "Julian Lupyan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Apse_Ceiling,_Sagrada_Fam%C3%ADlia,_Barcelona,_2023.jpg",
+    "file": "Apse Ceiling, Sagrada Família, Barcelona, 2023.jpg",
+    "width": 3848,
+    "height": 5935
+   },
+   {
+    "path": "assets/photos/barcelona-sagrada-familia-5.jpg",
+    "artist": "Julian Lupyan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Apse_of_the_Sagrada_Fam%C3%ADlia,_Barcelona,_2023.jpg",
+    "file": "Apse of the Sagrada Família, Barcelona, 2023.jpg",
+    "width": 5883,
+    "height": 3227
+   }
+  ],
+  "clips": [
+   {
+    "path": "assets/clips/barcelona-sagrada-familia-1.mp4",
+    "artist": "Barcelona.cat",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_ciutat_dels_mil_s%C3%ADmbols.ogv",
+    "file": "La ciutat dels mil símbols.ogv",
+    "frame": "assets/clips/barcelona-sagrada-familia-1.jpg"
+   }
+  ]
  },
  {
   "city": "Barcelona",
@@ -2681,7 +7280,46 @@
    "file": "Attic of Casa Milà.jpg",
    "width": 1728,
    "height": 2592
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/barcelona-casa-mila-2.jpg",
+    "artist": "Kyle Taylor from London, 84 Countries",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Part_Deux_-_42_(3466892400).jpg",
+    "file": "Barcelona Part Deux - 42 (3466892400).jpg",
+    "width": 4272,
+    "height": 2848
+   },
+   {
+    "path": "assets/photos/barcelona-casa-mila-3.jpg",
+    "artist": "Kyle Taylor from London, 84 Countries",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Part_Deux_-_63_(3466899120).jpg",
+    "file": "Barcelona Part Deux - 63 (3466899120).jpg",
+    "width": 2848,
+    "height": 4272
+   },
+   {
+    "path": "assets/photos/barcelona-casa-mila-4.jpg",
+    "artist": "Kyle Taylor from London, 84 Countries",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Part_Deux_-_65_(3466899772).jpg",
+    "file": "Barcelona Part Deux - 65 (3466899772).jpg",
+    "width": 4272,
+    "height": 2848
+   },
+   {
+    "path": "assets/photos/barcelona-casa-mila-5.jpg",
+    "artist": "Jaume Meneses",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_i_el_modernisme.jpg",
+    "file": "Barcelona i el modernisme.jpg",
+    "width": 3072,
+    "height": 2304
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Barcelona",
@@ -2703,7 +7341,46 @@
    "file": "CasaBatllo 0170.JPG",
    "width": 2000,
    "height": 3008
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/barcelona-casa-batllo-2.jpg",
+    "artist": "Sara Terrones",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CasaBatllo_NobleFloor_saloon.jpg",
+    "file": "CasaBatllo NobleFloor saloon.jpg",
+    "width": 4288,
+    "height": 2848
+   },
+   {
+    "path": "assets/photos/barcelona-casa-batllo-3.jpg",
+    "artist": "Sara Terrones",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CasaBatllo_attic_arcs.jpg",
+    "file": "CasaBatllo attic arcs.jpg",
+    "width": 4272,
+    "height": 2856
+   },
+   {
+    "path": "assets/photos/barcelona-casa-batllo-4.jpg",
+    "artist": "Sara Terrones",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CasaBatllo_back_dragon_roof.jpg",
+    "file": "CasaBatllo back dragon roof.jpg",
+    "width": 2848,
+    "height": 4260
+   },
+   {
+    "path": "assets/photos/barcelona-casa-batllo-5.jpg",
+    "artist": "Sara Terrones",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CasaBatllo_dragon_stairs.jpg",
+    "file": "CasaBatllo dragon stairs.jpg",
+    "width": 4272,
+    "height": 2856
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Barcelona",
@@ -2725,7 +7402,46 @@
    "file": "Cantonada Sant Pere més Alt del Palau de la Música Catalana.jpg",
    "width": 2112,
    "height": 2816
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/barcelona-palau-de-la-musica-2.jpg",
+    "artist": "Elena.laps",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosaic_at_palau_de_la_m%C3%BAsica_catalana.jpg",
+    "file": "Mosaic at palau de la música catalana.jpg",
+    "width": 3024,
+    "height": 4032
+   },
+   {
+    "path": "assets/photos/barcelona-palau-de-la-musica-3.jpg",
+    "artist": "Josep Renalias",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palau_-_Vitrall_platea.jpg",
+    "file": "Palau - Vitrall platea.jpg",
+    "width": 2198,
+    "height": 1102
+   },
+   {
+    "path": "assets/photos/barcelona-palau-de-la-musica-4.jpg",
+    "artist": "Josep Renalias",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palau_de_la_M%C3%BAsica_-_Escenari.JPG",
+    "file": "Palau de la Música - Escenari.JPG",
+    "width": 2967,
+    "height": 1973
+   },
+   {
+    "path": "assets/photos/barcelona-palau-de-la-musica-5.jpg",
+    "artist": "Josep Renalias",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palau_de_la_M%C3%BAsica_-_Escultures_d%27Eusebi_Arnau.JPG",
+    "file": "Palau de la Música - Escultures d'Eusebi Arnau.JPG",
+    "width": 3008,
+    "height": 2000
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Barcelona",
@@ -2747,7 +7463,46 @@
    "file": "Barcelona, Cathedral and Palau del Lloctinent.jpg",
    "width": 2128,
    "height": 2832
-  }
+  },
+  "more_photos": [
+   {
+    "path": "assets/photos/barcelona-barcelona-cathedral-2.jpg",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Cathedral_Interior_-_Altarpiece_of_our_Lady_of_the_Rosebush_-_Agusti_Pujol_1617-1629.jpg",
+    "file": "Barcelona Cathedral Interior - Altarpiece of our Lady of the Rosebush - Agusti Pujol 1617-1629.jpg",
+    "width": 6122,
+    "height": 8481
+   },
+   {
+    "path": "assets/photos/barcelona-barcelona-cathedral-3.jpg",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Cathedral_Interior_-_Capella_de_Sant_Ramon_de_Penyafort.jpg",
+    "file": "Barcelona Cathedral Interior - Capella de Sant Ramon de Penyafort.jpg",
+    "width": 5393,
+    "height": 7509
+   },
+   {
+    "path": "assets/photos/barcelona-barcelona-cathedral-4.jpg",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Cathedral_Interior_-_Crypt_of_Santa_Eulalia.jpg",
+    "file": "Barcelona Cathedral Interior - Crypt of Santa Eulalia.jpg",
+    "width": 8410,
+    "height": 6793
+   },
+   {
+    "path": "assets/photos/barcelona-barcelona-cathedral-5.jpg",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Cathedral_Interior_-_carved_choir_stalls.jpg",
+    "file": "Barcelona Cathedral Interior - carved choir stalls.jpg",
+    "width": 7683,
+    "height": 6722
+   }
+  ],
+  "clips": []
  },
  {
   "city": "Barcelona",
@@ -2769,6 +7524,8 @@
    "file": "Palau Güell, Antoni Gaudi, Barcelona 2.jpg",
    "width": 2829,
    "height": 4243
-  }
+  },
+  "more_photos": [],
+  "clips": []
  }
 ]
