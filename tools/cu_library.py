@@ -52,8 +52,16 @@ def photos_of(slug, U):
     return [ph[f'assets/photos/{n}.jpg'] for n in pick if f'assets/photos/{n}.jpg' in ph]
 
 
+ARTIST_FIX = [('File:Heidelberg Universitätsbibliothek', 'Jan Beckendorf'), ('Euku:', 'Euku'), ('Akriesch', 'Akriesch'), ('Uccio ', 'Uccio2'),
+              ('The original uploader was Telerg', 'Telerg at French Wikipedia'), ('Photograph by Mike Peel', 'Mike Peel (www.mikepeel.net)')]
+
+
 def clean_artist(a):
-    a = re.sub(r'\s*\(talk\)|\s*\d\d:\d\d, \d+ \w+ \d{4} \(UTC\)', '', a or 'Bilinmiyor')
+    a = a or 'Bilinmiyor'
+    for start, name in ARTIST_FIX:
+        if a.startswith(start):
+            return name
+    a = re.sub(r'\s*\(talk\)|\s*\d\d:\d\d, \d+ \w+ \d{4} \(UTC\)', '', a)
     a = re.sub(r'^user:', '', a, flags=re.I)
     return re.sub(r'\s+-\s+.*$', '', a).strip()
 
