@@ -23,7 +23,7 @@ TAKEN = {'2026-11-05T19:30', '2026-11-07T19:30', '2026-11-08T19:30', '2026-11-10
          '2026-11-12T19:30', '2026-11-14T19:30', '2026-11-15T19:30'}
 # Already covered by the hand-built one-day carousels.
 NO_TOUR = {'Istanbul', 'Paris', 'Rome'}
-SKIP = set()
+SKIP = {'amsterdam-anne-frank-house'}  # a wartime hiding place does not belong in a fast promo reel; it stays as a tour stop
 AUDIO = ['1304451697253803', '473815599863496', '1369509361952542', '1941675846329817', '957044555314519']
 CTAS = [
     'Travelhour turns the landmarks you swipe into one walking day. Free on the App Store, link in bio.',
@@ -46,26 +46,33 @@ def tagify(city):
     return city.lower().replace(' ', '')
 
 
+def clean_artist(a):
+    # Commons author fields often carry wiki signatures; the name and any requested link stay.
+    a = re.sub(r'\s*\(talk\)|\s*\d\d:\d\d, \d+ \w+ \d{4} \(UTC\)', '', a or 'Unknown')
+    return re.sub(r'\s+-\s+.*$', '', a).strip()
+
+
 def credit_short(p):
-    a = p['artist'] or 'Unknown'
+    a = clean_artist(p['artist'])
     a = a.split(' (')[0].strip()
     a = a if len(a) <= 34 else a[:32].rstrip() + '…'
     return f"{a} · {p['license']}"
 
 
 def credit_line(p):
-    return f"{p['artist']} ({p['license']})"
+    return f"{clean_artist(p['artist'])} ({p['license']})"
 
 
 # ---------------------------------------------------------------- planning ---
 def plan():
     lm, copy, queue = data()
-    lm = [x for x in lm if x['slug'] in copy and x.get('photo') and x['slug'] not in SKIP]
+    lm = [x for x in lm if x['slug'] in copy and lead_photo(x)]
     by_city = {}
     for x in lm:
         by_city.setdefault(x['city'], []).append(x)
     spot = []
-    pools = {c: list(v) for c, v in by_city.items()}
+    # A reel needs at least two usable visuals, otherwise it is one picture for ten seconds.
+    pools = {c: [x for x in v if x['slug'] not in SKIP and sum(map(len, visuals_of(x))) >= 2] for c, v in by_city.items()}
     while any(pools.values()):  # one landmark per city in turn, so a city never repeats soon
         for c in sorted(pools, key=lambda k: -len(pools[k])):
             if pools[c]:
@@ -74,6 +81,7 @@ def plan():
     order = route[len(route) // 2:] + route[:len(route) // 2]  # map order differs from route reels
     tour = [c for c in sorted(by_city, key=lambda c: route.index(c) if c in route else 99)
             if c not in NO_TOUR and len([x for x in by_city[c] if x.get('lat')]) >= 5]
+    tour = tour[len(tour) // 3:] + tour[:len(tour) // 3]  # a city's walk carousel and route reel land on different days
     pools = dict(R=list(route), O=list(order), T=list(tour))
     jobs, recent, d, audio = [], [], START, 0
     while spot or pools['R'] or pools['O'] or pools['T']:
@@ -108,10 +116,10 @@ def plan():
 
 # --------------------------------------------------------------- rendering ---
 SPOT_CSS = """
-.top{position:absolute;inset:0;background:linear-gradient(180deg,rgba(26,20,16,.62) 0%,rgba(26,20,16,.30) 34%,
+.top{position:absolute;inset:0;background:linear-gradient(180deg,rgba(26,20,16,.66) 0%,rgba(26,20,16,.40) 34%,
   rgba(26,20,16,.30) 58%,rgba(26,20,16,.72) 100%)}
 .hook{position:absolute;left:80px;right:110px;top:470px;color:#FAF6EE;font:600 HOOKSIZEpx/1.06 'Fraunces';
-  letter-spacing:-.012em;text-shadow:0 2px 30px rgba(0,0,0,.45)}
+  letter-spacing:-.012em;text-shadow:0 2px 26px rgba(0,0,0,.6)}
 .where{position:absolute;left:80px;top:380px;font:700 32px 'Inter';letter-spacing:.2em;color:#FAF6EE;
   text-transform:uppercase;text-shadow:0 1px 16px rgba(0,0,0,.6)}
 .fshade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(26,20,16,.40) 0%,rgba(26,20,16,0) 20%,
@@ -147,12 +155,22 @@ def clip_cut(t, clip, overlay, dur, out, start=0.0, darken=False, fade=False):
           '-frames:v', frames, '-r', t.FPS, '-c:v', 'libx264', '-preset', 'veryfast', '-crf', 18, out])
 
 
+FIRST = json.load(open(ROOT / 'data/visual_first.json')) if (ROOT / 'data/visual_first.json').exists() else {}
+
+
 def visuals_of(x):
     """Clips first because moving footage holds attention, then photos; rejected ones are skipped."""
     rej = set(json.load(open(ROOT / 'data/visual_rejects.json'))) if (ROOT / 'data/visual_rejects.json').exists() else set()
     clips = [c for c in (x.get('clips') or []) if c['path'] not in rej]
     photos = [p for p in [x.get('photo')] + (x.get('more_photos') or []) if p and p['path'] not in rej]
+    first = FIRST.get(x['slug'])  # picked by eye: the picture that stops the scroll when cropped to 9:16
+    photos.sort(key=lambda p: p['path'] != first)
     return clips, photos
+
+
+def lead_photo(x):
+    photos = visuals_of(x)[1]
+    return photos[0] if photos else None
 
 
 def render_spotlight(sh, job, x, c, out):
@@ -217,6 +235,7 @@ def render_tour(sh, job, stops, copy, out):
     """stops: landmarks of one city, in walking order; cover plus one slide per stop."""
     import th_media as t
     city = job['city']
+    stops = [dict(s, photo=lead_photo(s)) for s in stops if lead_photo(s)]
     coords = [tuple(s.get('deck') or (s['lat'], s['lon'])) for s in stops]
     idx, _, _ = t.plan_route(coords)
     route = [stops[i] for i in idx][:8]
@@ -271,7 +290,7 @@ def render(i, n):
             if job['kind'] == 'spotlight':
                 render_spotlight(sh, job, by_slug[job['slug']], copy[job['slug']], out)
             elif job['kind'] == 'tour':
-                stops = [x for x in lm if x['city'] == job['city'] and x['slug'] in copy and x.get('photo')
+                stops = [x for x in lm if x['city'] == job['city'] and x['slug'] in copy and lead_photo(x)
                          and (x.get('deck') or x.get('lat'))]
                 render_tour(sh, job, stops, copy, out)
     for k, job in enumerate(jobs):  # make_city opens its own browser

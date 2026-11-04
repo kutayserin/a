@@ -1,0 +1,1118 @@
+[
+{
+"kind": "spotlight",
+"slug": "istanbul-topkap-palace",
+"slot": "2026-11-05T01:30",
+"day": "2026-11-05",
+"city": "Istanbul",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "florence-accademia-gallery",
+"slot": "2026-11-05T04:30",
+"day": "2026-11-05",
+"city": "Florence",
+"audio": "473815599863496"
+},
+{
+"kind": "tour",
+"city": "Athens",
+"slot": "2026-11-05T07:30",
+"day": "2026-11-05"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-temple-of-debod",
+"slot": "2026-11-05T10:30",
+"day": "2026-11-05",
+"city": "Madrid",
+"audio": "1369509361952542"
+},
+{
+"kind": "reel",
+"city": "London",
+"slot": "2026-11-05T13:30",
+"day": "2026-11-05",
+"audio": "1941675846329817"
+},
+{
+"kind": "carousel",
+"city": "Vienna",
+"slot": "2026-11-05T16:30",
+"day": "2026-11-05"
+},
+{
+"kind": "spotlight",
+"slug": "rome-st-peter-s-basilica",
+"slot": "2026-11-05T22:30",
+"day": "2026-11-05",
+"city": "Rome",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "prague-prague-castle",
+"slot": "2026-11-06T01:30",
+"day": "2026-11-06",
+"city": "Prague",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "athens-acropolis",
+"slot": "2026-11-06T04:30",
+"day": "2026-11-06",
+"city": "Athens",
+"audio": "473815599863496"
+},
+{
+"kind": "tour",
+"city": "Budapest",
+"slot": "2026-11-06T07:30",
+"day": "2026-11-06"
+},
+{
+"kind": "spotlight",
+"slug": "london-buckingham-palace",
+"slot": "2026-11-06T10:30",
+"day": "2026-11-06",
+"city": "London",
+"audio": "1369509361952542"
+},
+{
+"kind": "reel",
+"city": "Florence",
+"slot": "2026-11-06T13:30",
+"day": "2026-11-06",
+"audio": "1941675846329817"
+},
+{
+"kind": "carousel",
+"city": "Venice",
+"slot": "2026-11-06T16:30",
+"day": "2026-11-06"
+},
+{
+"kind": "spotlight",
+"slug": "paris-pantheon",
+"slot": "2026-11-06T19:30",
+"day": "2026-11-06",
+"city": "Paris",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-hungarian-parliament",
+"slot": "2026-11-06T22:30",
+"day": "2026-11-06",
+"city": "Budapest",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "amsterdam-rijksmuseum",
+"slot": "2026-11-07T01:30",
+"day": "2026-11-07",
+"city": "Amsterdam",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "vienna-st-stephen-s-cathedral",
+"slot": "2026-11-07T04:30",
+"day": "2026-11-07",
+"city": "Vienna",
+"audio": "1369509361952542"
+},
+{
+"kind": "tour",
+"city": "Amsterdam",
+"slot": "2026-11-07T07:30",
+"day": "2026-11-07"
+},
+{
+"kind": "spotlight",
+"slug": "lisbon-belem-tower",
+"slot": "2026-11-07T10:30",
+"day": "2026-11-07",
+"city": "Lisbon",
+"audio": "1941675846329817"
+},
+{
+"kind": "reel",
+"city": "Prague",
+"slot": "2026-11-07T13:30",
+"day": "2026-11-07",
+"audio": "957044555314519"
+},
+{
+"kind": "carousel",
+"city": "Lisbon",
+"slot": "2026-11-07T16:30",
+"day": "2026-11-07"
+},
+{
+"kind": "spotlight",
+"slug": "barcelona-park-guell",
+"slot": "2026-11-07T22:30",
+"day": "2026-11-07",
+"city": "Barcelona",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "venice-st-mark-s-basilica",
+"slot": "2026-11-08T01:30",
+"day": "2026-11-08",
+"city": "Venice",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "new-york-empire-state-building",
+"slot": "2026-11-08T04:30",
+"day": "2026-11-08",
+"city": "New York",
+"audio": "1369509361952542"
+},
+{
+"kind": "tour",
+"city": "Vienna",
+"slot": "2026-11-08T07:30",
+"day": "2026-11-08"
+},
+{
+"kind": "spotlight",
+"slug": "berlin-reichstag",
+"slot": "2026-11-08T10:30",
+"day": "2026-11-08",
+"city": "Berlin",
+"audio": "1941675846329817"
+},
+{
+"kind": "reel",
+"city": "Madrid",
+"slot": "2026-11-08T13:30",
+"day": "2026-11-08",
+"audio": "957044555314519"
+},
+{
+"kind": "carousel",
+"city": "New York",
+"slot": "2026-11-08T16:30",
+"day": "2026-11-08"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-hagia-sophia",
+"slot": "2026-11-08T22:30",
+"day": "2026-11-08",
+"city": "Istanbul",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "florence-museum-of-san-marco",
+"slot": "2026-11-09T01:30",
+"day": "2026-11-09",
+"city": "Florence",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "rome-castel-sant-angelo",
+"slot": "2026-11-09T04:30",
+"day": "2026-11-09",
+"city": "Rome",
+"audio": "1369509361952542"
+},
+{
+"kind": "tour",
+"city": "Venice",
+"slot": "2026-11-09T07:30",
+"day": "2026-11-09"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-royal-palace",
+"slot": "2026-11-09T10:30",
+"day": "2026-11-09",
+"city": "Madrid",
+"audio": "1941675846329817"
+},
+{
+"kind": "reel",
+"city": "Athens",
+"slot": "2026-11-09T13:30",
+"day": "2026-11-09",
+"audio": "957044555314519"
+},
+{
+"kind": "carousel",
+"city": "Berlin",
+"slot": "2026-11-09T16:30",
+"day": "2026-11-09"
+},
+{
+"kind": "spotlight",
+"slug": "london-westminster-abbey",
+"slot": "2026-11-09T19:30",
+"day": "2026-11-09",
+"city": "London",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "prague-st-vitus-cathedral",
+"slot": "2026-11-09T22:30",
+"day": "2026-11-09",
+"city": "Prague",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-st-stephen-s-basilica",
+"slot": "2026-11-10T01:30",
+"day": "2026-11-10",
+"city": "Budapest",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "athens-acropolis-museum",
+"slot": "2026-11-10T04:30",
+"day": "2026-11-10",
+"city": "Athens",
+"audio": "1941675846329817"
+},
+{
+"kind": "tour",
+"city": "Lisbon",
+"slot": "2026-11-10T07:30",
+"day": "2026-11-10"
+},
+{
+"kind": "spotlight",
+"slug": "paris-notre-dame",
+"slot": "2026-11-10T10:30",
+"day": "2026-11-10",
+"city": "Paris",
+"audio": "957044555314519"
+},
+{
+"kind": "reel",
+"city": "Budapest",
+"slot": "2026-11-10T13:30",
+"day": "2026-11-10",
+"audio": "1304451697253803"
+},
+{
+"kind": "carousel",
+"city": "Istanbul",
+"slot": "2026-11-10T16:30",
+"day": "2026-11-10"
+},
+{
+"kind": "spotlight",
+"slug": "amsterdam-van-gogh-museum",
+"slot": "2026-11-10T22:30",
+"day": "2026-11-10",
+"city": "Amsterdam",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "vienna-hofburg",
+"slot": "2026-11-11T01:30",
+"day": "2026-11-11",
+"city": "Vienna",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "lisbon-jeronimos-monastery",
+"slot": "2026-11-11T04:30",
+"day": "2026-11-11",
+"city": "Lisbon",
+"audio": "1941675846329817"
+},
+{
+"kind": "tour",
+"city": "New York",
+"slot": "2026-11-11T07:30",
+"day": "2026-11-11"
+},
+{
+"kind": "spotlight",
+"slug": "barcelona-sagrada-familia",
+"slot": "2026-11-11T10:30",
+"day": "2026-11-11",
+"city": "Barcelona",
+"audio": "957044555314519"
+},
+{
+"kind": "reel",
+"city": "Amsterdam",
+"slot": "2026-11-11T13:30",
+"day": "2026-11-11",
+"audio": "1304451697253803"
+},
+{
+"kind": "carousel",
+"city": "Paris",
+"slot": "2026-11-11T16:30",
+"day": "2026-11-11"
+},
+{
+"kind": "spotlight",
+"slug": "venice-doge-s-palace",
+"slot": "2026-11-11T19:30",
+"day": "2026-11-11",
+"city": "Venice",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "new-york-times-square",
+"slot": "2026-11-11T22:30",
+"day": "2026-11-11",
+"city": "New York",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "berlin-brandenburg-gate",
+"slot": "2026-11-12T01:30",
+"day": "2026-11-12",
+"city": "Berlin",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-basilica-cistern",
+"slot": "2026-11-12T04:30",
+"day": "2026-11-12",
+"city": "Istanbul",
+"audio": "957044555314519"
+},
+{
+"kind": "tour",
+"city": "Berlin",
+"slot": "2026-11-12T07:30",
+"day": "2026-11-12"
+},
+{
+"kind": "spotlight",
+"slug": "florence-florence-cathedral",
+"slot": "2026-11-12T10:30",
+"day": "2026-11-12",
+"city": "Florence",
+"audio": "1304451697253803"
+},
+{
+"kind": "reel",
+"city": "Vienna",
+"slot": "2026-11-12T13:30",
+"day": "2026-11-12",
+"audio": "473815599863496"
+},
+{
+"kind": "carousel",
+"city": "London",
+"slot": "2026-11-12T16:30",
+"day": "2026-11-12"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-almudena-cathedral",
+"slot": "2026-11-12T22:30",
+"day": "2026-11-12",
+"city": "Madrid",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "rome-pantheon",
+"slot": "2026-11-13T01:30",
+"day": "2026-11-13",
+"city": "Rome",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "prague-charles-bridge",
+"slot": "2026-11-13T04:30",
+"day": "2026-11-13",
+"city": "Prague",
+"audio": "957044555314519"
+},
+{
+"kind": "tour",
+"city": "Barcelona",
+"slot": "2026-11-13T07:30",
+"day": "2026-11-13"
+},
+{
+"kind": "spotlight",
+"slug": "london-big-ben",
+"slot": "2026-11-13T10:30",
+"day": "2026-11-13",
+"city": "London",
+"audio": "1304451697253803"
+},
+{
+"kind": "reel",
+"city": "Venice",
+"slot": "2026-11-13T13:30",
+"day": "2026-11-13",
+"audio": "473815599863496"
+},
+{
+"kind": "carousel",
+"city": "Florence",
+"slot": "2026-11-13T16:30",
+"day": "2026-11-13"
+},
+{
+"kind": "spotlight",
+"slug": "athens-ancient-agora",
+"slot": "2026-11-13T19:30",
+"day": "2026-11-13",
+"city": "Athens",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-dohany-street-synagogue",
+"slot": "2026-11-13T22:30",
+"day": "2026-11-13",
+"city": "Budapest",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "paris-louvre",
+"slot": "2026-11-14T01:30",
+"day": "2026-11-14",
+"city": "Paris",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "amsterdam-vondelpark",
+"slot": "2026-11-14T04:30",
+"day": "2026-11-14",
+"city": "Amsterdam",
+"audio": "1304451697253803"
+},
+{
+"kind": "tour",
+"city": "London",
+"slot": "2026-11-14T07:30",
+"day": "2026-11-14"
+},
+{
+"kind": "spotlight",
+"slug": "vienna-albertina",
+"slot": "2026-11-14T10:30",
+"day": "2026-11-14",
+"city": "Vienna",
+"audio": "473815599863496"
+},
+{
+"kind": "reel",
+"city": "Lisbon",
+"slot": "2026-11-14T13:30",
+"day": "2026-11-14",
+"audio": "1369509361952542"
+},
+{
+"kind": "carousel",
+"city": "Prague",
+"slot": "2026-11-14T16:30",
+"day": "2026-11-14"
+},
+{
+"kind": "spotlight",
+"slug": "barcelona-casa-mila",
+"slot": "2026-11-14T22:30",
+"day": "2026-11-14",
+"city": "Barcelona",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "venice-rialto-bridge",
+"slot": "2026-11-15T01:30",
+"day": "2026-11-15",
+"city": "Venice",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "new-york-rockefeller-center",
+"slot": "2026-11-15T04:30",
+"day": "2026-11-15",
+"city": "New York",
+"audio": "1304451697253803"
+},
+{
+"kind": "tour",
+"city": "Florence",
+"slot": "2026-11-15T07:30",
+"day": "2026-11-15"
+},
+{
+"kind": "spotlight",
+"slug": "lisbon-carmo-convent",
+"slot": "2026-11-15T10:30",
+"day": "2026-11-15",
+"city": "Lisbon",
+"audio": "473815599863496"
+},
+{
+"kind": "reel",
+"city": "New York",
+"slot": "2026-11-15T13:30",
+"day": "2026-11-15",
+"audio": "1369509361952542"
+},
+{
+"kind": "carousel",
+"city": "Madrid",
+"slot": "2026-11-15T16:30",
+"day": "2026-11-15"
+},
+{
+"kind": "spotlight",
+"slug": "berlin-checkpoint-charlie",
+"slot": "2026-11-15T22:30",
+"day": "2026-11-15",
+"city": "Berlin",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-blue-mosque",
+"slot": "2026-11-16T01:30",
+"day": "2026-11-16",
+"city": "Istanbul",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "florence-palazzo-vecchio",
+"slot": "2026-11-16T04:30",
+"day": "2026-11-16",
+"city": "Florence",
+"audio": "1304451697253803"
+},
+{
+"kind": "tour",
+"city": "Prague",
+"slot": "2026-11-16T07:30",
+"day": "2026-11-16"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-puerta-del-sol",
+"slot": "2026-11-16T10:30",
+"day": "2026-11-16",
+"city": "Madrid",
+"audio": "473815599863496"
+},
+{
+"kind": "reel",
+"city": "Berlin",
+"slot": "2026-11-16T13:30",
+"day": "2026-11-16",
+"audio": "1369509361952542"
+},
+{
+"kind": "carousel",
+"city": "Athens",
+"slot": "2026-11-16T16:30",
+"day": "2026-11-16"
+},
+{
+"kind": "spotlight",
+"slug": "rome-roman-forum",
+"slot": "2026-11-16T19:30",
+"day": "2026-11-16",
+"city": "Rome",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "london-trafalgar-square",
+"slot": "2026-11-16T22:30",
+"day": "2026-11-16",
+"city": "London",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "prague-old-town-square",
+"slot": "2026-11-17T01:30",
+"day": "2026-11-17",
+"city": "Prague",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-chain-bridge",
+"slot": "2026-11-17T04:30",
+"day": "2026-11-17",
+"city": "Budapest",
+"audio": "473815599863496"
+},
+{
+"kind": "tour",
+"city": "Madrid",
+"slot": "2026-11-17T07:30",
+"day": "2026-11-17"
+},
+{
+"kind": "spotlight",
+"slug": "athens-plaka",
+"slot": "2026-11-17T10:30",
+"day": "2026-11-17",
+"city": "Athens",
+"audio": "1369509361952542"
+},
+{
+"kind": "reel",
+"city": "Istanbul",
+"slot": "2026-11-17T13:30",
+"day": "2026-11-17",
+"audio": "1941675846329817"
+},
+{
+"kind": "carousel",
+"city": "Budapest",
+"slot": "2026-11-17T16:30",
+"day": "2026-11-17"
+},
+{
+"kind": "spotlight",
+"slug": "paris-musee-d-orsay",
+"slot": "2026-11-17T19:30",
+"day": "2026-11-17",
+"city": "Paris",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "amsterdam-begijnhof",
+"slot": "2026-11-17T22:30",
+"day": "2026-11-17",
+"city": "Amsterdam",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "vienna-kunsthistorisches-museum",
+"slot": "2026-11-18T01:30",
+"day": "2026-11-18",
+"city": "Vienna",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "lisbon-santa-justa-lift",
+"slot": "2026-11-18T04:30",
+"day": "2026-11-18",
+"city": "Lisbon",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "barcelona-casa-batllo",
+"slot": "2026-11-18T07:30",
+"day": "2026-11-18",
+"city": "Barcelona",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "venice-santa-maria-della-salute",
+"slot": "2026-11-18T10:30",
+"day": "2026-11-18",
+"city": "Venice",
+"audio": "957044555314519"
+},
+{
+"kind": "reel",
+"city": "Paris",
+"slot": "2026-11-18T13:30",
+"day": "2026-11-18",
+"audio": "1304451697253803"
+},
+{
+"kind": "carousel",
+"city": "Amsterdam",
+"slot": "2026-11-18T16:30",
+"day": "2026-11-18"
+},
+{
+"kind": "spotlight",
+"slug": "new-york-central-park",
+"slot": "2026-11-18T19:30",
+"day": "2026-11-18",
+"city": "New York",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "berlin-museum-island",
+"slot": "2026-11-18T22:30",
+"day": "2026-11-18",
+"city": "Berlin",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-little-hagia-sophia",
+"slot": "2026-11-19T01:30",
+"day": "2026-11-19",
+"city": "Istanbul",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "florence-uffizi-gallery",
+"slot": "2026-11-19T04:30",
+"day": "2026-11-19",
+"city": "Florence",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-plaza-de-cibeles",
+"slot": "2026-11-19T07:30",
+"day": "2026-11-19",
+"city": "Madrid",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "rome-circus-maximus",
+"slot": "2026-11-19T10:30",
+"day": "2026-11-19",
+"city": "Rome",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "london-british-museum",
+"slot": "2026-11-19T13:30",
+"day": "2026-11-19",
+"city": "London",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "prague-astronomical-clock",
+"slot": "2026-11-19T16:30",
+"day": "2026-11-19",
+"city": "Prague",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "athens-temple-of-olympian-zeus",
+"slot": "2026-11-19T19:30",
+"day": "2026-11-19",
+"city": "Athens",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-buda-castle",
+"slot": "2026-11-19T22:30",
+"day": "2026-11-19",
+"city": "Budapest",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "paris-arc-de-triomphe",
+"slot": "2026-11-20T01:30",
+"day": "2026-11-20",
+"city": "Paris",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "amsterdam-dam-square",
+"slot": "2026-11-20T04:30",
+"day": "2026-11-20",
+"city": "Amsterdam",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "vienna-karlskirche",
+"slot": "2026-11-20T07:30",
+"day": "2026-11-20",
+"city": "Vienna",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "lisbon-lisbon-cathedral",
+"slot": "2026-11-20T10:30",
+"day": "2026-11-20",
+"city": "Lisbon",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "barcelona-palau-de-la-musica",
+"slot": "2026-11-20T13:30",
+"day": "2026-11-20",
+"city": "Barcelona",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "venice-gallerie-dell-accademia",
+"slot": "2026-11-20T16:30",
+"day": "2026-11-20",
+"city": "Venice",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "new-york-the-met",
+"slot": "2026-11-20T19:30",
+"day": "2026-11-20",
+"city": "New York",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "berlin-berlin-cathedral",
+"slot": "2026-11-20T22:30",
+"day": "2026-11-20",
+"city": "Berlin",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-suleymaniye-mosque",
+"slot": "2026-11-21T01:30",
+"day": "2026-11-21",
+"city": "Istanbul",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "florence-ponte-vecchio",
+"slot": "2026-11-21T04:30",
+"day": "2026-11-21",
+"city": "Florence",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-prado-museum",
+"slot": "2026-11-21T07:30",
+"day": "2026-11-21",
+"city": "Madrid",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "rome-colosseum",
+"slot": "2026-11-21T10:30",
+"day": "2026-11-21",
+"city": "Rome",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "london-tower-of-london",
+"slot": "2026-11-21T13:30",
+"day": "2026-11-21",
+"city": "London",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "prague-wenceslas-square",
+"slot": "2026-11-21T16:30",
+"day": "2026-11-21",
+"city": "Prague",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "athens-panathenaic-stadium",
+"slot": "2026-11-21T19:30",
+"day": "2026-11-21",
+"city": "Athens",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-matthias-church",
+"slot": "2026-11-21T22:30",
+"day": "2026-11-21",
+"city": "Budapest",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "paris-sacre-cur",
+"slot": "2026-11-22T01:30",
+"day": "2026-11-22",
+"city": "Paris",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "amsterdam-oude-kerk",
+"slot": "2026-11-22T04:30",
+"day": "2026-11-22",
+"city": "Amsterdam",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "vienna-belvedere",
+"slot": "2026-11-22T07:30",
+"day": "2026-11-22",
+"city": "Vienna",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "lisbon-sao-jorge-castle",
+"slot": "2026-11-22T10:30",
+"day": "2026-11-22",
+"city": "Lisbon",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "barcelona-barcelona-cathedral",
+"slot": "2026-11-22T13:30",
+"day": "2026-11-22",
+"city": "Barcelona",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-dolmabahce-palace",
+"slot": "2026-11-22T16:30",
+"day": "2026-11-22",
+"city": "Istanbul",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "florence-palazzo-pitti",
+"slot": "2026-11-22T19:30",
+"day": "2026-11-22",
+"city": "Florence",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-el-retiro-park",
+"slot": "2026-11-22T22:30",
+"day": "2026-11-22",
+"city": "Madrid",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "rome-santa-maria-maggiore",
+"slot": "2026-11-23T01:30",
+"day": "2026-11-23",
+"city": "Rome",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "london-tower-bridge",
+"slot": "2026-11-23T04:30",
+"day": "2026-11-23",
+"city": "London",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "prague-dancing-house",
+"slot": "2026-11-23T07:30",
+"day": "2026-11-23",
+"city": "Prague",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "athens-syntagma-square",
+"slot": "2026-11-23T10:30",
+"day": "2026-11-23",
+"city": "Athens",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "budapest-fisherman-s-bastion",
+"slot": "2026-11-23T13:30",
+"day": "2026-11-23",
+"city": "Budapest",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "paris-champs-elysees",
+"slot": "2026-11-23T16:30",
+"day": "2026-11-23",
+"city": "Paris",
+"audio": "1304451697253803"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-galata-tower",
+"slot": "2026-11-23T19:30",
+"day": "2026-11-23",
+"city": "Istanbul",
+"audio": "473815599863496"
+},
+{
+"kind": "spotlight",
+"slug": "florence-santa-croce",
+"slot": "2026-11-23T22:30",
+"day": "2026-11-23",
+"city": "Florence",
+"audio": "1369509361952542"
+},
+{
+"kind": "spotlight",
+"slug": "madrid-reina-sofia-museum",
+"slot": "2026-11-24T01:30",
+"day": "2026-11-24",
+"city": "Madrid",
+"audio": "1941675846329817"
+},
+{
+"kind": "spotlight",
+"slug": "rome-st-john-lateran",
+"slot": "2026-11-24T04:30",
+"day": "2026-11-24",
+"city": "Rome",
+"audio": "957044555314519"
+},
+{
+"kind": "spotlight",
+"slug": "istanbul-maiden-s-tower",
+"slot": "2026-11-24T07:30",
+"day": "2026-11-24",
+"city": "Istanbul",
+"audio": "1304451697253803"
+}
+]
