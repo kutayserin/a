@@ -46,10 +46,10 @@ def unis():
 
 
 def photos_of(slug, U):
-    rej, first = set(load('visual_rejects.json', [])), load('visual_first.json', {})
-    ph = [p for p in U.get(slug, {}).get('photos', []) if p['path'] not in rej]
-    ph.sort(key=lambda p: p['path'] != first.get(slug))
-    return ph
+    """Only photos picked by eye: file names on Wikipedia pages cover alumni portraits and other places too."""
+    pick = load('visual_pick.json', {}).get(slug, [])
+    ph = {p['path']: p for p in U.get(slug, {}).get('photos', [])}
+    return [ph[f'assets/photos/{n}.jpg'] for n in pick if f'assets/photos/{n}.jpg' in ph]
 
 
 def clean_artist(a):

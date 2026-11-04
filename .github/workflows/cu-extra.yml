@@ -1,0 +1,25 @@
+name: CompassUni extra campus photos
+on:
+  push:
+    branches: [compassuni-social]
+    paths: [tools/fetch_extra.py]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python tools/fetch_extra.py
+      - run: |
+          git config user.name "compassuni-social"
+          git config user.email "noreply@compassuni.com"
+          git add data/unis.json assets/photos
+          git commit -m "Fetch extra campus photos" || exit 0
+          git pull --rebase -X theirs origin compassuni-social
+          git push origin HEAD:compassuni-social
