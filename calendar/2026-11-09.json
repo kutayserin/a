@@ -1,59 +1,7 @@
 [
 {
-"slot": "2026-11-09T00:00",
-"date": "2026-11-09T00:00:00+03:00",
-"kind": "how",
-"folder": "2026-11-08-how-02",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-09T00:00:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Temel paket: ilk adımını atmak isteyenler için\n\n1. 15.000 ₺, tek seferlik: 1 ülke, 3 üniversiteye başvuru. Fiyata KDV dahil.\n2. Belge kontrol listesi: Hangi belgenin ne zaman gerektiği baştan netleşir.\n3. Uygulama içi süreç takibi: Başvurularının durumunu uygulamadan izlersin. Mobil uygulamalar yakında.\n4. Mesaj ile danışman desteği: Sorularını mesajla danışmanına yazarsın.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-08-how-02/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-08-how-02/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "Temel paket: 15.000 ₺ ile ilk adım"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Temel paket: 15.000 ₺ ile ilk adım",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-09T10:00",
-"date": "2026-11-09T10:00:00+03:00",
+"slot": "2026-11-09T08:30",
+"date": "2026-11-09T08:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-09-sapienza-university-rome-uni",
 "info": {
@@ -75,7 +23,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T10:00:00",
+"dateTime": "2026-11-09T08:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +52,8 @@
 }
 },
 {
-"slot": "2026-11-09T12:00",
-"date": "2026-11-09T12:00:00+03:00",
+"slot": "2026-11-09T10:30",
+"date": "2026-11-09T10:30:00+03:00",
 "kind": "list",
 "folder": "2026-11-09-list-04",
 "info": {
@@ -127,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T12:00:00",
+"dateTime": "2026-11-09T10:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-09T14:00",
-"date": "2026-11-09T14:00:00+03:00",
+"slot": "2026-11-09T12:30",
+"date": "2026-11-09T12:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-09-uni-mannheim-uni",
 "info": {
@@ -179,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T14:00:00",
+"dateTime": "2026-11-09T12:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-09T16:00",
-"date": "2026-11-09T16:00:00+03:00",
+"slot": "2026-11-09T14:30",
+"date": "2026-11-09T14:30:00+03:00",
 "kind": "myth",
 "folder": "2026-11-09-myth-05",
 "info": {
@@ -231,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T16:00:00",
+"dateTime": "2026-11-09T14:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-09T18:00",
-"date": "2026-11-09T18:00:00+03:00",
+"slot": "2026-11-09T16:30",
+"date": "2026-11-09T16:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-09-university-of-verona-uni",
 "info": {
@@ -283,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T18:00:00",
+"dateTime": "2026-11-09T16:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -312,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-09T20:00",
-"date": "2026-11-09T20:00:00+03:00",
+"slot": "2026-11-09T18:30",
+"date": "2026-11-09T18:30:00+03:00",
 "kind": "guide",
 "folder": "2026-11-09-guide-05",
 "info": {
@@ -335,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T20:00:00",
+"dateTime": "2026-11-09T18:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -368,8 +316,8 @@
 }
 },
 {
-"slot": "2026-11-09T22:00",
-"date": "2026-11-09T22:00:00+03:00",
+"slot": "2026-11-09T20:30",
+"date": "2026-11-09T20:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-09-uni-muenster-uni",
 "info": {
@@ -391,7 +339,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-09T22:00:00",
+"dateTime": "2026-11-09T20:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -415,6 +363,58 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "Münster: öğrenim ücreti yok, 2026/27 katkı payı 369,50 €",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-09T22:30",
+"date": "2026-11-09T22:30:00+03:00",
+"kind": "deadline",
+"folder": "2026-11-09-deadline-03",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-09T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "28 Şubat 2027 · Design Academy Eindhoven lisans.\n\n2027 girişi lisans başvurusunun son günü. Master için iki tarih: 29 Ocak 2027 ve 29 Mart 2027.\n\nKaynak: designacademy.nl (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.\n\n#eindhoven #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-09-deadline-03/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-09-deadline-03/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "28 Şubat 2027: Design Academy Eindhoven lisans"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "28 Şubat 2027: Design Academy Eindhoven lisans",
 "autoAddMusic": false
 }
 }

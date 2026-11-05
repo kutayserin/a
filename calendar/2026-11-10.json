@@ -1,59 +1,7 @@
 [
 {
-"slot": "2026-11-10T00:00",
-"date": "2026-11-10T00:00:00+03:00",
-"kind": "deadline",
-"folder": "2026-11-09-deadline-03",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-10T00:00:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "28 Şubat 2027 · Design Academy Eindhoven lisans.\n\n2027 girişi lisans başvurusunun son günü. Master için iki tarih: 29 Ocak 2027 ve 29 Mart 2027.\n\nKaynak: designacademy.nl (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.\n\n#eindhoven #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-09-deadline-03/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-09-deadline-03/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "28 Şubat 2027: Design Academy Eindhoven lisans"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "28 Şubat 2027: Design Academy Eindhoven lisans",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-10T10:00",
-"date": "2026-11-10T10:00:00+03:00",
+"slot": "2026-11-10T08:30",
+"date": "2026-11-10T08:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-10-unibz-uni",
 "info": {
@@ -75,7 +23,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T10:00:00",
+"dateTime": "2026-11-10T08:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +52,8 @@
 }
 },
 {
-"slot": "2026-11-10T12:00",
-"date": "2026-11-10T12:00:00+03:00",
+"slot": "2026-11-10T10:30",
+"date": "2026-11-10T10:30:00+03:00",
 "kind": "list",
 "folder": "2026-11-10-list-05",
 "info": {
@@ -127,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T12:00:00",
+"dateTime": "2026-11-10T10:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-10T14:00",
-"date": "2026-11-10T14:00:00+03:00",
+"slot": "2026-11-10T12:30",
+"date": "2026-11-10T12:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-10-uni-erlangen-uni",
 "info": {
@@ -179,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T14:00:00",
+"dateTime": "2026-11-10T12:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-10T16:00",
-"date": "2026-11-10T16:00:00+03:00",
+"slot": "2026-11-10T14:30",
+"date": "2026-11-10T14:30:00+03:00",
 "kind": "myth",
 "folder": "2026-11-10-myth-06",
 "info": {
@@ -231,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T16:00:00",
+"dateTime": "2026-11-10T14:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-10T18:00",
-"date": "2026-11-10T18:00:00+03:00",
+"slot": "2026-11-10T16:30",
+"date": "2026-11-10T16:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-10-university-of-bologna-uni",
 "info": {
@@ -283,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T18:00:00",
+"dateTime": "2026-11-10T16:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -312,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-10T20:00",
-"date": "2026-11-10T20:00:00+03:00",
+"slot": "2026-11-10T18:30",
+"date": "2026-11-10T18:30:00+03:00",
 "kind": "guide",
 "folder": "2026-11-10-guide-06",
 "info": {
@@ -335,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T20:00:00",
+"dateTime": "2026-11-10T18:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -367,8 +315,8 @@
 }
 },
 {
-"slot": "2026-11-10T22:00",
-"date": "2026-11-10T22:00:00+03:00",
+"slot": "2026-11-10T20:30",
+"date": "2026-11-10T20:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-10-jacobs-bremen-uni",
 "info": {
@@ -390,7 +338,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-10T22:00:00",
+"dateTime": "2026-11-10T20:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -414,6 +362,58 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "Constructor University Bremen: 2027/28 dönem ücreti 11.925 €",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-10T22:30",
+"date": "2026-11-10T22:30:00+03:00",
+"kind": "how",
+"folder": "2026-11-10-how-03",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-10T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Premium: 2 ülke, 8 üniversite, birebir danışman önceliği\n\n1. 35.000 ₺, tek seferlik: 2 ülke, 8 üniversiteye başvuru. Fiyata KDV dahil.\n2. Belge ve çeviri yönlendirmesi: Belgelerini hazırlarken yanındayız; çeviri için yol gösteriyoruz.\n3. Universitaly / ön kayıt desteği: İtalya'daki ön kayıt adımında seni yönlendiriyoruz.\n4. Vize ve kayıt rehberliği: Kabulden sonra vize ve kayıt sürecinde rehberlik; birebir danışman önceliği dahil.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-10-how-03/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-10-how-03/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "Premium paket: 35.000 ₺, 2 ülke ve 8 üniversite"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Premium paket: 35.000 ₺, 2 ülke ve 8 üniversite",
 "autoAddMusic": false
 }
 }

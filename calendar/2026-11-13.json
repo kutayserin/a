@@ -1,59 +1,7 @@
 [
 {
-"slot": "2026-11-13T00:00",
-"date": "2026-11-13T00:00:00+03:00",
-"kind": "how",
-"folder": "2026-11-12-how-04",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-13T00:00:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Premium+: tam kapsamlı, uçtan uca\n\n1. 75.000 ₺, tek seferlik: Sınırsız ülke ve üniversite. Fiyata KDV dahil.\n2. Tüm belgelerin hazırlanması: Başvuru dosyandaki belgelerin hazırlanması pakete dahil.\n3. Öncelikli birebir danışman: Danışmanın sana öncelikli zaman ayırır.\n4. Burs, konaklama ve vize randevusu: Burs ve konaklama yönlendirmesi, vize randevusu ve kayıt desteği.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-12-how-04/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-12-how-04/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "Premium+ paket: 75.000 ₺, tam kapsamlı"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Premium+ paket: 75.000 ₺, tam kapsamlı",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-13T10:00",
-"date": "2026-11-13T10:00:00+03:00",
+"slot": "2026-11-13T08:30",
+"date": "2026-11-13T08:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-13-lse-uni",
 "info": {
@@ -75,7 +23,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T10:00:00",
+"dateTime": "2026-11-13T08:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +52,8 @@
 }
 },
 {
-"slot": "2026-11-13T12:00",
-"date": "2026-11-13T12:00:00+03:00",
+"slot": "2026-11-13T10:30",
+"date": "2026-11-13T10:30:00+03:00",
 "kind": "list",
 "folder": "2026-11-13-list-08",
 "info": {
@@ -127,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T12:00:00",
+"dateTime": "2026-11-13T10:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-13T14:00",
-"date": "2026-11-13T14:00:00+03:00",
+"slot": "2026-11-13T12:30",
+"date": "2026-11-13T12:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-13-twente-uni",
 "info": {
@@ -179,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T14:00:00",
+"dateTime": "2026-11-13T12:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-13T16:00",
-"date": "2026-11-13T16:00:00+03:00",
+"slot": "2026-11-13T14:30",
+"date": "2026-11-13T14:30:00+03:00",
 "kind": "myth",
 "folder": "2026-11-13-myth-09",
 "info": {
@@ -231,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T16:00:00",
+"dateTime": "2026-11-13T14:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-13T18:00",
-"date": "2026-11-13T18:00:00+03:00",
+"slot": "2026-11-13T16:30",
+"date": "2026-11-13T16:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-13-york-uni",
 "info": {
@@ -283,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T18:00:00",
+"dateTime": "2026-11-13T16:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -312,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-13T20:00",
-"date": "2026-11-13T20:00:00+03:00",
+"slot": "2026-11-13T18:30",
+"date": "2026-11-13T18:30:00+03:00",
 "kind": "guide",
 "folder": "2026-11-13-guide-09",
 "info": {
@@ -335,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T20:00:00",
+"dateTime": "2026-11-13T18:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -368,8 +316,8 @@
 }
 },
 {
-"slot": "2026-11-13T22:00",
-"date": "2026-11-13T22:00:00+03:00",
+"slot": "2026-11-13T20:30",
+"date": "2026-11-13T20:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-13-rug-groningen-uni",
 "info": {
@@ -391,7 +339,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-13T22:00:00",
+"dateTime": "2026-11-13T20:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -415,6 +363,58 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "Groningen 2027/28: master İngilizce şartı programa göre değişiyor",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-13T22:30",
+"date": "2026-11-13T22:30:00+03:00",
+"kind": "deadline",
+"folder": "2026-11-13-deadline-05",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-13T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "1 Ocak 2027 · Vanderbilt: ikinci erken karar ve normal başvuru.\n\nGüz 2027 için ED II ve Regular Decision aynı gün. İlk erken karar (ED I) 1 Kasım 2026'ydı. SAT/ACT isteğe bağlı.\n\nKaynak: admissions.vanderbilt.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#vanderbilt #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-13-deadline-05/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-13-deadline-05/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "1 Ocak 2027: Vanderbilt ED II ve Regular Decision"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "1 Ocak 2027: Vanderbilt ED II ve Regular Decision",
 "autoAddMusic": false
 }
 }

@@ -1,59 +1,7 @@
 [
 {
-"slot": "2026-11-14T00:00",
-"date": "2026-11-14T00:00:00+03:00",
-"kind": "deadline",
-"folder": "2026-11-13-deadline-05",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T00:00:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "1 Ocak 2027 · Vanderbilt: ikinci erken karar ve normal başvuru.\n\nGüz 2027 için ED II ve Regular Decision aynı gün. İlk erken karar (ED I) 1 Kasım 2026'ydı. SAT/ACT isteğe bağlı.\n\nKaynak: admissions.vanderbilt.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#vanderbilt #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-13-deadline-05/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-13-deadline-05/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "1 Ocak 2027: Vanderbilt ED II ve Regular Decision"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "1 Ocak 2027: Vanderbilt ED II ve Regular Decision",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-14T10:00",
-"date": "2026-11-14T10:00:00+03:00",
+"slot": "2026-11-14T08:30",
+"date": "2026-11-14T08:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-14-imperial-uni",
 "info": {
@@ -75,7 +23,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T10:00:00",
+"dateTime": "2026-11-14T08:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +52,8 @@
 }
 },
 {
-"slot": "2026-11-14T12:00",
-"date": "2026-11-14T12:00:00+03:00",
+"slot": "2026-11-14T10:30",
+"date": "2026-11-14T10:30:00+03:00",
 "kind": "list",
 "folder": "2026-11-14-list-09",
 "info": {
@@ -127,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T12:00:00",
+"dateTime": "2026-11-14T10:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-14T14:00",
-"date": "2026-11-14T14:00:00+03:00",
+"slot": "2026-11-14T12:30",
+"date": "2026-11-14T12:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-14-wur-uni",
 "info": {
@@ -179,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T14:00:00",
+"dateTime": "2026-11-14T12:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-14T16:00",
-"date": "2026-11-14T16:00:00+03:00",
+"slot": "2026-11-14T14:30",
+"date": "2026-11-14T14:30:00+03:00",
 "kind": "myth",
 "folder": "2026-11-14-myth-10",
 "info": {
@@ -231,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T16:00:00",
+"dateTime": "2026-11-14T14:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-14T18:00",
-"date": "2026-11-14T18:00:00+03:00",
+"slot": "2026-11-14T16:30",
+"date": "2026-11-14T16:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-14-rca-uni",
 "info": {
@@ -283,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T18:00:00",
+"dateTime": "2026-11-14T16:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -312,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-14T20:00",
-"date": "2026-11-14T20:00:00+03:00",
+"slot": "2026-11-14T18:30",
+"date": "2026-11-14T18:30:00+03:00",
 "kind": "guide",
 "folder": "2026-11-14-guide-10",
 "info": {
@@ -335,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T20:00:00",
+"dateTime": "2026-11-14T18:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -368,8 +316,8 @@
 }
 },
 {
-"slot": "2026-11-14T22:00",
-"date": "2026-11-14T22:00:00+03:00",
+"slot": "2026-11-14T20:30",
+"date": "2026-11-14T20:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-14-rietveld-uni",
 "info": {
@@ -391,7 +339,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-14T22:00:00",
+"dateTime": "2026-11-14T20:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -415,6 +363,58 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "Rietveld Academie: yalnız IELTS kabul ediliyor, portfolyo 15 Aralık",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-14T22:30",
+"date": "2026-11-14T22:30:00+03:00",
+"kind": "how",
+"folder": "2026-11-14-how-05",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-14T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Her öğrenciye bir danışman, baştan sona\n\n1. Birebir danışman: Sana atanan danışman süreç boyunca yanında olur.\n2. Neyi, ne zaman: Hangi belgenin ne zaman gerektiğini, hangi üniversitenin ne aradığını netleştirir.\n3. Sen hedefe odaklan: Takvim ve evrak takibi danışmanında; sen sınavına ve hedefine odaklan.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-14-how-05/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-14-how-05/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "Birebir danışman: süreç boyunca yanında"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Birebir danışman: süreç boyunca yanında",
 "autoAddMusic": false
 }
 }

@@ -1,59 +1,7 @@
 [
 {
-"slot": "2026-11-06T00:00",
-"date": "2026-11-06T00:00:00+03:00",
-"kind": "deadline",
-"folder": "2026-11-05-deadline-01",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-06T00:00:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "13 Ocak 2027 · UCAS: çoğu lisans programı.\n\nSaat 18:00'e (İngiltere) kadar gelen başvurular eşit değerlendirilir; sonrası üniversitenin takdirine kalır.\n\nKaynak: ucas.com (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#ucas #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-05-deadline-01/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-05-deadline-01/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "13 Ocak 2027: UCAS eşit değerlendirme tarihi"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "13 Ocak 2027: UCAS eşit değerlendirme tarihi",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-06T10:00",
-"date": "2026-11-06T10:00:00+03:00",
+"slot": "2026-11-06T08:30",
+"date": "2026-11-06T08:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-06-berkeley-uni",
 "info": {
@@ -75,7 +23,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T10:00:00",
+"dateTime": "2026-11-06T08:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +52,8 @@
 }
 },
 {
-"slot": "2026-11-06T12:00",
-"date": "2026-11-06T12:00:00+03:00",
+"slot": "2026-11-06T10:30",
+"date": "2026-11-06T10:30:00+03:00",
 "kind": "list",
 "folder": "2026-11-06-list-01",
 "info": {
@@ -127,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T12:00:00",
+"dateTime": "2026-11-06T10:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-06T14:00",
-"date": "2026-11-06T14:00:00+03:00",
+"slot": "2026-11-06T12:30",
+"date": "2026-11-06T12:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-06-fu-berlin-uni",
 "info": {
@@ -179,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T14:00:00",
+"dateTime": "2026-11-06T12:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-06T16:00",
-"date": "2026-11-06T16:00:00+03:00",
+"slot": "2026-11-06T14:30",
+"date": "2026-11-06T14:30:00+03:00",
 "kind": "myth",
 "folder": "2026-11-06-myth-02",
 "info": {
@@ -231,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T16:00:00",
+"dateTime": "2026-11-06T14:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-06T18:00",
-"date": "2026-11-06T18:00:00+03:00",
+"slot": "2026-11-06T16:30",
+"date": "2026-11-06T16:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-06-bocconi-university-uni",
 "info": {
@@ -283,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T18:00:00",
+"dateTime": "2026-11-06T16:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -312,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-06T20:00",
-"date": "2026-11-06T20:00:00+03:00",
+"slot": "2026-11-06T18:30",
+"date": "2026-11-06T18:30:00+03:00",
 "kind": "guide",
 "folder": "2026-11-06-guide-02",
 "info": {
@@ -335,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T20:00:00",
+"dateTime": "2026-11-06T18:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -367,8 +315,8 @@
 }
 },
 {
-"slot": "2026-11-06T22:00",
-"date": "2026-11-06T22:00:00+03:00",
+"slot": "2026-11-06T20:30",
+"date": "2026-11-06T20:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-06-heidelberg-uni",
 "info": {
@@ -390,7 +338,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-06T22:00:00",
+"dateTime": "2026-11-06T20:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -414,6 +362,58 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "Heidelberg: AB dışı öğrenci dönem başına 1.500 € öder",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-06T22:30",
+"date": "2026-11-06T22:30:00+03:00",
+"kind": "how",
+"folder": "2026-11-06-how-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-06T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "CompassUni nasıl çalışır? Dört adım\n\n1. Paket seç: İhtiyacına uygun danışmanlık paketini seç ve güvenle öde. Tek seferlik ödeme, KDV dahil.\n2. Belgelerini yükle: Pasaport, transkript, dil sertifikası: uygulamadan yüklersin. Mobil uygulamalar yakında.\n3. Başvuruları yönetelim: Danışmanın üniversite başvurularını senin adına hazırlar ve takip eder.\n4. Sonucu birlikte takip edelim: Kabul kararı üniversitenin. Sonuç, vize ve kayıt adımlarında da yanındayız.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-how-01/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-how-01/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "CompassUni nasıl çalışır: dört adım"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "CompassUni nasıl çalışır: dört adım",
 "autoAddMusic": false
 }
 }

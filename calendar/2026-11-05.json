@@ -1,7 +1,7 @@
 [
 {
-"slot": "2026-11-05T14:00",
-"date": "2026-11-05T14:00:00+03:00",
+"slot": "2026-11-05T12:30",
+"date": "2026-11-05T12:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-05-university-of-pavia-uni",
 "info": {
@@ -23,7 +23,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-05T14:00:00",
+"dateTime": "2026-11-05T12:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -52,8 +52,8 @@
 }
 },
 {
-"slot": "2026-11-05T16:00",
-"date": "2026-11-05T16:00:00+03:00",
+"slot": "2026-11-05T14:30",
+"date": "2026-11-05T14:30:00+03:00",
 "kind": "myth",
 "folder": "2026-11-05-myth-01",
 "info": {
@@ -75,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-05T16:00:00",
+"dateTime": "2026-11-05T14:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-05T18:00",
-"date": "2026-11-05T18:00:00+03:00",
+"slot": "2026-11-05T16:30",
+"date": "2026-11-05T16:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-05-uw-uni",
 "info": {
@@ -127,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-05T18:00:00",
+"dateTime": "2026-11-05T16:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-05T20:00",
-"date": "2026-11-05T20:00:00+03:00",
+"slot": "2026-11-05T18:30",
+"date": "2026-11-05T18:30:00+03:00",
 "kind": "guide",
 "folder": "2026-11-05-guide-01",
 "info": {
@@ -179,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-05T20:00:00",
+"dateTime": "2026-11-05T18:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -212,8 +212,8 @@
 }
 },
 {
-"slot": "2026-11-05T22:00",
-"date": "2026-11-05T22:00:00+03:00",
+"slot": "2026-11-05T20:30",
+"date": "2026-11-05T20:30:00+03:00",
 "kind": "uni",
 "folder": "2026-11-05-lmu-munich-uni",
 "info": {
@@ -235,7 +235,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-05T22:00:00",
+"dateTime": "2026-11-05T20:30:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -259,6 +259,58 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "LMU Münih: çoğu programda öğrenim ücreti yok, katkı payı var",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-05T22:30",
+"date": "2026-11-05T22:30:00+03:00",
+"kind": "deadline",
+"folder": "2026-11-05-deadline-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T22:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "13 Ocak 2027 · UCAS: çoğu lisans programı.\n\nSaat 18:00'e (İngiltere) kadar gelen başvurular eşit değerlendirilir; sonrası üniversitenin takdirine kalır.\n\nKaynak: ucas.com (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#ucas #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-05-deadline-01/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-05-deadline-01/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "13 Ocak 2027: UCAS eşit değerlendirme tarihi"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "13 Ocak 2027: UCAS eşit değerlendirme tarihi",
 "autoAddMusic": false
 }
 }
