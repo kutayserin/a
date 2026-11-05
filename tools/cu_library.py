@@ -35,6 +35,7 @@ REEL_KINDS = {'uni', 'myth', 'deadline', 'how'}
 CTAS = ['Başvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.',
         '5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com',
         'Yön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.']
+FOLLOW = '➕ Her gün resmi kaynaktan yeni bilgi için takip et.'
 SAVES = ['📌 Kaydet, başvuru döneminde lazım olacak.', '📌 Yurt dışı planı yapan birine gönder.', '📌 Kaydet, sonra lazım olur.']
 # Dated copy: these name a window that closes in November, so they go out first.
 EARLY = ['university-of-pavia', 'uw', 'berkeley']
@@ -327,7 +328,7 @@ def caption(job, p, core, credits):
     src = ''
     if p.get('sources') and job['kind'] != 'how':
         src = f"\n\nKaynak: {source_line(p)} (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et."
-    cap = f"{core}{src}\n\n{SAVES[n % len(SAVES)]}\n\n{CTAS[n % len(CTAS)]}\n\n{tags(p)}"
+    cap = f"{core}{src}\n\n{SAVES[n % len(SAVES)]}\n{FOLLOW}\n\n{CTAS[n % len(CTAS)]}\n\n{tags(p)}"
     return cap + (f"\n\n{credits}" if credits else '')
 
 
