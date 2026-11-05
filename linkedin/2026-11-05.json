@@ -1,7 +1,7 @@
 [
 {
-"slot": "2026-11-05T21:25",
-"date": "2026-11-05T21:25:00+03:00",
+"slot": "2026-11-05T21:05",
+"date": "2026-11-05T21:05:00+03:00",
 "kind": "tour",
 "folder": "2026-11-05-athens-walk-carousel",
 "info": {
@@ -20,7 +20,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-05T21:25:00",
+"dateTime": "2026-11-05T21:05:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
