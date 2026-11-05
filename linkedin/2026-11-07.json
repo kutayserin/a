@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-07T12:00",
+"date": "2026-11-07T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-06-budapest-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-06-budapest-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-07T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Budapest on foot: 7 stops, about 5.0 km. Swipe for what to look for at each one →\n\n1. Hungarian Parliament\n2. Fisherman's Bastion\n3. Matthias Church\n4. Buda Castle\n5. Chain Bridge\n6. St. Stephen's Basilica\n7. Dohány Street Synagogue\n\n📌 Save this for your trip. Which stop would you start with?\n\nTravelhour turns the landmarks you swipe into one walking day. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#budapesttravel #budapestitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nHungarian Parliament: Iraq.vet (CC BY-SA 4.0)\nFisherman's Bastion: Ricardo Martins (CC BY-SA 4.0)\nMatthias Church: David Spigiel (CC BY-SA 4.0)\nBuda Castle: https://www.flickr.com/photos/chad_k/ (CC BY 2.0)\nChain Bridge: Wilfredor (CC0)\nSt. Stephen's Basilica: Marc Ryckaert (MJJR) (CC BY 3.0)\nDohány Street Synagogue: Jgrec4 (CC BY-SA 4.0)",
+"linkedinData": {
+"documentTitle": "Budapest on foot: 7 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

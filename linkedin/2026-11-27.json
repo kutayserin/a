@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-27T12:00",
+"date": "2026-11-27T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-16-prague-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-16-prague-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-27T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Prague on foot: 7 stops, about 4.8 km. Swipe for what to look for at each one →\n\n1. St. Vitus Cathedral\n2. Prague Castle\n3. Charles Bridge\n4. Astronomical Clock\n5. Old Town Square\n6. Wenceslas Square\n7. Dancing House\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#praguetravel #pragueitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nSt. Vitus Cathedral: ErwinMeier (CC BY-SA 4.0)\nPrague Castle: Rémi Diligent (Public domain)\nCharles Bridge: A.Savin (FAL)\nAstronomical Clock: Godot13 (CC BY-SA 4.0)\nOld Town Square: Yair Haklai (CC BY-SA 3.0)\nWenceslas Square: Ralf Roletschek (FAL)\nDancing House: Diego Delso (CC BY-SA 4.0)",
+"linkedinData": {
+"documentTitle": "Prague on foot: 7 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

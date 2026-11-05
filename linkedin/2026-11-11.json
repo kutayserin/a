@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-11T12:00",
+"date": "2026-11-11T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-08-vienna-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-08-vienna-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-11T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Vienna on foot: 6 stops, about 3.9 km. Swipe for what to look for at each one →\n\n1. St. Stephen's Cathedral\n2. Albertina\n3. Hofburg\n4. Kunsthistorisches Museum\n5. Karlskirche\n6. Belvedere\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#viennatravel #viennaitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nSt. Stephen's Cathedral: Andrew Bossi (CC BY-SA 2.5)\nAlbertina: Albrecht Dürer (Public domain)\nHofburg: Diego Delso (CC BY-SA 4.0)\nKunsthistorisches Museum: Giuseppe Arcimboldo (Public domain)\nKarlskirche: Diego Delso (CC BY-SA 4.0)\nBelvedere: Bonet 86 (CC BY-SA 3.0 at)",
+"linkedinData": {
+"documentTitle": "Vienna on foot: 6 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

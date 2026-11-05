@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-05T21:25",
+"date": "2026-11-05T21:25:00+03:00",
+"kind": "tour",
+"folder": "2026-11-05-athens-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-05-athens-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-05T21:25:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Athens on foot: 7 stops, about 4.2 km. Swipe for what to look for at each one →\n\n1. Ancient Agora\n2. Acropolis\n3. Acropolis Museum\n4. Temple of Olympian Zeus\n5. Plaka\n6. Syntagma Square\n7. Panathenaic Stadium\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#athenstravel #athensitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nAncient Agora: Storeye (Public domain)\nAcropolis: Giles Laurent (CC BY-SA 4.0)\nAcropolis Museum: Unknown artist (CC BY-SA 2.5)\nTemple of Olympian Zeus: Greenshed (Public domain)\nPlaka: JFKennedy at English Wikipedia (Public domain)\nSyntagma Square: Brastite at English Wikipedia (CC BY-SA 3.0)\nPanathenaic Stadium: George E. Koronaios (CC BY-SA 4.0)",
+"linkedinData": {
+"documentTitle": "Athens on foot: 7 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

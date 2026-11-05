@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-30T12:00",
+"date": "2026-11-30T12:00:00+03:00",
+"kind": "carousel",
+"folder": "2026-11-17-budapest-order-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-17-budapest-order-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-30T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Same 7 stops in Budapest. In a random order you'd walk about 8.7 km. In the shortest order, 5.0 km.\n\n1. Hungarian Parliament\n2. Fisherman's Bastion\n3. Matthias Church\n4. Buda Castle\n5. Chain Bridge\n6. St. Stephen's Basilica\n7. Dohány Street Synagogue\n\n📌 Save this order for your trip.\n\nTravelhour puts the places you swipe into walking order and guides you there. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#budapesttravel #budapestitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.",
+"linkedinData": {
+"documentTitle": "Budapest: same 7 stops, 4 km less walking",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

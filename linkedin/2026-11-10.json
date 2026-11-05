@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-10T12:00",
+"date": "2026-11-10T12:00:00+03:00",
+"kind": "carousel",
+"folder": "2026-11-07-lisbon-order-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-07-lisbon-order-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-10T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Same 7 stops in Lisbon. In a random order you'd walk about 27.1 km. In the shortest order, 10.7 km.\n\n1. Belém Tower\n2. Jerónimos Monastery\n3. Carmo Convent\n4. Santa Justa Lift\n5. Rossio\n6. São Jorge Castle\n7. Lisbon Cathedral\n\n📌 Save this order for your trip.\n\nTravelhour puts the places you swipe into walking order and guides you there. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#lisbontravel #lisbonitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.",
+"linkedinData": {
+"documentTitle": "Lisbon: same 7 stops, 16 km less walking",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-15T12:00",
+"date": "2026-11-15T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-10-lisbon-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-10-lisbon-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-15T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Lisbon on foot: 6 stops, about 10.5 km. Swipe for what to look for at each one →\n\n1. Belém Tower\n2. Jerónimos Monastery\n3. Carmo Convent\n4. Santa Justa Lift\n5. São Jorge Castle\n6. Lisbon Cathedral\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#lisbontravel #lisbonitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nBelém Tower: Alvesgaspar (CC BY-SA 3.0)\nJerónimos Monastery: Holger Uwe Schmitt (CC BY-SA 4.0)\nCarmo Convent: Kent Wang (CC BY 4.0)\nSanta Justa Lift: David Sim from London, United Kingdom (CC BY 2.0)\nSão Jorge Castle: Kent Wang (CC BY 4.0)\nLisbon Cathedral: Kent Wang (CC BY 4.0)",
+"linkedinData": {
+"documentTitle": "Lisbon on foot: 6 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

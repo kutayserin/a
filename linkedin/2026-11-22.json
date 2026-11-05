@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-22T12:00",
+"date": "2026-11-22T12:00:00+03:00",
+"kind": "carousel",
+"folder": "2026-11-13-florence-order-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-13-florence-order-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-22T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Same 8 stops in Florence. In a random order you'd walk about 6.9 km. In the shortest order, 3.7 km.\n\n1. Museum of San Marco\n2. Accademia Gallery\n3. Florence Cathedral\n4. Palazzo Vecchio\n5. Uffizi Gallery\n6. Ponte Vecchio\n7. Palazzo Pitti\n8. Santa Croce\n\n📌 Save this order for your trip.\n\nTravelhour puts the places you swipe into walking order and guides you there. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#florencetravel #florenceitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.",
+"linkedinData": {
+"documentTitle": "Florence: same 8 stops, 3 km less walking",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

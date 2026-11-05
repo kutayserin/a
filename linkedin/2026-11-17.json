@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-17T12:00",
+"date": "2026-11-17T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-11-new-york-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-11-new-york-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-17T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "New York on foot: 6 stops, about 7.0 km. Swipe for what to look for at each one →\n\n1. Empire State Building\n2. Grand Central Terminal\n3. Times Square\n4. Rockefeller Center\n5. The Met\n6. Central Park\n\n📌 Save this for your trip. Which stop would you start with?\n\nTravelhour turns the landmarks you swipe into one walking day. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#newyorktravel #newyorkitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nEmpire State Building: Anthony Quintano: https://www.flickr.com/photos/quintanomedia/ (CC BY 2.0)\nGrand Central Terminal: Metropolitan Transportation Authority of the State of New York (CC BY 2.0)\nTimes Square: Mariordo (Mario Roberto Durán Ortiz) (CC BY-SA 3.0)\nRockefeller Center: David Shankbone (Public domain)\nThe Met: Claude Monet (Public domain)\nCentral Park: Ingfbruno (CC BY-SA 3.0)",
+"linkedinData": {
+"documentTitle": "New York on foot: 6 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

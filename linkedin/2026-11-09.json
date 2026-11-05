@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-09T12:00",
+"date": "2026-11-09T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-07-amsterdam-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-07-amsterdam-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-09T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Amsterdam on foot: 7 stops, about 5.3 km. Swipe for what to look for at each one →\n\n1. Oude Kerk\n2. Dam Square\n3. Anne Frank House\n4. Begijnhof\n5. Rijksmuseum\n6. Van Gogh Museum\n7. Vondelpark\n\n📌 Save this for your trip. Which stop would you start with?\n\nSwipe the places you want and Travelhour puts them in walking order. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#amsterdamtravel #amsterdamitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nOude Kerk: Gerd Eichmann (CC BY-SA 4.0)\nDam Square: Deerpeter (CC BY-SA 4.0)\nAnne Frank House: Dietmar Rabich (CC BY-SA 4.0)\nBegijnhof: Dietmar Rabich (CC BY-SA 4.0)\nRijksmuseum: Cornelis Ketel (Public domain)\nVan Gogh Museum: Vincent van Gogh (Public domain)\nVondelpark: Dguendel (CC BY 4.0)",
+"linkedinData": {
+"documentTitle": "Amsterdam on foot: 7 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

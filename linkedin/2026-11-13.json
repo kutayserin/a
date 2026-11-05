@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-13T12:00",
+"date": "2026-11-13T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-09-venice-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-09-venice-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-13T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Venice on foot: 6 stops, about 2.2 km. Swipe for what to look for at each one →\n\n1. Rialto Bridge\n2. St Mark's Basilica\n3. Doge's Palace\n4. Santa Maria della Salute\n5. Peggy Guggenheim Collection\n6. Gallerie dell'Accademia\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#venicetravel #veniceitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nRialto Bridge: Saffron Blaze (CC BY-SA 3.0)\nSt Mark's Basilica: Joanbanjo (Public domain)\nDoge's Palace: Didier Descouens (CC BY-SA 4.0)\nSanta Maria della Salute: kallerna (CC BY-SA 4.0)\nPeggy Guggenheim Collection: G.Lanting (CC BY 3.0)\nGallerie dell'Accademia: Didier Descouens (Public domain)",
+"linkedinData": {
+"documentTitle": "Venice on foot: 6 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

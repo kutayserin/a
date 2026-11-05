@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-21T12:00",
+"date": "2026-11-21T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-13-barcelona-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-13-barcelona-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-21T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Barcelona on foot: 6 stops, about 7.0 km. Swipe for what to look for at each one →\n\n1. Park Güell\n2. Sagrada Família\n3. Casa Milà\n4. Casa Batlló\n5. Palau de la Música\n6. Barcelona Cathedral\n\n📌 Save this for your trip. Which stop would you start with?\n\nSwipe the places you want and Travelhour puts them in walking order. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#barcelonatravel #barcelonaitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nPark Güell: Delialendeczki (CC BY-SA 3.0)\nSagrada Família: Julian Lupyan (CC0)\nCasa Milà: Kyle Taylor from London, 84 Countries (CC BY 2.0)\nCasa Batlló: Sara Terrones (CC BY-SA 4.0)\nPalau de la Música: Josep Renalias (CC BY-SA 3.0)\nBarcelona Cathedral: Didier Descouens (CC BY-SA 4.0)",
+"linkedinData": {
+"documentTitle": "Barcelona on foot: 6 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

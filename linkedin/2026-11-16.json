@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-16T12:00",
+"date": "2026-11-16T12:00:00+03:00",
+"kind": "carousel",
+"folder": "2026-11-10-istanbul-order-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-10-istanbul-order-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-16T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Same 6 stops in Istanbul. In a random order you'd walk about 6.5 km. In the shortest order, 4.2 km.\n\n1. Topkapı Palace\n2. Hagia Sophia\n3. Basilica Cistern\n4. Blue Mosque\n5. Little Hagia Sophia\n6. Süleymaniye Mosque\n\n📌 Save this order for your trip.\n\nTravelhour puts the places you swipe into walking order and guides you there. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#istanbultravel #istanbulitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.",
+"linkedinData": {
+"documentTitle": "Istanbul: same 6 stops, 2 km less walking",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-19T12:00",
+"date": "2026-11-19T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-12-berlin-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-12-berlin-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-19T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Berlin on foot: 5 stops, about 4.4 km. Swipe for what to look for at each one →\n\n1. Checkpoint Charlie\n2. Brandenburg Gate\n3. Reichstag\n4. Museum Island\n5. Berlin Cathedral\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#berlintravel #berlinitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nCheckpoint Charlie: U.S. Army photo Photo Credit: USAMHI (Public domain)\nBrandenburg Gate: Martin Rulsch, Wikimedia Commons (CC BY-SA 4.0)\nReichstag: Unknown author (Public domain)\nMuseum Island: Thomas Wolf, www.foto-tw.de (CC BY-SA 3.0)\nBerlin Cathedral: Ansgar Koreng (CC BY 3.0 de)",
+"linkedinData": {
+"documentTitle": "Berlin on foot: 5 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

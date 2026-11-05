@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-25T12:00",
+"date": "2026-11-25T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-15-florence-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-15-florence-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-25T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Florence on foot: 8 stops, about 3.7 km. Swipe for what to look for at each one →\n\n1. Museum of San Marco\n2. Accademia Gallery\n3. Florence Cathedral\n4. Palazzo Vecchio\n5. Uffizi Gallery\n6. Ponte Vecchio\n7. Palazzo Pitti\n8. Santa Croce\n\n📌 Save this for your trip. Which stop would you start with?\n\nTravelhour turns the landmarks you swipe into one walking day. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#florencetravel #florenceitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nMuseum of San Marco: Srecan (CC BY-SA 4.0)\nAccademia Gallery: Rhododendrites (CC BY-SA 4.0)\nFlorence Cathedral: Gary Campbell-Hall (CC BY 2.0)\nPalazzo Vecchio: Zairon (CC BY 4.0)\nUffizi Gallery: Arek N. (CC BY-SA 3.0)\nPonte Vecchio: Ingo Mehling (CC BY-SA 4.0)\nPalazzo Pitti: Diego Delso (CC BY-SA 4.0)\nSanta Croce: Diego Delso (CC BY-SA 4.0)",
+"linkedinData": {
+"documentTitle": "Florence on foot: 8 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

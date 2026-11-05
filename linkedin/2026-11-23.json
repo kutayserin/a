@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-23T12:00",
+"date": "2026-11-23T12:00:00+03:00",
+"kind": "tour",
+"folder": "2026-11-14-london-walk-carousel",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/travelhour-social/linkedin/media/2026-11-14-london-walk-carousel.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-23T12:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "London on foot: 8 stops, about 9.6 km. Swipe for what to look for at each one →\n\n1. Buckingham Palace\n2. Westminster Abbey\n3. Big Ben\n4. Trafalgar Square\n5. British Museum\n6. St Paul's Cathedral\n7. Tower of London\n8. Tower Bridge\n\n📌 Save this for your trip. Which stop would you start with?\n\nPlan this walk in Travelhour: swipe, sort, go. Free on the App Store: https://apps.apple.com/app/travelhour-trip-planner/id6773093615\n\n#londontravel #londonitinerary #walkingtour\n\nDistances are estimates: straight line between stops plus 30% for streets.\n\n📷 Photos via Wikimedia Commons, cropped with text added\nBuckingham Palace: Mark from Brighton (CC BY 2.0)\nWestminster Abbey: JRennocks (CC BY-SA 4.0)\nBig Ben: Julian Herzog (Website) (CC BY 4.0)\nTrafalgar Square: Dietmar Rabich (CC BY-SA 4.0)\nBritish Museum: Osama Shukir Muhammed Amin FRCP(Glasg) (CC BY-SA 4.0)\nSt Paul's Cathedral: davidwilson1949 (CC BY 2.0)\nTower of London: Colin (CC BY-SA 4.0)\nTower Bridge: Cmglee (CC BY-SA 3.0)",
+"linkedinData": {
+"documentTitle": "London on foot: 8 stops, what to look for",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]
