@@ -44,7 +44,7 @@ def esc(s):
 
 
 def page(w, h, body, css='', bg='transparent'):
-    return (f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><style>{FONT_CSS}{BASE_CSS}'
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><style>{FONT_CSS}{BASE_CSS}'
             f'html,body{{width:{w}px;height:{h}px;background:{bg}}}{css}</style></head><body>{body}</body></html>')
 
 

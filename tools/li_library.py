@@ -28,7 +28,7 @@ def caption(brand, t):
     elif brand == 'website':
         t = t.replace(' Link in bio.', f'\n{WEB}')
     else:
-        t = t.replace('compassuni.com, link profilde.', CU)
+        t = t.replace('compassuni.com, link in bio.', CU)
         t = re.sub(r'(?<![/.\w])compassuni\.com', CU, t)
     lines = []
     for line in t.split('\n'):

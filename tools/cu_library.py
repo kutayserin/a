@@ -27,19 +27,18 @@ RAW = 'https://raw.githubusercontent.com/kutayserin/a/compassuni-social'
 TZ = 'Europe/Istanbul'
 START = date(2026, 11, 5)
 FIRST_SLOT = '2026-11-05T12:30'  # earlier slots that day are gone by the time the library is live
-# Every 2 hours while Turkey is awake: the audience is here, so the night slots of the other brands make no sense.
+# Every 2 hours from morning to night, Istanbul time.
 SLOTS = [('08:30', 'uni'), ('10:30', 'list'), ('12:30', 'uni'), ('14:30', 'myth'),
          ('16:30', 'uni'), ('18:30', 'guide'), ('20:30', 'uni'), ('22:30', 'late')]
 AUDIO = ['1304451697253803', '473815599863496', '1369509361952542', '1941675846329817', '957044555314519']
 REEL_KINDS = {'uni', 'myth', 'deadline', 'how'}
-CTAS = ['Başvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.',
-        '5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com',
-        'Yön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.']
-FOLLOW = '➕ Her gün resmi kaynaktan yeni bilgi için takip et.'
-SAVES = ['📌 Kaydet, başvuru döneminde lazım olacak.', '📌 Yurt dışı planı yapan birine gönder.', '📌 Kaydet, sonra lazım olur.']
+CTAS = ['Want a one-to-one advisor to run your application with you? compassuni.com, link in bio.',
+        '5 countries, 150+ universities. From document preparation to application tracking, we manage it with you: compassuni.com',
+        'You set the direction, we pave the way. Packages and how it works: compassuni.com, link in bio.']
+FOLLOW = '➕ Follow for new facts from official sources every day.'
+SAVES = ['📌 Save this for application season.', '📌 Send this to someone planning to study abroad.', '📌 Save this for later.']
 # Dated copy: these name a window that closes in November, so they go out first.
 EARLY = ['university-of-pavia', 'uw', 'berkeley']
-PART = {'Almanya': 'almanya', 'İtalya': 'italya', 'Hollanda': 'hollanda', 'Birleşik Krallık': 'ingiltere', 'ABD': 'abd'}
 
 
 def posts():
@@ -67,7 +66,7 @@ ARTIST_FIX = [('File:Heidelberg Universitätsbibliothek', 'Jan Beckendorf'), ('E
 
 
 def clean_artist(a):
-    a = a or 'Bilinmiyor'
+    a = a or 'Unknown'
     for start, name in ARTIST_FIX:
         if a.startswith(start):
             return name
@@ -77,7 +76,7 @@ def clean_artist(a):
 
 
 def tags(p):
-    return ' '.join(f'#{t}' for t in dict.fromkeys([p['tag'], 'yurtdisindaegitim', 'yurtdisindaokumak', 'universite', 'compassuni']))
+    return ' '.join(f'#{t}' for t in dict.fromkeys([p['tag'], 'studyabroad', 'internationalstudents', 'university', 'compassuni']))
 
 
 def source_line(p, sep=', '):
@@ -141,12 +140,12 @@ def hook_size(n):
     return 112 if n <= 36 else 100 if n <= 52 else 90
 
 
-def end_frame(sh, out, h=1920, seed=0, line='Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim.'):
+def end_frame(sh, out, h=1920, seed=0, line='From document preparation to application tracking, we manage it with you.'):
     top = 'justify-content:center'
     body = (brand_bg(seed) + f'<div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;{top};text-align:center;padding:0 90px">'
             f'<img src="file://{ICON}" style="width:{190 if h > 1400 else 150}px;height:{190 if h > 1400 else 150}px;border-radius:44px">'
             f'<div style="font:900 {88 if h > 1400 else 76}px/1 Inter;letter-spacing:-.03em;margin-top:44px">CompassUni</div>'
-            f'<div style="font:800 {60 if h > 1400 else 52}px/1.2 Inter;letter-spacing:-.02em;margin-top:36px">Yön senden, <em>yol bizden.</em></div>'
+            f'<div style="font:800 {60 if h > 1400 else 52}px/1.2 Inter;letter-spacing:-.02em;margin-top:36px">You set the direction, <em>we pave the way.</em></div>'
             f'<div class="txt" style="font-size:{40 if h > 1400 else 36}px;margin-top:30px">{esc(line)}</div>'
             f'<div style="margin-top:54px;font:900 {66 if h > 1400 else 58}px/1 Inter;letter-spacing:-.02em;padding:34px 56px;border-radius:30px;background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.22)">compassuni.com</div>'
             f'<div style="margin-top:30px;font:700 36px Inter;color:#7DD3FC">@compassuni.app</div></div>')
@@ -169,7 +168,7 @@ def render_uni(sh, job, p, U, out):
     b = (f'<div style="position:absolute;left:56px;right:56px;top:470px;background:rgba(15,23,42,.80);border:2px solid rgba(255,255,255,.14);border-radius:34px;padding:56px 56px 50px">'
          f'<div style="font:800 34px/1.2 Inter;color:#7DD3FC">{esc(p["uni_name"])}</div>'
          f'<div class="txt" style="font-size:{54 if len(p["fact"]) <= 110 else 49}px;font-weight:600;color:#fff;margin-top:24px">{esc(p["fact"])}</div>{cav}'
-         f'<div class="src" style="margin-top:36px">Kaynak: {esc(source_line(p))} · Kasım 2026</div></div>')
+         f'<div class="src" style="margin-top:36px">Source: {esc(source_line(p))} · November 2026</div></div>')
     segs, durs = [], []
     if ph:
         sh.shot(page(1080, 1920, SHADE + a), tmp / 'a.png', 1080, 1920, transparent=True)
@@ -189,7 +188,7 @@ def render_uni(sh, job, p, U, out):
     used = ph[:2]
     lines = []
     for v in used:
-        ln = f"📷 {clean_artist(v['artist'])} ({v['license']}), Wikimedia Commons, kırpıldı ve metin eklendi"
+        ln = f"📷 {clean_artist(v['artist'])} ({v['license']}), Wikimedia Commons, cropped with text added"
         if ln not in lines:
             lines.append(ln)
     core = f"{hook}\n\n{p['fact']}" + (f" {p['caveat']}" if p.get('caveat') else '')
@@ -215,21 +214,21 @@ def center(inner, top=190, bottom=300, right=110):
 
 
 def src_el(p):
-    return f'<div class="src" style="margin-top:40px">Kaynak: {esc(source_line(p))} · Kasım 2026</div>'
+    return f'<div class="src" style="margin-top:40px">Source: {esc(source_line(p))} · November 2026</div>'
 
 
 def render_myth(sh, job, p, U, out):
-    a = center(f'<span class="chip no">Yanlış bilinen</span>'
+    a = center(f'<span class="chip no">Common myth</span>'
                f'<div class="big" style="font-size:{hook_size(len(p["claim"]))}px;margin-top:44px">“{esc(p["claim"])}”</div>')
-    b = center(f'<span class="chip yes">Doğrusu</span>'
+    b = center(f'<span class="chip yes">The truth</span>'
                f'<div class="mid2" style="font-size:{84 if len(p["truth_title"]) <= 36 else 74}px;margin-top:40px">{esc(p["truth_title"])}</div>'
                f'<div class="txt" style="margin-top:34px">{esc(p["truth"])}</div>{src_el(p)}')
     text_reel(sh, job, [(a, 3.4), (b, 6.4)], out)
-    return f"“{p['claim']}”\n\nDoğrusu: {p['truth_title']}. {p['truth']}", ''
+    return f"“{p['claim']}”\n\nThe truth: {p['truth_title']}. {p['truth']}", ''
 
 
 def render_deadline(sh, job, p, U, out):
-    head = (f'<span class="chip sky">Takvimine yaz · {esc(p.get("country", ""))}</span>'
+    head = (f'<span class="chip sky">Save the date · {esc(p.get("country", ""))}</span>'
             f'<div style="font:900 {132 if len(p["date_big"]) <= 12 else 112}px/1.04 Inter;letter-spacing:-.04em;color:{SKY};margin-top:46px">{esc(p["date_big"])}</div>')
     a = center(f'{head}<div class="mid2" style="font-size:76px;margin-top:40px">{esc(p["what"])}</div>')
     b = center(f'{head}<div class="txt" style="margin-top:44px">{esc(p["detail"])}</div>{src_el(p)}')
@@ -257,16 +256,16 @@ def cover(sh, out, eyebrow, hook, n, seed, preview=''):
     size = 96 if len(hook) <= 44 else 84
     body = (brand_bg(seed) + f'<div class="x" style="top:120px;right:90px"><span class="chip sky" style="font-size:27px">{esc(eyebrow)}</span>'
             f'<div class="big" style="font-size:{size}px;margin-top:44px">{esc(hook)}</div>{preview}</div>'
-            f'<div class="swipe">KAYDIR →</div>' + DARK_FOOT(1, n))
+            f'<div class="swipe">SWIPE →</div>' + DARK_FOOT(1, n))
     sh.shot(page(1080, 1350, body), out, 1080, 1350)
 
 
 def note_slide(sh, out, p, i, n):
-    body = (f'<div class="light"></div><div class="x" style="top:150px;right:90px;color:{INK}"><div class="eb">Bilmen gereken</div>'
+    body = (f'<div class="light"></div><div class="x" style="top:150px;right:90px;color:{INK}"><div class="eb">Good to know</div>'
             f'<div style="font:600 54px/1.32 Inter;letter-spacing:-.012em;color:{INK};margin-top:34px">{esc(p["note"])}</div>'
-            f'<div class="eb" style="margin-top:70px;color:{SLATE}">Kaynak</div>'
+            f'<div class="eb" style="margin-top:70px;color:{SLATE}">Source</div>'
             f'<div style="font:600 36px/1.45 Inter;color:{SLATE};margin-top:20px">{esc(source_line(p, " · "))}</div>'
-            f'<div style="font:500 32px/1.4 Inter;color:#64748B;margin-top:30px">Kasım 2026’da resmi sayfalardan kontrol edildi. Başvurmadan önce güncel hâlini teyit et.</div></div>' + LIGHT_FOOT(i, n))
+            f'<div style="font:500 32px/1.4 Inter;color:#64748B;margin-top:30px">Checked on official pages in November 2026. Confirm the current version before you apply.</div></div>' + LIGHT_FOOT(i, n))
     sh.shot(page(1080, 1350, body), out, 1080, 1350)
 
 
@@ -327,7 +326,7 @@ def caption(job, p, core, credits):
     n = job['i']
     src = ''
     if p.get('sources') and job['kind'] != 'how':
-        src = f"\n\nKaynak: {source_line(p)} (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et."
+        src = f"\n\nSource: {source_line(p)} (checked November 2026). Confirm on the official page before you apply."
     cap = f"{core}{src}\n\n{SAVES[n % len(SAVES)]}\n{FOLLOW}\n\n{CTAS[n % len(CTAS)]}\n\n{tags(p)}"
     return cap + (f"\n\n{credits}" if credits else '')
 
