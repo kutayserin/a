@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-20T09:30",
+"date": "2026-11-20T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-11-guide-07",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-11-guide-07.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "İtalya'da devlet üniversitesi ücretini gelirin belirler\n\n1. ISEE nedir: Aile gelir ve varlık göstergesi. Bologna'da 27.000 € ve altı ilk yıl yalnız 157,04 € taksit öder (2026/27).\n2. Yurt dışı gelir: Gelir Türkiye'deyse ISEE yerine ayrı belgeler istenir; bazı kurumlar ülkeye göre sabit ücret uygular.\n3. Örnekler: Sapienza'da Türkiye grubu 700 € (bantlar 300, 700, 1.500 €); Verona'da ISEE'siz AB dışı için sabit 1.000 €.\n4. Zamanlama: Bologna 2026/27: ilk taksit 157,04 € lisansta 24 Eylül 2026; ikinci taksit 18 Aralık, üçüncü 15 Mart 2027.\n\nÜst sınır programa bağlı. Ek kalemleri üniversiteye sor.\n\nKaynak: unibo.it, uniroma1.it, univr.it (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#italyadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "İtalya: devlet üniversitesi ücreti ve gelir belgesi",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

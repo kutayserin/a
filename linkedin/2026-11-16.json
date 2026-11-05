@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-16T09:30",
+"date": "2026-11-16T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-09-guide-05",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-09-guide-05.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-16T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Common App'te başvuru: beş başlıkta özet\n\n1. Belgeleri topla: Lise transkripti, aktiviteler, varsa sınav puanları, aile bilgileri. School Report'u okul danışmanın gönderir.\n2. Hesap aç, okul ekle: Hesabı istediğin zaman açabilirsin; 2026-27 döneminde 1.200'den fazla üye kurum var.\n3. Referans verecekleri davet et: Referans şartlarını her üniversite kendisi belirler: danışman, öğretmen, bazen koç veya işveren.\n4. Yazılar (essay): Kişisel yazı bazı okullarda zorunlu, bazılarında isteğe bağlı; okula özel sorular ve yazı eki de olabilir.\n5. Gönder: Her üniversitenin kendi son tarihi var; sınav politikası da (zorunlu veya isteğe bağlı) okula göre değişir.\n\nUC sistemi kendi başvurusunu kullanır; UT Austin hem Common App hem ApplyTexas kabul eder.\n\nKaynak: commonapp.org, admission.universityofcalifornia.edu, admissions.utexas.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#amerikadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "ABD: Common App ile başvuru adımları",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

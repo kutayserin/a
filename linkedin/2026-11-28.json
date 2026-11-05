@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-28T09:30",
+"date": "2026-11-28T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-16-list-11",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-16-list-11.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-28T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "21 Ocak 2026'dan sonra TOEFL puanın 1 ile 6 arası\n\nCaltech: 5 (eski skalada 100)\nTwente (Eylül 2027): 5 (eski skalada 100)\nTilburg (Eylül 2027): 5 (Şubat 2027 girişi için 4.5)\nImperial Standard: 4.5 (eski skalada 92)\nUC Berkeley: 4.5 (eski skalada 90)\nUT Austin: 4 (eski skalada 79)\n\nYeni skalada genel puan dört bölümün ortalaması; ETS 2028'e kadar raporlarda eski karşılığı da gösteriyor. Üniversiteden doğrula.\n\nKaynak: ets.org, admissions.caltech.edu, utwente.nl, tilburguniversity.edu, imperial.ac.uk, admissions.berkeley.edu, admissions.utexas.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#toefl #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Yeni TOEFL skalası: üniversitelerin 1-6 bandındaki eşikleri",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-26T09:30",
+"date": "2026-11-26T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-15-list-10",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-15-list-10.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-26T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Amerika'da yayımlanmış IELTS alt sınırları\n\nColumbia: 7.5\nCornell: 7.5 (Academic)\nCaltech: 7.0 (her bölüm 7.0)\nRice: 7.0 (Academic; General kabul edilmez)\nUC Berkeley: 6.5\nUT Austin: 6.5 (Academic)\nUniv. of Washington: 6.0\n\nLisans başvurusu için alt sınırlar; Harvard, Stanford, NYU ve Northwestern minimum yayımlamıyor. Minimum, kabul garantisi değil.\n\nKaynak: undergrad.admissions.columbia.edu, admissions.cornell.edu, admissions.caltech.edu, admission.rice.edu, admissions.berkeley.edu, admissions.utexas.edu, admit.washington.edu, college.harvard.edu, admission.stanford.edu, nyu.edu, admissions.northwestern.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nYön senden, yol bizden. Paketler ve süreç: https://www.compassuni.com\n\n#amerikadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "ABD'de yayımlanmış minimum IELTS puanları",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

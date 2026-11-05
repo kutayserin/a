@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-14T09:30",
+"date": "2026-11-14T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-08-guide-04",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-08-guide-04.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-14T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "UCAS ile lisans başvurusu: tek form, kritik tarihler\n\n1. Hesap aç, tercih ekle: 2027 girişi başvuruları UCAS'ta 12 Mayıs 2026'da açıldı. Tek formla birden fazla üniversiteye başvurursun.\n2. Son tarihleri bil: Oxford, Cambridge, tıp, diş ve veteriner 15 Ekim 2026'ydı; çoğu program 13 Ocak 2027, saat 18:00 (İngiltere).\n3. Geç kaldıysan: Ek tercih hakkı Extra 25 Şubat'ta açılır. 30 Haziran 2027'ye kadar gelenler iletilir, sonrası Clearing.\n4. Yaz süreci: Clearing (boş kontenjanlara başvuru) 2 Temmuz 2027'de açılır; son başvuru tarihi 23 Eylül 2027.\n\nMaster başvuruları UCAS'tan değil, doğrudan üniversiteye yapılır ve tarihleri programa göre değişir.\n\nKaynak: ucas.com (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#ucas #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "İngiltere: UCAS ile lisans başvurusu ve 2027 tarihleri",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

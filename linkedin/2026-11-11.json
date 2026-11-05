@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-11T09:30",
+"date": "2026-11-11T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-07-list-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-07-list-02.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-11T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Bu eyalette AB dışı öğrenci dönem başına 1.500 € öder\n\nHeidelberg: 1.500 € (dönem başına, AB/AEA dışı)\nKIT Karlsruhe: 1.500 € (dönem başına, AB/AEA dışı)\nFreiburg: 1.500 € (artı 190 € dönem katkı payı)\nStuttgart: 1.500 € (artı 184 € dönem katkı payı)\nTübingen: 1.500 € (dönem başına, AB/AEA dışı)\nKonstanz: 1.500 € (dönem başına, AB/AEA dışı)\nMannheim: 1.500 € (dönem başına, AB/AEA dışı)\n\nEyalet kuralı; yılda 3.000 €. Dönem katkı payı ayrıca ödenir. AB/AEA vatandaşları öğrenim ücreti ödemez.\n\nKaynak: mwk.baden-wuerttemberg.de, uni-heidelberg.de, uni-freiburg.de, student.uni-stuttgart.de, uni-konstanz.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#badenwuerttemberg #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Baden-Württemberg kuralı: AB dışı öğrenci dönemde 1.500 €",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

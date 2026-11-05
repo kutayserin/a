@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-22T09:30",
+"date": "2026-11-22T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-12-guide-08",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-12-guide-08.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-22T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "IELTS mi TOEFL mı, yeni TOEFL puanı ne anlama geliyor\n\n1. TOEFL değişti: 21 Ocak 2026'dan beri TOEFL iBT 1-6 skalasında, yarım bantlarla. Eski 0-120 toplamı yerine bölüm ortalaması.\n2. Karşılıklar: B2 = 4 ve 4.5, C1 = 5 ve 5.5, C2 = 6. Örneğin 5 bandı eski skalada 95-106 aralığına denk geliyor.\n3. Raporu oku: ETS iki yıl boyunca raporda CEFR, 1-6 puan ve eski karşılığı birlikte gösteriyor; tek skala 2028'de başlıyor.\n4. Üniversite ne istiyor: Berkeley 4.5, Imperial Standard 4.5, Tilburg Eylül 2027 için 5. Rietveld gibi bazı kurumlar sadece IELTS alır.\n\nBirleşik Krallık vizesi için onaylı sınav listesinde (SELT) TOEFL yok; SOAS IELTS for UKVI öneriyor.\n\nKaynak: ets.org, admissions.berkeley.edu, imperial.ac.uk, tilburguniversity.edu, rietveldacademie.nl, soas.ac.uk (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#toefl #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Dil sertifikaları: IELTS, TOEFL ve yeni TOEFL skalası",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

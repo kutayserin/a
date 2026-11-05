@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-24T09:30",
+"date": "2026-11-24T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-13-guide-09",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-13-guide-09.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-24T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Öğrenci vizesinde para kanıtı: beş ülke, beş kural\n\n1. Almanya: Bir yıl için 11.904 € (DAAD). Bloke hesap bir seçenek; hangisinin geçerli olduğunu konsolosluğa sor.\n2. Hollanda: Hollanda göç dairesi (IND) 2026 tutarı: ayda 1.130,77 €, 31 Aralık 2026'ya kadar geçerli.\n3. İtalya: 2026/27 ve 2027/28 genelgesi: yıllık 10.179,85 €; kaynak yasal, izlenebilir, tercihen kendi veya aile parası.\n4. İngiltere: 1 yıl okul ücreti + ayda 1.529 £ (Londra) veya 1.171 £, 9 ay; 28 gün hesapta. Vize 558 £, sağlık 776 £/yıl.\n5. ABD: Resmi sayfada sabit tutar yok. Okul SEVIS kaydını yapıp Form I-20 verir; vize derse en çok 365 gün kala çıkar.\n\nTutarlar yıl içinde güncellenir; başvuru günündeki resmi sayfayı kontrol et.\n\nKaynak: study-in-germany.com, ind.nl, unife.it, gov.uk, travel.state.gov, ice.gov (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nYön senden, yol bizden. Paketler ve süreç: https://www.compassuni.com\n\n#vize #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Öğrenci vizesinde maddi kanıt: beş ülke, beş kural",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

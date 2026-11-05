@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-25T09:30",
+"date": "2026-11-25T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-14-list-09",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-14-list-09.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-25T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Amerika'da bir yılın öğrenim faturası (2026-27)\n\nCarnegie Mellon: 69.702 $ (özel; öğrenim ücreti, harçlar ayrı)\nUC Irvine: 59.375 $ (eyalet dışı, güz 2026 girişi, sigortalı)\nUCLA: 55.700 $ (eyalet dışı, ek ücret ve harçlar toplamı)\nMaryland College Park: 44.086 $ (eyalet dışı, ücret ve harçlar)\n\nEyalet dışı tarife uluslararası öğrenciye de uygulanır. Konaklama ve kitap dahil değil; sigorta yalnız Irvine'da dahil.\n\nKaynak: cmu.edu, reg.uci.edu, admission.ucla.edu, usmd.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#amerikadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "ABD'de bir yılın öğrenim faturası: 2026-27 örnekleri",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

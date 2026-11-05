@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-18T09:30",
+"date": "2026-11-18T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-10-guide-06",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-10-guide-06.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-18T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Alman vizesi için 11.904 € nasıl gösterilir\n\n1. Tutarı bil: DAAD'nin Study in Germany portalına göre çoğu durumda bir yıl için 11.904 € göstermen gerekiyor.\n2. Yöntemi seç: Bloke hesap (Sperrkonto), banka teminatı, Almanya'da oturan birinin taahhüdü, aile geliri veya burs yazısı.\n3. Hesabı erken aç: Bloke hesap başvurusunu erken yap; işlem genelde bir hafta sürer, onay belgesi vize dosyana girer.\n4. Konsolosluğu kontrol et: Hangi kanıtın kabul edildiğini ve güncel tutarı ülkendeki Alman temsilciliği belirler.\n\nTutar yaşam masrafı tahminine bağlı ve güncellenir; başvuru öncesi doğrula.\n\nKaynak: study-in-germany.com (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nYön senden, yol bizden. Paketler ve süreç: https://www.compassuni.com\n\n#almanyadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Almanya: bloke hesap ve 11.904 € nasıl gösterilir",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

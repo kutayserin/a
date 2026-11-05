@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-15T09:30",
+"date": "2026-11-15T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-09-list-04",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-09-list-04.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-15T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Lisansta AB dışı ücret: Delft'ten Rotterdam'a\n\nTU Delft: 20.563 € (BSc, kurumsal ücret)\nErasmus Univ. College: 17.800 € (AB dışı kurumsal ücret)\nLeiden (en düşük): 14.700 € (fen 19.200 €, tıp 31.400 €)\nErasmus Rotterdam: 14.700 € (RSM 15.200 €, tıp 35.000 €)\nYasal ücret (AB/AEA): 2.771 € (AB/AEA pasaportu olanlar)\n\n2027/28 ücretleri; Leiden ve Rotterdam'da bölüme göre artar. Türkiye pasaportuyla genelde kurumsal tarife geçerli.\n\nKaynak: tudelft.nl, universiteitleiden.nl, eur.nl (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nYön senden, yol bizden. Paketler ve süreç: https://www.compassuni.com\n\n#hollandadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Hollanda 2027/28: AB dışı lisans ücreti örnekleri",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

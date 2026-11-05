@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-27T09:30",
+"date": "2026-11-27T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-15-guide-11",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-15-guide-11.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-27T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "ABD öğrenci vizesi: kabulden uçağa\n\n1. SEVP onaylı okul: Okulun ABD öğrenci programına (SEVP) kayıtlı olmalı; seni SEVIS'e girer, kabul belgesi Form I-20'yi verir.\n2. I-901 SEVIS ücreti: Vize başvurusundan önce FMJfee.com üzerinden ödenir; bilgiler I-20 ile birebir aynı olmalı.\n3. Konsolosluk görüşmesi: 14-79 yaş arası için mülakat zorunlu; I-20'yi yanında götür. Adım sırası konsolosluğa göre değişebilir.\n4. Zamanlama: Vize kurs başlangıcından en çok 365 gün önce verilebilir; ABD'ye en erken 30 gün önce girebilirsin.\n\nBirden fazla okuldan I-20 aldıysan vize için birini seçmelisin. İsim ve doğum tarihi pasaportla aynı olmalı.\n\nKaynak: travel.state.gov, ice.gov (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#amerikadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "ABD F-1 öğrenci vizesi: kabulden uçağa",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

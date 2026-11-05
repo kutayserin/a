@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-21T09:30",
+"date": "2026-11-21T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-12-list-07",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-12-list-07.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-21T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Kamu üniversitesinde yıllık ücret: gelir ve ülkeye göre\n\nBologna (asgari): 157,04 € (ISEE 27.000 € ve altı, ilk yıl, 2026/27)\nSapienza Roma: 300-1.500 € (Türkiye grubu 700 €; 2027/28'i doğrula)\nVerona: 1.000 € (ISEE'siz AB dışı için sabit seçenek)\nBozen-Bolzano: yaklaşık 1.200 € (AB dışı, iki taksit)\nTorino: 156-2.800 € (bir program; 2025-26 aralığı)\n\nÜcret ISEE (aile gelir göstergesi) veya ülke listesine bağlı; üst sınır programa göre değişir. Ek kalemleri üniversiteye sor.\n\nKaynak: unibo.it, uniroma1.it, univr.it, unibz.it, apply.unito.it (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nYön senden, yol bizden. Paketler ve süreç: https://www.compassuni.com\n\n#italyadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "İtalya kamu üniversiteleri: yıllık ücret gelire ve ülkeye göre",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

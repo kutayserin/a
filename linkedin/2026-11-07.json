@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-07T09:30",
+"date": "2026-11-07T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-05-guide-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-05-guide-01.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-07T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "uni-assist ve VPD: bazı Alman üniversitelerine başvurunun yolu\n\n1. Üniversiteyi kontrol et: Her üniversite uni-assist kullanmaz. VPD (ön değerlendirme belgesi) isteyip istemediğini üniversite söyler.\n2. My assist hesabı aç: Online başvuruyu oluştur, diplomanı ve transkriptini yükle. Hangi belgelerin gerektiğini üniversite söyler.\n3. Ücreti öde: İlk program 75 €, aynı dönemde her ek program 30 €. Ödeme talepleri yalnız uni-assist portalından gelir.\n4. VPD'yi bekle: İşlem genelde 4 ile 6 hafta sürer; son tarihten en az 8 hafta önce başvur. VPD bir yıl geçerli.\n5. Üniversiteye yükle: VPD'yi diğer belgelerle birlikte üniversitenin kendi portalına, kendi son tarihinden önce gönder.\n\nBazı üniversiteler doğrudan başvuru alır; bazılarında uni-assist başvuruyu üniversiteye iletir. Ücret her dönem yeniden.\n\nKaynak: uni-assist.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#almanyadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Almanya: uni-assist ve VPD adım adım",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

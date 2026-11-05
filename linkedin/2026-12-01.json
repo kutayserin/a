@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-01T09:30",
+"date": "2026-12-01T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-17-guide-13",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-17-guide-13.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-01T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "İtalya için diploma belgesi: CIMEA mı Dichiarazione di Valore mi?\n\n1. İki yol var: Genelge iki yol tanıyor: CIMEA (denklik merkezi) belgeleri ya da Dichiarazione di Valore. Seçim üniversitenin.\n2. Üniversite ne diyor: Bari Politeknik ve Verona ikisini de kabul ediyor; Floransa'da kayıttan önce biri gerekli (sayfa 2024/25).\n3. Vize gerekmeyenler için: Türkiye pasaportu bu gruba girmez. Genelge, vize gerekmeyen adaylardan Dichiarazione istenmemesini öneriyor.\n4. Zaman ayır: Belgeleri erken iste; vize dosyasında lisede orijinal diploma, gerekirse İtalyanca çeviri de olmalı.\n\nLizbon Sözleşmesi ülkelerinde (Türkiye dahil) CIMEA karşılaştırılabilirlik belgesi ARDI sitesinden indirilebilir.\n\nKaynak: unife.it, poliba.it, univr.it, unifi.it, en.unimib.it (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#italyadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "İtalya için diploma belgesi: CIMEA mı Dichiarazione di Valore mi",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

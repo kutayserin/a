@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-10T09:30",
+"date": "2026-11-10T09:30:00+03:00",
+"kind": "guide",
+"folder": "2026-11-06-guide-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-06-guide-02.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-10T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Studielink'te başvuru dört adımda\n\n1. Programı bul: Studyfinder'da programı seç, kurumun sayfasında başvuru yolunu kontrol et. Bazı kurumlar farklı yol kullanır.\n2. Studielink'e kaydol: Hesap aç, önceki eğitimini ekle ve başvuruyu gönder. Kurum sonra kendi portalında ek belge isteyebilir.\n3. Tarihlere dikkat: Numerus fixus 15 Ocak 23:59'da kapanır; genel tarih 1 Mayıs. AB dışı adayda kurum daha erken tarih koyabilir.\n4. Teklifi kabul et: Numerus fixus sıralaması 15 Nisan'da gelir; teklifi iki hafta içinde kabul etmezsen yer başkasına geçer.\n\nYılda en fazla iki numerus fixus programına başvurabilirsin; tıp gibi alanlarda o programa yılda tek başvuru.\n\nKaynak: studyinnl.org (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#hollandadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Hollanda: Studielink ile başvuru dört adımda",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

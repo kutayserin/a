@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-02T09:30",
+"date": "2026-12-02T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-17-list-14",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-17-list-14.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-02T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "AB dışı aday için Hollanda'da son gün her yerde 1 Mayıs değil\n\nNumerus fixus: 15 Ocak (kontenjanlı programlar, saat 23:59)\nTilburg master: 1 Nisan (Eylül 2027 girişi)\nRotterdam UAS: 1 Nisan (AB dışı lisans ve güz master)\nAeres UAS: 1 Nisan (AB dışı; başvurular 1 Ekim'de açılır)\nBreda UAS: 1 Mayıs (lisans; master 1 Haziran)\nHanze UAS: 1 Haziran (Eylül girişi; Şubat girişi 1 Kasım)\n\nÇoğu sayfa yıl belirtmiyor; tarihler her yıl tekrarlanır ama 2027 için üniversiteden doğrula. Genel Studielink tarihi 1 Mayıs.\n\nKaynak: studyinnl.org, tilburguniversity.edu, rotterdamuas.com, aeresuas.com, buas.nl, hanze.nl (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: https://www.compassuni.com\n\n#hollandadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Hollanda'da AB dışı adaylar için son tarihler",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

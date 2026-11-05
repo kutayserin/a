@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-30T09:30",
+"date": "2026-11-30T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-17-list-12",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-17-list-12.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-30T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Güz 2027 için SAT gerekli mi? Üniversiteye göre değişiyor\n\nHarvard: Zorunlu (sınırlı istisnalar)\nYale: Zorunlu (SAT veya ACT)\nMIT: Zorunlu (SAT veya ACT)\nStanford: Zorunlu (güz 2026 ve sonrası)\nPrinceton: İsteğe bağlı (güz 2028'de yeniden zorunlu)\nDuke: İsteğe bağlı (2026-27 başvuru dönemi)\nUCLA: Değerlendirilmez (UC sistemi)\n\nPolitikalar yıl yıl değişiyor; başvurduğun döngünün sayfasını kontrol et. Zorunlu olmaması puanın işe yaramaz demek değil.\n\nKaynak: college.harvard.edu, admissions.yale.edu, mitadmissions.org, admission.stanford.edu, admission.princeton.edu, admissions.duke.edu, admission.ucla.edu (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#amerikadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "ABD güz 2027: SAT/ACT politikası üniversiteye göre",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

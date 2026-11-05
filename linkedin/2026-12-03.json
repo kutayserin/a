@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-03T09:30",
+"date": "2026-12-03T09:30:00+03:00",
+"kind": "list",
+"folder": "2026-11-17-list-15",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/linkedin/media/2026-11-17-list-15.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-03T09:30:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Almanya'da kış dönemi başvurusu ne zaman açılıyor?\n\nRWTH Aachen master: 1 Aralık-1 Mart (AB dışı, açık kabul; kontenjanlı 15 Temmuz)\nGöttingen lisans: 1 Mart-30 Nisan (kontenjanlı; açık kabul 30 Eylül)\nHPI master: 1 Nisan-1 Haziran (GRE General Test istenir)\nTU Dresden: 1 Nisan-31 Mayıs (AB dışı, yabancı diploma)\nHamburg master: 1 Mayıs-15 Haziran (2026/27; uluslararası 15 Şubat-31 Mart)\n\nYıl belirtilmeyen tekrarlayan pencereler; 2027/28 için doğrula. uni-assist ön değerlendirme belgesi (VPD) için 8 hafta ekle.\n\nKaynak: rwth-aachen.de, uni-goettingen.de, hpi.de, tu-dresden.de, uni-hamburg.de, uni-assist.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n➕ Her gün resmi kaynaktan yeni bilgi için takip et.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: https://www.compassuni.com\n\n#almanyadaegitim #yurtdisindaegitim #compassuni",
+"linkedinData": {
+"documentTitle": "Almanya kış dönemi: başvuru pencereleri",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]
