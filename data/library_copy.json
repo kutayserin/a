@@ -2,15 +2,15 @@
  "posts": [
   {
    "type": "uni",
-   "title": "LMU Münih: çoğu programda öğrenim ücreti yok, katkı payı var",
-   "tag": "almanyadaegitim",
+   "title": "LMU Munich: no tuition on most programs, semester contribution applies",
+   "tag": "studyingermany",
    "slug": "lmu-munich",
-   "country": "Almanya",
-   "city": "Münih",
-   "uni_name": "LMU Münih",
-   "hook": "LMU'da çoğu programda öğrenim ücreti yok",
-   "fact": "LMU, 2013/14 kışından beri öğrenim ücreti almıyor; dönem katkı payı ödenir. Bazı özel yüksek lisans programları ise ücretli.",
-   "caveat": "Katkı payı tutarını Münih öğrenci hizmetleri kurumu belirler. Yaşam masrafı ayrı.",
+   "country": "Germany",
+   "city": "Munich",
+   "uni_name": "LMU Munich",
+   "hook": "No tuition on most programs at LMU",
+   "fact": "LMU has charged no tuition since winter 2013/14; you pay a semester contribution. Some special master's programs do charge fees.",
+   "caveat": "Munich's student services organization sets the contribution amount. Living costs are separate.",
    "sources": [
     {
      "domain": "lmu.de",
@@ -20,15 +20,15 @@
   },
   {
    "type": "uni",
-   "title": "FU Berlin: 2026/27 kış dönemi katkı payı 376,80 €",
-   "tag": "berlindeokumak",
+   "title": "FU Berlin: 2026/27 winter semester contribution is €376.80",
+   "tag": "studyinberlin",
    "slug": "fu-berlin",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Berlin",
    "uni_name": "FU Berlin",
-   "hook": "FU Berlin'de bir dönemin katkı payı: 376,80 €",
-   "fact": "FU Berlin'de öğrenim ücreti yok. 2026/27 kış dönemi katkı payı 376,80 €; bunun 226,80 €'su dönemlik toplu taşıma bileti.",
-   "caveat": "Yaz 2026 tutarı 358,80 € idi; rakam her dönem güncellenir.",
+   "hook": "One semester's contribution at FU Berlin: €376.80",
+   "fact": "FU Berlin has no tuition. The 2026/27 winter semester contribution is €376.80, of which €226.80 is the semester public transport ticket.",
+   "caveat": "The summer 2026 amount was €358.80; the figure is updated every semester.",
    "sources": [
     {
      "domain": "fu-berlin.de",
@@ -38,15 +38,15 @@
   },
   {
    "type": "uni",
-   "title": "Heidelberg: AB dışı öğrenci dönem başına 1.500 € öder",
-   "tag": "almanyadaegitim",
+   "title": "Heidelberg: non-EU students pay €1,500 per semester",
+   "tag": "studyingermany",
    "slug": "heidelberg",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Heidelberg",
-   "uni_name": "Heidelberg Üniversitesi",
-   "hook": "Heidelberg'de Türk öğrenci için dönemlik 1.500 €",
-   "fact": "Baden-Württemberg'de AB/AEA dışı öğrenciler lisans ve aynı alandaki master için dönem başına 1.500 € öğrenim ücreti öder. Yılda 3.000 €.",
-   "caveat": "Dönem katkı payı ayrıca ödenir. AB/AEA vatandaşları bu ücreti ödemez.",
+   "uni_name": "University of Heidelberg",
+   "hook": "Heidelberg: €1,500 per semester for Turkish students",
+   "fact": "In Baden-Württemberg, non-EU/EEA students pay €1,500 tuition per semester for a bachelor's and a master's in the same field. That is €3,000 a year.",
+   "caveat": "The semester contribution is paid separately. EU/EEA citizens do not pay this fee.",
    "sources": [
     {
      "domain": "uni-heidelberg.de",
@@ -56,15 +56,15 @@
   },
   {
    "type": "uni",
-   "title": "TUM: AB dışı ücretler 2027/28 kış döneminde artıyor",
-   "tag": "tummunih",
+   "title": "TUM: non-EU fees rise in winter semester 2027/28",
+   "tag": "tumunich",
    "slug": "tum-munich",
-   "country": "Almanya",
-   "city": "Münih",
+   "country": "Germany",
+   "city": "Munich",
    "uni_name": "TUM",
-   "hook": "TUM'da ücretler 2027/28 kışında artıyor",
-   "fact": "TUM, AB dışı master öğrencisinden dönem başına 4.000 veya 6.000 € alıyor. 2027/28 kışından itibaren yeni kayıtlarda 4.600 veya 6.800 €.",
-   "caveat": "Lisans: 2.000/3.000 €, yeni kayıtta 2.300/3.400 €. Tutar bölüme bağlı; katkı payı ayrı.",
+   "hook": "TUM fees rise in winter 2027/28",
+   "fact": "TUM charges non-EU master's students €4,000 or €6,000 per semester. From winter 2027/28, new enrolments pay €4,600 or €6,800.",
+   "caveat": "Bachelor's: €2,000/€3,000, new enrolments €2,300/€3,400. Depends on the program; contribution is separate.",
    "sources": [
     {
      "domain": "tum.de",
@@ -74,15 +74,15 @@
   },
   {
    "type": "uni",
-   "title": "RWTH Aachen: master başvurusu 1 Aralık ile 1 Mart arasında",
+   "title": "RWTH Aachen: master's applications run 1 December to 1 March",
    "tag": "rwthaachen",
    "slug": "rwth-aachen",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Aachen",
    "uni_name": "RWTH Aachen",
-   "hook": "RWTH'ye master için kapı 1 Aralık'ta açılıyor",
-   "fact": "AB dışı adaylar için kış dönemi master başvuruları 1 Aralık ile 1 Mart arasında, yaz dönemi için 1 Haziran ile 1 Eylül arasında alınıyor.",
-   "caveat": "Kontenjanlı bölümlerde son tarih kış 15 Temmuz, yaz 15 Ocak. Sayfa yılsız, doğrula.",
+   "hook": "RWTH master's applications open on 1 December",
+   "fact": "For non-EU applicants, winter semester master's applications run 1 December to 1 March, and summer semester ones 1 June to 1 September.",
+   "caveat": "Limited-place deadlines: 15 July for winter, 15 January for summer. The page gives no year, so confirm.",
    "sources": [
     {
      "domain": "rwth-aachen.de",
@@ -92,15 +92,15 @@
   },
   {
    "type": "uni",
-   "title": "TU Dresden: AB dışı adaylar için son tarih 31 Mayıs",
+   "title": "TU Dresden: non-EU applicants' deadline is 31 May",
    "tag": "tudresden",
    "slug": "tu-dresden",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Dresden",
    "uni_name": "TU Dresden",
-   "hook": "Dresden'de AB dışı adaya daha erken son tarih",
-   "fact": "Kış döneminde yabancı diplomalı AB dışı adaylar 1 Nisan ile 31 Mayıs arasında başvuruyor. AB veya Alman diplomalılar için süre 15 Temmuz.",
-   "caveat": "uni-assist üzerinden, ilk başvuru 75 €. Bazı masterların tarihi farklı. Yıl belirtilmemiş.",
+   "hook": "Dresden: an earlier deadline for non-EU applicants",
+   "fact": "For the winter semester, non-EU applicants with foreign diplomas apply from 1 April to 31 May. With an EU or German diploma, the deadline is 15 July.",
+   "caveat": "Through uni-assist, first application €75. Some master's programs have different dates. No year is stated.",
    "sources": [
     {
      "domain": "tu-dresden.de",
@@ -110,15 +110,15 @@
   },
   {
    "type": "uni",
-   "title": "HPI Potsdam: bilgisayar masterı başvurusu 1 Nisan ile 1 Haziran arası",
+   "title": "HPI Potsdam: computer science master's applications, 1 April to 1 June",
    "tag": "hpipotsdam",
    "slug": "hpi",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Potsdam",
    "uni_name": "Hasso Plattner Institute",
-   "hook": "HPI'nin bilgisayar masterı için pencere kısa",
-   "fact": "HPI kış dönemi başvurularını 1 Nisan ile 1 Haziran arasında alıyor. Uluslararası adaylardan GRE General Test de isteniyor.",
-   "caveat": "APS (diploma denetim belgesi) yalnız Hindistan, Çin ve Vietnam diplomaları için.",
+   "hook": "HPI's computer science master's has a short window",
+   "fact": "HPI takes winter semester applications from 1 April to 1 June. International applicants also need the GRE General Test.",
+   "caveat": "APS (diploma verification certificate) is only for diplomas from India, China and Vietnam.",
    "sources": [
     {
      "domain": "hpi.de",
@@ -128,15 +128,15 @@
   },
   {
    "type": "uni",
-   "title": "Mannheim: master IELTS şartı programa göre 5.5 ile 7.0 arası",
+   "title": "Mannheim: master's IELTS requirement ranges from 5.5 to 7.0 by program",
    "tag": "mannheim",
    "slug": "uni-mannheim",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Mannheim",
-   "uni_name": "Mannheim Üniversitesi",
-   "hook": "Mannheim'da tek bir IELTS puanı yok",
-   "fact": "Master programlarına göre IELTS 5.5 ile 7.0 arası: Data Science ve Economics 6.0, Social Data Science 6.5, Management ve Finance 7.0.",
-   "caveat": "TOEFL iBT karşılıkları 72 ile 100 arası. Kendi programının sayfasını kontrol et.",
+   "uni_name": "University of Mannheim",
+   "hook": "Mannheim has no single IELTS score",
+   "fact": "IELTS ranges from 5.5 to 7.0 by master's program: Data Science and Economics 6.0, Social Data Science 6.5, Management and Finance 7.0.",
+   "caveat": "TOEFL iBT equivalents range from 72 to 100. Check your own program's page.",
    "sources": [
     {
      "domain": "uni-mannheim.de",
@@ -146,15 +146,15 @@
   },
   {
    "type": "uni",
-   "title": "Münster: öğrenim ücreti yok, 2026/27 katkı payı 369,50 €",
-   "tag": "almanyadaegitim",
+   "title": "Münster: no tuition, 2026/27 contribution is €369.50",
+   "tag": "studyingermany",
    "slug": "uni-muenster",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Münster",
-   "uni_name": "Münster Üniversitesi",
-   "hook": "Münster'de dönemlik katkı payı 369,50 €, öğrenim ücreti yok",
-   "fact": "Münster Üniversitesi öğrenim ücreti almıyor. 2026/27 kış dönemi için dönem katkı payı 369,50 €, yılda yaklaşık 739 €.",
-   "caveat": "Katkı payı toplu taşımayı da kapsar, her dönem güncellenir. Kira ve yaşam masrafı ayrı.",
+   "uni_name": "University of Münster",
+   "hook": "Münster: €369.50 semester contribution, no tuition",
+   "fact": "The University of Münster charges no tuition. The semester contribution for winter 2026/27 is €369.50, about €739 a year.",
+   "caveat": "Covers public transport too and is updated every semester. Rent and living costs are separate.",
    "sources": [
     {
      "domain": "uni-muenster.de",
@@ -164,15 +164,15 @@
   },
   {
    "type": "uni",
-   "title": "FAU Erlangen: 2027 yazından itibaren AB dışı öğrenciye ücret",
-   "tag": "almanyadaegitim",
+   "title": "FAU Erlangen: fees for non-EU students from summer 2027",
+   "tag": "studyingermany",
    "slug": "uni-erlangen",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Erlangen",
    "uni_name": "FAU Erlangen-Nürnberg",
-   "hook": "Erlangen'de 2027 yazından itibaren yeni kural",
-   "fact": "FAU, 2027 yaz döneminden itibaren bazı programlarda AB dışı öğrencilerden öğrenim ücreti alacak. 2027/28 kışında başlayanlar da kapsamda.",
-   "caveat": "Yeni kayıtta dönemlik lisans 1.000-3.000 €, master 2.000-6.000 €. Liste FAU sayfasında.",
+   "hook": "Erlangen: a new rule from summer 2027",
+   "fact": "From the 2027 summer semester, FAU will charge non-EU students tuition on some programs. Those starting in winter 2027/28 are also covered.",
+   "caveat": "New enrolments per semester: bachelor's €1,000-3,000, master's €2,000-6,000. The list is on the FAU page.",
    "sources": [
     {
      "domain": "fau.eu",
@@ -186,15 +186,15 @@
   },
   {
    "type": "uni",
-   "title": "Constructor University Bremen: 2027/28 dönem ücreti 11.925 €",
+   "title": "Constructor University Bremen: 2027/28 semester fee is €11,925",
    "tag": "bremen",
    "slug": "jacobs-bremen",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Bremen",
    "uni_name": "Constructor University",
-   "hook": "Bremen'de özel üniversite: dönemlik 11.925 €",
-   "fact": "Constructor University lisansta 2027/28 dönem ücreti 11.925 €, AB ve AB dışı için aynı. Tek seferlik kayıt ücreti AB dışı için 940 €.",
-   "caveat": "Yıllık yaklaşık 23.850 € eder; konaklama ve yemek ayrı. Master ücretleri farklı olabilir.",
+   "hook": "Private university in Bremen: €11,925 per semester",
+   "fact": "Constructor University's 2027/28 bachelor's semester fee is €11,925, the same for EU and non-EU. The one-off enrollment fee is €940 for non-EU students.",
+   "caveat": "That comes to about €23,850 a year; accommodation and meals are separate. Master's fees may differ.",
    "sources": [
     {
      "domain": "constructor.university",
@@ -204,15 +204,15 @@
   },
   {
    "type": "uni",
-   "title": "Göttingen: kontenjanlı lisans için AB dışı son tarih 30 Nisan",
+   "title": "Göttingen: non-EU deadline for bachelor's with limited places is 30 April",
    "tag": "goettingen",
    "slug": "uni-goettingen",
-   "country": "Almanya",
+   "country": "Germany",
    "city": "Göttingen",
-   "uni_name": "Göttingen Üniversitesi",
-   "hook": "Göttingen'de kontenjanlı lisansa son gün 30 Nisan",
-   "fact": "AB dışı adaylar için kış dönemi lisans başvuruları 1 Mart'ta açılıyor: kontenjanlı bölümler 30 Nisan'da, açık kabul 30 Eylül'de kapanıyor.",
-   "caveat": "Master ve doktora tarihleri programa göre değişir. Sayfa yıl vermiyor; 2027 için doğrula.",
+   "uni_name": "University of Göttingen",
+   "hook": "Göttingen: limited-place bachelor's deadline is 30 April",
+   "fact": "For non-EU applicants, winter semester bachelor's applications open on 1 March: programs with limited places close on 30 April, open admission on 30 September.",
+   "caveat": "Master's and PhD dates vary by program. The page gives no year; confirm for 2027.",
    "sources": [
     {
      "domain": "uni-goettingen.de",
@@ -222,15 +222,15 @@
   },
   {
    "type": "uni",
-   "title": "Bocconi: 2027/28 Master of Science ilk yıl 19.300 €",
+   "title": "Bocconi: 2027/28 Master of Science first year is €19,300",
    "tag": "bocconi",
    "slug": "bocconi-university",
-   "country": "İtalya",
-   "city": "Milano",
+   "country": "Italy",
+   "city": "Milan",
    "uni_name": "Bocconi",
-   "hook": "Bocconi'de 2027/28 master ücreti netleşti",
-   "fact": "Master of Science programlarında ilk yıl ücret 19.300 €. Kısmi muafiyetle 15.440 € veya 7.720 €'ya düşebiliyor. AB ve AB dışı ayrımı yok.",
-   "caveat": "Lisans ücreti farklı. Muafiyetler başarı ve ihtiyaç değerlendirmesiyle verilir.",
+   "hook": "Bocconi's 2027/28 master's fee is now clear",
+   "fact": "The first-year fee on Master of Science programs is €19,300. Partial waivers can bring it down to €15,440 or €7,720. There is no EU/non-EU distinction.",
+   "caveat": "The bachelor's fee is different. Waivers are granted through merit and need assessment.",
    "sources": [
     {
      "domain": "unibocconi.it",
@@ -240,15 +240,15 @@
   },
   {
    "type": "uni",
-   "title": "LUISS Roma: 2027/28 master ücreti 16.000 €, gelire göre değişmiyor",
+   "title": "LUISS Rome: 2027/28 master's fee is €16,000, regardless of income",
    "tag": "luiss",
    "slug": "luiss",
-   "country": "İtalya",
-   "city": "Roma",
+   "country": "Italy",
+   "city": "Rome",
    "uni_name": "LUISS Guido Carli",
-   "hook": "LUISS'te ücret gelire göre değişmiyor",
-   "fact": "2027/28 ilk yıl: master programları 16.000 €, Management ve Finance programları 18.000 €. Tek katkı sistemi; gelir dilimine göre değişmiyor.",
-   "caveat": "Özel üniversite; gelir belgesi (ISEE) indirimi yok. Bölgesel vergi ayrıca ödenir.",
+   "hook": "At LUISS, the fee does not vary by income",
+   "fact": "2027/28 first year: master's programs €16,000, Management and Finance programs €18,000. Single contribution system; it does not vary by income bracket.",
+   "caveat": "Private university; no income certificate (ISEE) discount. Regional tax is paid separately.",
    "sources": [
     {
      "domain": "luiss.it",
@@ -258,15 +258,15 @@
   },
   {
    "type": "uni",
-   "title": "Cattolica Milano: AB dışı master 9.350 €, bursla 6.400 €",
+   "title": "Cattolica Milano: non-EU master's €9,350, €6,400 with a scholarship",
    "tag": "cattolica",
    "slug": "cattolica-milan",
-   "country": "İtalya",
-   "city": "Milano",
+   "country": "Italy",
+   "city": "Milan",
    "uni_name": "Cattolica Milano",
-   "hook": "Cattolica'da bursla 9.350 € yerine 6.400 €",
-   "fact": "2026/27 ilk yıl: yurt dışı gelirli AB dışı öğrenci master için 9.350 €, lisans için 8.800 € ödüyor. UCSC bursuyla master 6.400 €'ya iniyor.",
-   "caveat": "AB gelirli öğrencide en çok 6.850 €. Burs başvuruyla verilir, otomatik değil.",
+   "hook": "Cattolica scholarship: €6,400 instead of €9,350",
+   "fact": "2026/27 first year: non-EU students with income from abroad pay €9,350 for a master's, €8,800 for a bachelor's. A UCSC scholarship cuts the master's to €6,400.",
+   "caveat": "With EU income, at most €6,850. You apply for the scholarship; it is not automatic.",
    "sources": [
     {
      "domain": "international.unicatt.it",
@@ -276,15 +276,15 @@
   },
   {
    "type": "uni",
-   "title": "Domus Academy Milano: 2027/28 MA ücreti AB dışı 22.500 €",
+   "title": "Domus Academy Milan: 2027/28 MA fee for non-EU students is €22,500",
    "tag": "domusacademy",
    "slug": "domus-academy",
-   "country": "İtalya",
-   "city": "Milano",
+   "country": "Italy",
+   "city": "Milan",
    "uni_name": "Domus Academy",
-   "hook": "Domus Academy'de AB dışı tarife yılda 5.000 € daha yüksek",
-   "fact": "2027/28 için iki yıllık MA programı AB dışı öğrenciye yıllık 22.500 €, AB öğrencisine 17.500 €. 11 aylık Academic Master toplam 29.500 €.",
-   "caveat": "Türkiye pasaportuyla başvuruyorsan genelde AB dışı tarifesi geçerli.",
+   "hook": "Domus Academy's non-EU rate is €5,000 a year higher",
+   "fact": "For 2027/28, the two-year MA costs non-EU students €22,500 a year and EU students €17,500. The 11-month Academic Master is €29,500 in total.",
+   "caveat": "If you apply on a Turkish passport, the non-EU rate usually applies.",
    "sources": [
     {
      "domain": "domusacademy.com",
@@ -294,15 +294,15 @@
   },
   {
    "type": "uni",
-   "title": "Sapienza Roma: AB dışı öğrenci yılda 300, 700 veya 1.500 € öder",
+   "title": "Sapienza Rome: non-EU students pay €300, €700 or €1,500 a year",
    "tag": "sapienza",
    "slug": "sapienza-university-rome",
-   "country": "İtalya",
-   "city": "Roma",
-   "uni_name": "Sapienza Roma",
-   "hook": "Roma'da devlet üniversitesi: yılda 300 ile 1.500 € arası",
-   "fact": "Sapienza, yurt dışında yaşayan AB dışı öğrencilerden ikamet ülkesine göre yılda 300, 700 veya 1.500 € alıyor (2026/27).",
-   "caveat": "Ücret tablosunda Türkiye B grubunda: yılda 700 € (yurt dışı gelirle). 2027/28'i doğrula.",
+   "country": "Italy",
+   "city": "Rome",
+   "uni_name": "Sapienza Rome",
+   "hook": "State university in Rome: €300 to €1,500 a year",
+   "fact": "Sapienza charges non-EU students living abroad €300, €700 or €1,500 a year, depending on country of residence (2026/27).",
+   "caveat": "On the fee table, Türkiye is in group B: €700 a year (with income from abroad). Confirm 2027/28.",
    "sources": [
     {
      "domain": "uniroma1.it",
@@ -316,15 +316,15 @@
   },
   {
    "type": "uni",
-   "title": "Verona: gelir belgesi (ISEE) olmayan AB dışı öğrenciye sabit 1.000 €",
+   "title": "Verona: flat €1,000 for non-EU students without an income certificate (ISEE)",
    "tag": "verona",
    "slug": "university-of-verona",
-   "country": "İtalya",
+   "country": "Italy",
    "city": "Verona",
-   "uni_name": "Verona Üniversitesi",
-   "hook": "Verona'da gelir belgesi yoksa 1.000 € sabit ücret seçeneği",
-   "fact": "İtalya'nın gelir belgesi ISEE'yi sunamayan AB dışı öğrenciler yıllık her şey dahil 1.000 € sabit ücrete başvurabiliyor (2026/27).",
-   "caveat": "2026/27 uluslararası master başvuruları 31 Mart'ta kapandı; 2027/28 tarihleri henüz yok.",
+   "uni_name": "University of Verona",
+   "hook": "Verona: a flat €1,000 option if you have no income certificate",
+   "fact": "Non-EU students who cannot submit ISEE, Italy's income certificate, can apply for a flat all-inclusive fee of €1,000 a year (2026/27).",
+   "caveat": "International master's applications for 2026/27 closed on 31 March; 2027/28 dates are not out yet.",
    "sources": [
     {
      "domain": "univr.it",
@@ -334,15 +334,15 @@
   },
   {
    "type": "uni",
-   "title": "Bolzano: AB dışı adaylar yalnız Early Bird turunda başvurabiliyor",
+   "title": "Bolzano: non-EU applicants can only apply in the Early Bird round",
    "tag": "bolzano",
    "slug": "unibz",
-   "country": "İtalya",
+   "country": "Italy",
    "city": "Bolzano",
-   "uni_name": "Bozen-Bolzano Üniversitesi",
-   "hook": "Bolzano'da AB dışı adaya tek şans: Early Bird",
-   "fact": "Yurt dışındaki AB dışı adaylar yalnızca Early Bird turunda (genellikle Mart ile Nisan) başvurabiliyor. Yıllık ücret yaklaşık 1.200 €.",
-   "caveat": "Başvuru ücreti 50 €. Kayıtta CIMEA (denklik merkezi) belgeleri zorunlu. Sayfa yılsız.",
+   "uni_name": "Free University of Bozen-Bolzano",
+   "hook": "Bolzano's one chance for non-EU applicants: Early Bird",
+   "fact": "Non-EU applicants living abroad can only apply in the Early Bird round (usually March to April). The annual fee is about €1,200.",
+   "caveat": "Application fee €50. CIMEA (equivalence center) documents required at enrollment. The page gives no year.",
    "sources": [
     {
      "domain": "unibz.it",
@@ -352,15 +352,15 @@
   },
   {
    "type": "uni",
-   "title": "Bologna: en düşük ücret 157,04 €, gelir göstergesi 27.000 € ve altı",
+   "title": "Bologna: lowest fee €157.04, with an income indicator of €27,000 or less",
    "tag": "bologna",
    "slug": "university-of-bologna",
-   "country": "İtalya",
+   "country": "Italy",
    "city": "Bologna",
-   "uni_name": "Bologna Üniversitesi",
-   "hook": "Bologna'da en düşük yıllık ücret 157,04 €",
-   "fact": "Bologna'da sabit taksit 157,04 €. Ailenin gelir göstergesi (ISEE) 27.000 € ve altındaysa 2026/27'de ilk yılda yalnız bu tutarı ödersin.",
-   "caveat": "Sonraki yıllarda kredi şartı var. Belge vermezsen tam ücret. Üst sınır programa göre.",
+   "uni_name": "University of Bologna",
+   "hook": "Bologna's lowest annual fee is €157.04",
+   "fact": "The fixed installment at Bologna is €157.04. If your family's income indicator (ISEE) is €27,000 or less, in 2026/27 you pay only this amount in your first year.",
+   "caveat": "Later years have a credit requirement. No document means the full fee. The cap varies by program.",
    "sources": [
     {
      "domain": "unibo.it",
@@ -370,15 +370,15 @@
   },
   {
    "type": "uni",
-   "title": "Milano-Bicocca: İngilizce programlar için IELTS 5.5 veya TOEFL 72",
+   "title": "Milano-Bicocca: IELTS 5.5 or TOEFL 72 for English-taught programs",
    "tag": "bicocca",
    "slug": "milano-bicocca",
-   "country": "İtalya",
-   "city": "Milano",
+   "country": "Italy",
+   "city": "Milan",
    "uni_name": "Milano-Bicocca",
-   "hook": "Milano-Bicocca'da İngilizce şartı: IELTS 5.5",
-   "fact": "İngilizce programlara vizeyle başvuran AB dışı adaylardan B2 isteniyor: IELTS Academic 5.5 veya TOEFL iBT 72.",
-   "caveat": "2027/28'den itibaren ülkeye göre giriş şartları var; Türkiye için listeye bak.",
+   "hook": "Milano-Bicocca's English requirement: IELTS 5.5",
+   "fact": "Non-EU applicants applying to English-taught programs on a visa need B2: IELTS Academic 5.5 or TOEFL iBT 72.",
+   "caveat": "From 2027/28 there are entry requirements by country; check the list for Türkiye.",
    "sources": [
     {
      "domain": "en.unimib.it",
@@ -388,15 +388,15 @@
   },
   {
    "type": "uni",
-   "title": "Torino Üniversitesi: geçen yıl lisansüstü başvuru Kasım'da açıldı",
-   "tag": "torino",
+   "title": "University of Turin: postgraduate applications opened in November last year",
+   "tag": "unito",
    "slug": "university-of-turin",
-   "country": "İtalya",
-   "city": "Torino",
-   "uni_name": "Torino Üniversitesi",
-   "hook": "Torino'da geçen yıl master başvurusu Kasım'da açıldı",
-   "fact": "Torino Üniversitesi 2026/27 lisansüstü başvurularını 25 Kasım 2025 ile 29 Ocak 2026 arasında aldı; lisans 19 Şubat ile 15 Nisan arası.",
-   "caveat": "2027/28 takvimi henüz yayınlanmadı; benzer bir pencere bekle ama resmi sayfadan doğrula.",
+   "country": "Italy",
+   "city": "Turin",
+   "uni_name": "University of Turin",
+   "hook": "Turin's master's applications opened in November last year",
+   "fact": "The University of Turin took 2026/27 postgraduate applications from 25 November 2025 to 29 January 2026; bachelor's from 19 February to 15 April.",
+   "caveat": "The 2027/28 calendar is not out yet; expect a similar window, but confirm on the official page.",
    "sources": [
     {
      "domain": "en.unito.it",
@@ -406,15 +406,15 @@
   },
   {
    "type": "uni",
-   "title": "Cenova: İngilizce programlar için İtalyanca sınavı gerekmiyor",
-   "tag": "cenova",
+   "title": "Genoa: no Italian exam needed for English-taught programs",
+   "tag": "unige",
    "slug": "university-of-genoa",
-   "country": "İtalya",
-   "city": "Cenova",
-   "uni_name": "Cenova Üniversitesi",
-   "hook": "Cenova'da İngilizce program için İtalyanca sınavı yok",
-   "fact": "Cenova'da İngilizce programlara İtalyanca testi gerekmiyor. 2026/27'de vize gereken adaylar 26 Kasım 2025 ile 20 Mart 2026 arası başvurdu.",
-   "caveat": "2027/28 tarihleri henüz yok. Geçen yıl bazı bölümler erken kapandı. Başvuru ücreti 30 €.",
+   "country": "Italy",
+   "city": "Genoa",
+   "uni_name": "University of Genoa",
+   "hook": "Genoa: no Italian exam for English-taught programs",
+   "fact": "English-taught programs at Genoa need no Italian test. For 2026/27, applicants who need a visa applied from 26 November 2025 to 20 March 2026.",
+   "caveat": "2027/28 dates are not out yet. Last year some programs closed early. Application fee €30.",
    "sources": [
     {
      "domain": "unige.it",
@@ -428,15 +428,15 @@
   },
   {
    "type": "uni",
-   "title": "Pavia MSc Finance: 2027/28 için ilk başvuru turu 12 Kasım 2026",
+   "title": "Pavia MSc Finance: first 2027/28 application round is 12 November 2026",
    "tag": "pavia",
    "slug": "university-of-pavia",
-   "country": "İtalya",
+   "country": "Italy",
    "city": "Pavia",
-   "uni_name": "Pavia Üniversitesi",
-   "hook": "Pavia'da MSc Finance için ilk tur 12 Kasım 2026",
-   "fact": "Pavia MSc Finance 2027/28 başvuru turları: 12-18 Kasım 2026, 12-20 Ocak 2027 ve 12-22 Mart 2027. Mart turu AB dışı için yalnız yer kalırsa.",
-   "caveat": "Tek program örneği; diğer bölümler farklı. GMAT/GRE isteğe bağlı ama ağırlığı yüksek.",
+   "uni_name": "University of Pavia",
+   "hook": "Pavia MSc Finance: first round 12 November 2026",
+   "fact": "Pavia MSc Finance 2027/28 application rounds: 12-18 November 2026, 12-20 January 2027 and 12-22 March 2027. The March round is for non-EU only if places remain.",
+   "caveat": "An example from one program; others differ. GMAT/GRE is optional but carries high weight.",
    "sources": [
     {
      "domain": "finance.cdl.unipv.it",
@@ -446,15 +446,15 @@
   },
   {
    "type": "uni",
-   "title": "TU Delft: 2027/28 AB dışı master ücreti 26.479 €",
+   "title": "TU Delft: 2027/28 non-EU master's fee is €26,479",
    "tag": "tudelft",
    "slug": "tu-delft",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Delft",
    "uni_name": "TU Delft",
-   "hook": "TU Delft'te pasaportun fiyatı: 2.771 € mu, 26.479 € mu?",
-   "fact": "2027/28'de yasal ücret 2.771 €, ancak AB/AEA dışı öğrenci kurumsal ücret ödüyor: lisans 20.563 €, master 26.479 €.",
-   "caveat": "Türkiye pasaportuyla başvuruyorsan genelde kurumsal (AB dışı) tarife geçerli.",
+   "hook": "Your passport's price at TU Delft: €2,771 or €26,479?",
+   "fact": "In 2027/28 the statutory fee is €2,771, but non-EU/EEA students pay the institutional fee: bachelor's €20,563, master's €26,479.",
+   "caveat": "If you apply on a Turkish passport, the institutional (non-EU) rate usually applies.",
    "sources": [
     {
      "domain": "tudelft.nl",
@@ -464,15 +464,15 @@
   },
   {
    "type": "uni",
-   "title": "Erasmus Rotterdam: 2027/28 AB dışı ücretler fakülteye göre",
+   "title": "Erasmus Rotterdam: 2027/28 non-EU fees vary by faculty",
    "tag": "rotterdam",
    "slug": "eur-rotterdam",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Rotterdam",
    "uni_name": "Erasmus Rotterdam",
-   "hook": "Rotterdam'da fakülte seçimi 5.200 € fark yaratabilir",
-   "fact": "Erasmus Üniversitesi 2027/28 AB dışı ücretleri: lisans 14.700 € (RSM 15.200 €), master 22.800 € (RSM 28.000 €). Tıp lisansı 35.000 €.",
-   "caveat": "AB/AEA vatandaşları için yasal ücret 2.771 €.",
+   "hook": "In Rotterdam, your faculty can make a €5,200 difference",
+   "fact": "Erasmus University 2027/28 non-EU fees: bachelor's €14,700 (RSM €15,200), master's €22,800 (RSM €28,000). Medicine bachelor's €35,000.",
+   "caveat": "For EU/EEA citizens, the statutory fee is €2,771.",
    "sources": [
     {
      "domain": "eur.nl",
@@ -482,15 +482,15 @@
   },
   {
    "type": "uni",
-   "title": "Leiden: 2027/28 AB dışı lisans ücreti 14.700 ile 31.400 € arası",
+   "title": "Leiden: 2027/28 non-EU bachelor's fees range from €14,700 to €31,400",
    "tag": "leiden",
    "slug": "leiden",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Leiden",
-   "uni_name": "Leiden Üniversitesi",
-   "hook": "Leiden'de lisans ücreti bölüme göre ikiye katlanıyor",
-   "fact": "2027/28 AB dışı lisans ücreti 14.700 ile 31.400 € arası: fen ve biyomedikal 19.200 €, Leiden University College 21.120 €, tıp 31.400 €.",
-   "caveat": "Master ücretleri ve IELTS şartı programa göre belirleniyor.",
+   "uni_name": "University of Leiden",
+   "hook": "Leiden's bachelor's fee doubles depending on the program",
+   "fact": "2027/28 non-EU bachelor's fee ranges from €14,700 to €31,400: science and biomedical €19,200, Leiden University College €21,120, medicine €31,400.",
+   "caveat": "Master's fees and IELTS requirements are set by program.",
    "sources": [
     {
      "domain": "universiteitleiden.nl",
@@ -500,15 +500,15 @@
   },
   {
    "type": "uni",
-   "title": "Tilburg: Eylül 2027 master için AB dışı son tarih 1 Nisan",
+   "title": "Tilburg: non-EU deadline for September 2027 master's is 1 April",
    "tag": "tilburg",
    "slug": "tilburg",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Tilburg",
-   "uni_name": "Tilburg Üniversitesi",
-   "hook": "Tilburg'a Eylül 2027 için son gün 1 Nisan",
-   "fact": "AB dışı master adayları için Eylül 2027 girişinde son tarih 1 Nisan, Şubat girişinde 1 Ekim. IELTS 6.5 (yazma ve konuşma 6.0) isteniyor.",
-   "caveat": "İstisna: iki araştırma masterı 1 Mart, Clinical Neuropsychology 15 Ocak. Yeni TOEFL 5.",
+   "uni_name": "University of Tilburg",
+   "hook": "Tilburg: last day for September 2027 is 1 April",
+   "fact": "Non-EU master's deadline: 1 April for September 2027 entry, 1 October for February entry. IELTS 6.5 (writing and speaking 6.0) required.",
+   "caveat": "Exceptions: two research master's 1 March, Clinical Neuropsychology 15 January. New TOEFL: 5.",
    "sources": [
     {
      "domain": "tilburguniversity.edu",
@@ -518,15 +518,15 @@
   },
   {
    "type": "uni",
-   "title": "Twente: Eylül 2027'den itibaren master için TOEFL 100 veya 5",
+   "title": "Twente: TOEFL 100 or 5 for master's from September 2027",
    "tag": "twente",
    "slug": "twente",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Enschede",
-   "uni_name": "Twente Üniversitesi",
-   "hook": "Twente'de Eylül 2027'den itibaren TOEFL eşiği yükseliyor",
-   "fact": "Master için IELTS 6.5 (her bölüm 6.0). TOEFL: Şubat 2027 girişinde 90 veya yeni skalada 4.5; Eylül 2027'den itibaren 100 veya 5.",
-   "caveat": "AB dışı master ücreti 2027/28 için programa göre 18.720 ile 22.320 € arası.",
+   "uni_name": "University of Twente",
+   "hook": "Twente's TOEFL threshold rises from September 2027",
+   "fact": "Master's: IELTS 6.5 (each section 6.0). TOEFL: 90 or 4.5 on the new scale for February 2027 entry; 100 or 5 from September 2027.",
+   "caveat": "The non-EU master's fee for 2027/28 ranges from €18,720 to €22,320 by program.",
    "sources": [
     {
      "domain": "utwente.nl",
@@ -540,15 +540,15 @@
   },
   {
    "type": "uni",
-   "title": "Groningen 2027/28: master İngilizce şartı programa göre değişiyor",
+   "title": "Groningen 2027/28: master's English requirement varies by program",
    "tag": "groningen",
    "slug": "rug-groningen",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Groningen",
-   "uni_name": "Groningen Üniversitesi",
-   "hook": "Groningen'de master için IELTS şartı programa göre değişiyor",
-   "fact": "2027/28: çoğu master IELTS 6.5 (TOEFL 90 veya 4.5); bazı hukuk, dilbilim ve birçok araştırma masterı 7.0 (100 veya 5). Literary Studies C2.",
-   "caveat": "Alt puan şartları var. AB dışı master ücreti 19.900 €'dan başlar, tıp 32.000 € (2026/27).",
+   "uni_name": "University of Groningen",
+   "hook": "Groningen's master's IELTS requirement varies by program",
+   "fact": "2027/28: most master's IELTS 6.5 (TOEFL 90 or 4.5); some law and linguistics and many research master's 7.0 (100 or 5). Literary Studies C2.",
+   "caveat": "There are sub-score requirements. The non-EU master's fee starts at €19,900, medicine €32,000 (2026/27).",
    "sources": [
     {
      "domain": "rug.nl",
@@ -562,15 +562,15 @@
   },
   {
    "type": "uni",
-   "title": "Wageningen: master için IELTS 6.5 ve konuşma en az 6.0",
+   "title": "Wageningen: IELTS 6.5 and at least 6.0 in speaking for master's",
    "tag": "wageningen",
    "slug": "wur",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Wageningen",
    "uni_name": "Wageningen (WUR)",
-   "hook": "Wageningen'de konuşma puanın da sayılıyor",
-   "fact": "WUR master: IELTS genel 6.5, konuşma en az 6.0; TOEFL iBT 90, konuşma 22 (yeni skala 4.5 ve 4.0). Puanlar tek bir sınavda alınmalı.",
-   "caveat": "AB dışı master ücreti 2027/28 için 22.560 €. Lisans şartları farklı olabilir.",
+   "hook": "At Wageningen, your speaking score counts too",
+   "fact": "WUR master's: IELTS overall 6.5, speaking at least 6.0; TOEFL iBT 90, speaking 22 (new scale 4.5 and 4.0). You must get the scores in a single test.",
+   "caveat": "The non-EU master's fee for 2027/28 is €22,560. Bachelor's requirements may differ.",
    "sources": [
     {
      "domain": "wur.nl",
@@ -584,15 +584,15 @@
   },
   {
    "type": "uni",
-   "title": "Rietveld Academie: yalnız IELTS kabul ediliyor, portfolyo 15 Aralık",
+   "title": "Rietveld Academie: only IELTS accepted, portfolio due 15 December",
    "tag": "rietveld",
    "slug": "rietveld",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Amsterdam",
    "uni_name": "Gerrit Rietveld Academie",
-   "hook": "Rietveld Academie TOEFL kabul etmiyor",
-   "fact": "Rietveld 2027/28 için yalnız IELTS Academic 6.0 (konuşma 6.0) kabul ediyor; TOEFL geçerli değil. Temel yıl portfolyo teslimi 15 Aralık 2026.",
-   "caveat": "IELTS belgesi portfolyoyla birlikte teslim edilir. 2. ve 3. yıl başvurusu 1 Nisan 2027.",
+   "hook": "Rietveld Academie does not accept TOEFL",
+   "fact": "For 2027/28, Rietveld accepts only IELTS Academic 6.0 (speaking 6.0); TOEFL is not valid. The foundation year portfolio is due 15 December 2026.",
+   "caveat": "Submit the IELTS certificate with your portfolio. Year 2 and 3 applications: 1 April 2027.",
    "sources": [
     {
      "domain": "rietveldacademie.nl",
@@ -602,15 +602,15 @@
   },
   {
    "type": "uni",
-   "title": "Hanze: AB dışı adaylar için Eylül girişi son tarihi 1 Haziran",
+   "title": "Hanze: September entry deadline for non-EU applicants is 1 June",
    "tag": "hanze",
    "slug": "hanze",
-   "country": "Hollanda",
+   "country": "Netherlands",
    "city": "Groningen",
    "uni_name": "Hanze UAS",
-   "hook": "Hanze'de Türk öğrenci için son tarih 1 Haziran",
-   "fact": "Hanze'de AB dışı adaylar için Eylül girişi son tarihi 1 Haziran, Şubat girişi 1 Kasım. 1 Mayıs yalnız yedi ülke için; Türkiye listede yok.",
-   "caveat": "Seçimli programlarda tarih farklı; göç işlemleri daha erken. Yıl yok, 2027 için doğrula.",
+   "hook": "Hanze: deadline for Turkish students is 1 June",
+   "fact": "At Hanze, the non-EU deadline is 1 June for September entry and 1 November for February entry. 1 May is only for seven countries; Türkiye is not on the list.",
+   "caveat": "Selective programs have other dates; immigration steps come earlier. No year given; confirm for 2027.",
    "sources": [
     {
      "domain": "hanze.nl",
@@ -620,15 +620,15 @@
   },
   {
    "type": "uni",
-   "title": "The Hague UAS: AB dışı 10.528 €, İngilizce master 14.000 €",
-   "tag": "lahey",
+   "title": "The Hague UAS: non-EU €10,528, English-taught master's €14,000",
+   "tag": "thehague",
    "slug": "hhs-thuas",
-   "country": "Hollanda",
-   "city": "Lahey",
+   "country": "Netherlands",
+   "city": "The Hague",
    "uni_name": "The Hague UAS",
-   "hook": "Lahey'de İngilizce master 14.000 €",
-   "fact": "The Hague UAS'ta AB dışı genel ücret 10.528 €, tam zamanlı İngilizce master 14.000 € (2026/27). AB dışı başvurular 1 Mayıs'ta kapanıyor.",
-   "caveat": "Dosyanın 15 Haziran'a kadar tamamlanması gerekiyor. 2027 tarihleri henüz güncellenmedi.",
+   "hook": "The Hague: English-taught master's €14,000",
+   "fact": "At The Hague UAS, the general non-EU fee is €10,528 and a full-time English-taught master's is €14,000 (2026/27). Non-EU applications close on 1 May.",
+   "caveat": "Your file must be complete by 15 June. 2027 dates have not been updated yet.",
    "sources": [
     {
      "domain": "thuas.com",
@@ -642,15 +642,15 @@
   },
   {
    "type": "uni",
-   "title": "Cambridge 2027: uluslararası lisans ücreti 30.798 ile 70.554 £ arası",
+   "title": "Cambridge 2027: international bachelor's fees range from £30,798 to £70,554",
    "tag": "cambridge",
    "slug": "cambridge",
-   "country": "Birleşik Krallık",
+   "country": "United Kingdom",
    "city": "Cambridge",
    "uni_name": "Cambridge",
-   "hook": "Cambridge'de ücret bölüm grubuna göre 30.798 ile 70.554 £",
-   "fact": "2027 girişi uluslararası lisans: hukuk ve tarih 30.798 £, matematik 34.356 £, mimarlık 40.296 £, mühendislik 46.872 £, tıp 70.554 £.",
-   "caveat": "Kolej ücreti ayrı. IELTS genelde 7.5 (bölümler 7.0+). 2027 UCAS tarihi 15 Ekim 2026'ydı.",
+   "hook": "Cambridge fees run £30,798 to £70,554 by subject group",
+   "fact": "2027 entry, international bachelor's: law and history £30,798, maths £34,356, architecture £40,296, engineering £46,872, medicine £70,554.",
+   "caveat": "College fee is separate. IELTS usually 7.5 (sections 7.0+). The 2027 UCAS date was 15 October 2026.",
    "sources": [
     {
      "domain": "undergraduate.study.cam.ac.uk",
@@ -664,15 +664,15 @@
   },
   {
    "type": "uni",
-   "title": "LSE 2026/27: dersli master ücretleri 30.400 ile 51.000 £ arası",
+   "title": "LSE 2026/27: taught master's fees from £30,400 to £51,000",
    "tag": "lse",
    "slug": "lse",
-   "country": "Birleşik Krallık",
-   "city": "Londra",
+   "country": "United Kingdom",
+   "city": "London",
    "uni_name": "LSE",
-   "hook": "LSE'de MSc Finance 51.000 £",
-   "fact": "2026/27 dersli master: en düşük 30.400 £, MSc Finance 51.000 £, Economics 41.000 £, Data Science 39.900 £, Int. Relations 32.500 £.",
-   "caveat": "Türkiye pasaportuyla bu uluslararası ücret geçerli. Tablo yalnız 2026/27 için.",
+   "hook": "MSc Finance at LSE: £51,000",
+   "fact": "2026/27 taught master's: lowest £30,400, MSc Finance £51,000, Economics £41,000, Data Science £39,900, Int. Relations £32,500.",
+   "caveat": "On a Turkish passport, this international fee applies. The table covers 2026/27 only.",
    "sources": [
     {
      "domain": "info.lse.ac.uk",
@@ -682,15 +682,15 @@
   },
   {
    "type": "uni",
-   "title": "York 2027/28: dersli master çoğunlukla 27.840 ile 34.500 £ arası",
+   "title": "York 2027/28: taught master's mostly £27,840 to £34,500",
    "tag": "york",
    "slug": "york",
-   "country": "Birleşik Krallık",
+   "country": "United Kingdom",
    "city": "York",
-   "uni_name": "York Üniversitesi",
-   "hook": "York'ta master ücreti bölüme göre 27.840 ile 34.500 £",
-   "fact": "2027/28 uluslararası dersli master: birçok MA 27.840 £, ekonomi 28.200 £, bilgisayar 33.900 £, finans 34.500 £. Hukuk LLM 14.390 £ istisna.",
-   "caveat": "York'ta AB ve uluslararası öğrenci için tek ücret tablosu var.",
+   "uni_name": "University of York",
+   "hook": "York master's fees: £27,840 to £34,500 by subject",
+   "fact": "2027/28 international taught master's: many MAs £27,840, economics £28,200, computing £33,900, finance £34,500. The law LLM at £14,390 is an exception.",
+   "caveat": "York has one fee table for EU and international students.",
    "sources": [
     {
      "domain": "york.ac.uk",
@@ -700,15 +700,15 @@
   },
   {
    "type": "uni",
-   "title": "Imperial: Standard ve Higher İngilizce seviyeleri 2026/27",
+   "title": "Imperial: Standard and Higher English levels 2026/27",
    "tag": "imperial",
    "slug": "imperial",
-   "country": "Birleşik Krallık",
-   "city": "Londra",
+   "country": "United Kingdom",
+   "city": "London",
    "uni_name": "Imperial College London",
-   "hook": "Imperial'de iki İngilizce seviyesi var",
-   "fact": "2026/27: Standard seviye IELTS 6.5 (her bölüm 6.0) veya TOEFL 92 / yeni skala 4.5; Higher seviye IELTS 7.0 (6.5) veya TOEFL 100 / 5.0.",
-   "caveat": "Hangi seviyenin geçerli olduğu programa bağlı; kendi programının sayfasına bak.",
+   "hook": "Imperial has two English levels",
+   "fact": "2026/27: Standard level is IELTS 6.5 (6.0 in each section) or TOEFL 92 / new scale 4.5. Higher level is IELTS 7.0 (6.5) or TOEFL 100 / 5.0.",
+   "caveat": "Which level applies depends on the program. Check your program's page.",
    "sources": [
     {
      "domain": "imperial.ac.uk",
@@ -718,15 +718,15 @@
   },
   {
    "type": "uni",
-   "title": "Royal College of Art: 2027 girişi için üç tur, ilki 8 Ocak 2027",
+   "title": "Royal College of Art: three rounds for 2027 entry, first on 8 January 2027",
    "tag": "rca",
    "slug": "rca",
-   "country": "Birleşik Krallık",
-   "city": "Londra",
+   "country": "United Kingdom",
+   "city": "London",
    "uni_name": "Royal College of Art",
-   "hook": "Royal College of Art'ta ilk tur 8 Ocak 2027'de kapanıyor",
-   "fact": "2027 girişi için üç başvuru turu var: 1. tur 8 Ocak 2027 (12 Ekim 2026'da açıldı), 2. tur 23 Mart 2027, 3. ve son tur 2 Haziran 2027.",
-   "caveat": "Teklifler sırayla gider, burslar çoğunlukla erken turlarda. Son saat 12:00 (İngiltere).",
+   "hook": "Royal College of Art: first round closes 8 January 2027",
+   "fact": "Three application rounds for 2027 entry: round 1, 8 January 2027 (opened 12 October 2026); round 2, 23 March 2027; round 3, the last, 2 June 2027.",
+   "caveat": "Offers go out round by round, scholarships mostly in early rounds. Cut-off is 12:00 (UK time).",
    "sources": [
     {
      "domain": "rca.ac.uk",
@@ -736,15 +736,15 @@
   },
   {
    "type": "uni",
-   "title": "Manchester MSc Economics: 35.300 £, IELTS 7.0 ve yazma 7.0",
+   "title": "Manchester MSc Economics: £35,300, IELTS 7.0 and writing 7.0",
    "tag": "manchester",
    "slug": "manchester",
-   "country": "Birleşik Krallık",
+   "country": "United Kingdom",
    "city": "Manchester",
-   "uni_name": "Manchester Üniversitesi",
-   "hook": "Manchester MSc Economics için yazma puanı 7.0",
-   "fact": "MSc Economics 2027: ücret 35.300 £, IELTS 7.0 (yazma 7.0, diğerleri 6.5+) veya TOEFL 100 / yeni skala 5. İlk başvuru aşaması 6 Aralık 2026.",
-   "caveat": "Sonraki aşamalar 1 Mart, 4 Mayıs ve 4 Temmuz 2027. Diğer programlarda şartlar farklı.",
+   "uni_name": "University of Manchester",
+   "hook": "Manchester MSc Economics: writing score 7.0",
+   "fact": "MSc Economics 2027: fee £35,300, IELTS 7.0 (writing 7.0, others 6.5+) or TOEFL 100 / new scale 5. The first application stage is 6 December 2026.",
+   "caveat": "Later stages are 1 March, 4 May and 4 July 2027. Requirements differ for other programs.",
    "sources": [
     {
      "domain": "manchester.ac.uk",
@@ -754,15 +754,15 @@
   },
   {
    "type": "uni",
-   "title": "SOAS: doğrudan giriş için TOEFL 95, IELTS 6.5",
+   "title": "SOAS: TOEFL 95, IELTS 6.5 for direct entry",
    "tag": "soas",
    "slug": "soas",
-   "country": "Birleşik Krallık",
-   "city": "Londra",
+   "country": "United Kingdom",
+   "city": "London",
    "uni_name": "SOAS",
-   "hook": "SOAS'ta TOEFL ile doğrudan giriş için 95 gerekiyor",
-   "fact": "SOAS doğrudan giriş şartı: IELTS 6.5 (tüm alt puanlar 6.0) veya TOEFL iBT 95 (yazma 23, diğerleri 20); yeni skalada 5.0.",
-   "caveat": "TOEFL, vize için onaylı sınav (SELT) listesinde yok; vize için IELTS for UKVI öneriliyor.",
+   "hook": "You need TOEFL 95 for direct entry at SOAS",
+   "fact": "SOAS direct entry requirement: IELTS 6.5 (6.0 in all sub-scores) or TOEFL iBT 95 (writing 23, others 20). On the new scale, 5.0.",
+   "caveat": "TOEFL is not on the approved test (SELT) list for the visa. IELTS for UKVI is recommended for the visa.",
    "sources": [
     {
      "domain": "soas.ac.uk",
@@ -772,15 +772,15 @@
   },
   {
    "type": "uni",
-   "title": "Oxford 2027 girişi: UCAS son tarihi 15 Ekim 2026'ydı, saat 18:00",
+   "title": "Oxford 2027 entry: the UCAS deadline was 15 October 2026, 18:00",
    "tag": "oxford",
    "slug": "oxford",
-   "country": "Birleşik Krallık",
+   "country": "United Kingdom",
    "city": "Oxford",
    "uni_name": "Oxford",
-   "hook": "Oxford 2027 girişi için UCAS 15 Ekim 2026'da kapandı",
-   "fact": "Oxford'un 2027 girişi için UCAS son tarihi 15 Ekim 2026 saat 18:00'di. 2026 girişi ücreti bölüme göre 37.380-62.820 £.",
-   "caveat": "2027 ücretini doğrula. Klinik yıllar daha yüksek. Çoğu AB öğrencisi de aynı öder.",
+   "hook": "Oxford 2027 entry: UCAS closed on 15 October 2026",
+   "fact": "The UCAS deadline for Oxford 2027 entry was 15 October 2026 at 18:00. Fees for 2026 entry are £37,380-£62,820 by subject.",
+   "caveat": "Confirm the 2027 fee. Clinical years cost more. Most EU students pay the same too.",
    "sources": [
     {
      "domain": "ox.ac.uk",
@@ -794,15 +794,15 @@
   },
   {
    "type": "uni",
-   "title": "Southampton MSc Computer Science: 36.800 £, AB ve uluslararası aynı",
+   "title": "Southampton MSc Computer Science: £36,800, same for EU and international",
    "tag": "southampton",
    "slug": "southampton",
-   "country": "Birleşik Krallık",
+   "country": "United Kingdom",
    "city": "Southampton",
-   "uni_name": "Southampton Üniversitesi",
-   "hook": "Southampton MSc Computer Science: 36.800 £",
-   "fact": "Eylül 2027 girişi sayfasında MSc Computer Science ücreti yıllık 36.800 £; AB ve uluslararası öğrenci aynı ödüyor. IELTS 6.5, her bölüm 6.0.",
-   "caveat": "Uluslararası başvurular 18 Ağustos 2027 saat 12:00'de kapanır; erken dolabilir.",
+   "uni_name": "University of Southampton",
+   "hook": "Southampton MSc Computer Science: £36,800",
+   "fact": "The September 2027 entry page lists MSc Computer Science at £36,800 a year. EU and international students pay the same. IELTS 6.5, 6.0 in each section.",
+   "caveat": "International applications close on 18 August 2027 at 12:00. They may fill up early.",
    "sources": [
     {
      "domain": "southampton.ac.uk",
@@ -812,15 +812,15 @@
   },
   {
    "type": "uni",
-   "title": "Harvard: İngilizce sınavı zorunlu değil, SAT veya ACT zorunlu",
+   "title": "Harvard: English test not required, SAT or ACT required",
    "tag": "harvard",
    "slug": "harvard",
-   "country": "ABD",
+   "country": "USA",
    "city": "Cambridge (Massachusetts)",
    "uni_name": "Harvard",
-   "hook": "Harvard için TOEFL şart değil",
-   "fact": "Harvard College'a birinci sınıf başvurusunda İngilizce sınavı zorunlu değil, isteğe bağlı. SAT veya ACT ise sınırlı istisnalarla zorunlu.",
-   "caveat": "Zorunlu olmaması puanın önemsiz olduğu anlamına gelmez; karar tamamen Harvard'ın.",
+   "hook": "Harvard does not require TOEFL",
+   "fact": "For first-year applications to Harvard College, an English test is optional, not required. The SAT or ACT is required, with limited exceptions.",
+   "caveat": "Not required doesn't mean the score doesn't matter. The decision is entirely Harvard's.",
    "sources": [
     {
      "domain": "college.harvard.edu",
@@ -830,15 +830,15 @@
   },
   {
    "type": "uni",
-   "title": "Columbia: minimum IELTS 7.5 veya TOEFL 105",
+   "title": "Columbia: minimum IELTS 7.5 or TOEFL 105",
    "tag": "columbia",
    "slug": "columbia",
-   "country": "ABD",
+   "country": "USA",
    "city": "New York",
    "uni_name": "Columbia",
-   "hook": "Columbia'da alt sınır IELTS 7.5, TOEFL 105",
-   "fact": "Columbia lisans başvurusunda minimum IELTS 7.5 veya TOEFL iBT 105 isteniyor. Sayfada yeni TOEFL skalası karşılığı yok; başvurmadan doğrula.",
-   "caveat": "SAT okuma-yazma 700+ veya ACT İngilizce ya da Okuma bölümü 29+ alan adaylar muaf.",
+   "hook": "Columbia's minimum: IELTS 7.5, TOEFL 105",
+   "fact": "Columbia asks for at least IELTS 7.5 or TOEFL iBT 105 for bachelor's applications. The page gives no new TOEFL scale equivalent, so confirm before you apply.",
+   "caveat": "Applicants with SAT reading and writing 700+ or ACT English or Reading section 29+ are exempt.",
    "sources": [
     {
      "domain": "undergrad.admissions.columbia.edu",
@@ -848,15 +848,15 @@
   },
   {
    "type": "uni",
-   "title": "University of Washington: asgari IELTS 6.0 veya TOEFL 76",
+   "title": "University of Washington: minimum IELTS 6.0 or TOEFL 76",
    "tag": "seattle",
    "slug": "uw",
-   "country": "ABD",
+   "country": "USA",
    "city": "Seattle",
    "uni_name": "University of Washington",
-   "hook": "Seattle'da asgari İngilizce şartı: IELTS 6.0",
-   "fact": "University of Washington birinci sınıfa IELTS 6.0 veya TOEFL 76 (yeni skala 4.0) istiyor. Son başvuru 15 Kasım; sınav en geç 31 Aralık.",
-   "caveat": "Minimumu karşılamak kabul demek değil. Sayfa yıl belirtmiyor.",
+   "hook": "Minimum English requirement in Seattle: IELTS 6.0",
+   "fact": "University of Washington asks first-years for IELTS 6.0 or TOEFL 76 (new scale 4.0). The deadline is 15 November; test by 31 December at the latest.",
+   "caveat": "Meeting the minimum does not mean admission. The page does not state a year.",
    "sources": [
     {
      "domain": "admit.washington.edu",
@@ -866,15 +866,15 @@
   },
   {
    "type": "uni",
-   "title": "UC Berkeley: TOEFL 90 veya 4.5, IELTS 6.5; UC başvurusu 30 Kasım",
+   "title": "UC Berkeley: TOEFL 90 or 4.5, IELTS 6.5; UC application by 30 November",
    "tag": "berkeley",
    "slug": "berkeley",
-   "country": "ABD",
+   "country": "USA",
    "city": "Berkeley",
    "uni_name": "UC Berkeley",
-   "hook": "Berkeley için TOEFL 90, UC başvurusu 30 Kasım",
-   "fact": "Berkeley, İngilizce için TOEFL 90 veya yeni skalada 4.5 ya da IELTS 6.5 istiyor. Güz 2027 UC başvurusu 1 Ekim ile 30 Kasım 2026 arası.",
-   "caveat": "UC sisteminde erken tur yok; tek başvuru, birden fazla kampüs. Puan 31 Ocak'a kadar.",
+   "hook": "Berkeley: TOEFL 90, UC application by 30 November",
+   "fact": "For English, Berkeley asks for TOEFL 90, or 4.5 on the new scale, or IELTS 6.5. UC applications for fall 2027 run from 1 October to 30 November 2026.",
+   "caveat": "The UC system has no early round: one application, multiple campuses. Scores by 31 January.",
    "sources": [
     {
      "domain": "admissions.berkeley.edu",
@@ -888,15 +888,15 @@
   },
   {
    "type": "uni",
-   "title": "UC Irvine: güz 2026 girişi eyalet dışı ücret ve harçlar 59.375 $",
+   "title": "UC Irvine: fall 2026 entry out-of-state tuition and fees $59,375",
    "tag": "irvine",
    "slug": "uci",
-   "country": "ABD",
+   "country": "USA",
    "city": "Irvine",
    "uni_name": "UC Irvine",
-   "hook": "Irvine'da eyalet dışı öğrencinin yıllık faturası 59.375 $",
-   "fact": "Güz 2026'da başlayan eyalet dışı lisans öğrencisi 2026-27'de 59.375 $ öder; 39.270 $'ı eyalet dışı ek ücret, 3.214 $'ı sağlık sigortası.",
-   "caveat": "Uluslararası öğrenci de bunu öder. Güz 2027 tarifesi farklı olabilir. Konaklama ayrı.",
+   "hook": "Irvine's yearly bill for out-of-state students: $59,375",
+   "fact": "An out-of-state bachelor's student starting in fall 2026 pays $59,375 in 2026-27. Of that, $39,270 is the out-of-state surcharge and $3,214 is health insurance.",
+   "caveat": "International students pay this too. Fall 2027 rates may differ. Housing is separate.",
    "sources": [
     {
      "domain": "reg.uci.edu",
@@ -906,15 +906,15 @@
   },
   {
    "type": "uni",
-   "title": "Carnegie Mellon 2026-27: lisans öğrenim ücreti 69.702 $",
+   "title": "Carnegie Mellon 2026-27: bachelor's tuition $69,702",
    "tag": "carnegiemellon",
    "slug": "cmu",
-   "country": "ABD",
+   "country": "USA",
    "city": "Pittsburgh",
    "uni_name": "Carnegie Mellon",
-   "hook": "Carnegie Mellon'da 2026-27 öğrenim ücreti 69.702 $",
-   "fact": "Carnegie Mellon lisans için 2026-27 sabit öğrenim ücreti 69.702 $ (birim başına 969 $). Harçlar ve yaşam masrafları ayrı.",
-   "caveat": "ABD'de AB ayrımı yok. Yurtta kalan birinci sınıfta tahmini toplam maliyet 93.614 $.",
+   "hook": "Carnegie Mellon 2026-27 tuition: $69,702",
+   "fact": "Carnegie Mellon's flat bachelor's tuition for 2026-27 is $69,702 ($969 per unit). Fees and living costs are separate.",
+   "caveat": "There is no EU distinction in the USA. Estimated total cost for a first-year in a dorm is $93,614.",
    "sources": [
     {
      "domain": "cmu.edu",
@@ -924,15 +924,15 @@
   },
   {
    "type": "uni",
-   "title": "Princeton: güz 2027 için SAT/ACT isteğe bağlı, 2028'de zorunlu",
+   "title": "Princeton: SAT/ACT optional for fall 2027, required in 2028",
    "tag": "princeton",
    "slug": "princeton",
-   "country": "ABD",
+   "country": "USA",
    "city": "Princeton",
    "uni_name": "Princeton",
-   "hook": "Princeton'da SAT güz 2027 için isteğe bağlı",
-   "fact": "Princeton güz 2026 ve 2027 girişinde SAT/ACT isteğe bağlı; güz 2028'de yeniden zorunlu. İki öğretmen ve bir danışman referansı isteniyor.",
-   "caveat": "Okul dilin İngilizce değilse dil sınavı şart, minimum yok. Normal başvuru son günü 1 Ocak.",
+   "hook": "Princeton: SAT optional for fall 2027",
+   "fact": "At Princeton, the SAT/ACT is optional for fall 2026 and 2027 entry and required again for fall 2028. You need two teacher references and one counselor reference.",
+   "caveat": "If your schooling is not in English, a language test is required, no minimum. Regular deadline: 1 January.",
    "sources": [
     {
      "domain": "admission.princeton.edu",
@@ -946,49 +946,49 @@
   },
   {
    "type": "list",
-   "title": "Almanya'da dönem katkı payı: altı üniversite",
-   "tag": "almanyadaegitim",
-   "eyebrow": "ALMANYA DÖNEM KATKI PAYI",
-   "hook": "Almanya'da dönem katkı payı ne kadar? Altı üniversite",
+   "title": "Semester contribution in Germany: six universities",
+   "tag": "studyingermany",
+   "eyebrow": "GERMANY: SEMESTER CONTRIBUTION",
+   "hook": "What's the semester contribution in Germany? Six universities",
    "rows": [
     {
      "label": "FU Berlin",
-     "value": "376,80 €",
-     "sub": "2026/27 kış, ulaşım bileti dahil",
+     "value": "€376.80",
+     "sub": "winter 2026/27, transport ticket included",
      "num": 376.8
     },
     {
      "label": "Münster",
-     "value": "369,50 €",
-     "sub": "2026/27 kış",
+     "value": "€369.50",
+     "sub": "winter 2026/27",
      "num": 369.5
     },
     {
      "label": "Bonn",
-     "value": "363,07 €",
-     "sub": "2026/27 kış",
+     "value": "€363.07",
+     "sub": "winter 2026/27",
      "num": 363.07
     },
     {
      "label": "Bochum",
-     "value": "yaklaşık 350 €",
-     "sub": "sosyal katkı payı",
+     "value": "about €350",
+     "sub": "social contribution",
      "num": 350
     },
     {
      "label": "Freiburg",
-     "value": "190 €",
-     "sub": "AB dışı ayrıca 1.500 € öğrenim ücreti",
+     "value": "€190",
+     "sub": "non-EU students also pay €1,500 tuition",
      "num": 190
     },
     {
      "label": "Stuttgart",
-     "value": "184 €",
-     "sub": "AB dışı ayrıca 1.500 € öğrenim ücreti",
+     "value": "€184",
+     "sub": "non-EU students also pay €1,500 tuition",
      "num": 184
     }
    ],
-   "note": "Dönemlik tutarlar; her dönem güncellenir ve öğrenim ücreti içermez. Baden-Württemberg'de AB dışı öğrenci ayrıca 1.500 € öder.",
+   "note": "Amounts are per semester, updated each semester, and exclude tuition. In Baden-Württemberg, non-EU students also pay €1,500.",
    "sources": [
     {
      "domain": "fu-berlin.de",
@@ -1018,48 +1018,48 @@
   },
   {
    "type": "list",
-   "title": "Baden-Württemberg kuralı: AB dışı öğrenci dönemde 1.500 €",
+   "title": "Baden-Württemberg rule: non-EU students pay €1,500 per semester",
    "tag": "badenwuerttemberg",
-   "eyebrow": "BADEN-WÜRTTEMBERG KURALI",
-   "hook": "Bu eyalette AB dışı öğrenci dönem başına 1.500 € öder",
+   "eyebrow": "BADEN-WÜRTTEMBERG RULE",
+   "hook": "In this state, non-EU students pay €1,500 per semester",
    "rows": [
     {
      "label": "Heidelberg",
-     "value": "1.500 €",
-     "sub": "dönem başına, AB/AEA dışı"
+     "value": "€1,500",
+     "sub": "per semester, non-EU/EEA"
     },
     {
      "label": "KIT Karlsruhe",
-     "value": "1.500 €",
-     "sub": "dönem başına, AB/AEA dışı"
+     "value": "€1,500",
+     "sub": "per semester, non-EU/EEA"
     },
     {
      "label": "Freiburg",
-     "value": "1.500 €",
-     "sub": "artı 190 € dönem katkı payı"
+     "value": "€1,500",
+     "sub": "plus €190 semester contribution"
     },
     {
      "label": "Stuttgart",
-     "value": "1.500 €",
-     "sub": "artı 184 € dönem katkı payı"
+     "value": "€1,500",
+     "sub": "plus €184 semester contribution"
     },
     {
      "label": "Tübingen",
-     "value": "1.500 €",
-     "sub": "dönem başına, AB/AEA dışı"
+     "value": "€1,500",
+     "sub": "per semester, non-EU/EEA"
     },
     {
      "label": "Konstanz",
-     "value": "1.500 €",
-     "sub": "dönem başına, AB/AEA dışı"
+     "value": "€1,500",
+     "sub": "per semester, non-EU/EEA"
     },
     {
      "label": "Mannheim",
-     "value": "1.500 €",
-     "sub": "dönem başına, AB/AEA dışı"
+     "value": "€1,500",
+     "sub": "per semester, non-EU/EEA"
     }
    ],
-   "note": "Eyalet kuralı; yılda 3.000 €. Dönem katkı payı ayrıca ödenir. AB/AEA vatandaşları öğrenim ücreti ödemez.",
+   "note": "State rule: €3,000 a year. The semester contribution is paid separately. EU/EEA citizens pay no tuition.",
    "sources": [
     {
      "domain": "mwk.baden-wuerttemberg.de",
@@ -1085,49 +1085,49 @@
   },
   {
    "type": "list",
-   "title": "Hollanda 2027/28: AB dışı master ücreti karşılaştırması",
-   "tag": "hollandadaegitim",
-   "eyebrow": "HOLLANDA 2027/28 MASTER",
-   "hook": "AB dışı master ücreti: aynı yıl, farklı üniversiteler",
+   "title": "Netherlands 2027/28: non-EU master's fees compared",
+   "tag": "studyinnetherlands",
+   "eyebrow": "NETHERLANDS: 2027/28 MASTER'S",
+   "hook": "Non-EU master's fees: same year, different universities",
    "rows": [
     {
      "label": "TU Delft",
-     "value": "26.479 €",
-     "sub": "kurumsal ücret, MSc",
+     "value": "€26,479",
+     "sub": "institutional fee, MSc",
      "num": 26479
     },
     {
      "label": "Erasmus Rotterdam",
-     "value": "22.800 €",
-     "sub": "RSM 28.000 €, tıp 37.000 €",
+     "value": "€22,800",
+     "sub": "RSM €28,000, medicine €37,000",
      "num": 22800
     },
     {
      "label": "Wageningen",
-     "value": "22.560 €",
-     "sub": "master",
+     "value": "€22,560",
+     "sub": "master's",
      "num": 22560
     },
     {
      "label": "TU Eindhoven",
-     "value": "22.400 €",
-     "sub": "master",
+     "value": "€22,400",
+     "sub": "master's",
      "num": 22400
     },
     {
      "label": "Utrecht",
-     "value": "22.000 €",
-     "sub": "bir program örneği",
+     "value": "€22,000",
+     "sub": "one program example",
      "num": 22000
     },
     {
-     "label": "Yasal ücret (AB/AEA)",
-     "value": "2.771 €",
-     "sub": "Türkiye pasaportuyla genelde uygulanmaz",
+     "label": "Statutory fee (EU/EEA)",
+     "value": "€2,771",
+     "sub": "usually does not apply on a Turkish passport",
      "num": 2771
     }
    ],
-   "note": "Kurumsal ücretler fakülteye göre değişir; işletme ve tıp daha yüksek olabilir. Yaşam masrafı ve vize şartları ayrı.",
+   "note": "Institutional fees vary by faculty. Business and medicine may be higher. Living costs and visa requirements are separate.",
    "sources": [
     {
      "domain": "tudelft.nl",
@@ -1153,43 +1153,43 @@
   },
   {
    "type": "list",
-   "title": "Hollanda 2027/28: AB dışı lisans ücreti örnekleri",
-   "tag": "hollandadaegitim",
-   "eyebrow": "HOLLANDA 2027/28 LİSANS",
-   "hook": "Lisansta AB dışı ücret: Delft'ten Rotterdam'a",
+   "title": "Netherlands 2027/28: non-EU bachelor's fee examples",
+   "tag": "studyinnetherlands",
+   "eyebrow": "NETHERLANDS: 2027/28 BACHELOR'S",
+   "hook": "Non-EU bachelor's fees: from Delft to Rotterdam",
    "rows": [
     {
      "label": "TU Delft",
-     "value": "20.563 €",
-     "sub": "BSc, kurumsal ücret",
+     "value": "€20,563",
+     "sub": "BSc, institutional fee",
      "num": 20563
     },
     {
      "label": "Erasmus Univ. College",
-     "value": "17.800 €",
-     "sub": "AB dışı kurumsal ücret",
+     "value": "€17,800",
+     "sub": "non-EU institutional fee",
      "num": 17800
     },
     {
-     "label": "Leiden (en düşük)",
-     "value": "14.700 €",
-     "sub": "fen 19.200 €, tıp 31.400 €",
+     "label": "Leiden (lowest)",
+     "value": "€14,700",
+     "sub": "science €19,200, medicine €31,400",
      "num": 14700
     },
     {
      "label": "Erasmus Rotterdam",
-     "value": "14.700 €",
-     "sub": "RSM 15.200 €, tıp 35.000 €",
+     "value": "€14,700",
+     "sub": "RSM €15,200, medicine €35,000",
      "num": 14700
     },
     {
-     "label": "Yasal ücret (AB/AEA)",
-     "value": "2.771 €",
-     "sub": "AB/AEA pasaportu olanlar",
+     "label": "Statutory fee (EU/EEA)",
+     "value": "€2,771",
+     "sub": "EU/EEA passport holders",
      "num": 2771
     }
    ],
-   "note": "2027/28 ücretleri; Leiden ve Rotterdam'da bölüme göre artar. Türkiye pasaportuyla genelde kurumsal tarife geçerli.",
+   "note": "2027/28 fees. At Leiden and Rotterdam they rise by subject. On a Turkish passport, the institutional rate usually applies.",
    "sources": [
     {
      "domain": "tudelft.nl",
@@ -1207,48 +1207,48 @@
   },
   {
    "type": "list",
-   "title": "Hollanda uygulamalı bilimler üniversiteleri: AB dışı ücret 2026/27",
+   "title": "Netherlands universities of applied sciences: non-EU fees 2026/27",
    "tag": "hogeschool",
-   "eyebrow": "HOLLANDA UYGULAMALI BİLİMLER",
-   "hook": "Uygulamalı bilimler üniversitelerinde AB dışı ücret (2026/27)",
+   "eyebrow": "NETHERLANDS: APPLIED SCIENCES",
+   "hook": "Non-EU fees at universities of applied sciences (2026/27)",
    "rows": [
     {
      "label": "Amsterdam UAS",
-     "value": "10.648 €",
-     "sub": "lisans ve master",
+     "value": "€10,648",
+     "sub": "bachelor's and master's",
      "num": 10648
     },
     {
      "label": "The Hague UAS",
-     "value": "10.528 €",
-     "sub": "İngilizce master 14.000 €",
+     "value": "€10,528",
+     "sub": "English-taught master's €14,000",
      "num": 10528
     },
     {
      "label": "Inholland",
-     "value": "10.360 €",
+     "value": "€10,360",
      "num": 10360
     },
     {
      "label": "Avans",
-     "value": "10.308 €",
-     "sub": "lisans ve master",
+     "value": "€10,308",
+     "sub": "bachelor's and master's",
      "num": 10308
     },
     {
      "label": "Saxion",
-     "value": "9.360 €",
-     "sub": "lisans",
+     "value": "€9,360",
+     "sub": "bachelor's",
      "num": 9360
     },
     {
      "label": "Windesheim",
-     "value": "9.314 €",
-     "sub": "tek tarife",
+     "value": "€9,314",
+     "sub": "single rate",
      "num": 9314
     }
    ],
-   "note": "2026/27 kurumsal ücretler; 2027/28 tutarı çoğunda yok (Windesheim yaklaşık 9.580 €). AB/AEA yasal ücret 2.694 €.",
+   "note": "2026/27 institutional fees. Most give no 2027/28 amount (Windesheim about €9,580). EU/EEA statutory fee: €2,694.",
    "sources": [
     {
      "domain": "amsterdamuas.com",
@@ -1278,37 +1278,37 @@
   },
   {
    "type": "list",
-   "title": "İtalya'da özel üniversiteler: yıllık ücret örnekleri",
-   "tag": "italyadaegitim",
-   "eyebrow": "İTALYA ÖZEL ÜNİVERSİTELER",
-   "hook": "İtalya'da özel üniversitelerde yıllık ücret örnekleri",
+   "title": "Private universities in Italy: annual fee examples",
+   "tag": "studyinitaly",
+   "eyebrow": "ITALY: PRIVATE UNIVERSITIES",
+   "hook": "Annual fee examples at private universities in Italy",
    "rows": [
     {
      "label": "Domus Academy MA",
-     "value": "22.500 €",
-     "sub": "2027/28, AB dışı; AB 17.500 €",
+     "value": "€22,500",
+     "sub": "2027/28, non-EU; EU €17,500",
      "num": 22500
     },
     {
      "label": "Bocconi MSc",
-     "value": "19.300 €",
-     "sub": "2027/28, ilk yıl",
+     "value": "€19,300",
+     "sub": "2027/28, first year",
      "num": 19300
     },
     {
-     "label": "LUISS master",
-     "value": "16.000 €",
-     "sub": "2027/28; Management ve Finance 18.000 €",
+     "label": "LUISS master's",
+     "value": "€16,000",
+     "sub": "2027/28; Management and Finance €18,000",
      "num": 16000
     },
     {
-     "label": "Cattolica master",
-     "value": "9.350 €",
-     "sub": "2026/27, AB dışı; bursla 6.400 €",
+     "label": "Cattolica master's",
+     "value": "€9,350",
+     "sub": "2026/27, non-EU; €6,400 with scholarship",
      "num": 9350
     }
    ],
-   "note": "Yıllar karışık (2026/27 ve 2027/28). Bocconi ve Cattolica'da muafiyet ve burs ücreti düşürebilir; lisans ücretleri farklı.",
+   "note": "Years are mixed (2026/27 and 2027/28). At Bocconi and Cattolica, exemptions and scholarships can lower the fee. Bachelor's fees differ.",
    "sources": [
     {
      "domain": "domusacademy.com",
@@ -1330,38 +1330,38 @@
   },
   {
    "type": "list",
-   "title": "İtalya kamu üniversiteleri: yıllık ücret gelire ve ülkeye göre",
-   "tag": "italyadaegitim",
-   "eyebrow": "İTALYA KAMU ÜNİVERSİTELERİ",
-   "hook": "Kamu üniversitesinde yıllık ücret: gelir ve ülkeye göre",
+   "title": "Italy's public universities: annual fees by income and country",
+   "tag": "studyinitaly",
+   "eyebrow": "ITALY: PUBLIC UNIVERSITIES",
+   "hook": "Annual fees at public universities: by income and country",
    "rows": [
     {
-     "label": "Bologna (asgari)",
-     "value": "157,04 €",
-     "sub": "ISEE 27.000 € ve altı, ilk yıl, 2026/27"
+     "label": "Bologna (minimum)",
+     "value": "€157.04",
+     "sub": "ISEE €27,000 or below, first year, 2026/27"
     },
     {
-     "label": "Sapienza Roma",
-     "value": "300-1.500 €",
-     "sub": "Türkiye grubu 700 €; 2027/28'i doğrula"
+     "label": "Sapienza Rome",
+     "value": "€300-€1,500",
+     "sub": "Türkiye group €700; confirm 2027/28"
     },
     {
      "label": "Verona",
-     "value": "1.000 €",
-     "sub": "ISEE'siz AB dışı için sabit seçenek"
+     "value": "€1,000",
+     "sub": "flat option for non-EU without ISEE"
     },
     {
      "label": "Bozen-Bolzano",
-     "value": "yaklaşık 1.200 €",
-     "sub": "AB dışı, iki taksit"
+     "value": "about €1,200",
+     "sub": "non-EU, two installments"
     },
     {
-     "label": "Torino",
-     "value": "156-2.800 €",
-     "sub": "bir program; 2025-26 aralığı"
+     "label": "Turin",
+     "value": "€156-€2,800",
+     "sub": "one program; 2025-26 range"
     }
    ],
-   "note": "Ücret ISEE (aile gelir göstergesi) veya ülke listesine bağlı; üst sınır programa göre değişir. Ek kalemleri üniversiteye sor.",
+   "note": "The fee depends on ISEE (a family income indicator) or a country list. The upper limit varies by program. Ask the university about extra charges.",
    "sources": [
     {
      "domain": "unibo.it",
@@ -1391,55 +1391,55 @@
   },
   {
    "type": "list",
-   "title": "İngiltere dersli master: 2027 girişi uluslararası ücret örnekleri",
-   "tag": "ingilteredeegitim",
-   "eyebrow": "İNGİLTERE DERSLİ MASTER",
-   "hook": "2027 girişi için uluslararası master ücreti örnekleri",
+   "title": "UK taught master's: international fee examples for 2027 entry",
+   "tag": "studyinuk",
+   "eyebrow": "UK: TAUGHT MASTER'S",
+   "hook": "International master's fee examples for 2027 entry",
    "rows": [
     {
      "label": "Royal Holloway",
-     "value": "25.500 £",
+     "value": "£25,500",
      "sub": "MSc Information and Cyber Security",
      "num": 25500
     },
     {
      "label": "Loughborough",
-     "value": "27.000 £",
-     "sub": "MSc Intl Business Management, Eylül",
+     "value": "£27,000",
+     "sub": "MSc Intl Business Management, September",
      "num": 27000
     },
     {
      "label": "Exeter",
-     "value": "30.100 £",
-     "sub": "MSc Computer Science, Eylül",
+     "value": "£30,100",
+     "sub": "MSc Computer Science, September",
      "num": 30100
     },
     {
      "label": "Lancaster",
-     "value": "30.900 £",
+     "value": "£30,900",
      "sub": "MSc Intl Business and Strategic Mgmt",
      "num": 30900
     },
     {
      "label": "Bristol",
-     "value": "34.500 £",
+     "value": "£34,500",
      "sub": "MSc Management (International Business)",
      "num": 34500
     },
     {
      "label": "Nottingham",
-     "value": "34.800 £",
+     "value": "£34,800",
      "sub": "MSc International Business",
      "num": 34800
     },
     {
      "label": "Manchester",
-     "value": "35.300 £",
+     "value": "£35,300",
      "sub": "MSc Economics",
      "num": 35300
     }
    ],
-   "note": "Tek program örnekleri; aynı üniversitede başka bölüm farklı ücret alır. Türkiye pasaportuyla bu uluslararası ücret geçerli.",
+   "note": "Single-program examples. Other subjects at the same university charge different fees. On a Turkish passport, this international fee applies.",
    "sources": [
     {
      "domain": "royalholloway.ac.uk",
@@ -1473,37 +1473,37 @@
   },
   {
    "type": "list",
-   "title": "ABD'de bir yılın öğrenim faturası: 2026-27 örnekleri",
-   "tag": "amerikadaegitim",
-   "eyebrow": "ABD YILLIK ÜCRET",
-   "hook": "Amerika'da bir yılın öğrenim faturası (2026-27)",
+   "title": "A year's tuition bill in the USA: 2026-27 examples",
+   "tag": "studyinusa",
+   "eyebrow": "USA: ANNUAL FEES",
+   "hook": "A year's tuition bill in the USA (2026-27)",
    "rows": [
     {
      "label": "Carnegie Mellon",
-     "value": "69.702 $",
-     "sub": "özel; öğrenim ücreti, harçlar ayrı",
+     "value": "$69,702",
+     "sub": "private; tuition, fees separate",
      "num": 69702
     },
     {
      "label": "UC Irvine",
-     "value": "59.375 $",
-     "sub": "eyalet dışı, güz 2026 girişi, sigortalı",
+     "value": "$59,375",
+     "sub": "out-of-state, fall 2026 entry, with insurance",
      "num": 59375
     },
     {
      "label": "UCLA",
-     "value": "55.700 $",
-     "sub": "eyalet dışı, ek ücret ve harçlar toplamı",
+     "value": "$55,700",
+     "sub": "out-of-state, total with surcharge and fees",
      "num": 55700
     },
     {
      "label": "Maryland College Park",
-     "value": "44.086 $",
-     "sub": "eyalet dışı, ücret ve harçlar",
+     "value": "$44,086",
+     "sub": "out-of-state, tuition and fees",
      "num": 44086
     }
    ],
-   "note": "Eyalet dışı tarife uluslararası öğrenciye de uygulanır. Konaklama ve kitap dahil değil; sigorta yalnız Irvine'da dahil.",
+   "note": "The out-of-state rate also applies to international students. Housing and books are not included. Insurance is included only at Irvine.",
    "sources": [
     {
      "domain": "cmu.edu",
@@ -1525,10 +1525,10 @@
   },
   {
    "type": "list",
-   "title": "ABD'de yayımlanmış minimum IELTS puanları",
-   "tag": "amerikadaegitim",
-   "eyebrow": "ABD MİNİMUM IELTS",
-   "hook": "Amerika'da yayımlanmış IELTS alt sınırları",
+   "title": "Published minimum IELTS scores in the USA",
+   "tag": "studyinusa",
+   "eyebrow": "USA MINIMUM IELTS",
+   "hook": "Published IELTS minimums in the USA",
    "rows": [
     {
      "label": "Columbia",
@@ -1544,13 +1544,13 @@
     {
      "label": "Caltech",
      "value": "7.0",
-     "sub": "her bölüm 7.0",
+     "sub": "7.0 in each section",
      "num": 7.0
     },
     {
      "label": "Rice",
      "value": "7.0",
-     "sub": "Academic; General kabul edilmez",
+     "sub": "Academic; General not accepted",
      "num": 7.0
     },
     {
@@ -1570,7 +1570,7 @@
      "num": 6.0
     }
    ],
-   "note": "Lisans başvurusu için alt sınırlar; Harvard, Stanford, NYU ve Northwestern minimum yayımlamıyor. Minimum, kabul garantisi değil.",
+   "note": "These are minimums for bachelor's applications. Harvard, Stanford, NYU and Northwestern do not publish a minimum. A minimum is not a guarantee of admission.",
    "sources": [
     {
      "domain": "undergrad.admissions.columbia.edu",
@@ -1620,49 +1620,49 @@
   },
   {
    "type": "list",
-   "title": "Yeni TOEFL skalası: üniversitelerin 1-6 bandındaki eşikleri",
+   "title": "New TOEFL scale: university thresholds on the 1-6 band",
    "tag": "toefl",
-   "eyebrow": "YENİ TOEFL SKALASI",
-   "hook": "21 Ocak 2026'dan sonra TOEFL puanın 1 ile 6 arası",
+   "eyebrow": "NEW TOEFL SCALE",
+   "hook": "After 21 January 2026, your TOEFL score runs from 1 to 6",
    "rows": [
     {
      "label": "Caltech",
      "value": "5",
-     "sub": "eski skalada 100",
+     "sub": "100 on the old scale",
      "num": 5
     },
     {
-     "label": "Twente (Eylül 2027)",
+     "label": "Twente (September 2027)",
      "value": "5",
-     "sub": "eski skalada 100",
+     "sub": "100 on the old scale",
      "num": 5
     },
     {
-     "label": "Tilburg (Eylül 2027)",
+     "label": "Tilburg (September 2027)",
      "value": "5",
-     "sub": "Şubat 2027 girişi için 4.5",
+     "sub": "4.5 for February 2027 entry",
      "num": 5
     },
     {
      "label": "Imperial Standard",
      "value": "4.5",
-     "sub": "eski skalada 92",
+     "sub": "92 on the old scale",
      "num": 4.5
     },
     {
      "label": "UC Berkeley",
      "value": "4.5",
-     "sub": "eski skalada 90",
+     "sub": "90 on the old scale",
      "num": 4.5
     },
     {
      "label": "UT Austin",
      "value": "4",
-     "sub": "eski skalada 79",
+     "sub": "79 on the old scale",
      "num": 4
     }
    ],
-   "note": "Yeni skalada genel puan dört bölümün ortalaması; ETS 2028'e kadar raporlarda eski karşılığı da gösteriyor. Üniversiteden doğrula.",
+   "note": "On the new scale, the overall score is the average of the four sections. Until 2028, ETS also shows the old equivalent on score reports. Confirm with the university.",
    "sources": [
     {
      "domain": "ets.org",
@@ -1696,48 +1696,48 @@
   },
   {
    "type": "list",
-   "title": "ABD güz 2027: SAT/ACT politikası üniversiteye göre",
-   "tag": "amerikadaegitim",
-   "eyebrow": "ABD SAT/ACT POLİTİKASI",
-   "hook": "Güz 2027 için SAT gerekli mi? Üniversiteye göre değişiyor",
+   "title": "USA fall 2027: SAT/ACT policy varies by university",
+   "tag": "studyinusa",
+   "eyebrow": "USA SAT/ACT POLICY",
+   "hook": "Need the SAT for fall 2027? It depends on the university",
    "rows": [
     {
      "label": "Harvard",
-     "value": "Zorunlu",
-     "sub": "sınırlı istisnalar"
+     "value": "Required",
+     "sub": "limited exceptions"
     },
     {
      "label": "Yale",
-     "value": "Zorunlu",
-     "sub": "SAT veya ACT"
+     "value": "Required",
+     "sub": "SAT or ACT"
     },
     {
      "label": "MIT",
-     "value": "Zorunlu",
-     "sub": "SAT veya ACT"
+     "value": "Required",
+     "sub": "SAT or ACT"
     },
     {
      "label": "Stanford",
-     "value": "Zorunlu",
-     "sub": "güz 2026 ve sonrası"
+     "value": "Required",
+     "sub": "fall 2026 and later"
     },
     {
      "label": "Princeton",
-     "value": "İsteğe bağlı",
-     "sub": "güz 2028'de yeniden zorunlu"
+     "value": "Optional",
+     "sub": "required again in fall 2028"
     },
     {
      "label": "Duke",
-     "value": "İsteğe bağlı",
-     "sub": "2026-27 başvuru dönemi"
+     "value": "Optional",
+     "sub": "2026-27 application cycle"
     },
     {
      "label": "UCLA",
-     "value": "Değerlendirilmez",
-     "sub": "UC sistemi"
+     "value": "Not considered",
+     "sub": "UC system"
     }
    ],
-   "note": "Politikalar yıl yıl değişiyor; başvurduğun döngünün sayfasını kontrol et. Zorunlu olmaması puanın işe yaramaz demek değil.",
+   "note": "Policies change year by year. Check the page for the cycle you are applying in. Not required does not mean your score is useless.",
    "sources": [
     {
      "domain": "college.harvard.edu",
@@ -1771,38 +1771,38 @@
   },
   {
    "type": "list",
-   "title": "ABD güz 2027 lisans başvurusunda kritik tarihler",
-   "tag": "amerikadaegitim",
-   "eyebrow": "ABD SON TARİHLER",
-   "hook": "Güz 2027 lisans başvurusunda kritik günler",
+   "title": "Key dates for USA fall 2027 bachelor's applications",
+   "tag": "studyinusa",
+   "eyebrow": "USA DEADLINES",
+   "hook": "Key dates for fall 2027 bachelor's applications",
    "rows": [
     {
-     "label": "UC (tüm kampüsler)",
-     "value": "30 Kasım 2026",
-     "sub": "1 Ekim'den itibaren tek başvuru"
+     "label": "UC (all campuses)",
+     "value": "30 November 2026",
+     "sub": "one application from 1 October"
     },
     {
      "label": "UT Austin",
-     "value": "1 Aralık 2026",
-     "sub": "Early Action 15 Ekim"
+     "value": "1 December 2026",
+     "sub": "Early Action 15 October"
     },
     {
      "label": "Vanderbilt",
-     "value": "1 Ocak 2027",
-     "sub": "ikinci erken karar ve normal başvuru"
+     "value": "1 January 2027",
+     "sub": "second early decision and regular decision"
     },
     {
      "label": "Caltech",
-     "value": "4 Ocak 2027",
-     "sub": "normal başvuru; erken tur 1 Kasım 2026"
+     "value": "4 January 2027",
+     "sub": "regular decision; early round 1 November 2026"
     },
     {
      "label": "Duke",
-     "value": "4 Ocak 2027",
-     "sub": "normal başvuru; erken karar 2 Kasım"
+     "value": "4 January 2027",
+     "sub": "regular decision; early decision 2 November"
     }
    ],
-   "note": "Erken turlar genelde 1-2 Kasım. Çoğu üniversite Common App kullanır; UC kendi sistemini kullanır, UT Austin ikisini de kabul eder.",
+   "note": "Early rounds are usually 1-2 November. Most universities use the Common App. UC uses its own system, and UT Austin accepts both.",
    "sources": [
     {
      "domain": "admission.universityofcalifornia.edu",
@@ -1828,43 +1828,43 @@
   },
   {
    "type": "list",
-   "title": "Hollanda'da AB dışı adaylar için son tarihler",
-   "tag": "hollandadaegitim",
-   "eyebrow": "HOLLANDA SON TARİHLER",
-   "hook": "AB dışı aday için Hollanda'da son gün her yerde 1 Mayıs değil",
+   "title": "Deadlines for non-EU applicants in the Netherlands",
+   "tag": "studyinnetherlands",
+   "eyebrow": "NETHERLANDS DEADLINES",
+   "hook": "Non-EU? In the Netherlands, the deadline is not 1 May everywhere",
    "rows": [
     {
      "label": "Numerus fixus",
-     "value": "15 Ocak",
-     "sub": "kontenjanlı programlar, saat 23:59"
+     "value": "15 January",
+     "sub": "programs with limited places, 23:59"
     },
     {
-     "label": "Tilburg master",
-     "value": "1 Nisan",
-     "sub": "Eylül 2027 girişi"
+     "label": "Tilburg master's",
+     "value": "1 April",
+     "sub": "September 2027 entry"
     },
     {
      "label": "Rotterdam UAS",
-     "value": "1 Nisan",
-     "sub": "AB dışı lisans ve güz master"
+     "value": "1 April",
+     "sub": "non-EU bachelor's and autumn master's"
     },
     {
      "label": "Aeres UAS",
-     "value": "1 Nisan",
-     "sub": "AB dışı; başvurular 1 Ekim'de açılır"
+     "value": "1 April",
+     "sub": "non-EU; applications open on 1 October"
     },
     {
      "label": "Breda UAS",
-     "value": "1 Mayıs",
-     "sub": "lisans; master 1 Haziran"
+     "value": "1 May",
+     "sub": "bachelor's; master's 1 June"
     },
     {
      "label": "Hanze UAS",
-     "value": "1 Haziran",
-     "sub": "Eylül girişi; Şubat girişi 1 Kasım"
+     "value": "1 June",
+     "sub": "September entry; February entry 1 November"
     }
    ],
-   "note": "Çoğu sayfa yıl belirtmiyor; tarihler her yıl tekrarlanır ama 2027 için üniversiteden doğrula. Genel Studielink tarihi 1 Mayıs.",
+   "note": "Most pages do not state a year. The dates repeat each year, but confirm 2027 with the university. The general Studielink date is 1 May.",
    "sources": [
     {
      "domain": "studyinnl.org",
@@ -1894,38 +1894,38 @@
   },
   {
    "type": "list",
-   "title": "Almanya kış dönemi: başvuru pencereleri",
-   "tag": "almanyadaegitim",
-   "eyebrow": "ALMANYA KIŞ DÖNEMİ",
-   "hook": "Almanya'da kış dönemi başvurusu ne zaman açılıyor?",
+   "title": "Germany winter semester: application windows",
+   "tag": "studyingermany",
+   "eyebrow": "GERMANY WINTER SEMESTER",
+   "hook": "When do winter semester applications open in Germany?",
    "rows": [
     {
-     "label": "RWTH Aachen master",
-     "value": "1 Aralık-1 Mart",
-     "sub": "AB dışı, açık kabul; kontenjanlı 15 Temmuz"
+     "label": "RWTH Aachen master's",
+     "value": "1 December-1 March",
+     "sub": "non-EU, open admission; limited places 15 July"
     },
     {
-     "label": "Göttingen lisans",
-     "value": "1 Mart-30 Nisan",
-     "sub": "kontenjanlı; açık kabul 30 Eylül"
+     "label": "Göttingen bachelor's",
+     "value": "1 March-30 April",
+     "sub": "limited places; open admission 30 September"
     },
     {
-     "label": "HPI master",
-     "value": "1 Nisan-1 Haziran",
-     "sub": "GRE General Test istenir"
+     "label": "HPI master's",
+     "value": "1 April-1 June",
+     "sub": "GRE General Test required"
     },
     {
      "label": "TU Dresden",
-     "value": "1 Nisan-31 Mayıs",
-     "sub": "AB dışı, yabancı diploma"
+     "value": "1 April-31 May",
+     "sub": "non-EU, foreign diploma"
     },
     {
-     "label": "Hamburg master",
-     "value": "1 Mayıs-15 Haziran",
-     "sub": "2026/27; uluslararası 15 Şubat-31 Mart"
+     "label": "Hamburg master's",
+     "value": "1 May-15 June",
+     "sub": "2026/27; international 15 February-31 March"
     }
    ],
-   "note": "Yıl belirtilmeyen tekrarlayan pencereler; 2027/28 için doğrula. uni-assist ön değerlendirme belgesi (VPD) için 8 hafta ekle.",
+   "note": "These windows recur and no year is stated. Confirm them for 2027/28. Add 8 weeks for the uni-assist preliminary review document (VPD).",
    "sources": [
     {
      "domain": "rwth-aachen.de",
@@ -1959,43 +1959,43 @@
   },
   {
    "type": "list",
-   "title": "Hollanda'da master için IELTS eşikleri",
-   "tag": "hollandadaegitim",
-   "eyebrow": "HOLLANDA MASTER IELTS",
-   "hook": "Hollanda'da master için İngilizce eşikleri",
+   "title": "Master's IELTS thresholds in the Netherlands",
+   "tag": "studyinnetherlands",
+   "eyebrow": "NETHERLANDS MASTER'S IELTS",
+   "hook": "English thresholds for a master's in the Netherlands",
    "rows": [
     {
-     "label": "Groningen (çoğu)",
+     "label": "Groningen (most)",
      "value": "6.5",
-     "sub": "TOEFL 90 veya yeni skala 4.5"
+     "sub": "TOEFL 90 or new scale 4.5"
     },
     {
-     "label": "Groningen hukuk, dilbilim",
+     "label": "Groningen law, linguistics",
      "value": "7.0",
-     "sub": "TOEFL 100 veya yeni skala 5"
+     "sub": "TOEFL 100 or new scale 5"
     },
     {
      "label": "Groningen Literary Studies",
      "value": "C2",
-     "sub": "2027/28 sayfası; puan verilmemiş"
+     "sub": "2027/28 page; no score given"
     },
     {
      "label": "Twente",
      "value": "6.5",
-     "sub": "her bölüm 6.0"
+     "sub": "6.0 in each section"
     },
     {
      "label": "Wageningen",
      "value": "6.5",
-     "sub": "konuşma 6.0"
+     "sub": "speaking 6.0"
     },
     {
      "label": "Tilburg",
      "value": "6.5",
-     "sub": "araştırma masterı 7.0"
+     "sub": "research master's 7.0"
     }
    ],
-   "note": "Alt puan şartları ve istisnalar var; İngilizce öğretim görenlere muafiyet olabilir.",
+   "note": "There are sub-score requirements and exceptions. If you studied in English, you may be exempt.",
    "sources": [
     {
      "domain": "rug.nl",
@@ -2017,11 +2017,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: Almanya'da üniversite tamamen bedava",
-   "tag": "almanyadaegitim",
-   "claim": "Almanya'da üniversite tamamen bedava",
-   "truth_title": "Çoğu yerde öğrenim ücreti yok, katkı payı var",
-   "truth": "Çoğu üniversitede öğrenim ücreti yok ama her dönem katkı payı var: FU Berlin 376,80 €, Münster 369,50 € (2026/27 kış). Kira ve yaşam ayrı.",
+   "title": "Myth: university in Germany is completely free",
+   "tag": "studyingermany",
+   "claim": "University in Germany is completely free",
+   "truth_title": "Most places: no tuition, but a semester contribution",
+   "truth": "No tuition at most universities, but a contribution every semester: FU Berlin €376.80, Münster €369.50 (winter 2026/27). Rent and living costs are separate.",
    "sources": [
     {
      "domain": "fu-berlin.de",
@@ -2035,11 +2035,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: Almanya'nın her yerinde ücret yok",
-   "tag": "almanyadaegitim",
-   "claim": "Almanya'nın her yerinde öğrenim ücreti yok",
-   "truth_title": "İstisnalar var: Baden-Württemberg, TUM, FAU",
-   "truth": "Baden-Württemberg'de AB dışı dönemde 1.500 €. TUM master 4.000 veya 6.000 € (2027/28'den 4.600 veya 6.800 €). FAU da 2027 yazından alacak.",
+   "title": "Myth: no fees anywhere in Germany",
+   "tag": "studyingermany",
+   "claim": "There is no tuition anywhere in Germany",
+   "truth_title": "There are exceptions: Baden-Württemberg, TUM, FAU",
+   "truth": "Baden-Württemberg: €1,500 per semester for non-EU students. TUM master's: €4,000 or €6,000 (from 2027/28: €4,600 or €6,800). FAU will also charge from summer 2027.",
    "sources": [
     {
      "domain": "mwk.baden-wuerttemberg.de",
@@ -2057,11 +2057,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: Hollanda'da üniversite yılda 2.771 €",
-   "tag": "hollandadaegitim",
-   "claim": "Hollanda'da üniversite yılda 2.771 €",
-   "truth_title": "O ücret AB pasaportu için",
-   "truth": "2.771 € yasal ücret (2027/28) AB/AEA pasaportu için. Türkiye pasaportuyla genelde kurumsal ücret: Delft master 26.479 €, Erasmus 22.800 €.",
+   "title": "Myth: university in the Netherlands is €2,771 a year",
+   "tag": "studyinnetherlands",
+   "claim": "University in the Netherlands is €2,771 a year",
+   "truth_title": "That fee is for EU passports",
+   "truth": "The €2,771 statutory fee (2027/28) is for EU/EEA passports. On a Turkish passport, you usually pay the institutional fee: Delft master's €26,479, Erasmus €22,800.",
    "sources": [
     {
      "domain": "tudelft.nl",
@@ -2075,11 +2075,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: AB vatandaşı İngiltere'de yerli ücret öder",
-   "tag": "ingilteredeegitim",
-   "claim": "AB vatandaşıysan İngiltere'de yerli ücret ödersin",
-   "truth_title": "AB pasaportu yerli ücret kazandırmıyor",
-   "truth": "2026/27'de başlayan AB vatandaşı, İngiltere'de oturum statüsü (settled/pre-settled) yoksa uluslararası öğrenciyle aynı ücreti öder.",
+   "title": "Myth: EU citizens pay home fees in the UK",
+   "tag": "studyinuk",
+   "claim": "If you are an EU citizen, you pay home fees in the UK",
+   "truth_title": "An EU passport does not get you home fees",
+   "truth": "As an EU citizen starting in 2026/27, you pay the same fee as international students unless you have UK residence status (settled/pre-settled).",
    "sources": [
     {
      "domain": "info.lse.ac.uk",
@@ -2093,11 +2093,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: İtalya'da Dichiarazione di Valore olmadan başvuru olmaz",
-   "tag": "italyadaegitim",
-   "claim": "İtalya'da Dichiarazione di Valore olmadan başvuramazsın",
-   "truth_title": "CIMEA belgeleri de bir seçenek",
-   "truth": "Genelge, diploma için CIMEA (denklik merkezi) belgeleri ya da konsolosluktan Dichiarazione di Valore diyor. Seçim üniversitenin, önce sor.",
+   "title": "Myth: you cannot apply in Italy without a Dichiarazione di Valore",
+   "tag": "studyinitaly",
+   "claim": "You cannot apply in Italy without a Dichiarazione di Valore",
+   "truth_title": "CIMEA documents are also an option",
+   "truth": "For your diploma, the circular says CIMEA (equivalence center) documents or a Dichiarazione di Valore from the consulate. The university chooses, so ask first.",
    "sources": [
     {
      "domain": "unife.it",
@@ -2115,11 +2115,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: İtalya'da devlet üniversitesi ücreti herkes için aynı",
-   "tag": "italyadaegitim",
-   "claim": "İtalya'da devlet üniversitesi ücreti herkes için aynı",
-   "truth_title": "Ücret aile gelirine göre hesaplanır",
-   "truth": "Ücret ISEE'ye (aile gelir göstergesi) bağlı. Bologna'da 27.000 € ve altı ilk yıl 157,04 € (2026/27). Sapienza ülkeye göre sabit ücret alır.",
+   "title": "Myth: state university fees in Italy are the same for everyone",
+   "tag": "studyinitaly",
+   "claim": "State university fees in Italy are the same for everyone",
+   "truth_title": "Fees are based on family income",
+   "truth": "The fee depends on ISEE (a family income indicator). In Bologna, an ISEE of €27,000 or below pays €157.04 in the first year (2026/27). Sapienza charges a fixed fee by country.",
    "sources": [
     {
      "domain": "unibo.it",
@@ -2137,11 +2137,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: Almanya için APS sertifikası Türk öğrencilere de şart",
-   "tag": "almanyadaegitim",
-   "claim": "Almanya için APS sertifikası Türk öğrencilere de şart",
-   "truth_title": "uni-assist listesi üç ülke sayıyor",
-   "truth": "APS (diploma denetim belgesi) uni-assist sözlüğünde yalnız Çin, Hindistan, Vietnam için zorunlu; Türkiye adı geçmiyor. Üniversiteye de sor.",
+   "title": "Myth: Turkish students also need an APS certificate for Germany",
+   "tag": "studyingermany",
+   "claim": "Turkish students also need an APS certificate for Germany",
+   "truth_title": "The uni-assist list names three countries",
+   "truth": "In the uni-assist glossary, APS (a diploma verification certificate) is required only for China, India and Vietnam. Türkiye is not mentioned. Ask the university too.",
    "sources": [
     {
      "domain": "uni-assist.de",
@@ -2155,11 +2155,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: Amerika'da TOEFL olmadan başvuru olmaz",
-   "tag": "amerikadaegitim",
-   "claim": "Amerika'da TOEFL olmadan başvuru olmaz",
-   "truth_title": "Bazı okullar hiç istemiyor",
-   "truth": "Harvard'da İngilizce sınavı isteğe bağlı, Stanford hiç istemiyor. Columbia ise minimum TOEFL 105 veya IELTS 7.5 arıyor. Okul okul bak.",
+   "title": "Myth: you cannot apply in the USA without TOEFL",
+   "tag": "studyinusa",
+   "claim": "You cannot apply in the USA without TOEFL",
+   "truth_title": "Some schools never ask for it",
+   "truth": "At Harvard an English test is optional, and Stanford does not ask for one at all. Columbia wants at least TOEFL 105 or IELTS 7.5. Check school by school.",
    "sources": [
     {
      "domain": "college.harvard.edu",
@@ -2177,11 +2177,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: TOEFL puanı hâlâ 120 üzerinden",
+   "title": "Myth: TOEFL is still scored out of 120",
    "tag": "toefl",
-   "claim": "TOEFL puanı hâlâ 120 üzerinden",
-   "truth_title": "Skala değişti: artık 1 ile 6 arası",
-   "truth": "21 Ocak 2026'dan sonraki TOEFL iBT 1-6 bandında raporlanıyor; 5 bandı eski 95-106'ya denk. Yeni eşikler: Berkeley 4.5, Caltech 5.",
+   "claim": "TOEFL is still scored out of 120",
+   "truth_title": "The scale changed: now from 1 to 6",
+   "truth": "TOEFL iBT taken after 21 January 2026 is reported on a 1-6 band. Band 5 equals 95-106 on the old scale. New thresholds: Berkeley 4.5, Caltech 5.",
    "sources": [
     {
      "domain": "ets.org",
@@ -2199,11 +2199,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: Hollanda'ya 1 Mayıs'a kadar her zaman başvurabilirim",
-   "tag": "hollandadaegitim",
-   "claim": "Hollanda'ya 1 Mayıs'a kadar her zaman başvurabilirim",
-   "truth_title": "Bazı kurumlarda AB dışı tarih daha erken",
-   "truth": "Numerus fixus 15 Ocak'ta kapanır. Tilburg, Rotterdam UAS ve Aeres'te AB dışı adaylar için son gün 1 Nisan. 1 Mayıs yalnız genel tarih.",
+   "title": "Myth: I can always apply to the Netherlands until 1 May",
+   "tag": "studyinnetherlands",
+   "claim": "I can always apply to the Netherlands until 1 May",
+   "truth_title": "Some institutions set an earlier non-EU date",
+   "truth": "Numerus fixus closes on 15 January. At Tilburg, Rotterdam UAS and Aeres, the deadline for non-EU applicants is 1 April. 1 May is only the general date.",
    "sources": [
     {
      "domain": "studyinnl.org",
@@ -2225,11 +2225,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: UCAS son tarihi hep Ocak sonudur",
+   "title": "Myth: the UCAS deadline is always late January",
    "tag": "ucas",
-   "claim": "UCAS son tarihi hep Ocak sonudur",
-   "truth_title": "2027 girişi için 13 Ocak 2027",
-   "truth": "UCAS'ta çoğu lisans programı için eşit değerlendirme tarihi 13 Ocak 2027, saat 18:00. Oxford, Cambridge ve tıp için tarih 15 Ekim 2026'ydı.",
+   "claim": "The UCAS deadline is always late January",
+   "truth_title": "13 January 2027 for 2027 entry",
+   "truth": "For most bachelor's programs on UCAS, the equal consideration date is 13 January 2027 at 18:00. For Oxford, Cambridge and medicine, it was 15 October 2026.",
    "sources": [
     {
      "domain": "ucas.com",
@@ -2239,11 +2239,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: ABD'de artık hiçbir okul SAT istemiyor",
-   "tag": "amerikadaegitim",
-   "claim": "ABD'de artık hiçbir okul SAT istemiyor",
-   "truth_title": "Birçok okul yeniden zorunlu tuttu",
-   "truth": "Harvard, Yale, MIT ve Stanford SAT veya ACT istiyor. Duke ve Vanderbilt'te isteğe bağlı; Princeton 2027'de isteğe bağlı, 2028'de zorunlu.",
+   "title": "Myth: no school in the USA asks for the SAT anymore",
+   "tag": "studyinusa",
+   "claim": "No school in the USA asks for the SAT anymore",
+   "truth_title": "Many schools have made it required again",
+   "truth": "Harvard, Yale, MIT and Stanford ask for the SAT or ACT. It is optional at Duke and Vanderbilt. At Princeton it is optional in 2027 and required in 2028.",
    "sources": [
     {
      "domain": "college.harvard.edu",
@@ -2277,11 +2277,11 @@
   },
   {
    "type": "myth",
-   "title": "Yanılgı: uni-assist'e para ödenmez, bir kere başvurursun olur",
-   "tag": "almanyadaegitim",
-   "claim": "uni-assist'e para ödenmez, bir kere başvurursun olur",
-   "truth_title": "Her program ve her dönem ücretli",
-   "truth": "İlk program 75 €, aynı dönemde her ek program 30 €; yeni dönemde yeniden ödenir. VPD (ön değerlendirme) 4-6 hafta sürer, bir yıl geçerli.",
+   "title": "Myth: uni-assist is free and you only apply once",
+   "tag": "studyingermany",
+   "claim": "uni-assist is free and you only apply once",
+   "truth_title": "You pay per program and per semester",
+   "truth": "First program €75, each extra program in the same semester €30. You pay again in a new semester. VPD (preliminary review) takes 4-6 weeks and is valid for one year.",
    "sources": [
     {
      "domain": "uni-assist.de",
@@ -2295,12 +2295,12 @@
   },
   {
    "type": "deadline",
-   "title": "13 Ocak 2027: UCAS eşit değerlendirme tarihi",
+   "title": "13 January 2027: UCAS equal consideration date",
    "tag": "ucas",
-   "date_big": "13 Ocak 2027",
-   "what": "UCAS: çoğu lisans programı",
-   "detail": "Saat 18:00'e (İngiltere) kadar gelen başvurular eşit değerlendirilir; sonrası üniversitenin takdirine kalır.",
-   "country": "Birleşik Krallık",
+   "date_big": "13 January 2027",
+   "what": "UCAS: most bachelor's programs",
+   "detail": "Applications received by 18:00 (UK time) get equal consideration. After that, it is at the university's discretion.",
+   "country": "United Kingdom",
    "sources": [
     {
      "domain": "ucas.com",
@@ -2310,12 +2310,12 @@
   },
   {
    "type": "deadline",
-   "title": "26 Ocak 2027: Bocconi lisans Winter Session kapanışı",
+   "title": "26 January 2027: Bocconi bachelor's Winter Session closes",
    "tag": "bocconi",
-   "date_big": "26 Ocak 2027",
-   "what": "Bocconi lisans: Winter Session kapanışı",
-   "detail": "Lisans ve hukuk 2027/28: 25 Kasım 2026'da açılır, 26 Ocak 2027 saat 15:00'te (İtalya) kapanır; sonuçlar Mart ortasında.",
-   "country": "İtalya",
+   "date_big": "26 January 2027",
+   "what": "Bocconi bachelor's: Winter Session closes",
+   "detail": "Bachelor's and law 2027/28: opens 25 November 2026, closes 26 January 2027 at 15:00 (Italy time). Results in mid-March.",
+   "country": "Italy",
    "sources": [
     {
      "domain": "unibocconi.it",
@@ -2325,12 +2325,12 @@
   },
   {
    "type": "deadline",
-   "title": "28 Şubat 2027: Design Academy Eindhoven lisans",
+   "title": "28 February 2027: Design Academy Eindhoven bachelor's",
    "tag": "eindhoven",
-   "date_big": "28 Şubat 2027",
-   "what": "Design Academy Eindhoven lisans",
-   "detail": "2027 girişi lisans başvurusunun son günü. Master için iki tarih: 29 Ocak 2027 ve 29 Mart 2027.",
-   "country": "Hollanda",
+   "date_big": "28 February 2027",
+   "what": "Design Academy Eindhoven bachelor's",
+   "detail": "Deadline for bachelor's applications for 2027 entry. Two dates for master's: 29 January 2027 and 29 March 2027.",
+   "country": "Netherlands",
    "sources": [
     {
      "domain": "designacademy.nl",
@@ -2340,12 +2340,12 @@
   },
   {
    "type": "deadline",
-   "title": "4 Ocak 2027: Caltech Regular Decision",
+   "title": "4 January 2027: Caltech Regular Decision",
    "tag": "caltech",
-   "date_big": "4 Ocak 2027",
-   "what": "Caltech: normal başvuru (Regular Decision)",
-   "detail": "Güz 2027 birinci sınıf başvurusu. Erken tur 1 Kasım 2026'da kapandı. IELTS 7.0 veya TOEFL yeni skalada 5, her bölümde.",
-   "country": "ABD",
+   "date_big": "4 January 2027",
+   "what": "Caltech: Regular Decision",
+   "detail": "First-year application for fall 2027. The early round closed on 1 November 2026. IELTS 7.0 or TOEFL 5 on the new scale, in each section.",
+   "country": "USA",
    "sources": [
     {
      "domain": "admissions.caltech.edu",
@@ -2355,12 +2355,12 @@
   },
   {
    "type": "deadline",
-   "title": "1 Ocak 2027: Vanderbilt ED II ve Regular Decision",
+   "title": "1 January 2027: Vanderbilt ED II and Regular Decision",
    "tag": "vanderbilt",
-   "date_big": "1 Ocak 2027",
-   "what": "Vanderbilt: ikinci erken karar ve normal başvuru",
-   "detail": "Güz 2027 için ED II ve Regular Decision aynı gün. İlk erken karar (ED I) 1 Kasım 2026'ydı. SAT/ACT isteğe bağlı.",
-   "country": "ABD",
+   "date_big": "1 January 2027",
+   "what": "Vanderbilt: second early decision and regular decision",
+   "detail": "For fall 2027, ED II and Regular Decision are on the same day. The first early decision (ED I) was 1 November 2026. SAT/ACT is optional.",
+   "country": "USA",
    "sources": [
     {
      "domain": "admissions.vanderbilt.edu",
@@ -2370,33 +2370,33 @@
   },
   {
    "type": "guide",
-   "title": "Almanya: uni-assist ve VPD adım adım",
-   "tag": "almanyadaegitim",
-   "eyebrow": "ALMANYA: UNI-ASSIST",
-   "hook": "uni-assist ve VPD: bazı Alman üniversitelerine başvurunun yolu",
+   "title": "Germany: uni-assist and VPD step by step",
+   "tag": "studyingermany",
+   "eyebrow": "GERMANY: UNI-ASSIST",
+   "hook": "uni-assist and VPD: the way to apply to some German universities",
    "steps": [
     {
-     "title": "Üniversiteyi kontrol et",
-     "body": "Her üniversite uni-assist kullanmaz. VPD (ön değerlendirme belgesi) isteyip istemediğini üniversite söyler."
+     "title": "Check the university",
+     "body": "Not every university uses uni-assist. The university tells you whether it asks for a VPD (pre-assessment document)."
     },
     {
-     "title": "My assist hesabı aç",
-     "body": "Online başvuruyu oluştur, diplomanı ve transkriptini yükle. Hangi belgelerin gerektiğini üniversite söyler."
+     "title": "Open a My assist account",
+     "body": "Create your online application and upload your diploma and transcript. The university tells you which documents you need."
     },
     {
-     "title": "Ücreti öde",
-     "body": "İlk program 75 €, aynı dönemde her ek program 30 €. Ödeme talepleri yalnız uni-assist portalından gelir."
+     "title": "Pay the fee",
+     "body": "First program €75, each extra one in the same semester €30. Payment requests only come through the uni-assist portal."
     },
     {
-     "title": "VPD'yi bekle",
-     "body": "İşlem genelde 4 ile 6 hafta sürer; son tarihten en az 8 hafta önce başvur. VPD bir yıl geçerli."
+     "title": "Wait for the VPD",
+     "body": "Processing usually takes 4 to 6 weeks. Apply at least 8 weeks before the deadline. A VPD is valid for one year."
     },
     {
-     "title": "Üniversiteye yükle",
-     "body": "VPD'yi diğer belgelerle birlikte üniversitenin kendi portalına, kendi son tarihinden önce gönder."
+     "title": "Upload to the university",
+     "body": "Send the VPD and your other documents to the university's own portal, before its own deadline."
     }
    ],
-   "note": "Bazı üniversiteler doğrudan başvuru alır; bazılarında uni-assist başvuruyu üniversiteye iletir. Ücret her dönem yeniden.",
+   "note": "Some universities take applications directly; at others, uni-assist forwards them. The fee applies again each semester.",
    "sources": [
     {
      "domain": "uni-assist.de",
@@ -2414,29 +2414,29 @@
   },
   {
    "type": "guide",
-   "title": "Hollanda: Studielink ile başvuru dört adımda",
-   "tag": "hollandadaegitim",
-   "eyebrow": "HOLLANDA: STUDIELINK",
-   "hook": "Studielink'te başvuru dört adımda",
+   "title": "Netherlands: applying through Studielink in four steps",
+   "tag": "studyinnetherlands",
+   "eyebrow": "NETHERLANDS: STUDIELINK",
+   "hook": "Applying on Studielink in four steps",
    "steps": [
     {
-     "title": "Programı bul",
-     "body": "Studyfinder'da programı seç, kurumun sayfasında başvuru yolunu kontrol et. Bazı kurumlar farklı yol kullanır."
+     "title": "Find the program",
+     "body": "Pick the program on Studyfinder and check the application route on the institution's page. Some use a different route."
     },
     {
-     "title": "Studielink'e kaydol",
-     "body": "Hesap aç, önceki eğitimini ekle ve başvuruyu gönder. Kurum sonra kendi portalında ek belge isteyebilir."
+     "title": "Register on Studielink",
+     "body": "Open an account, add your past education and submit. The institution may then ask for more documents on its own portal."
     },
     {
-     "title": "Tarihlere dikkat",
-     "body": "Numerus fixus 15 Ocak 23:59'da kapanır; genel tarih 1 Mayıs. AB dışı adayda kurum daha erken tarih koyabilir."
+     "title": "Watch the dates",
+     "body": "Numerus fixus closes on 15 January at 23:59; the general date is 1 May. Institutions may set earlier dates for non-EU applicants."
     },
     {
-     "title": "Teklifi kabul et",
-     "body": "Numerus fixus sıralaması 15 Nisan'da gelir; teklifi iki hafta içinde kabul etmezsen yer başkasına geçer."
+     "title": "Accept the offer",
+     "body": "Numerus fixus rankings come out on 15 April. If you don't accept the offer within two weeks, the place goes to someone else."
     }
    ],
-   "note": "Yılda en fazla iki numerus fixus programına başvurabilirsin; tıp gibi alanlarda o programa yılda tek başvuru.",
+   "note": "Apply to at most two numerus fixus programs a year; in fields like medicine, one application a year to that program.",
    "sources": [
     {
      "domain": "studyinnl.org",
@@ -2446,33 +2446,33 @@
   },
   {
    "type": "guide",
-   "title": "İtalya: Universitaly ön kaydı nasıl işler",
-   "tag": "italyadaegitim",
-   "eyebrow": "İTALYA: UNIVERSITALY",
-   "hook": "İtalya'da vize için ön kayıt nasıl işler",
+   "title": "Italy: how Universitaly pre-enrollment works",
+   "tag": "studyinitaly",
+   "eyebrow": "ITALY: UNIVERSITALY",
+   "hook": "How pre-enrollment for the visa works in Italy",
    "steps": [
     {
-     "title": "Önce kabul al",
-     "body": "Üniversitenin kendi başvurusunu tamamla. Universitaly ön kaydı kabul yerine geçmez; onayı üniversite verir."
+     "title": "Get admitted first",
+     "body": "Complete the university's own application. Universitaly pre-enrollment doesn't replace admission; the university approves."
     },
     {
-     "title": "Universitaly'de ön kayıt",
-     "body": "Bakanlığın portalında ön kayıt formunu doldur (ücret alınmaz); üniversite başvuruyu dijital olarak onaylar."
+     "title": "Pre-enroll on Universitaly",
+     "body": "Fill in the pre-enrollment form on the ministry's portal (no fee). The university approves the application digitally."
     },
     {
-     "title": "Dil şartını karşıla",
-     "body": "Lisans ve master için en az B2. Yabancı dilde programda dört beceriyi kapsayan B2 sertifikası vizede şart."
+     "title": "Meet the language requirement",
+     "body": "At least B2 for bachelor's and master's. For foreign-language programs, the visa needs a B2 certificate covering four skills."
     },
     {
-     "title": "Konsolosluğa git",
-     "body": "Onaylı ön kayıt özeti, diploma, denklik belgesi (CIMEA veya Dichiarazione di Valore) ve maddi kanıtla başvur."
+     "title": "Go to the consulate",
+     "body": "Apply with your approved pre-enrollment summary, diploma, equivalence document (CIMEA or Dichiarazione di Valore) and proof of funds."
     },
     {
-     "title": "Tarihleri kaçırma",
-     "body": "Lisans ve master için vize başvurusu en geç 31 Ekim 2027. 31 Ocak 2028'e kadar kayıt yoksa vize iptal."
+     "title": "Don't miss the dates",
+     "body": "Bachelor's and master's: apply for the visa by 31 October 2027. No enrollment by 31 January 2028 means the visa is cancelled."
     }
    ],
-   "note": "2026/27 ve 2027/28 genelgesi. Üniversiteler daha erken kendi tarihlerini koyabilir.",
+   "note": "2026/27 and 2027/28 circular. Universities may set their own earlier dates.",
    "sources": [
     {
      "domain": "unife.it",
@@ -2482,29 +2482,29 @@
   },
   {
    "type": "guide",
-   "title": "İngiltere: UCAS ile lisans başvurusu ve 2027 tarihleri",
+   "title": "UK: bachelor's applications through UCAS and 2027 dates",
    "tag": "ucas",
-   "eyebrow": "İNGİLTERE: UCAS",
-   "hook": "UCAS ile lisans başvurusu: tek form, kritik tarihler",
+   "eyebrow": "UK: UCAS",
+   "hook": "Bachelor's applications through UCAS: one form, key dates",
    "steps": [
     {
-     "title": "Hesap aç, tercih ekle",
-     "body": "2027 girişi başvuruları UCAS'ta 12 Mayıs 2026'da açıldı. Tek formla birden fazla üniversiteye başvurursun."
+     "title": "Open an account, add choices",
+     "body": "Applications for 2027 entry opened on UCAS on 12 May 2026. You apply to more than one university with a single form."
     },
     {
-     "title": "Son tarihleri bil",
-     "body": "Oxford, Cambridge, tıp, diş ve veteriner 15 Ekim 2026'ydı; çoğu program 13 Ocak 2027, saat 18:00 (İngiltere)."
+     "title": "Know the deadlines",
+     "body": "Oxford, Cambridge, medicine, dentistry, veterinary closed 15 October 2026. Most programs: 13 January 2027, 18:00 (UK time)."
     },
     {
-     "title": "Geç kaldıysan",
-     "body": "Ek tercih hakkı Extra 25 Şubat'ta açılır. 30 Haziran 2027'ye kadar gelenler iletilir, sonrası Clearing."
+     "title": "If you are late",
+     "body": "Extra (an added choice) opens on 25 February. Applications received by 30 June 2027 are forwarded, then it's Clearing."
     },
     {
-     "title": "Yaz süreci",
-     "body": "Clearing (boş kontenjanlara başvuru) 2 Temmuz 2027'de açılır; son başvuru tarihi 23 Eylül 2027."
+     "title": "Over the summer",
+     "body": "Clearing (applying for unfilled places) opens on 2 July 2027. The deadline is 23 September 2027."
     }
    ],
-   "note": "Master başvuruları UCAS'tan değil, doğrudan üniversiteye yapılır ve tarihleri programa göre değişir.",
+   "note": "Master's applications go directly to the university, not through UCAS, and dates vary by program.",
    "sources": [
     {
      "domain": "ucas.com",
@@ -2514,33 +2514,33 @@
   },
   {
    "type": "guide",
-   "title": "ABD: Common App ile başvuru adımları",
-   "tag": "amerikadaegitim",
-   "eyebrow": "ABD: COMMON APP",
-   "hook": "Common App'te başvuru: beş başlıkta özet",
+   "title": "USA: steps for applying through Common App",
+   "tag": "studyinusa",
+   "eyebrow": "USA: COMMON APP",
+   "hook": "Applying on Common App: a five-part summary",
    "steps": [
     {
-     "title": "Belgeleri topla",
-     "body": "Lise transkripti, aktiviteler, varsa sınav puanları, aile bilgileri. School Report'u okul danışmanın gönderir."
+     "title": "Gather your documents",
+     "body": "High school transcript, activities, test scores if you have them, family details. Your school counselor sends the School Report."
     },
     {
-     "title": "Hesap aç, okul ekle",
-     "body": "Hesabı istediğin zaman açabilirsin; 2026-27 döneminde 1.200'den fazla üye kurum var."
+     "title": "Open an account, add schools",
+     "body": "You can open an account any time. The 2026-27 season has more than 1,200 member institutions."
     },
     {
-     "title": "Referans verecekleri davet et",
-     "body": "Referans şartlarını her üniversite kendisi belirler: danışman, öğretmen, bazen koç veya işveren."
+     "title": "Invite your recommenders",
+     "body": "Each university sets its own recommendation requirements: counselor, teacher, sometimes a coach or employer."
     },
     {
-     "title": "Yazılar (essay)",
-     "body": "Kişisel yazı bazı okullarda zorunlu, bazılarında isteğe bağlı; okula özel sorular ve yazı eki de olabilir."
+     "title": "Essays",
+     "body": "Personal essay: required at some schools, optional at others. There may also be school-specific questions and a writing supplement."
     },
     {
-     "title": "Gönder",
-     "body": "Her üniversitenin kendi son tarihi var; sınav politikası da (zorunlu veya isteğe bağlı) okula göre değişir."
+     "title": "Submit",
+     "body": "Each university has its own deadline. Testing policy (required or optional) also varies by school."
     }
    ],
-   "note": "UC sistemi kendi başvurusunu kullanır; UT Austin hem Common App hem ApplyTexas kabul eder.",
+   "note": "The UC system uses its own application. UT Austin accepts both Common App and ApplyTexas.",
    "sources": [
     {
      "domain": "commonapp.org",
@@ -2562,29 +2562,29 @@
   },
   {
    "type": "guide",
-   "title": "Almanya: bloke hesap ve 11.904 € nasıl gösterilir",
-   "tag": "almanyadaegitim",
-   "eyebrow": "ALMANYA: BLOKE HESAP",
-   "hook": "Alman vizesi için 11.904 € nasıl gösterilir",
+   "title": "Germany: blocked account and how to show €11,904",
+   "tag": "studyingermany",
+   "eyebrow": "GERMANY: BLOCKED ACCOUNT",
+   "hook": "How to show €11,904 for a German visa",
    "steps": [
     {
-     "title": "Tutarı bil",
-     "body": "DAAD'nin Study in Germany portalına göre çoğu durumda bir yıl için 11.904 € göstermen gerekiyor."
+     "title": "Know the amount",
+     "body": "According to DAAD's Study in Germany portal, in most cases you need to show €11,904 for one year."
     },
     {
-     "title": "Yöntemi seç",
-     "body": "Bloke hesap (Sperrkonto), banka teminatı, Almanya'da oturan birinin taahhüdü, aile geliri veya burs yazısı."
+     "title": "Choose a method",
+     "body": "Blocked account (Sperrkonto), bank guarantee, commitment from someone living in Germany, family income or scholarship letter."
     },
     {
-     "title": "Hesabı erken aç",
-     "body": "Bloke hesap başvurusunu erken yap; işlem genelde bir hafta sürer, onay belgesi vize dosyana girer."
+     "title": "Open the account early",
+     "body": "Apply for the blocked account early. Processing usually takes a week, and the confirmation goes in your visa file."
     },
     {
-     "title": "Konsolosluğu kontrol et",
-     "body": "Hangi kanıtın kabul edildiğini ve güncel tutarı ülkendeki Alman temsilciliği belirler."
+     "title": "Check with the consulate",
+     "body": "The German mission in your country decides which proof it accepts and the current amount."
     }
    ],
-   "note": "Tutar yaşam masrafı tahminine bağlı ve güncellenir; başvuru öncesi doğrula.",
+   "note": "The amount depends on estimated living costs and is updated. Confirm before you apply.",
    "sources": [
     {
      "domain": "study-in-germany.com",
@@ -2594,29 +2594,29 @@
   },
   {
    "type": "guide",
-   "title": "İtalya: devlet üniversitesi ücreti ve gelir belgesi",
-   "tag": "italyadaegitim",
-   "eyebrow": "İTALYA: GELİR BELGESİ",
-   "hook": "İtalya'da devlet üniversitesi ücretini gelirin belirler",
+   "title": "Italy: public university fees and proof of income",
+   "tag": "studyinitaly",
+   "eyebrow": "ITALY: PROOF OF INCOME",
+   "hook": "In Italy, your income sets your public university fee",
    "steps": [
     {
-     "title": "ISEE nedir",
-     "body": "Aile gelir ve varlık göstergesi. Bologna'da 27.000 € ve altı ilk yıl yalnız 157,04 € taksit öder (2026/27)."
+     "title": "What is ISEE",
+     "body": "Family income and assets indicator. At Bologna, €27,000 or less pays only a €157.04 installment in the first year (2026/27)."
     },
     {
-     "title": "Yurt dışı gelir",
-     "body": "Gelir Türkiye'deyse ISEE yerine ayrı belgeler istenir; bazı kurumlar ülkeye göre sabit ücret uygular."
+     "title": "Income abroad",
+     "body": "If your income is in Türkiye, you need separate documents instead of ISEE. Some institutions charge a fixed fee by country."
     },
     {
-     "title": "Örnekler",
-     "body": "Sapienza'da Türkiye grubu 700 € (bantlar 300, 700, 1.500 €); Verona'da ISEE'siz AB dışı için sabit 1.000 €."
+     "title": "Examples",
+     "body": "At Sapienza, the Türkiye group pays €700 (bands €300, €700, €1,500). At Verona, a fixed €1,000 for non-EU students without ISEE."
     },
     {
-     "title": "Zamanlama",
-     "body": "Bologna 2026/27: ilk taksit 157,04 € lisansta 24 Eylül 2026; ikinci taksit 18 Aralık, üçüncü 15 Mart 2027."
+     "title": "Timing",
+     "body": "Bologna 2026/27: first installment €157.04 for bachelor's on 24 September 2026; second 18 December, third 15 March 2027."
     }
    ],
-   "note": "Üst sınır programa bağlı. Ek kalemleri üniversiteye sor.",
+   "note": "The cap depends on the program. Ask the university about extra costs.",
    "sources": [
     {
      "domain": "unibo.it",
@@ -2638,29 +2638,29 @@
   },
   {
    "type": "guide",
-   "title": "Dil sertifikaları: IELTS, TOEFL ve yeni TOEFL skalası",
+   "title": "Language certificates: IELTS, TOEFL and the new TOEFL scale",
    "tag": "toefl",
-   "eyebrow": "DİL SERTİFİKALARI",
-   "hook": "IELTS mi TOEFL mı, yeni TOEFL puanı ne anlama geliyor",
+   "eyebrow": "LANGUAGE CERTIFICATES",
+   "hook": "IELTS or TOEFL, and what the new TOEFL score means",
    "steps": [
     {
-     "title": "TOEFL değişti",
-     "body": "21 Ocak 2026'dan beri TOEFL iBT 1-6 skalasında, yarım bantlarla. Eski 0-120 toplamı yerine bölüm ortalaması."
+     "title": "TOEFL has changed",
+     "body": "Since 21 January 2026, TOEFL iBT uses a 1-6 scale with half bands. A section average replaces the old 0-120 total."
     },
     {
-     "title": "Karşılıklar",
-     "body": "B2 = 4 ve 4.5, C1 = 5 ve 5.5, C2 = 6. Örneğin 5 bandı eski skalada 95-106 aralığına denk geliyor."
+     "title": "Equivalents",
+     "body": "B2 = 4 and 4.5, C1 = 5 and 5.5, C2 = 6. For example, band 5 matches 95-106 on the old scale."
     },
     {
-     "title": "Raporu oku",
-     "body": "ETS iki yıl boyunca raporda CEFR, 1-6 puan ve eski karşılığı birlikte gösteriyor; tek skala 2028'de başlıyor."
+     "title": "Read the report",
+     "body": "For two years, the ETS report shows CEFR, the 1-6 score and the old equivalent together. The single scale starts in 2028."
     },
     {
-     "title": "Üniversite ne istiyor",
-     "body": "Berkeley 4.5, Imperial Standard 4.5, Tilburg Eylül 2027 için 5. Rietveld gibi bazı kurumlar sadece IELTS alır."
+     "title": "What universities ask for",
+     "body": "Berkeley 4.5, Imperial Standard 4.5, Tilburg 5 for September 2027. Some institutions, like Rietveld, only take IELTS."
     }
    ],
-   "note": "Birleşik Krallık vizesi için onaylı sınav listesinde (SELT) TOEFL yok; SOAS IELTS for UKVI öneriyor.",
+   "note": "TOEFL is not on the approved test list (SELT) for a United Kingdom visa. SOAS recommends IELTS for UKVI.",
    "sources": [
     {
      "domain": "ets.org",
@@ -2690,33 +2690,33 @@
   },
   {
    "type": "guide",
-   "title": "Öğrenci vizesinde maddi kanıt: beş ülke, beş kural",
-   "tag": "vize",
-   "eyebrow": "VİZE İÇİN MADDİ KANIT",
-   "hook": "Öğrenci vizesinde para kanıtı: beş ülke, beş kural",
+   "title": "Proof of funds for a student visa: five countries, five rules",
+   "tag": "visa",
+   "eyebrow": "PROOF OF FUNDS FOR A VISA",
+   "hook": "Student visa proof of funds: five countries, five rules",
    "steps": [
     {
-     "title": "Almanya",
-     "body": "Bir yıl için 11.904 € (DAAD). Bloke hesap bir seçenek; hangisinin geçerli olduğunu konsolosluğa sor."
+     "title": "Germany",
+     "body": "€11,904 for one year (DAAD). A blocked account is one option. Ask the consulate which one applies."
     },
     {
-     "title": "Hollanda",
-     "body": "Hollanda göç dairesi (IND) 2026 tutarı: ayda 1.130,77 €, 31 Aralık 2026'ya kadar geçerli."
+     "title": "Netherlands",
+     "body": "Dutch immigration service (IND) 2026 amount: €1,130.77 a month, valid until 31 December 2026."
     },
     {
-     "title": "İtalya",
-     "body": "2026/27 ve 2027/28 genelgesi: yıllık 10.179,85 €; kaynak yasal, izlenebilir, tercihen kendi veya aile parası."
+     "title": "Italy",
+     "body": "2026/27 and 2027/28 circular: €10,179.85 a year. The source must be legal, traceable and preferably your own or family money."
     },
     {
-     "title": "İngiltere",
-     "body": "1 yıl okul ücreti + ayda 1.529 £ (Londra) veya 1.171 £, 9 ay; 28 gün hesapta. Vize 558 £, sağlık 776 £/yıl."
+     "title": "UK",
+     "body": "1 year of tuition + £1,529 a month (London) or £1,171, for 9 months; 28 days in your account. Visa £558, healthcare £776/year."
     },
     {
-     "title": "ABD",
-     "body": "Resmi sayfada sabit tutar yok. Okul SEVIS kaydını yapıp Form I-20 verir; vize derse en çok 365 gün kala çıkar."
+     "title": "USA",
+     "body": "No fixed amount on the official page. The school registers you in SEVIS and issues Form I-20. Visa issued up to 365 days before classes."
     }
    ],
-   "note": "Tutarlar yıl içinde güncellenir; başvuru günündeki resmi sayfayı kontrol et.",
+   "note": "Amounts are updated during the year. Check the official page on the day you apply.",
    "sources": [
     {
      "domain": "study-in-germany.com",
@@ -2750,33 +2750,33 @@
   },
   {
    "type": "guide",
-   "title": "Eylül 2027 için geri sayım: başvuru takvimi",
-   "tag": "zamancizelgesi",
-   "eyebrow": "EYLÜL 2027 TAKVİMİ",
-   "hook": "Eylül 2027'de başlamak için geriye doğru plan",
+   "title": "Countdown to September 2027: application calendar",
+   "tag": "timeline",
+   "eyebrow": "SEPTEMBER 2027 CALENDAR",
+   "hook": "Plan backwards to start in September 2027",
    "steps": [
     {
-     "title": "Kasım-Aralık 2026",
-     "body": "UC başvurusu 30 Kasım'da kapanır; ABD normal başvuruları 1-5 Ocak. İngiltere için UCAS 13 Ocak 2027."
+     "title": "November-December 2026",
+     "body": "UC applications close on 30 November. US regular applications: 1-5 January. For the UK, UCAS is 13 January 2027."
     },
     {
-     "title": "Ocak-Mart 2027",
-     "body": "Hollanda numerus fixus 15 Ocak; Bocconi lisans Winter Session 26 Ocak; RWTH master 1 Mart."
+     "title": "January-March 2027",
+     "body": "Netherlands numerus fixus 15 January. Bocconi bachelor's Winter Session 26 January. RWTH master's 1 March."
     },
     {
-     "title": "Nisan-Haziran 2027",
-     "body": "Hollanda AB dışı tarihleri 1 Nisan ile 1 Haziran arası; Almanya kış dönemi: Dresden 31 Mayıs, HPI 1 Haziran."
+     "title": "April-June 2027",
+     "body": "Netherlands non-EU dates fall between 1 April and 1 June. Germany winter semester: Dresden 31 May, HPI 1 June."
     },
     {
-     "title": "Haziran-Ağustos 2027",
-     "body": "Kabul mektupları, maddi kanıt, vize randevusu. ABD vizesi ders başlangıcından en çok 365 gün önce alınabilir."
+     "title": "June-August 2027",
+     "body": "Admission letters, proof of funds, visa appointment. You can get a US visa up to 365 days before classes start."
     },
     {
-     "title": "Eylül 2027",
-     "body": "Kayıt, oryantasyon. İtalya'da lisans ve master vize başvurusu en geç 31 Ekim 2027; 31 Ocak 2028'e kadar kayıt."
+     "title": "September 2027",
+     "body": "Enrollment, orientation. In Italy, bachelor's and master's visa applications by 31 October 2027, enrollment by 31 January 2028."
     }
    ],
-   "note": "Tarihler örnektir; programının kendi sayfası önceliklidir. uni-assist belgesi (VPD) gibi işlemler için 8 hafta ekle.",
+   "note": "These dates are examples. Your program's own page takes priority. Add 8 weeks for steps like the uni-assist document (VPD).",
    "sources": [
     {
      "domain": "admission.universityofcalifornia.edu",
@@ -2834,29 +2834,29 @@
   },
   {
    "type": "guide",
-   "title": "ABD F-1 öğrenci vizesi: kabulden uçağa",
-   "tag": "amerikadaegitim",
-   "eyebrow": "ABD: F-1 VİZE",
-   "hook": "ABD öğrenci vizesi: kabulden uçağa",
+   "title": "USA F-1 student visa: from admission to flight",
+   "tag": "studyinusa",
+   "eyebrow": "USA: F-1 VISA",
+   "hook": "USA student visa: from admission to flight",
    "steps": [
     {
-     "title": "SEVP onaylı okul",
-     "body": "Okulun ABD öğrenci programına (SEVP) kayıtlı olmalı; seni SEVIS'e girer, kabul belgesi Form I-20'yi verir."
+     "title": "SEVP-approved school",
+     "body": "Your school must be in the US student program (SEVP). It enters you in SEVIS and issues Form I-20, your admission document."
     },
     {
-     "title": "I-901 SEVIS ücreti",
-     "body": "Vize başvurusundan önce FMJfee.com üzerinden ödenir; bilgiler I-20 ile birebir aynı olmalı."
+     "title": "I-901 SEVIS fee",
+     "body": "Pay it on FMJfee.com before you apply for the visa. Your details must match your I-20 exactly."
     },
     {
-     "title": "Konsolosluk görüşmesi",
-     "body": "14-79 yaş arası için mülakat zorunlu; I-20'yi yanında götür. Adım sırası konsolosluğa göre değişebilir."
+     "title": "Consulate interview",
+     "body": "An interview is required for ages 14-79. Take your I-20 with you. The order of steps can vary by consulate."
     },
     {
-     "title": "Zamanlama",
-     "body": "Vize kurs başlangıcından en çok 365 gün önce verilebilir; ABD'ye en erken 30 gün önce girebilirsin."
+     "title": "Timing",
+     "body": "The visa can be issued up to 365 days before your course starts. You can enter the USA no earlier than 30 days before."
     }
    ],
-   "note": "Birden fazla okuldan I-20 aldıysan vize için birini seçmelisin. İsim ve doğum tarihi pasaportla aynı olmalı.",
+   "note": "If you got I-20s from more than one school, choose one for the visa. Your name and date of birth must match your passport.",
    "sources": [
     {
      "domain": "travel.state.gov",
@@ -2870,29 +2870,29 @@
   },
   {
    "type": "guide",
-   "title": "Hollanda'da numerus fixus nasıl işler",
-   "tag": "hollandadaegitim",
-   "eyebrow": "HOLLANDA: NUMERUS FIXUS",
-   "hook": "Hollanda'da kontenjanlı program nasıl işler",
+   "title": "How numerus fixus works in the Netherlands",
+   "tag": "studyinnetherlands",
+   "eyebrow": "NETHERLANDS: NUMERUS FIXUS",
+   "hook": "How numerus fixus programs work in the Netherlands",
    "steps": [
     {
-     "title": "Nedir",
-     "body": "Yer sayısı sınırlı programlar. Başvuru 15 Ocak 23:59'a (CET) kadar Studielink üzerinden yapılır."
+     "title": "What it is",
+     "body": "Programs with limited places. You apply through Studielink by 15 January, 23:59 (CET)."
     },
     {
-     "title": "Seçim süreci",
-     "body": "15 Ocak ile 15 Nisan arasında kurum seçimini yapar; 15 Nisan'da Studielink'te sıralama numaranı görürsün."
+     "title": "Selection process",
+     "body": "The institution makes its selection between 15 January and 15 April. On 15 April you see your ranking number in Studielink."
     },
     {
-     "title": "Sınırlar",
-     "body": "Yılda en fazla iki numerus fixus programı; tıp, diş hekimliği, diş hijyeni ve fizyoterapide tek başvuru."
+     "title": "Limits",
+     "body": "At most two numerus fixus programs a year. Only one application in medicine, dentistry, dental hygiene and physiotherapy."
     },
     {
-     "title": "Teklif",
-     "body": "Teklifi iki hafta içinde kabul et, yoksa yer başkasına geçer. Aday yerden azsa herkes 15 Nisan'da teklif alır."
+     "title": "The offer",
+     "body": "Accept within two weeks or the place goes to someone else. With fewer applicants than places, everyone gets an offer on 15 April."
     }
    ],
-   "note": "Diğer programlar için genel tarih 1 Mayıs; AB dışı adaylar için kurumlar daha erken tarih koyabilir.",
+   "note": "The general date for other programs is 1 May. Institutions may set earlier dates for non-EU applicants.",
    "sources": [
     {
      "domain": "studyinnl.org",
@@ -2902,29 +2902,29 @@
   },
   {
    "type": "guide",
-   "title": "İtalya için diploma belgesi: CIMEA mı Dichiarazione di Valore mi",
-   "tag": "italyadaegitim",
-   "eyebrow": "İTALYA: DİPLOMA BELGESİ",
-   "hook": "İtalya için diploma belgesi: CIMEA mı Dichiarazione di Valore mi?",
+   "title": "Diploma document for Italy: CIMEA or Dichiarazione di Valore",
+   "tag": "studyinitaly",
+   "eyebrow": "ITALY: DIPLOMA DOCUMENT",
+   "hook": "Diploma document for Italy: CIMEA or Dichiarazione di Valore?",
    "steps": [
     {
-     "title": "İki yol var",
-     "body": "Genelge iki yol tanıyor: CIMEA (denklik merkezi) belgeleri ya da Dichiarazione di Valore. Seçim üniversitenin."
+     "title": "There are two routes",
+     "body": "The circular recognizes two routes: CIMEA (equivalence center) documents or the Dichiarazione di Valore. The university chooses."
     },
     {
-     "title": "Üniversite ne diyor",
-     "body": "Bari Politeknik ve Verona ikisini de kabul ediyor; Floransa'da kayıttan önce biri gerekli (sayfa 2024/25)."
+     "title": "What universities say",
+     "body": "Bari Polytechnic and Verona accept both. At Florence, you need one before enrollment (2024/25 page)."
     },
     {
-     "title": "Vize gerekmeyenler için",
-     "body": "Türkiye pasaportu bu gruba girmez. Genelge, vize gerekmeyen adaylardan Dichiarazione istenmemesini öneriyor."
+     "title": "For visa-exempt applicants",
+     "body": "Turkish passport holders are not in this group. The circular recommends not asking visa-exempt applicants for the Dichiarazione."
     },
     {
-     "title": "Zaman ayır",
-     "body": "Belgeleri erken iste; vize dosyasında lisede orijinal diploma, gerekirse İtalyanca çeviri de olmalı."
+     "title": "Allow time",
+     "body": "Request documents early. For high school, the visa file needs the original diploma and, if required, an Italian translation."
     }
    ],
-   "note": "Lizbon Sözleşmesi ülkelerinde (Türkiye dahil) CIMEA karşılaştırılabilirlik belgesi ARDI sitesinden indirilebilir.",
+   "note": "In Lisbon Convention countries (Türkiye included), the CIMEA comparability document can be downloaded from the ARDI site.",
    "sources": [
     {
      "domain": "unife.it",
@@ -2950,25 +2950,25 @@
   },
   {
    "type": "how",
-   "title": "CompassUni nasıl çalışır: dört adım",
+   "title": "How CompassUni works: four steps",
    "tag": "compassuni",
-   "hook": "CompassUni nasıl çalışır? Dört adım",
+   "hook": "How does CompassUni work? Four steps",
    "lines": [
     {
-     "title": "Paket seç",
-     "body": "İhtiyacına uygun danışmanlık paketini seç ve güvenle öde. Tek seferlik ödeme, KDV dahil."
+     "title": "Choose a package",
+     "body": "Choose the advising package that fits your needs and pay securely. One-time payment, VAT included."
     },
     {
-     "title": "Belgelerini yükle",
-     "body": "Pasaport, transkript, dil sertifikası: uygulamadan yüklersin. Mobil uygulamalar yakında."
+     "title": "Upload your documents",
+     "body": "Passport, transcript, language certificate: you upload them in the app. Mobile apps coming soon."
     },
     {
-     "title": "Başvuruları yönetelim",
-     "body": "Danışmanın üniversite başvurularını senin adına hazırlar ve takip eder."
+     "title": "Let's manage your applications",
+     "body": "Your advisor prepares and tracks your university applications on your behalf."
     },
     {
-     "title": "Sonucu birlikte takip edelim",
-     "body": "Kabul kararı üniversitenin. Sonuç, vize ve kayıt adımlarında da yanındayız."
+     "title": "Let's track the result together",
+     "body": "The university decides on admission. We're also with you for the result, visa and enrollment steps."
     }
    ],
    "sources": [
@@ -2980,25 +2980,25 @@
   },
   {
    "type": "how",
-   "title": "Temel paket: 15.000 ₺ ile ilk adım",
+   "title": "Basic package: your first step for ₺15,000",
    "tag": "compassuni",
-   "hook": "Temel paket: ilk adımını atmak isteyenler için",
+   "hook": "Basic package: if you want to take your first step",
    "lines": [
     {
-     "title": "15.000 ₺, tek seferlik",
-     "body": "1 ülke, 3 üniversiteye başvuru. Fiyata KDV dahil."
+     "title": "₺15,000, one-time",
+     "body": "1 country, 3 university applications. Price includes VAT."
     },
     {
-     "title": "Belge kontrol listesi",
-     "body": "Hangi belgenin ne zaman gerektiği baştan netleşir."
+     "title": "Document checklist",
+     "body": "It's clear from the start which document you need and when."
     },
     {
-     "title": "Uygulama içi süreç takibi",
-     "body": "Başvurularının durumunu uygulamadan izlersin. Mobil uygulamalar yakında."
+     "title": "In-app progress tracking",
+     "body": "You follow the status of your applications in the app. Mobile apps coming soon."
     },
     {
-     "title": "Mesaj ile danışman desteği",
-     "body": "Sorularını mesajla danışmanına yazarsın."
+     "title": "Advisor support by message",
+     "body": "You message your advisor with your questions."
     }
    ],
    "sources": [
@@ -3010,25 +3010,25 @@
   },
   {
    "type": "how",
-   "title": "Premium paket: 35.000 ₺, 2 ülke ve 8 üniversite",
+   "title": "Premium package: ₺35,000, 2 countries and 8 universities",
    "tag": "compassuni",
-   "hook": "Premium: 2 ülke, 8 üniversite, birebir danışman önceliği",
+   "hook": "Premium: 2 countries, 8 universities, one-on-one advisor priority",
    "lines": [
     {
-     "title": "35.000 ₺, tek seferlik",
-     "body": "2 ülke, 8 üniversiteye başvuru. Fiyata KDV dahil."
+     "title": "₺35,000, one-time",
+     "body": "2 countries, 8 university applications. Price includes VAT."
     },
     {
-     "title": "Belge ve çeviri yönlendirmesi",
-     "body": "Belgelerini hazırlarken yanındayız; çeviri için yol gösteriyoruz."
+     "title": "Document and translation guidance",
+     "body": "We're with you as you prepare your documents, and we guide you on translation."
     },
     {
-     "title": "Universitaly / ön kayıt desteği",
-     "body": "İtalya'daki ön kayıt adımında seni yönlendiriyoruz."
+     "title": "Universitaly / pre-enrollment support",
+     "body": "We guide you through the pre-enrollment step in Italy."
     },
     {
-     "title": "Vize ve kayıt rehberliği",
-     "body": "Kabulden sonra vize ve kayıt sürecinde rehberlik; birebir danışman önceliği dahil."
+     "title": "Visa and enrollment guidance",
+     "body": "Visa and enrollment guidance after admission. One-on-one advisor priority included."
     }
    ],
    "sources": [
@@ -3040,25 +3040,25 @@
   },
   {
    "type": "how",
-   "title": "Premium+ paket: 75.000 ₺, tam kapsamlı",
+   "title": "Premium+ package: ₺75,000, full coverage",
    "tag": "compassuni",
-   "hook": "Premium+: tam kapsamlı, uçtan uca",
+   "hook": "Premium+: full coverage, end to end",
    "lines": [
     {
-     "title": "75.000 ₺, tek seferlik",
-     "body": "Sınırsız ülke ve üniversite. Fiyata KDV dahil."
+     "title": "₺75,000, one-time",
+     "body": "Unlimited countries and universities. Price includes VAT."
     },
     {
-     "title": "Tüm belgelerin hazırlanması",
-     "body": "Başvuru dosyandaki belgelerin hazırlanması pakete dahil."
+     "title": "All documents prepared",
+     "body": "Preparing the documents in your application file is in the package."
     },
     {
-     "title": "Öncelikli birebir danışman",
-     "body": "Danışmanın sana öncelikli zaman ayırır."
+     "title": "Priority one-on-one advisor",
+     "body": "Your advisor gives you priority time."
     },
     {
-     "title": "Burs, konaklama ve vize randevusu",
-     "body": "Burs ve konaklama yönlendirmesi, vize randevusu ve kayıt desteği."
+     "title": "Scholarship, housing and visa appointment",
+     "body": "Scholarship and housing guidance, plus visa appointment and enrollment support."
     }
    ],
    "sources": [
@@ -3070,21 +3070,21 @@
   },
   {
    "type": "how",
-   "title": "Birebir danışman: süreç boyunca yanında",
+   "title": "One-on-one advisor: with you through the process",
    "tag": "compassuni",
-   "hook": "Her öğrenciye bir danışman, baştan sona",
+   "hook": "One advisor for every student, start to finish",
    "lines": [
     {
-     "title": "Birebir danışman",
-     "body": "Sana atanan danışman süreç boyunca yanında olur."
+     "title": "One-on-one advisor",
+     "body": "Your assigned advisor stays with you throughout the process."
     },
     {
-     "title": "Neyi, ne zaman",
-     "body": "Hangi belgenin ne zaman gerektiğini, hangi üniversitenin ne aradığını netleştirir."
+     "title": "What and when",
+     "body": "They make clear which document you need and when, and what each university looks for."
     },
     {
-     "title": "Sen hedefe odaklan",
-     "body": "Takvim ve evrak takibi danışmanında; sen sınavına ve hedefine odaklan."
+     "title": "You focus on your goal",
+     "body": "Your advisor tracks the calendar and paperwork. You focus on your exam and goal."
     }
    ],
    "sources": [
@@ -3096,25 +3096,25 @@
   },
   {
    "type": "how",
-   "title": "Yakında: başvurularını tek uygulamadan takip et",
+   "title": "Coming soon: track your applications in one app",
    "tag": "compassuni",
-   "hook": "Yakında: başvurularını tek uygulamadan takip et",
+   "hook": "Coming soon: track your applications in one app",
    "lines": [
     {
-     "title": "Her şey tek uygulamada",
-     "body": "Belge hazırlığı, üniversite seçimi, son tarihler, vize ve kayıt adımları tek yerde."
+     "title": "Everything in one app",
+     "body": "Document preparation, university selection, deadlines, visa and enrollment steps in one place."
     },
     {
-     "title": "Belgelerini yükle",
-     "body": "Pasaport, transkript, dil sertifikası: uygulamadan güvenle yüklersin."
+     "title": "Upload your documents",
+     "body": "Passport, transcript, language certificate: you upload them securely in the app."
     },
     {
-     "title": "Danışmanınla yaz",
-     "body": "Sorularını uygulamadan danışmanına yazarsın."
+     "title": "Message your advisor",
+     "body": "You send your questions to your advisor in the app."
     },
     {
-     "title": "compassuni.com'dan başla",
-     "body": "Paketleri incele. Mobil uygulamalar yakında."
+     "title": "Start at compassuni.com",
+     "body": "Review the packages. Mobile apps coming soon."
     }
    ],
    "sources": [
@@ -3126,25 +3126,25 @@
   },
   {
    "type": "how",
-   "title": "Hangi paket sana uygun? Ülke ve üniversite sayısı",
+   "title": "Which package suits you? Number of countries and universities",
    "tag": "compassuni",
-   "hook": "Hangi paket sana uygun? Ülke ve üniversite sayısına bak",
+   "hook": "Which package suits you? Count your countries and universities",
    "lines": [
     {
-     "title": "Tek ülke, net hedef",
-     "body": "Temel: 1 ülke, 3 üniversite, 15.000 ₺."
+     "title": "One country, clear goal",
+     "body": "Basic: 1 country, 3 universities, ₺15,000."
     },
     {
-     "title": "İki ülke arasında kararsızsan",
-     "body": "Premium: 2 ülke, 8 üniversite, 35.000 ₺."
+     "title": "If you are torn between two countries",
+     "body": "Premium: 2 countries, 8 universities, ₺35,000."
     },
     {
-     "title": "Tüm seçenekler açık kalsın",
-     "body": "Premium+: sınırsız ülke ve üniversite, 75.000 ₺."
+     "title": "Keep all options open",
+     "body": "Premium+: unlimited countries and universities, ₺75,000."
     },
     {
-     "title": "Sonradan yükseltebilirsin",
-     "body": "İstediğin zaman üst pakete geçebilirsin. Tüm fiyatlara KDV dahil."
+     "title": "You can upgrade later",
+     "body": "You can move to a higher package at any time. All prices include VAT."
     }
    ],
    "sources": [
@@ -3156,25 +3156,25 @@
   },
   {
    "type": "how",
-   "title": "Kabul kararı üniversitenin; süreci biz yönetiyoruz",
+   "title": "Admission is the university's decision; we manage the process",
    "tag": "compassuni",
-   "hook": "Kabul kararı üniversitenin; süreci biz yönetiyoruz",
+   "hook": "Admission is the university's decision; we manage the process",
    "lines": [
     {
-     "title": "Dürüst olalım",
-     "body": "Kabul, vize veya burs garantisi veremeyiz; o kararlar üniversitelerin ve konsoloslukların."
+     "title": "Let's be honest",
+     "body": "We can't guarantee admission, a visa or a scholarship. Universities and consulates make those decisions."
     },
     {
-     "title": "Bizim işimiz süreç",
-     "body": "Belgeler, son tarihler, başvuru formları ve takipte yanındayız."
+     "title": "Our job is the process",
+     "body": "We're with you on documents, deadlines, application forms and follow-up."
     },
     {
-     "title": "Şeffaflık",
-     "body": "Hangi belgenin ne zaman gerektiğini ve hangi üniversitenin ne aradığını açıkça söyleriz."
+     "title": "Transparency",
+     "body": "We tell you clearly which document you need and when, and what each university looks for."
     },
     {
-     "title": "Başlamak için",
-     "body": "compassuni.com'da paketleri incele; soruların için iletişim kanallarından bize ulaş."
+     "title": "To get started",
+     "body": "Review the packages at compassuni.com. For questions, reach us through our contact channels."
     }
    ],
    "sources": [

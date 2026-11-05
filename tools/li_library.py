@@ -19,7 +19,7 @@ BRANDS = {
     'compassuni': dict(branch='compassuni-social', kinds=('list', 'guide'), time='09:30', slide=None, spacing=0, author='CompassUni'),
 }
 # CompassUni: these two carry dates that pass during the run, so they go first.
-EARLY = {'compassuni': ['Güz 2027 lisans başvurusunda kritik günler', None, "Eylül 2027'de başlamak için geriye doğru plan"]}
+EARLY = {'compassuni': ["Key dates for fall 2027 bachelor's applications", None, 'Plan backwards to start in September 2027']}
 
 
 def caption(brand, t):
