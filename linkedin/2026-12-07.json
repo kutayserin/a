@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-07T18:00",
+"date": "2026-12-07T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-22-designers-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-22-designers-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-07T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Your portfolio sits on a platform beside everyone else's. Clients can't tell you apart.\n\nWhat a designer website needs:\n1. Type that stays out of the way\n2. Eight projects, not eighty\n3. Availability and a rate band\n4. Your email, written out\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish.\nhttps://website-automation.com\n\n#designportfolio #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for designers",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

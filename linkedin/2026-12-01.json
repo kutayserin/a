@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-01T18:00",
+"date": "2026-12-01T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-18-consultancies-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-18-consultancies-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-01T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "You do bespoke strategy work. Your website could belong to any freelancer with a laptop.\n\nWhat a consultant website needs:\n1. Engagements with a shape and a price\n2. Case studies that load fast\n3. A direct way to book a conversation\n4. No fake logo wall\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish.\nhttps://website-automation.com\n\n#consulting #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for consultancies",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

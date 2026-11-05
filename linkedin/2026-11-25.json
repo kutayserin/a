@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-25T18:00",
+"date": "2026-11-25T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-15-wedding-photographers-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-15-wedding-photographers-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-25T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Instagram books your weddings. It can't tell a couple whether they can afford you.\n\nWhat a wedding photographer website needs:\n1. A starting price, visible\n2. Eight weddings, chosen carefully\n3. Your style in one sentence, at the top\n4. Dates you still have open\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish.\nhttps://website-automation.com\n\n#weddingphotographer #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for wedding photographers",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-23T18:00",
+"date": "2026-11-23T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-14-coaches-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-14-coaches-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-23T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Prospects find you on LinkedIn, read three posts, then look for how to hire you. Nothing.\n\nWhat a coach website needs:\n1. Packages with honest prices\n2. A clear way to book a first call\n3. Your approach before your CV\n4. Testimonials with a name and city\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#coachingbusiness #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for coaches",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

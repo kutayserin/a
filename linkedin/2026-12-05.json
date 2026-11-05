@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-05T18:00",
+"date": "2026-12-05T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-20-online-tutors-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-20-online-tutors-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-05T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Parents compare tutors at 10pm once the kids are asleep. They want a rate, not an email.\n\nWhat an online tutor website needs:\n1. A section per subject and level\n2. Hourly rate and lesson packs\n3. A free intro lesson, explained\n4. A way to book you directly\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#onlinetutor #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for online tutors",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

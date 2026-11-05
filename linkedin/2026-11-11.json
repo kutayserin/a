@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-11T18:00",
+"date": "2026-11-11T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-08-lawyers-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-08-lawyers-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-11T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "People usually search for a problem, not 'law firm.' Your site should start there.\n\nWhat a lawyer website needs:\n1. One page per practice area\n2. Attorney bios, credentials first\n3. Experience without case promises\n4. A clear way to ask for a consultation\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#lawfirmmarketing #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for law firms",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

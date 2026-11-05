@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-20T18:00",
+"date": "2026-11-20T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-12-rewrite-08",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-12-rewrite-08.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-20T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Authentic Italian cuisine for the whole family.\"\nAfter: \"Wood-fired pizza in Vomero, open till midnight, takeout at the window.\"\n\n'Authentic' is on every pizzeria's site. A closing time is a fact worth knowing.\n\nExample for a pizzeria in Naples. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Pizzeria in Naples",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

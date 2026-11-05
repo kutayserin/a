@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-15T18:00",
+"date": "2026-11-15T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-10-personal-trainers-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-10-personal-trainers-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-15T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Clients come from Instagram referrals. Then they ask where to sign up. There's no answer.\n\nWhat a personal trainer website needs:\n1. Online and in-person, priced apart\n2. Client photos with permission\n3. How to start, in one place\n4. Your packs, written plainly\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#personaltrainer #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for personal trainers",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

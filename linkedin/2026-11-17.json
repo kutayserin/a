@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-17T18:00",
+"date": "2026-11-17T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-11-accountants-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-11-accountants-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-17T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "'Contact us for pricing' on a basic tax return. You could just put a starting price.\n\nWhat an accountant website needs:\n1. Service tiers with starting prices\n2. The software you work in\n3. Three questions before the call\n4. Who you are and your registrations\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish.\nhttps://website-automation.com\n\n#accountingfirm #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for accountants",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

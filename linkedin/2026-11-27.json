@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-27T18:00",
+"date": "2026-11-27T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-16-yoga-studios-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-16-yoga-studios-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-27T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "A new student wants to know what's on tomorrow at 7am. Your website should know too.\n\nWhat a yoga studio website needs:\n1. The schedule on the homepage\n2. Drop-in prices stated plainly\n3. Teacher bios in their own words\n4. A clear offer for the first class\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish.\nhttps://website-automation.com\n\n#yogastudio #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for yoga studios",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

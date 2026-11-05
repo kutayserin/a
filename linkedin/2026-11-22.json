@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-22T18:00",
+"date": "2026-11-22T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-13-rewrite-09",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-13-rewrite-09.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-22T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Capturing your special moments forever.\"\nAfter: \"Documentary wedding photos in Porto and the Douro, no posed lineups.\"\n\nIt says how you shoot and where, so couples who want that style know they've found it.\n\nExample for a wedding photographer in Porto. Which line does your site sound like?\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Wedding photographer in Porto",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

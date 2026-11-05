@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-14T18:00",
+"date": "2026-11-14T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-09-rewrite-05",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-09-rewrite-05.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-14T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Trusted financial solutions for businesses.\"\nAfter: \"Bookkeeping and year-end accounts for Dublin tradespeople and shops.\"\n\nSaying who you serve lets the right people recognize themselves in one line.\n\nExample for an accountant in Dublin. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Accountant in Dublin",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

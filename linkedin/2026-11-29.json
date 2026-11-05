@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-29T18:00",
+"date": "2026-11-29T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-17-gyms-and-fitness-studios-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-17-gyms-and-fitness-studios-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-29T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "The intro offer is why people join, and it sits three scrolls down under a stock barbell.\n\nWhat a gym website needs:\n1. Intro offer at the very top\n2. Class schedule on your own page\n3. Trainer bios with real names\n4. Membership tiers side by side\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#gymowner #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for gyms",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

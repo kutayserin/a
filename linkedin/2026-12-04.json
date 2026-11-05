@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-04T18:00",
+"date": "2026-12-04T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-19-rewrite-15",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-19-rewrite-15.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-04T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Great coffee, great atmosphere, great people.\"\nAfter: \"Filter coffee and cardamom buns in Kazimierz, open from 7am weekdays.\"\n\nThree greats say nothing. One bun and an opening time say exactly what to expect.\n\nExample for a cafe in Krakow. Which line does your site sound like?\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Cafe in Krakow",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

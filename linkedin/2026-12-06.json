@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-06T18:00",
+"date": "2026-12-06T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-21-marketing-agencies-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-21-marketing-agencies-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-06T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "'We help brands grow.' So does every agency in town. Say what only you do.\n\nWhat a marketing agency website needs:\n1. Services with a scope and a price\n2. Case studies as short cards\n3. A team page that earns its place\n4. An intake with three questions\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish.\nhttps://website-automation.com\n\n#marketingagency #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for marketing agencies",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-08T18:00",
+"date": "2026-11-08T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-06-rewrite-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-06-rewrite-02.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-08T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Fresh baked goods made with passion.\"\nAfter: \"Sourdough and croissants, baked at 5am in Croix-Rousse.\"\n\nSpecific bread, a specific hour and a specific district. Passion is assumed.\n\nExample for a bakery in Lyon. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Bakery in Lyon",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

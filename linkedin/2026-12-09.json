@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-09T18:00",
+"date": "2026-12-09T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-23-ceramics-shops-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-23-ceramics-shops-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-09T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "You sell in small drops. A generic shop template expects a warehouse.\n\nWhat a ceramic artist website needs:\n1. A page for the current drop\n2. Your story before the pots\n3. No marketplace in the middle\n4. A product grid that works on a phone\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish.\nhttps://website-automation.com\n\n#ceramics #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for ceramic artists",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

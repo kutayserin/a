@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-26T18:00",
+"date": "2026-11-26T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-15-rewrite-11",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-15-rewrite-11.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-26T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"A wide selection of books for every reader.\"\nAfter: \"Secondhand fiction and poetry on Leith Walk, open late on Thursdays.\"\n\nA specialty and a late night give someone a reason to walk in. 'Wide selection' doesn't.\n\nExample for a bookstore in Edinburgh. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Bookstore in Edinburgh",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

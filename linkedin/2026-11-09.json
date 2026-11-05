@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-11-09T18:00",
+"date": "2026-11-09T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-07-restaurants-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-07-restaurants-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-09T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Someone is standing outside deciding whether you're open. Your site should answer first.\n\nWhat a restaurant website needs:\n1. Hours and phone at the top\n2. The menu as a page, not a PDF\n3. Your own reservation line\n4. Your name on a page you own\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish.\nhttps://website-automation.com\n\n#restaurantmarketing #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for restaurants",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

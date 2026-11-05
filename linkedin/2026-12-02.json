@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-02T18:00",
+"date": "2026-12-02T18:00:00+03:00",
+"kind": "rewrite",
+"folder": "2026-11-18-rewrite-14",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-18-rewrite-14.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-02T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Before: \"Helping students reach their full potential.\"\nAfter: \"Grade 11 and 12 math online, weekday evenings, first lesson free.\"\n\nPotential is abstract. A grade, a time slot and a free first lesson are concrete.\n\nExample for a math tutor in Vancouver. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#websitecopy #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website copy rewrite: Math tutor in Vancouver",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

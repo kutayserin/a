@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-08T18:00",
+"date": "2026-12-08T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-22-bookstores-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-22-bookstores-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-08T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Staff picks on Instagram, events on a chalkboard. Neither is on your own site.\n\nWhat an independent bookstore website needs:\n1. Staff picks with a voice\n2. Events on your own page\n3. Newsletter signup near the top\n4. Easy to read on the way to you\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish.\nhttps://website-automation.com\n\n#indiebookstore #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for independent bookstores",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]

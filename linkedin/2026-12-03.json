@@ -1,0 +1,39 @@
+[
+{
+"slot": "2026-12-03T18:00",
+"date": "2026-12-03T18:00:00+03:00",
+"kind": "checklist",
+"folder": "2026-11-19-event-planners-checklist",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/linkedin/media/2026-11-19-event-planners-checklist.pdf"
+],
+"mediaAltText": [],
+"providers": [
+{
+"network": "linkedin"
+}
+],
+"publicationDate": {
+"dateTime": "2026-12-03T18:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "The best work you've done is in Instagram stories that expired. Couples can't see it now.\n\nWhat an event planner website needs:\n1. A portfolio on your own site\n2. Starting prices per package\n3. Your style, stated before credentials\n4. An inquiry form that asks the basics\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish.\nhttps://website-automation.com\n\n#eventplanner #smallbusiness #websitedesign",
+"linkedinData": {
+"documentTitle": "Website checklist for event planners",
+"publishImagesAsPDF": false,
+"previewIncluded": false,
+"type": "post"
+}
+}
+}
+]
