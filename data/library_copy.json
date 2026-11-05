@@ -435,7 +435,7 @@
    "city": "Pavia",
    "uni_name": "University of Pavia",
    "hook": "Pavia MSc Finance: first round 12 November 2026",
-   "fact": "Pavia MSc Finance 2027/28 application rounds: 12-18 November 2026, 12-20 January 2027 and 12-22 March 2027. The March round is for non-EU only if places remain.",
+   "fact": "Pavia MSc Finance 2027/28 application rounds: 12-18 November 2026, 12-20 January 2027 and 12-22 March 2027. In March, non-EU can apply only if places remain.",
    "caveat": "An example from one program; others differ. GMAT/GRE is optional but carries high weight.",
    "sources": [
     {
@@ -1481,7 +1481,7 @@
     {
      "label": "Carnegie Mellon",
      "value": "$69,702",
-     "sub": "private; tuition, fees separate",
+     "sub": "private; tuition only, fees separate",
      "num": 69702
     },
     {
