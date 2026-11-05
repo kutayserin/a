@@ -1,7 +1,59 @@
 [
 {
-"slot": "2026-11-07T08:30",
-"date": "2026-11-07T08:30:00+03:00",
+"slot": "2026-11-07T00:00",
+"date": "2026-11-07T00:00:00+03:00",
+"kind": "how",
+"folder": "2026-11-06-how-01",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-07T00:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "CompassUni nasıl çalışır? Dört adım\n\n1. Paket seç: İhtiyacına uygun danışmanlık paketini seç ve güvenle öde. Tek seferlik ödeme, KDV dahil.\n2. Belgelerini yükle: Pasaport, transkript, dil sertifikası: uygulamadan yüklersin. Mobil uygulamalar yakında.\n3. Başvuruları yönetelim: Danışmanın üniversite başvurularını senin adına hazırlar ve takip eder.\n4. Sonucu birlikte takip edelim: Kabul kararı üniversitenin. Sonuç, vize ve kayıt adımlarında da yanındayız.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-how-01/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-06-how-01/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "CompassUni nasıl çalışır: dört adım"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "CompassUni nasıl çalışır: dört adım",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-07T10:00",
+"date": "2026-11-07T10:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-07-luiss-uni",
 "info": {
@@ -23,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T08:30:00",
+"dateTime": "2026-11-07T10:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -52,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-07T10:30",
-"date": "2026-11-07T10:30:00+03:00",
+"slot": "2026-11-07T12:00",
+"date": "2026-11-07T12:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-07-list-02",
 "info": {
@@ -75,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T10:30:00",
+"dateTime": "2026-11-07T12:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-07T12:30",
-"date": "2026-11-07T12:30:00+03:00",
+"slot": "2026-11-07T14:00",
+"date": "2026-11-07T14:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-07-tum-munich-uni",
 "info": {
@@ -127,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T12:30:00",
+"dateTime": "2026-11-07T14:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-07T14:30",
-"date": "2026-11-07T14:30:00+03:00",
+"slot": "2026-11-07T16:00",
+"date": "2026-11-07T16:00:00+03:00",
 "kind": "myth",
 "folder": "2026-11-07-myth-03",
 "info": {
@@ -179,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T14:30:00",
+"dateTime": "2026-11-07T16:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-07T16:30",
-"date": "2026-11-07T16:30:00+03:00",
+"slot": "2026-11-07T18:00",
+"date": "2026-11-07T18:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-07-cattolica-milan-uni",
 "info": {
@@ -231,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T16:30:00",
+"dateTime": "2026-11-07T18:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +312,8 @@
 }
 },
 {
-"slot": "2026-11-07T18:30",
-"date": "2026-11-07T18:30:00+03:00",
+"slot": "2026-11-07T20:00",
+"date": "2026-11-07T20:00:00+03:00",
 "kind": "guide",
 "folder": "2026-11-07-guide-03",
 "info": {
@@ -283,7 +335,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T18:30:00",
+"dateTime": "2026-11-07T20:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -316,8 +368,8 @@
 }
 },
 {
-"slot": "2026-11-07T20:30",
-"date": "2026-11-07T20:30:00+03:00",
+"slot": "2026-11-07T22:00",
+"date": "2026-11-07T22:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-07-rwth-aachen-uni",
 "info": {
@@ -339,7 +391,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-07T20:30:00",
+"dateTime": "2026-11-07T22:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -363,58 +415,6 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "RWTH Aachen: master başvurusu 1 Aralık ile 1 Mart arasında",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-07T22:30",
-"date": "2026-11-07T22:30:00+03:00",
-"kind": "deadline",
-"folder": "2026-11-07-deadline-02",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-07T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "26 Ocak 2027 · Bocconi lisans: Winter Session kapanışı.\n\nLisans ve hukuk 2027/28: 25 Kasım 2026'da açılır, 26 Ocak 2027 saat 15:00'te (İtalya) kapanır; sonuçlar Mart ortasında.\n\nKaynak: unibocconi.it (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#bocconi #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-07-deadline-02/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-07-deadline-02/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "26 Ocak 2027: Bocconi lisans Winter Session kapanışı"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "26 Ocak 2027: Bocconi lisans Winter Session kapanışı",
 "autoAddMusic": false
 }
 }

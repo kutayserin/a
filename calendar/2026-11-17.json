@@ -1,7 +1,59 @@
 [
 {
-"slot": "2026-11-17T08:30",
-"date": "2026-11-17T08:30:00+03:00",
+"slot": "2026-11-17T00:00",
+"date": "2026-11-17T00:00:00+03:00",
+"kind": "how",
+"folder": "2026-11-16-how-06",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-17T00:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Yakında: başvurularını tek uygulamadan takip et\n\n1. Her şey tek uygulamada: Belge hazırlığı, üniversite seçimi, son tarihler, vize ve kayıt adımları tek yerde.\n2. Belgelerini yükle: Pasaport, transkript, dil sertifikası: uygulamadan güvenle yüklersin.\n3. Danışmanınla yaz: Sorularını uygulamadan danışmanına yazarsın.\n4. compassuni.com'dan başla: Paketleri incele. Mobil uygulamalar yakında.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-16-how-06/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-16-how-06/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "Yakında: başvurularını tek uygulamadan takip et"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Yakında: başvurularını tek uygulamadan takip et",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-17T10:00",
+"date": "2026-11-17T10:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-17-cmu-uni",
 "info": {
@@ -23,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T08:30:00",
+"dateTime": "2026-11-17T10:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -52,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-17T10:30",
-"date": "2026-11-17T10:30:00+03:00",
+"slot": "2026-11-17T12:00",
+"date": "2026-11-17T12:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-17-list-12",
 "info": {
@@ -75,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T10:30:00",
+"dateTime": "2026-11-17T12:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-17T12:30",
-"date": "2026-11-17T12:30:00+03:00",
+"slot": "2026-11-17T14:00",
+"date": "2026-11-17T14:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-17-princeton-uni",
 "info": {
@@ -127,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T12:30:00",
+"dateTime": "2026-11-17T14:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-17T14:30",
-"date": "2026-11-17T14:30:00+03:00",
+"slot": "2026-11-17T16:00",
+"date": "2026-11-17T16:00:00+03:00",
 "kind": "myth",
 "folder": "2026-11-17-myth-13",
 "info": {
@@ -179,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T14:30:00",
+"dateTime": "2026-11-17T16:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-17T16:30",
-"date": "2026-11-17T16:30:00+03:00",
+"slot": "2026-11-17T18:00",
+"date": "2026-11-17T18:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-17-list-13",
 "info": {
@@ -231,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T16:30:00",
+"dateTime": "2026-11-17T18:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +312,8 @@
 }
 },
 {
-"slot": "2026-11-17T18:30",
-"date": "2026-11-17T18:30:00+03:00",
+"slot": "2026-11-17T20:00",
+"date": "2026-11-17T20:00:00+03:00",
 "kind": "guide",
 "folder": "2026-11-17-guide-13",
 "info": {
@@ -283,7 +335,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T18:30:00",
+"dateTime": "2026-11-17T20:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -315,8 +367,8 @@
 }
 },
 {
-"slot": "2026-11-17T20:30",
-"date": "2026-11-17T20:30:00+03:00",
+"slot": "2026-11-17T22:00",
+"date": "2026-11-17T22:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-17-list-14",
 "info": {
@@ -338,7 +390,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-17T20:30:00",
+"dateTime": "2026-11-17T22:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -362,58 +414,6 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "Hollanda'da AB dışı adaylar için son tarihler",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-17T22:30",
-"date": "2026-11-17T22:30:00+03:00",
-"kind": "list",
-"folder": "2026-11-17-list-15",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Almanya'da kış dönemi başvurusu ne zaman açılıyor?\n\nRWTH Aachen master: 1 Aralık-1 Mart (AB dışı, açık kabul; kontenjanlı 15 Temmuz)\nGöttingen lisans: 1 Mart-30 Nisan (kontenjanlı; açık kabul 30 Eylül)\nHPI master: 1 Nisan-1 Haziran (GRE General Test istenir)\nTU Dresden: 1 Nisan-31 Mayıs (AB dışı, yabancı diploma)\nHamburg master: 1 Mayıs-15 Haziran (2026/27; uluslararası 15 Şubat-31 Mart)\n\nYıl belirtilmeyen tekrarlayan pencereler; 2027/28 için doğrula. uni-assist ön değerlendirme belgesi (VPD) için 8 hafta ekle.\n\nKaynak: rwth-aachen.de, uni-goettingen.de, hpi.de, tu-dresden.de, uni-hamburg.de, uni-assist.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#almanyadaegitim #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/04.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Almanya kış dönemi: başvuru pencereleri",
 "autoAddMusic": true
 }
 }

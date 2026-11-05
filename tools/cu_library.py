@@ -26,10 +26,10 @@ COPY = Path(os.environ.get('CU_COPY', ROOT / 'data/library_copy.json'))
 RAW = 'https://raw.githubusercontent.com/kutayserin/a/compassuni-social'
 TZ = 'Europe/Istanbul'
 START = date(2026, 11, 5)
-FIRST_SLOT = '2026-11-05T12:30'  # earlier slots that day are gone by the time the library is live
-# Every 2 hours while Turkey is awake: the audience is here, so the night slots of the other brands make no sense.
-SLOTS = [('08:30', 'uni'), ('10:30', 'list'), ('12:30', 'uni'), ('14:30', 'myth'),
-         ('16:30', 'uni'), ('18:30', 'guide'), ('20:30', 'uni'), ('22:30', 'late')]
+FIRST_SLOT = '2026-11-05T14:00'  # earlier slots that day are gone by the time the library is live
+# Every 2 hours from 10:00 Istanbul time, as Kutay asked. The eighth post of a posting day lands on 00:00 of the next date.
+SLOTS = [('10:00', 'uni'), ('12:00', 'list'), ('14:00', 'uni'), ('16:00', 'myth'),
+         ('18:00', 'uni'), ('20:00', 'guide'), ('22:00', 'uni'), ('00:00', 'late')]
 AUDIO = ['1304451697253803', '473815599863496', '1369509361952542', '1941675846329817', '957044555314519']
 REEL_KINDS = {'uni', 'myth', 'deadline', 'how'}
 CTAS = ['Başvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.',
@@ -102,7 +102,8 @@ def plan():
     jobs, recent, d, audio, late = [], [], START, 0, 0
     while any(pools.values()):
         for tm, kind in SLOTS:
-            key = f'{d.isoformat()}T{tm}'
+            on = d + timedelta(days=1) if tm == '00:00' else d
+            key = f'{on.isoformat()}T{tm}'
             if key < FIRST_SLOT:
                 continue
             if kind == 'late':
@@ -118,7 +119,7 @@ def plan():
             recent.append(group(p))
             seq[k] = seq.get(k, 0) + 1
             name = f"{p['slug']}-uni" if k == 'uni' else f'{k}-{seq[k]:02d}'
-            job = dict(i=i, kind=k, slot=key, day=d.isoformat(), folder=f'{d.isoformat()}-{name}')
+            job = dict(i=i, kind=k, slot=key, day=on.isoformat(), folder=f'{d.isoformat()}-{name}')
             if k in REEL_KINDS:
                 job['audio'] = AUDIO[audio % len(AUDIO)]
                 audio += 1

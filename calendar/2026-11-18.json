@@ -1,7 +1,59 @@
 [
 {
-"slot": "2026-11-18T08:30",
-"date": "2026-11-18T08:30:00+03:00",
+"slot": "2026-11-18T00:00",
+"date": "2026-11-18T00:00:00+03:00",
+"kind": "list",
+"folder": "2026-11-17-list-15",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-18T00:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Almanya'da kış dönemi başvurusu ne zaman açılıyor?\n\nRWTH Aachen master: 1 Aralık-1 Mart (AB dışı, açık kabul; kontenjanlı 15 Temmuz)\nGöttingen lisans: 1 Mart-30 Nisan (kontenjanlı; açık kabul 30 Eylül)\nHPI master: 1 Nisan-1 Haziran (GRE General Test istenir)\nTU Dresden: 1 Nisan-31 Mayıs (AB dışı, yabancı diploma)\nHamburg master: 1 Mayıs-15 Haziran (2026/27; uluslararası 15 Şubat-31 Mart)\n\nYıl belirtilmeyen tekrarlayan pencereler; 2027/28 için doğrula. uni-assist ön değerlendirme belgesi (VPD) için 8 hafta ekle.\n\nKaynak: rwth-aachen.de, uni-goettingen.de, hpi.de, tu-dresden.de, uni-hamburg.de, uni-assist.de (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Yurt dışı planı yapan birine gönder.\n\n5 ülke, 150+ üniversite. Belge hazırlığından başvuru takibine kadar süreci birlikte yürütelim: compassuni.com\n\n#almanyadaegitim #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/01.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/02.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/03.jpg",
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-17-list-15/04.jpg"
+],
+"instagramData": {
+"type": "POST"
+},
+"facebookData": {
+"type": "POST"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Almanya kış dönemi: başvuru pencereleri",
+"autoAddMusic": true
+}
+}
+},
+{
+"slot": "2026-11-18T10:00",
+"date": "2026-11-18T10:00:00+03:00",
 "kind": "how",
 "folder": "2026-11-18-how-07",
 "info": {
@@ -23,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-18T08:30:00",
+"dateTime": "2026-11-18T10:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -52,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-18T10:30",
-"date": "2026-11-18T10:30:00+03:00",
+"slot": "2026-11-18T12:00",
+"date": "2026-11-18T12:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-18-list-16",
 "info": {
@@ -75,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-18T10:30:00",
+"dateTime": "2026-11-18T12:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-18T12:30",
-"date": "2026-11-18T12:30:00+03:00",
+"slot": "2026-11-18T14:00",
+"date": "2026-11-18T14:00:00+03:00",
 "kind": "how",
 "folder": "2026-11-18-how-08",
 "info": {
@@ -127,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-18T12:30:00",
+"dateTime": "2026-11-18T14:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,

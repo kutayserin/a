@@ -1,7 +1,59 @@
 [
 {
-"slot": "2026-11-08T08:30",
-"date": "2026-11-08T08:30:00+03:00",
+"slot": "2026-11-08T00:00",
+"date": "2026-11-08T00:00:00+03:00",
+"kind": "deadline",
+"folder": "2026-11-07-deadline-02",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-08T00:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "26 Ocak 2027 · Bocconi lisans: Winter Session kapanışı.\n\nLisans ve hukuk 2027/28: 25 Kasım 2026'da açılır, 26 Ocak 2027 saat 15:00'te (İtalya) kapanır; sonuçlar Mart ortasında.\n\nKaynak: unibocconi.it (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#bocconi #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-07-deadline-02/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-07-deadline-02/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "26 Ocak 2027: Bocconi lisans Winter Session kapanışı"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "26 Ocak 2027: Bocconi lisans Winter Session kapanışı",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-08T10:00",
+"date": "2026-11-08T10:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-08-tu-delft-uni",
 "info": {
@@ -23,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T08:30:00",
+"dateTime": "2026-11-08T10:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -52,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-08T10:30",
-"date": "2026-11-08T10:30:00+03:00",
+"slot": "2026-11-08T12:00",
+"date": "2026-11-08T12:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-08-list-03",
 "info": {
@@ -75,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T10:30:00",
+"dateTime": "2026-11-08T12:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-08T12:30",
-"date": "2026-11-08T12:30:00+03:00",
+"slot": "2026-11-08T14:00",
+"date": "2026-11-08T14:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-08-tu-dresden-uni",
 "info": {
@@ -127,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T12:30:00",
+"dateTime": "2026-11-08T14:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-08T14:30",
-"date": "2026-11-08T14:30:00+03:00",
+"slot": "2026-11-08T16:00",
+"date": "2026-11-08T16:00:00+03:00",
 "kind": "myth",
 "folder": "2026-11-08-myth-04",
 "info": {
@@ -179,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T14:30:00",
+"dateTime": "2026-11-08T16:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-08T16:30",
-"date": "2026-11-08T16:30:00+03:00",
+"slot": "2026-11-08T18:00",
+"date": "2026-11-08T18:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-08-domus-academy-uni",
 "info": {
@@ -231,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T16:30:00",
+"dateTime": "2026-11-08T18:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +312,8 @@
 }
 },
 {
-"slot": "2026-11-08T18:30",
-"date": "2026-11-08T18:30:00+03:00",
+"slot": "2026-11-08T20:00",
+"date": "2026-11-08T20:00:00+03:00",
 "kind": "guide",
 "folder": "2026-11-08-guide-04",
 "info": {
@@ -283,7 +335,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T18:30:00",
+"dateTime": "2026-11-08T20:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -315,8 +367,8 @@
 }
 },
 {
-"slot": "2026-11-08T20:30",
-"date": "2026-11-08T20:30:00+03:00",
+"slot": "2026-11-08T22:00",
+"date": "2026-11-08T22:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-08-hpi-uni",
 "info": {
@@ -338,7 +390,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-08T20:30:00",
+"dateTime": "2026-11-08T22:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -362,58 +414,6 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "HPI Potsdam: bilgisayar masterı başvurusu 1 Nisan ile 1 Haziran arası",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-08T22:30",
-"date": "2026-11-08T22:30:00+03:00",
-"kind": "how",
-"folder": "2026-11-08-how-02",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-08T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Temel paket: ilk adımını atmak isteyenler için\n\n1. 15.000 ₺, tek seferlik: 1 ülke, 3 üniversiteye başvuru. Fiyata KDV dahil.\n2. Belge kontrol listesi: Hangi belgenin ne zaman gerektiği baştan netleşir.\n3. Uygulama içi süreç takibi: Başvurularının durumunu uygulamadan izlersin. Mobil uygulamalar yakında.\n4. Mesaj ile danışman desteği: Sorularını mesajla danışmanına yazarsın.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-08-how-02/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-08-how-02/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "Temel paket: 15.000 ₺ ile ilk adım"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Temel paket: 15.000 ₺ ile ilk adım",
 "autoAddMusic": false
 }
 }

@@ -1,7 +1,59 @@
 [
 {
-"slot": "2026-11-16T08:30",
-"date": "2026-11-16T08:30:00+03:00",
+"slot": "2026-11-16T00:00",
+"date": "2026-11-16T00:00:00+03:00",
+"kind": "uni",
+"folder": "2026-11-15-oxford-uni",
+"info": {
+"autoPublish": true,
+"descendants": [],
+"draft": false,
+"firstCommentText": "",
+"hasNotReadNotes": false,
+"mediaAltText": [],
+"providers": [
+{
+"network": "instagram"
+},
+{
+"network": "tiktok"
+},
+{
+"network": "facebook"
+}
+],
+"publicationDate": {
+"dateTime": "2026-11-16T00:00:00",
+"timezone": "Europe/Istanbul"
+},
+"shortener": false,
+"smartLinkData": {
+"ids": []
+},
+"text": "Oxford 2027 girişi için UCAS 15 Ekim 2026'da kapandı\n\nOxford'un 2027 girişi için UCAS son tarihi 15 Ekim 2026 saat 18:00'di. 2026 girişi ücreti bölüme göre 37.380-62.820 £. 2027 ücretini doğrula. Klinik yıllar daha yüksek. Çoğu AB öğrencisi de aynı öder.\n\nKaynak: ox.ac.uk, assets-oxweb.admin.ox.ac.uk (Kasım 2026’da kontrol edildi). Başvurmadan önce resmi sayfadan teyit et.\n\n📌 Kaydet, sonra lazım olur.\n\nYön senden, yol bizden. Paketler ve süreç: compassuni.com, link profilde.\n\n#oxford #yurtdisindaegitim #yurtdisindaokumak #universite #compassuni\n\n📷 Honcques Laus (CC0), Wikimedia Commons, kırpıldı ve metin eklendi\n📷 Diliff (CC BY-SA 3.0), Wikimedia Commons, kırpıldı ve metin eklendi",
+"media": [
+"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-15-oxford-uni/reel.mp4"
+],
+"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-15-oxford-uni/cover.jpg",
+"instagramData": {
+"type": "REEL",
+"showReelOnFeed": true
+},
+"facebookData": {
+"type": "REEL",
+"title": "Oxford 2027 girişi: UCAS son tarihi 15 Ekim 2026'ydı, saat 18:00"
+},
+"tiktokData": {
+"privacyOption": "PUBLIC_TO_EVERYONE",
+"commercialContentOwnBrand": true,
+"title": "Oxford 2027 girişi: UCAS son tarihi 15 Ekim 2026'ydı, saat 18:00",
+"autoAddMusic": false
+}
+}
+},
+{
+"slot": "2026-11-16T10:00",
+"date": "2026-11-16T10:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-16-harvard-uni",
 "info": {
@@ -23,7 +75,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T08:30:00",
+"dateTime": "2026-11-16T10:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -52,8 +104,8 @@
 }
 },
 {
-"slot": "2026-11-16T10:30",
-"date": "2026-11-16T10:30:00+03:00",
+"slot": "2026-11-16T12:00",
+"date": "2026-11-16T12:00:00+03:00",
 "kind": "list",
 "folder": "2026-11-16-list-11",
 "info": {
@@ -75,7 +127,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T10:30:00",
+"dateTime": "2026-11-16T12:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -104,8 +156,8 @@
 }
 },
 {
-"slot": "2026-11-16T12:30",
-"date": "2026-11-16T12:30:00+03:00",
+"slot": "2026-11-16T14:00",
+"date": "2026-11-16T14:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-16-southampton-uni",
 "info": {
@@ -127,7 +179,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T12:30:00",
+"dateTime": "2026-11-16T14:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -156,8 +208,8 @@
 }
 },
 {
-"slot": "2026-11-16T14:30",
-"date": "2026-11-16T14:30:00+03:00",
+"slot": "2026-11-16T16:00",
+"date": "2026-11-16T16:00:00+03:00",
 "kind": "myth",
 "folder": "2026-11-16-myth-12",
 "info": {
@@ -179,7 +231,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T14:30:00",
+"dateTime": "2026-11-16T16:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -208,8 +260,8 @@
 }
 },
 {
-"slot": "2026-11-16T16:30",
-"date": "2026-11-16T16:30:00+03:00",
+"slot": "2026-11-16T18:00",
+"date": "2026-11-16T18:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-16-columbia-uni",
 "info": {
@@ -231,7 +283,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T16:30:00",
+"dateTime": "2026-11-16T18:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -260,8 +312,8 @@
 }
 },
 {
-"slot": "2026-11-16T18:30",
-"date": "2026-11-16T18:30:00+03:00",
+"slot": "2026-11-16T20:00",
+"date": "2026-11-16T20:00:00+03:00",
 "kind": "guide",
 "folder": "2026-11-16-guide-12",
 "info": {
@@ -283,7 +335,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T18:30:00",
+"dateTime": "2026-11-16T20:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -315,8 +367,8 @@
 }
 },
 {
-"slot": "2026-11-16T20:30",
-"date": "2026-11-16T20:30:00+03:00",
+"slot": "2026-11-16T22:00",
+"date": "2026-11-16T22:00:00+03:00",
 "kind": "uni",
 "folder": "2026-11-16-uci-uni",
 "info": {
@@ -338,7 +390,7 @@
 }
 ],
 "publicationDate": {
-"dateTime": "2026-11-16T20:30:00",
+"dateTime": "2026-11-16T22:00:00",
 "timezone": "Europe/Istanbul"
 },
 "shortener": false,
@@ -362,58 +414,6 @@
 "privacyOption": "PUBLIC_TO_EVERYONE",
 "commercialContentOwnBrand": true,
 "title": "UC Irvine: güz 2026 girişi eyalet dışı ücret ve harçlar 59.375 $",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-16T22:30",
-"date": "2026-11-16T22:30:00+03:00",
-"kind": "how",
-"folder": "2026-11-16-how-06",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Yakında: başvurularını tek uygulamadan takip et\n\n1. Her şey tek uygulamada: Belge hazırlığı, üniversite seçimi, son tarihler, vize ve kayıt adımları tek yerde.\n2. Belgelerini yükle: Pasaport, transkript, dil sertifikası: uygulamadan güvenle yüklersin.\n3. Danışmanınla yaz: Sorularını uygulamadan danışmanına yazarsın.\n4. compassuni.com'dan başla: Paketleri incele. Mobil uygulamalar yakında.\n\n📌 Kaydet, başvuru döneminde lazım olacak.\n\nBaşvuru sürecini birebir danışmanla yürütmek istersen: compassuni.com, link profilde.\n\n#compassuni #yurtdisindaegitim #yurtdisindaokumak #universite",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-16-how-06/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/compassuni-social/posts/2026-11-16-how-06/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true
-},
-"facebookData": {
-"type": "REEL",
-"title": "Yakında: başvurularını tek uygulamadan takip et"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Yakında: başvurularını tek uygulamadan takip et",
 "autoAddMusic": false
 }
 }
