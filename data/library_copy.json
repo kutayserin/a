@@ -63,8 +63,8 @@
    "city": "Munich",
    "uni_name": "TUM",
    "hook": "TUM fees rise in winter 2027/28",
-   "fact": "TUM charges non-EU master's students €4,000 or €6,000 per semester. From winter 2027/28, new enrolments pay €4,600 or €6,800.",
-   "caveat": "Bachelor's: €2,000/€3,000, new enrolments €2,300/€3,400. Depends on the program; contribution is separate.",
+   "fact": "TUM charges non-EU master's students €4,000 or €6,000 per semester. From winter 2027/28, new enrollments pay €4,600 or €6,800.",
+   "caveat": "Bachelor's: €2,000/€3,000, new enrollments €2,300/€3,400. Depends on the program; contribution is separate.",
    "sources": [
     {
      "domain": "tum.de",
@@ -172,7 +172,7 @@
    "uni_name": "FAU Erlangen-Nürnberg",
    "hook": "Erlangen: a new rule from summer 2027",
    "fact": "From the 2027 summer semester, FAU will charge non-EU students tuition on some programs. Those starting in winter 2027/28 are also covered.",
-   "caveat": "New enrolments per semester: bachelor's €1,000-3,000, master's €2,000-6,000. The list is on the FAU page.",
+   "caveat": "New enrollments per semester: bachelor's €1,000-3,000, master's €2,000-6,000. The list is on the FAU page.",
    "sources": [
     {
      "domain": "fau.eu",

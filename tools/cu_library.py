@@ -145,7 +145,7 @@ def end_frame(sh, out, h=1920, seed=0, line='From document preparation to applic
     body = (brand_bg(seed) + f'<div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;{top};text-align:center;padding:0 90px">'
             f'<img src="file://{ICON}" style="width:{190 if h > 1400 else 150}px;height:{190 if h > 1400 else 150}px;border-radius:44px">'
             f'<div style="font:900 {88 if h > 1400 else 76}px/1 Inter;letter-spacing:-.03em;margin-top:44px">CompassUni</div>'
-            f'<div style="font:800 {60 if h > 1400 else 52}px/1.2 Inter;letter-spacing:-.02em;margin-top:36px">You set the direction, <em>we pave the way.</em></div>'
+            f'<div style="font:800 {60 if h > 1400 else 52}px/1.2 Inter;letter-spacing:-.02em;margin-top:36px">You set the direction,<br><em>we pave the way.</em></div>'
             f'<div class="txt" style="font-size:{40 if h > 1400 else 36}px;margin-top:30px">{esc(line)}</div>'
             f'<div style="margin-top:54px;font:900 {66 if h > 1400 else 58}px/1 Inter;letter-spacing:-.02em;padding:34px 56px;border-radius:30px;background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.22)">compassuni.com</div>'
             f'<div style="margin-top:30px;font:700 36px Inter;color:#7DD3FC">@compassuni.app</div></div>')
