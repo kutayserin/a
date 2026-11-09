@@ -1,0 +1,170 @@
+[
+ {
+  "slot": "2026-11-26T10:30",
+  "date": "2026-11-26T10:30:00+03:00",
+  "kind": "carousel",
+  "city": "Budapest",
+  "folder": "2026-11-17-budapest-order-carousel",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-26T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Same 7 stops in Budapest. In a random order you'd walk about 8.7 km. In the shortest order, 5.0 km.\n\n1. Hungarian Parliament\n2. Fisherman's Bastion\n3. Matthias Church\n4. Buda Castle\n5. Chain Bridge\n6. St. Stephen's Basilica\n7. Dohány Street Synagogue\n\n📌 Save this order for your trip.\n\nTravelhour puts the places you swipe into walking order and guides you there. Free on the App Store, link in bio.\n\n#budapesttravel #budapestitinerary #walkingtour #citybreak #travelplanning\n\nDistances are estimates: straight line between stops plus 30% for streets.",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-budapest-order-carousel/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-budapest-order-carousel/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-budapest-order-carousel/03.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-budapest-order-carousel/04.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-budapest-order-carousel/05.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Budapest: same 7 stops, 4 km less walking",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-11-26T12:30",
+  "date": "2026-11-26T12:30:00+03:00",
+  "kind": "spotlight",
+  "city": "Paris",
+  "folder": "2026-11-17-paris-musee-d-orsay-spotlight",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-26T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Once a railway station, now full of Impressionists\n\nThe Musée d'Orsay opened in 1986 inside a station built from 1898 to 1900, with art dating from 1848 to 1914.\n\n📍 Musée d'Orsay, Paris\n📌 Would you go? Save it for later.\n\nTravelhour guides you between stops on a live map. Free on the App Store, link in bio.\n\n#paristravel #paris #museedorsay #traveltips #citybreak\n\n📷 Paul Cézanne (Public domain) via Wikimedia Commons, cropped with text added\n📷 Gustave Courbet (Public domain) via Wikimedia Commons, cropped with text added\n📷 Edgar Degas (Public domain) via Wikimedia Commons, cropped with text added",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-paris-musee-d-orsay-spotlight/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-paris-musee-d-orsay-spotlight/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "957044555314519",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Musée d'Orsay, Paris: Impressionists in a former railway station"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Musée d'Orsay, Paris: Impressionists in a former railway station",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-26T18:30",
+  "date": "2026-11-26T18:30:00+03:00",
+  "kind": "spotlight",
+  "city": "Amsterdam",
+  "folder": "2026-11-17-amsterdam-begijnhof-spotlight",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-26T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Amsterdam's oldest wooden house, from about 1420\n\nHet Houten Huys at 34 Begijnhof dates from about 1420 and is one of two wooden houses left in central Amsterdam.\n\n📍 Begijnhof, Amsterdam\n📌 Would you go? Save it for later.\n\nTravelhour guides you between stops on a live map. Free on the App Store, link in bio.\n\n#amsterdamtravel #amsterdam #begijnhof #traveltips #citybreak\n\n📷 Dietmar Rabich (CC BY-SA 4.0) via Wikimedia Commons, cropped with text added\n📷 Massimo Catarinella (CC BY-SA 3.0) via Wikimedia Commons, cropped with text added\n📷 Michiel1972 (CC BY-SA 3.0) via Wikimedia Commons, cropped with text added",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-amsterdam-begijnhof-spotlight/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/travelhour-social/posts/2026-11-17-amsterdam-begijnhof-spotlight/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1304451697253803",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Begijnhof, Amsterdam: one of the city's oldest inner courts"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Begijnhof, Amsterdam: one of the city's oldest inner courts",
+    "autoAddMusic": false
+   }
+  }
+ }
+]
