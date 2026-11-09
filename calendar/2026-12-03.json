@@ -1,0 +1,168 @@
+[
+ {
+  "slot": "2026-12-03T10:30",
+  "date": "2026-12-03T10:30:00+03:00",
+  "kind": "tip",
+  "folder": "2026-11-20-tip-15",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-12-03T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "A beautiful gallery, completely invisible to a screen reader.\n\nGive each gallery photo alt text. Say what's in it: 'bakery counter at 7am, bread cooling.' Screen readers read it aloud.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-tip-15/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-tip-15/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "957044555314519",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Small business website tip: alt text"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Small business website tip: alt text",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-12-03T12:30",
+  "date": "2026-12-03T12:30:00+03:00",
+  "kind": "checklist",
+  "folder": "2026-11-20-online-tutors-checklist",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-12-03T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Parents compare tutors at 10pm once the kids are asleep. They want a rate, not an email.\n\nWhat an online tutor website needs:\n1. A section per subject and level\n2. Hourly rate and lesson packs\n3. A free intro lesson, explained\n4. A way to book you directly\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#onlinetutor #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/03.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/04.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/05.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-online-tutors-checklist/06.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website checklist for online tutors",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-12-03T18:30",
+  "date": "2026-12-03T18:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-20-wedding-photographers-pain-50",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-12-03T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "The inquiry form is four clicks deep, so couples DM you on Instagram.\n\nThe fix: Inquiry link on every screen. Date, venue, guest count, how they found you. Four fields, one button, every screen.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#weddingphotographer #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-wedding-photographers-pain-50/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-20-wedding-photographers-pain-50/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1304451697253803",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Wedding photographers: buried inquiry form"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Wedding photographers: buried inquiry form",
+    "autoAddMusic": false
+   }
+  }
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "slot": "2026-12-11T10:30",
+  "date": "2026-12-11T10:30:00+03:00",
+  "kind": "checklist",
+  "folder": "2026-11-23-ceramics-shops-checklist",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-12-11T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "You sell in small drops. A generic shop template expects a warehouse.\n\nWhat a ceramic artist website needs:\n1. A page for the current drop\n2. Your story before the pots\n3. No marketplace in the middle\n4. A product grid that works on a phone\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#ceramics #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/03.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/04.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/05.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/06.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website checklist for ceramic artists",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-12-11T12:30",
+  "date": "2026-12-11T12:30:00+03:00",
+  "kind": "prompt",
+  "folder": "2026-11-23-bookstores-prompt",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-12-11T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "A website prompt for an independent bookstore. Copy it and change the details:\n\n\"Independent bookstore in Kızılay, Ankara. Cozy, wooden, dark green. Half the shelves are poetry, the rest are the owner's picks. Staff picks, events, hours and map.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#indiebookstore #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-bookstores-prompt/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-bookstores-prompt/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "957044555314519",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Example prompt: Independent bookstore in Kızılay, Ankara"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Example prompt: Independent bookstore in Kızılay, Ankara",
+    "autoAddMusic": false
+   }
+  }
+ }
+]

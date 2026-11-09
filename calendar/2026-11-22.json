@@ -1,446 +1,170 @@
 [
-{
-"slot": "2026-11-22T01:30",
-"date": "2026-11-22T01:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-22-marketing-agencies-pain-58",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T01:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Your case studies live in a slide deck nobody can find from your site.\n\nThe fix: Case study cards on the homepage. Each card gets one image and three short lines, with the full deck one click away.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#marketingagency #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-marketing-agencies-pain-58/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-marketing-agencies-pain-58/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1369509361952542",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Marketing agencies: case studies off-site"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Marketing agencies: case studies off-site",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-22T04:30",
-"date": "2026-11-22T04:30:00+03:00",
-"kind": "tip",
-"folder": "2026-11-22-tip-18",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T04:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "You answer the same six questions by phone every single day.\n\nPut the six questions on the site. Write them exactly as customers ask, with short honest answers. Add more as they come.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-tip-18/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-tip-18/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1941675846329817",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Small business website tip: FAQs"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Small business website tip: FAQs",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-22T07:30",
-"date": "2026-11-22T07:30:00+03:00",
-"kind": "checklist",
-"folder": "2026-11-22-designers-checklist",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T07:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Your portfolio sits on a platform beside everyone else's. Clients can't tell you apart.\n\nWhat a designer website needs:\n1. Type that stays out of the way\n2. Eight projects, not eighty\n3. Availability and a rate band\n4. Your email, written out\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#designportfolio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-checklist/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-checklist/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-checklist/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-checklist/04.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-checklist/05.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-checklist/06.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website checklist for designers",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-22T10:30",
-"date": "2026-11-22T10:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-22-designers-pain-59",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T10:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "You spent another weekend redesigning your portfolio instead of billing.\n\nThe fix: Ship it, then do client work. Eight projects, one paragraph each, publish. Revisit in six months, not six days.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#designportfolio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-pain-59/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-designers-pain-59/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "957044555314519",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Designers: weekend redesigns"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Designers: weekend redesigns",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-22T13:30",
-"date": "2026-11-22T13:30:00+03:00",
-"kind": "prompt",
-"folder": "2026-11-22-online-tutors-prompt",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T13:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A website prompt for an online tutor. Copy it and change the details:\n\n\"Online math tutor based in Toronto. Friendly, clear, green and white. Teaches high school calculus and exam prep over video, evenings only. Subjects, hourly rates, free intro lesson, how to book.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#onlinetutor #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-online-tutors-prompt/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-online-tutors-prompt/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1304451697253803",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Example prompt: Online math tutor based in Toronto"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Example prompt: Online math tutor based in Toronto",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-22T16:30",
-"date": "2026-11-22T16:30:00+03:00",
-"kind": "tip",
-"folder": "2026-11-22-tip-19",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T16:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "The business lives at a free subdomain with a string of numbers in it.\n\nYour own name, your own domain. Match the name on your sign. Short, spellable over the phone, no hyphens.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-tip-19/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-tip-19/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "473815599863496",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Small business website tip: domain name"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Small business website tip: domain name",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-22T19:30",
-"date": "2026-11-22T19:30:00+03:00",
-"kind": "checklist",
-"folder": "2026-11-22-bookstores-checklist",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T19:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Staff picks on Instagram, events on a chalkboard. Neither is on your own site.\n\nWhat an independent bookstore website needs:\n1. Staff picks with a voice\n2. Events on your own page\n3. Newsletter signup near the top\n4. Easy to read on the way to you\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#indiebookstore #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-bookstores-checklist/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-bookstores-checklist/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-bookstores-checklist/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-bookstores-checklist/04.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-bookstores-checklist/05.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-bookstores-checklist/06.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website checklist for independent bookstores",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-22T22:30",
-"date": "2026-11-22T22:30:00+03:00",
-"kind": "prompt",
-"folder": "2026-11-22-ceramics-shops-prompt",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-22T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A website prompt for a ceramic artist. Copy it and change the details:\n\n\"Ceramics studio in Porto. Warm, handmade, clay and off-white. Monthly drops of twelve pieces, glazed with local seaweed ash. Current drop, next drop date, studio story, contact.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#ceramics #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-ceramics-shops-prompt/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-22-ceramics-shops-prompt/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1369509361952542",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Example prompt: Ceramics studio in Porto"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Example prompt: Ceramics studio in Porto",
-"autoAddMusic": false
-}
-}
-}
+ {
+  "slot": "2026-11-22T10:30",
+  "date": "2026-11-22T10:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-15-event-planners-pain-33",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-22T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Every inquiry opens with 'how much for a wedding?' The site never says.\n\nThe fix: Starting prices by service. Put one starting price next to each service, so the first email is not about money.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#eventplanner #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-15-event-planners-pain-33/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-15-event-planners-pain-33/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "957044555314519",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Event planners: how much for a wedding"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Event planners: how much for a wedding",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-22T12:30",
+  "date": "2026-11-22T12:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-16-wedding-photographers-pain-34",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-22T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Photographer sites share one template. Couples can't tell who shot what.\n\nThe fix: Your name on your style. Open with one sentence on how you shoot and one photo only you would have taken.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#weddingphotographer #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-wedding-photographers-pain-34/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-wedding-photographers-pain-34/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1304451697253803",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Wedding photographers: template sites"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Wedding photographers: template sites",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-22T18:30",
+  "date": "2026-11-22T18:30:00+03:00",
+  "kind": "tip",
+  "folder": "2026-11-16-tip-11",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-22T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Some people will never call. Others will never fill in a form.\n\nOffer two ways to reach you. A number to call and a way to write, email or WhatsApp, on every page. Say reply times.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-tip-11/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-tip-11/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "473815599863496",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Small business website tip: contact options"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Small business website tip: contact options",
+    "autoAddMusic": false
+   }
+  }
+ }
 ]

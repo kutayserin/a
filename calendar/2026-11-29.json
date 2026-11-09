@@ -1,0 +1,165 @@
+[
+ {
+  "slot": "2026-11-29T10:30",
+  "date": "2026-11-29T10:30:00+03:00",
+  "kind": "rewrite",
+  "folder": "2026-11-18-rewrite-14",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-29T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Before: \"Helping students reach their full potential.\"\nAfter: \"Grade 11 and 12 math online, weekday evenings, first lesson free.\"\n\nPotential is abstract. A grade, a time slot and a free first lesson are concrete.\n\nExample for a math tutor in Vancouver. Which line does your site sound like?\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-rewrite-14/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-rewrite-14/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-rewrite-14/03.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website copy rewrite: Math tutor in Vancouver",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-11-29T12:30",
+  "date": "2026-11-29T12:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-18-lawyers-pain-43",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-29T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Intake is a contact form that says 'we'll be in touch.' When, exactly?\n\nThe fix: Say what happens after they write. Who reads it, how fast they'll hear back, and what the first consultation covers.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#lawfirmmarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-lawyers-pain-43/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-lawyers-pain-43/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1304451697253803",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Law firms: vague intake"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Law firms: vague intake",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-29T18:30",
+  "date": "2026-11-29T18:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-18-real-estate-agents-pain-44",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-29T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Buyers love neighborhood guides. You never have an evening to write one.\n\nThe fix: Start with one neighborhood. Write the area you sell most, the way you describe it to a buyer. Add one next month.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#realestatemarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-real-estate-agents-pain-44/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-18-real-estate-agents-pain-44/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "473815599863496",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Real estate agents: no time for neighborhood guides"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Real estate agents: no time for neighborhood guides",
+    "autoAddMusic": false
+   }
+  }
+ }
+]

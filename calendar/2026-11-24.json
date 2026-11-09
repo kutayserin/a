@@ -1,0 +1,165 @@
+[
+ {
+  "slot": "2026-11-24T10:30",
+  "date": "2026-11-24T10:30:00+03:00",
+  "kind": "rewrite",
+  "folder": "2026-11-16-rewrite-12",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-24T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Before: \"Where beauty meets style.\"\nAfter: \"Curly hair specialists in Cihangir, walk-ins welcome before noon.\"\n\nA specialty and a neighborhood do what a slogan can't: tell someone it's for them.\n\nExample for a hair salon in Istanbul. Which line does your site sound like?\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-rewrite-12/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-rewrite-12/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-rewrite-12/03.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website copy rewrite: Hair salon in Istanbul",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-11-24T12:30",
+  "date": "2026-11-24T12:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-16-online-tutors-pain-36",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-24T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Parents have to email you to learn your hourly rate.\n\nThe fix: Rates on the page. Show one lesson and a pack at a glance, with a separate price per subject if it differs.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#onlinetutor #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-online-tutors-pain-36/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-online-tutors-pain-36/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "957044555314519",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Online tutors: rate by email"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Online tutors: rate by email",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-24T18:30",
+  "date": "2026-11-24T18:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-17-marketing-agencies-pain-37",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-24T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Too many discovery calls are with companies that can't afford you.\n\nThe fix: Publish a starting point. 'Retainers start at' and a number. Add the three questions you always ask first.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#marketingagency #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-marketing-agencies-pain-37/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-marketing-agencies-pain-37/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1304451697253803",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Marketing agencies: unqualified leads"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Marketing agencies: unqualified leads",
+    "autoAddMusic": false
+   }
+  }
+ }
+]

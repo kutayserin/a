@@ -1,387 +1,165 @@
 [
-{
-"slot": "2026-11-16T01:30",
-"date": "2026-11-16T01:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-16-wedding-photographers-pain-34",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T01:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Photographer sites share one template. Couples can't tell who shot what.\n\nThe fix: Your name on your style. Open with one sentence on how you shoot and one photo only you would have taken.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#weddingphotographer #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-wedding-photographers-pain-34/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-wedding-photographers-pain-34/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1304451697253803",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Wedding photographers: template sites"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Wedding photographers: template sites",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-16T04:30",
-"date": "2026-11-16T04:30:00+03:00",
-"kind": "tip",
-"folder": "2026-11-16-tip-11",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T04:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Some people will never call. Others will never fill in a form.\n\nOffer two ways to reach you. A number to call and a way to write, email or WhatsApp, on every page. Say reply times.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-tip-11/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-tip-11/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "473815599863496",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Small business website tip: contact options"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Small business website tip: contact options",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-16T07:30",
-"date": "2026-11-16T07:30:00+03:00",
-"kind": "checklist",
-"folder": "2026-11-16-yoga-studios-checklist",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T07:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A new student wants to know what's on tomorrow at 7am. Your website should know too.\n\nWhat a yoga studio website needs:\n1. The schedule on the homepage\n2. Drop-in prices stated plainly\n3. Teacher bios in their own words\n4. A clear offer for the first class\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#yogastudio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/04.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/05.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/06.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website checklist for yoga studios",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-16T10:30",
-"date": "2026-11-16T10:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-16-gyms-and-fitness-studios-pain-35",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T10:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "The trainers have followers. The website has a stock kettlebell photo.\n\nThe fix: A trainer grid with real names. Give each one a photo, a specialty and a class list, then ask them to share the page.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#gymowner #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-gyms-and-fitness-studios-pain-35/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-gyms-and-fitness-studios-pain-35/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1369509361952542",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Gyms: invisible trainers"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Gyms: invisible trainers",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-16T13:30",
-"date": "2026-11-16T13:30:00+03:00",
-"kind": "prompt",
-"folder": "2026-11-16-coaches-prompt",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T13:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A website prompt for a coach. Copy it and change the details:\n\n\"Leadership coach in Amsterdam. Minimal, confident, charcoal and white. Works with engineers who just became managers. Approach, packages with prices, testimonials, contact.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#coachingbusiness #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-coaches-prompt/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-coaches-prompt/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1941675846329817",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Example prompt: Leadership coach in Amsterdam"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Example prompt: Leadership coach in Amsterdam",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-16T16:30",
-"date": "2026-11-16T16:30:00+03:00",
-"kind": "rewrite",
-"folder": "2026-11-16-rewrite-12",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T16:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Before: \"Where beauty meets style.\"\nAfter: \"Curly hair specialists in Cihangir, walk-ins welcome before noon.\"\n\nA specialty and a neighborhood do what a slogan can't: tell someone it's for them.\n\nExample for a hair salon in Istanbul. Which line does your site sound like?\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-rewrite-12/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-rewrite-12/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-rewrite-12/03.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website copy rewrite: Hair salon in Istanbul",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-16T22:30",
-"date": "2026-11-16T22:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-16-online-tutors-pain-36",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-16T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Parents have to email you to learn your hourly rate.\n\nThe fix: Rates on the page. Show one lesson and a pack at a glance, with a separate price per subject if it differs.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#onlinetutor #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-online-tutors-pain-36/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-online-tutors-pain-36/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "957044555314519",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Online tutors: rate by email"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Online tutors: rate by email",
-"autoAddMusic": false
-}
-}
-}
+ {
+  "slot": "2026-11-16T10:30",
+  "date": "2026-11-16T10:30:00+03:00",
+  "kind": "prompt",
+  "folder": "2026-11-13-florists-prompt",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-16T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "A website prompt for a florist. Copy it and change the details:\n\n\"Flower shop in Nişantaşı, Istanbul. Soft, romantic, blush and sage. Same-day delivery on the European side for orders before 2pm. Weekly bouquets, subscriptions, delivery areas, WhatsApp.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#floristlife #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-florists-prompt/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-florists-prompt/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "473815599863496",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Example prompt: Flower shop in Nişantaşı, Istanbul"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Example prompt: Flower shop in Nişantaşı, Istanbul",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-16T12:30",
+  "date": "2026-11-16T12:30:00+03:00",
+  "kind": "rewrite",
+  "folder": "2026-11-13-rewrite-09",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-16T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Before: \"Capturing your special moments forever.\"\nAfter: \"Documentary wedding photos in Porto and the Douro, no posed lineups.\"\n\nIt says how you shoot and where, so couples who want that style know they've found it.\n\nExample for a wedding photographer in Porto. Which line does your site sound like?\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-rewrite-09/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-rewrite-09/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-rewrite-09/03.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website copy rewrite: Wedding photographer in Porto",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-11-16T18:30",
+  "date": "2026-11-16T18:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-13-real-estate-agents-pain-25",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-16T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Your listings live on a portal, beside every rival agent in town.\n\nThe fix: Your face next to every listing. On your own page, each listing sits beside your name and your phone number.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#realestatemarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-real-estate-agents-pain-25/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-real-estate-agents-pain-25/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1369509361952542",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Real estate agents: invisible on portals"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Real estate agents: invisible on portals",
+    "autoAddMusic": false
+   }
+  }
+ }
 ]

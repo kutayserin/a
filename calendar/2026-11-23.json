@@ -1,168 +1,168 @@
 [
-{
-"slot": "2026-11-23T01:30",
-"date": "2026-11-23T01:30:00+03:00",
-"kind": "tip",
-"folder": "2026-11-23-tip-20",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-23T01:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Someone fills in your form. Then: silence. For how long?\n\nSay what happens next. 'We reply within one working day, usually from Anna.' Set the expectation, then meet it.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-tip-20/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-tip-20/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1941675846329817",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Small business website tip: what happens after contact"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Small business website tip: what happens after contact",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-23T04:30",
-"date": "2026-11-23T04:30:00+03:00",
-"kind": "checklist",
-"folder": "2026-11-23-ceramics-shops-checklist",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-23T04:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "You sell in small drops. A generic shop template expects a warehouse.\n\nWhat a ceramic artist website needs:\n1. A page for the current drop\n2. Your story before the pots\n3. No marketplace in the middle\n4. A product grid that works on a phone\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#ceramics #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/04.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/05.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-ceramics-shops-checklist/06.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website checklist for ceramic artists",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-23T07:30",
-"date": "2026-11-23T07:30:00+03:00",
-"kind": "prompt",
-"folder": "2026-11-23-bookstores-prompt",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-23T07:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A website prompt for an independent bookstore. Copy it and change the details:\n\n\"Independent bookstore in Kızılay, Ankara. Cozy, wooden, dark green. Half the shelves are poetry, the rest are the owner's picks. Staff picks, events, hours and map.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#indiebookstore #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-bookstores-prompt/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-23-bookstores-prompt/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "957044555314519",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Example prompt: Independent bookstore in Kızılay, Ankara"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Example prompt: Independent bookstore in Kızılay, Ankara",
-"autoAddMusic": false
-}
-}
-}
+ {
+  "slot": "2026-11-23T10:30",
+  "date": "2026-11-23T10:30:00+03:00",
+  "kind": "checklist",
+  "folder": "2026-11-16-yoga-studios-checklist",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-23T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "A new student wants to know what's on tomorrow at 7am. Your website should know too.\n\nWhat a yoga studio website needs:\n1. The schedule on the homepage\n2. Drop-in prices stated plainly\n3. Teacher bios in their own words\n4. A clear offer for the first class\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#yogastudio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/03.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/04.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/05.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-yoga-studios-checklist/06.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website checklist for yoga studios",
+    "autoAddMusic": true
+   }
+  }
+ },
+ {
+  "slot": "2026-11-23T12:30",
+  "date": "2026-11-23T12:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-16-gyms-and-fitness-studios-pain-35",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-23T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "The trainers have followers. The website has a stock kettlebell photo.\n\nThe fix: A trainer grid with real names. Give each one a photo, a specialty and a class list, then ask them to share the page.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#gymowner #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-gyms-and-fitness-studios-pain-35/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-gyms-and-fitness-studios-pain-35/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1369509361952542",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Gyms: invisible trainers"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Gyms: invisible trainers",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-23T18:30",
+  "date": "2026-11-23T18:30:00+03:00",
+  "kind": "prompt",
+  "folder": "2026-11-16-coaches-prompt",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-23T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "A website prompt for a coach. Copy it and change the details:\n\n\"Leadership coach in Amsterdam. Minimal, confident, charcoal and white. Works with engineers who just became managers. Approach, packages with prices, testimonials, contact.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for when you update your site.\n\nDescribe your business in plain language and get a free preview in about 30 seconds, no sign-up. Pay only if you publish. Link in bio.\n\n#coachingbusiness #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-coaches-prompt/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-16-coaches-prompt/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1941675846329817",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Example prompt: Leadership coach in Amsterdam"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Example prompt: Leadership coach in Amsterdam",
+    "autoAddMusic": false
+   }
+  }
+ }
 ]

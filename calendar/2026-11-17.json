@@ -1,443 +1,168 @@
 [
-{
-"slot": "2026-11-17T01:30",
-"date": "2026-11-17T01:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-17-marketing-agencies-pain-37",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T01:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Too many discovery calls are with companies that can't afford you.\n\nThe fix: Publish a starting point. 'Retainers start at' and a number. Add the three questions you always ask first.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#marketingagency #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-marketing-agencies-pain-37/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-marketing-agencies-pain-37/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1304451697253803",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Marketing agencies: unqualified leads"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Marketing agencies: unqualified leads",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-17T04:30",
-"date": "2026-11-17T04:30:00+03:00",
-"kind": "tip",
-"folder": "2026-11-17-tip-12",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T04:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Nobody designs the footer, yet people check it to see if you're real.\n\nFooter: address, hours, legal name. Full address, phone, hours, legal business name, privacy page. Boring and essential.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-tip-12/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-tip-12/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "473815599863496",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Small business website tip: footer basics"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Small business website tip: footer basics",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-17T07:30",
-"date": "2026-11-17T07:30:00+03:00",
-"kind": "checklist",
-"folder": "2026-11-17-gyms-and-fitness-studios-checklist",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T07:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "The intro offer is why people join, and it sits three scrolls down under a stock barbell.\n\nWhat a gym website needs:\n1. Intro offer at the very top\n2. Class schedule on your own page\n3. Trainer bios with real names\n4. Membership tiers side by side\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#gymowner #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-gyms-and-fitness-studios-checklist/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-gyms-and-fitness-studios-checklist/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-gyms-and-fitness-studios-checklist/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-gyms-and-fitness-studios-checklist/04.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-gyms-and-fitness-studios-checklist/05.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-gyms-and-fitness-studios-checklist/06.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website checklist for gyms",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-17T10:30",
-"date": "2026-11-17T10:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-17-designers-pain-38",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T10:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Clients spot a template portfolio. From a designer, they expect more.\n\nThe fix: Make the frame disappear. One typeface, generous white space, your work at full width. The site shouldn't compete.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#designportfolio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-designers-pain-38/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-designers-pain-38/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1369509361952542",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Designers: template tell"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Designers: template tell",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-17T13:30",
-"date": "2026-11-17T13:30:00+03:00",
-"kind": "prompt",
-"folder": "2026-11-17-yoga-studios-prompt",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T13:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A website prompt for a yoga studio. Copy it and change the details:\n\n\"Yoga studio in Trastevere, Rome. Quiet, earthy, terracotta and cream. Classes in Italian and English, small groups of eight. Schedule, drop-in prices, teachers, first visit offer.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#yogastudio #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-yoga-studios-prompt/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-yoga-studios-prompt/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1941675846329817",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Example prompt: Yoga studio in Trastevere, Rome"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Example prompt: Yoga studio in Trastevere, Rome",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-17T16:30",
-"date": "2026-11-17T16:30:00+03:00",
-"kind": "rewrite",
-"folder": "2026-11-17-rewrite-13",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T16:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Before: \"Professional electrical services you can trust.\"\nAfter: \"Rewires and fuse boards in the West End of Glasgow, evening callouts.\"\n\nNaming the jobs and the area lets a worried homeowner match you to their problem.\n\nExample for an electrician in Glasgow. Which line does your site sound like?\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-rewrite-13/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-rewrite-13/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-rewrite-13/03.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website copy rewrite: Electrician in Glasgow",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-17T19:30",
-"date": "2026-11-17T19:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-17-bookstores-pain-39",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T19:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "The events calendar is a chalkboard by the till. Nobody online sees it.\n\nThe fix: Events on the website. List what's coming first, with the author and how to get a seat. Past events go below.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#indiebookstore #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-bookstores-pain-39/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-bookstores-pain-39/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "957044555314519",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Independent bookstores: events by word of mouth"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Independent bookstores: events by word of mouth",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-17T22:30",
-"date": "2026-11-17T22:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-17-ceramics-shops-pain-40",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-17T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "On a marketplace, your store looks like every other handmade store.\n\nThe fix: Lead with the studio. Open with your wheel, your kiln and your hands in clay. Products come second.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#ceramics #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-ceramics-shops-pain-40/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-17-ceramics-shops-pain-40/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1304451697253803",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Ceramic artists: generic store"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Ceramic artists: generic store",
-"autoAddMusic": false
-}
-}
-}
+ {
+  "slot": "2026-11-17T10:30",
+  "date": "2026-11-17T10:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-14-accountants-pain-26",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-17T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Intake calls start with questions you could have asked in advance.\n\nThe fix: Ask three questions up front. A short list on the contact page gets you the basics before you pick up the phone.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#accountingfirm #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-accountants-pain-26/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-accountants-pain-26/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1941675846329817",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Accountants: long intake calls"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Accountants: long intake calls",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-17T12:30",
+  "date": "2026-11-17T12:30:00+03:00",
+  "kind": "tip",
+  "folder": "2026-11-14-tip-09",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-17T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "'Contact us for a quote' makes the visitor do work you could have done.\n\nPublish a starting price. A 'from' price or a typical range gives people an idea of cost before they write.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-tip-09/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-tip-09/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "957044555314519",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Small business website tip: prices"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Small business website tip: prices",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-17T18:30",
+  "date": "2026-11-17T18:30:00+03:00",
+  "kind": "checklist",
+  "folder": "2026-11-14-coaches-checklist",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-17T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Prospects find you on LinkedIn, read three posts, then look for how to hire you. Nothing.\n\nWhat a coach website needs:\n1. Packages with honest prices\n2. A clear way to book a first call\n3. Your approach before your CV\n4. Testimonials with a name and city\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#coachingbusiness #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/01.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/02.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/03.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/04.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/05.jpg",
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/06.jpg"
+   ],
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Website checklist for coaches",
+    "autoAddMusic": true
+   }
+  }
+ }
 ]

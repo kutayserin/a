@@ -1,443 +1,170 @@
 [
-{
-"slot": "2026-11-14T01:30",
-"date": "2026-11-14T01:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-14-accountants-pain-26",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T01:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Intake calls start with questions you could have asked in advance.\n\nThe fix: Ask three questions up front. A short list on the contact page gets you the basics before you pick up the phone.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#accountingfirm #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-accountants-pain-26/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-accountants-pain-26/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1941675846329817",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Accountants: long intake calls"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Accountants: long intake calls",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-14T04:30",
-"date": "2026-11-14T04:30:00+03:00",
-"kind": "tip",
-"folder": "2026-11-14-tip-09",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T04:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "'Contact us for a quote' makes the visitor do work you could have done.\n\nPublish a starting price. A 'from' price or a typical range gives people an idea of cost before they write.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#smallbusinesswebsite #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-tip-09/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-tip-09/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "957044555314519",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Small business website tip: prices"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Small business website tip: prices",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-14T07:30",
-"date": "2026-11-14T07:30:00+03:00",
-"kind": "checklist",
-"folder": "2026-11-14-coaches-checklist",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T07:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Prospects find you on LinkedIn, read three posts, then look for how to hire you. Nothing.\n\nWhat a coach website needs:\n1. Packages with honest prices\n2. A clear way to book a first call\n3. Your approach before your CV\n4. Testimonials with a name and city\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#coachingbusiness #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/03.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/04.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/05.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-coaches-checklist/06.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website checklist for coaches",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-14T10:30",
-"date": "2026-11-14T10:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-14-personal-trainers-pain-27",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T10:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Remote plan or gym session? Your site shows one price for both.\n\nThe fix: Two columns, two prices. Remote plan on the left, gym sessions on the right, what's included under each.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#personaltrainer #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-personal-trainers-pain-27/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-personal-trainers-pain-27/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1304451697253803",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Personal trainers: one price for two services"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Personal trainers: one price for two services",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-14T13:30",
-"date": "2026-11-14T13:30:00+03:00",
-"kind": "prompt",
-"folder": "2026-11-14-wedding-photographers-prompt",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T13:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "A website prompt for a wedding photographer. Copy it and change the details:\n\n\"Wedding photographer in Bodrum, Turkey. Airy, candid, warm film tones. Shoots outdoor weddings on the coast, never a posed group shot. Selected weddings, starting price, style note, contact.\"\n\nWho and where, the mood, what's different, what to show. Write it in your own language: the copy follows it.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#weddingphotographer #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-wedding-photographers-prompt/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-wedding-photographers-prompt/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "473815599863496",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Example prompt: Wedding photographer in Bodrum, Turkey"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Example prompt: Wedding photographer in Bodrum, Turkey",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-14T16:30",
-"date": "2026-11-14T16:30:00+03:00",
-"kind": "rewrite",
-"folder": "2026-11-14-rewrite-10",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T16:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Before: \"Transform your body and your life.\"\nAfter: \"Strength coaching in East Austin for beginners over forty, 6am starts.\"\n\nWho it's for and when it happens matter more than a promise about someone's life.\n\nExample for a personal trainer in Austin. Which line does your site sound like?\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#websitecopy #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-rewrite-10/01.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-rewrite-10/02.jpg",
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-rewrite-10/03.jpg"
-],
-"instagramData": {
-"type": "POST"
-},
-"facebookData": {
-"type": "POST"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Website copy rewrite: Personal trainer in Austin",
-"autoAddMusic": true
-}
-}
-},
-{
-"slot": "2026-11-14T19:30",
-"date": "2026-11-14T19:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-14-florists-pain-28",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T19:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Customers message you just to ask whether you deliver to their street.\n\nThe fix: A delivery area list. Name the neighborhoods and the cutoff time for each. Add a note for anywhere else.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#floristlife #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-florists-pain-28/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-florists-pain-28/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1369509361952542",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Florists: delivery area questions"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Florists: delivery area questions",
-"autoAddMusic": false
-}
-}
-},
-{
-"slot": "2026-11-14T22:30",
-"date": "2026-11-14T22:30:00+03:00",
-"kind": "pain",
-"folder": "2026-11-14-pizzerias-pain-29",
-"info": {
-"autoPublish": true,
-"descendants": [],
-"draft": false,
-"firstCommentText": "",
-"hasNotReadNotes": false,
-"mediaAltText": [],
-"providers": [
-{
-"network": "instagram"
-},
-{
-"network": "tiktok"
-},
-{
-"network": "facebook"
-}
-],
-"publicationDate": {
-"dateTime": "2026-11-14T22:30:00",
-"timezone": "Europe/Istanbul"
-},
-"shortener": false,
-"smartLinkData": {
-"ids": []
-},
-"text": "Your number is on the napkins and the box. Not at the top of your site.\n\nThe fix: Tap-to-call in the header. One phone number, top of every page, that dials when tapped on a phone.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#pizzeria #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
-"media": [
-"https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-pizzerias-pain-29/reel.mp4"
-],
-"videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-14-pizzerias-pain-29/cover.jpg",
-"instagramData": {
-"type": "REEL",
-"showReelOnFeed": true,
-"audioConfiguration": {
-"audioId": "1941675846329817",
-"videoVolume": 0
-}
-},
-"facebookData": {
-"type": "REEL",
-"title": "Pizzerias: phone number buried"
-},
-"tiktokData": {
-"privacyOption": "PUBLIC_TO_EVERYONE",
-"commercialContentOwnBrand": true,
-"title": "Pizzerias: phone number buried",
-"autoAddMusic": false
-}
-}
-}
+ {
+  "slot": "2026-11-14T10:30",
+  "date": "2026-11-14T10:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-12-hair-salons-pain-21",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-14T10:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "Each stylist has a following. Your website doesn't mention one name.\n\nThe fix: A page per stylist. Photo, specialties and how to book with them by name, so followers can find you.\n\n📌 Send this to someone who runs a small business.\n\nTry it with one sentence: free preview, no sign-up, about 30 seconds. Pay only if you publish. Link in bio.\n\n#hairsalon #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-hair-salons-pain-21/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-hair-salons-pain-21/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "473815599863496",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Hair salons: stylists uncredited"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Hair salons: stylists uncredited",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-14T12:30",
+  "date": "2026-11-14T12:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-12-dental-clinics-pain-22",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-14T12:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "You've answered 'do you take my insurance?' a hundred times by phone.\n\nThe fix: An insurance section, with a list. Name the insurers you work with and what to bring. Add 'ask us' for anything else.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#dentalmarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-dental-clinics-pain-22/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-12-dental-clinics-pain-22/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1369509361952542",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Dental clinics: insurance questions"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Dental clinics: insurance questions",
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "slot": "2026-11-14T18:30",
+  "date": "2026-11-14T18:30:00+03:00",
+  "kind": "pain",
+  "folder": "2026-11-13-restaurants-pain-23",
+  "info": {
+   "autoPublish": true,
+   "descendants": [],
+   "draft": false,
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "tiktok"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-14T18:30:00",
+    "timezone": "Europe/Istanbul"
+   },
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "text": "To find your hours, diners scroll through other people's reviews.\n\nThe fix: Hours on the first screen. Today's hours, last orders, and the day you're closed. All of it above the photos.\n\n📌 Save this for later.\n\nFree preview, no sign-up, about 30 seconds. You only pay if you publish. Link in bio.\n\n#restaurantmarketing #smallbusiness #websitedesign #smallbusinesstips #websitebuilder",
+   "media": [
+    "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-restaurants-pain-23/reel.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/kutayserin/a/website-automation-social/posts/2026-11-13-restaurants-pain-23/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true,
+    "audioConfiguration": {
+     "audioId": "1941675846329817",
+     "videoVolume": 0
+    }
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Restaurants: hidden hours"
+   },
+   "tiktokData": {
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "commercialContentOwnBrand": true,
+    "title": "Restaurants: hidden hours",
+    "autoAddMusic": false
+   }
+  }
+ }
 ]
